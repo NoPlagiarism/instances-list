@@ -1,10 +1,8 @@
+import json
 import os
 import re
-import json
 import urllib.request
 from dataclasses import dataclass
-# from httpx import get
-
 
 HOME_PATH = os.path.dirname(os.path.dirname(__file__))
 
@@ -12,7 +10,6 @@ HOME_PATH = os.path.dirname(os.path.dirname(__file__))
 def get_str_from_url(url):
     with urllib.request.urlopen(url) as res:
         return res.read().decode(res.headers.get_content_charset("utf-8"))
-    # return get(url).text
 
 
 @dataclass
