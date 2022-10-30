@@ -3,6 +3,7 @@ name: Parse
 on:
   schedule: 
     - cron: '00 12 */7 * *'
+  workflow_dispatch:
 
 
 jobs:
