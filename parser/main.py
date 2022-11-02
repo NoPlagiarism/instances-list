@@ -137,17 +137,17 @@ class JustFromUrl(BaseDomainsGettter):
 
 INSTANCES = [
     # ProxiTok
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/proxitok/instances", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>(?:\w|\.)+)\]\((?P<url>https?:\/\/(?:\w|\.)+)\)\s+(?:\(Official\)\s+)?\|\s+(?P<cloudflare>Yes|No)\s+\|\s+(?P<flagemoji>\S+)\s+\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/proxitok/onion", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>(?:\w|\.)+\.onion)\]\((?P<url>https?:\/\/(?:\w|\.)+)\)\s+\|"),
+    RegexFromUrlInstance(relative_filepath_without_ext="instances/tiktok/proxitok/instances", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>(?:\w|\.)+)\]\((?P<url>https?:\/\/(?:\w|\.)+)\)\s+(?:\(Official\)\s+)?\|\s+(?P<cloudflare>Yes|No)\s+\|\s+(?P<flagemoji>\S+)\s+\|"),
+    RegexFromUrlInstance(relative_filepath_without_ext="instances/tiktok/proxitok/onion", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>(?:\w|\.)+\.onion)\]\((?P<url>https?:\/\/(?:\w|\.)+)\)\s+\|"),
     # SimplyTranslate
-    JustFromUrlInstance(relative_filepath_without_ext="instances/simplytranslate/instance", url="https://simple-web.org/instances/simplytranslate"),
-    JustFromUrlInstance(relative_filepath_without_ext="instances/simplytranslate/onion", url="https://simple-web.org/instances/simplytranslate_onion"),
-    JustFromUrlInstance(relative_filepath_without_ext="instances/simplytranslate/i2p", url="https://simple-web.org/instances/simplytranslate_i2p"),
-    JustFromUrlInstance(relative_filepath_without_ext="instances/simplytranslate/loki", url="https://simple-web.org/instances/simplytranslate_loki"),
+    JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/instance", url="https://simple-web.org/instances/simplytranslate"),
+    JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/onion", url="https://simple-web.org/instances/simplytranslate_onion"),
+    JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/i2p", url="https://simple-web.org/instances/simplytranslate_i2p"),
+    JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/loki", url="https://simple-web.org/instances/simplytranslate_loki"),
     # Whoogle
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/whoogle/instances", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|\s?(?P<cloudflare>(?:✅\s|\s))\|$"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/whoogle/onion", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\.onion\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/whoogle/i2p", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\.i2p\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
+    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/whoogle/instances", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|\s?(?P<cloudflare>(?:✅\s|\s))\|$"),
+    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/whoogle/onion", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\.onion\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
+    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/whoogle/i2p", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\.i2p\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
     # 
 ]
 
