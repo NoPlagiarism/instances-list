@@ -1,9 +1,8 @@
 import json
 import os
 import re
-import urllib.request
 from dataclasses import dataclass
-from typing import Optional
+from typing import Optional, Callable
 
 import httpx
 
@@ -136,6 +135,27 @@ class JustFromUrl(BaseDomainsGettter):
         domain_list = raw.strip("\n").split("\n")
         domain_list.sort()
         return domain_list
+
+
+@dataclass
+class JSONUsingCallableInstance(BaseInstance):
+    url: str
+    json_handle: Callable
+    
+    def from_instance(self):
+        return JSONUsingCallable(self)
+
+
+class JSONUsingCallable(BaseDomainsGettter):
+    def __init__(self, instance: JSONUsingCallableInstance) -> None:
+        self.inst = instance
+        super().__init__()
+    
+    def get_all_domains(self):
+        resp = httpx.get(self.inst.url)
+        raw = resp.json()
+        result = self.inst.json_handle(raw)
+        return result
 
 
 INSTANCES = [
