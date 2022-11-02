@@ -102,7 +102,7 @@ class RegexCroppedFromUrlInstance(RegexFromUrlInstance):
     
     def get_cropped(self, text):
         crop_from_i = text.index(self.crop_from)+len(self.crop_from) if self.crop_from is not None else 0
-        crop_to_i = text.index(self.crop_to) if self.crop_to is not None else len(text)
+        crop_to_i = text[crop_from_i:].index(self.crop_to) + crop_from_i if self.crop_to is not None else len(text)
         return text[crop_from_i:crop_to_i]
     
     def from_instance(self):
