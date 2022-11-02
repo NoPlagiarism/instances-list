@@ -117,6 +117,7 @@ class RegexCroppedFromUrl(RegexFromUrl):
         text = self.inst.get_cropped(text)
         return super().get_all_domains_from_text(text)
 
+
 @dataclass
 class JustFromUrlInstance(BaseInstance):
     url: str
@@ -195,7 +196,11 @@ INSTANCES = [
     JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/invidious/i2p", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "i2p", raw))))),
     # HyperPipe (yt music)
     JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/hyperpipe/instances", url="https://raw.codeberg.page/Hyperpipe/pages/api/frontend.json", json_handle=lambda raw: tuple(filter(lambda url: not any((".onion" in url, ".i2p" in url)), tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw))))),
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/hyperpipe/onion", url="https://raw.codeberg.page/Hyperpipe/pages/api/frontend.json", json_handle=lambda raw: tuple(filter(lambda url: ".onion" in url, tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw)))))
+    JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/hyperpipe/onion", url="https://raw.codeberg.page/Hyperpipe/pages/api/frontend.json", json_handle=lambda raw: tuple(filter(lambda url: ".onion" in url, tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw))))),
+    # WikiLess
+    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/wikipedia/wikiless/instances", crop_from="## Instances", crop_to="## TODO", regex_group="domain", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern="\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
+    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/wikipedia/wikiless/onion", crop_from="## Instances", crop_to="## TODO", regex_group="onion", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern="\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
+    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/wikipedia/wikiless/i2p", crop_from="## Instances", crop_to="## TODO", regex_group="i2p", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern="\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)")
 ]
 
 
