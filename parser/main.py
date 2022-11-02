@@ -3,6 +3,7 @@ import os
 import re
 import urllib.request
 from dataclasses import dataclass
+from typing import Optional
 
 HOME_PATH = os.path.dirname(os.path.dirname(__file__))
 
@@ -97,6 +98,27 @@ class RegexFromUrl(BaseDomainsGettter):
 
 
 @dataclass
+class RegexCroppedFromUrlInstance(RegexFromUrlInstance):
+    crop_from: Optional[str]
+    crop_to: Optional[str]
+    
+    def get_cropped(self, text):
+        crop_from_i = text.index(self.crop_from)+len(self.crop_from) if self.crop_from is not None else 0
+        crop_to_i = text.index(self.crop_to) if self.crop_to is not None else 0
+    
+    def from_instance(self):
+        return RegexCroppedFromUrl(self)
+
+
+class RegexCroppedFromUrl(RegexFromUrl):
+    def __init__(self, instance: RegexCroppedFromUrlInstance) -> None:
+        super().__init__(instance)
+    
+    def get_all_domains_from_text(self, text):
+        text = self.inst.get_cropped(text)
+        return super().get_all_domains_from_text(self, text)
+
+@dataclass
 class JustFromUrlInstance(BaseInstance):
     url: str
     
@@ -128,7 +150,8 @@ INSTANCES = [
     # Whoogle
     RegexFromUrlInstance(relative_filepath_without_ext="instances/whoogle/instances", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|\s?(?P<cloudflare>(?:✅\s|\s))\|$"),
     RegexFromUrlInstance(relative_filepath_without_ext="instances/whoogle/onion", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\.onion\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/whoogle/i2p", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\.i2p\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|")
+    RegexFromUrlInstance(relative_filepath_without_ext="instances/whoogle/i2p", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>(?:\w|\.)+)\.i2p\]\((?P<url>https?:\/\/(?:\w|\.)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
+    # 
 ]
 
 
