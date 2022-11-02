@@ -5,12 +5,9 @@ import urllib.request
 from dataclasses import dataclass
 from typing import Optional
 
+import httpx
+
 HOME_PATH = os.path.dirname(os.path.dirname(__file__))
-
-
-def get_str_from_url(url):
-    with urllib.request.urlopen(url) as res:
-        return res.read().decode(res.headers.get_content_charset("utf-8"))
 
 
 @dataclass
@@ -92,7 +89,7 @@ class RegexFromUrl(BaseDomainsGettter):
         return sorted(domain_list)
     
     def get_all_domains(self):
-        text = get_str_from_url(self.inst.url)
+        text = httpx.get(self.inst.url).text
         domain_list = self.get_all_domains_from_text(text)
         return domain_list
 
@@ -132,7 +129,7 @@ class JustFromUrl(BaseDomainsGettter):
         super().__init__()
     
     def get_all_domains(self):
-        raw = get_str_from_url(self.inst.url)
+        raw = httpx.get(self.inst.url).text
         domain_list = raw.strip("\n").split("\n")
         domain_list.sort()
         return domain_list
