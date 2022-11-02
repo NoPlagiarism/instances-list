@@ -86,7 +86,8 @@ class RegexFromUrl(BaseDomainsGettter):
             if not res:
                 break
             match, index_from = res
-            domain_list.append(match.groupdict()[self.inst.regex_group])
+            if (match_group := match.groupdict().get(self.inst.regex_group)) is not None:
+                domain_list.append(match_group)
         return sorted(domain_list)
     
     def get_all_domains(self):
