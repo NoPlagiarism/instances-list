@@ -2,7 +2,7 @@ import json
 import os
 import re
 from dataclasses import dataclass
-from typing import Optional, Callable
+from typing import Callable, Optional
 
 import httpx
 
