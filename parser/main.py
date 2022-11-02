@@ -60,6 +60,7 @@ class BaseDomainsGettter:
 class RegexFromUrlInstance(BaseInstance):
     url: str
     regex_pattern: str  # must be <domain>
+    regex_group: str = "domain"
     
     def from_instance(self):
         return RegexFromUrl(self)
@@ -85,7 +86,7 @@ class RegexFromUrl(BaseDomainsGettter):
             if not res:
                 break
             match, index_from = res
-            domain_list.append(match.groupdict()["domain"])
+            domain_list.append(match.groupdict()[self.inst.regex_group])
         return sorted(domain_list)
     
     def get_all_domains(self):
@@ -95,9 +96,12 @@ class RegexFromUrl(BaseDomainsGettter):
 
 
 @dataclass
-class RegexCroppedFromUrlInstance(RegexFromUrlInstance):
+class RegexCroppedFromUrlInstance(BaseInstance):
+    url: str
+    regex_pattern: str  # must be <domain>
     crop_from: Optional[str]
     crop_to: Optional[str]
+    regex_group: str = "domain"
     
     def get_cropped(self, text):
         crop_from_i = text.index(self.crop_from)+len(self.crop_from) if self.crop_from is not None else 0
