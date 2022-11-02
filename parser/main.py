@@ -97,16 +97,14 @@ class RegexFromUrl(BaseDomainsGettter):
 
 
 @dataclass
-class RegexCroppedFromUrlInstance(BaseInstance):
-    url: str
-    regex_pattern: str  # must be <domain>
-    crop_from: Optional[str]
-    crop_to: Optional[str]
-    regex_group: str = "domain"
+class RegexCroppedFromUrlInstance(RegexFromUrlInstance):
+    crop_from: Optional[str] = None
+    crop_to: Optional[str] = None
     
     def get_cropped(self, text):
         crop_from_i = text.index(self.crop_from)+len(self.crop_from) if self.crop_from is not None else 0
-        crop_to_i = text.index(self.crop_to) if self.crop_to is not None else 0
+        crop_to_i = text.index(self.crop_to) if self.crop_to is not None else len(text)
+        return text[crop_from_i:crop_to_i]
     
     def from_instance(self):
         return RegexCroppedFromUrl(self)
@@ -118,7 +116,7 @@ class RegexCroppedFromUrl(RegexFromUrl):
     
     def get_all_domains_from_text(self, text):
         text = self.inst.get_cropped(text)
-        return super().get_all_domains_from_text(self, text)
+        return super().get_all_domains_from_text(text)
 
 @dataclass
 class JustFromUrlInstance(BaseInstance):
@@ -159,7 +157,7 @@ INSTANCES = [
     RegexFromUrlInstance(relative_filepath_without_ext="instances/search/librex/i2p", url="https://raw.githubusercontent.com/hnhx/librex/main/README.md", regex_group="i2p", regex_pattern=r"\|\s+\[(?P<clearnet>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?:❌|(?:\[✅\]\((?P<onion>http:(?:\w|\.|\/)+)\)))\s+\|\s+(?:❌|(?:\[✅\]\((?P<i2p>http:(?:\w|\.|\/)+)\)))\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+(?:\(OFFICIAL\s+INSTANCE\)\s+)?\|"),
     # Rimgo
     RegexFromUrlInstance(relative_filepath_without_ext="instances/imgur/rimgo/instances", url="https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)+(?:\s+\(official\))?\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<provider>(?:[^\|])+)\s*\|\s+(?P<data>(?:[^\|])+)\s+\|(?P<notes>(?:[^\|])+)\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/imgur/rimgo/onion", url="https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)+(?:\s+\(official\))?\s+\|\s+(?P<data>(?:[^\|])+)\s+\|(?P<notes>(?:[^\|])+)\|")
+    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/imgur/rimgo/onion", url="https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/README.md", crop_from="### Tor", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)+(?:\s+\(official\))?\s+\|\s+(?P<data>(?:[^\|])+)\s+\|(?P<notes>(?:[^\|])+)\|")
 ]
 
 
