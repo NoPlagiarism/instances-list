@@ -47,7 +47,7 @@ class BaseDomainsGettter:
     
     def update(self):
         self.inst.makedirs()
-        domains = self.get_all_domains()
+        domains = list(sorted(self.get_all_domains()))
         if self.check_if_update(domains):
             self.inst.save_as_json(domains)
             self.inst.save_list_as_txt(domains)
@@ -87,7 +87,7 @@ class RegexFromUrl(BaseDomainsGettter):
             match, index_from = res
             if (match_group := match.groupdict().get(self.inst.regex_group)) is not None:
                 domain_list.append(match_group)
-        return sorted(domain_list)
+        return domain_list
     
     def get_all_domains(self):
         text = httpx.get(self.inst.url).text
@@ -134,7 +134,6 @@ class JustFromUrl(BaseDomainsGettter):
     def get_all_domains(self):
         raw = httpx.get(self.inst.url).text
         domain_list = raw.strip("\n").split("\n")
-        domain_list.sort()
         return domain_list
 
 
