@@ -163,6 +163,7 @@ INSTANCES = [
     # ProxiTok
     RegexFromUrlInstance(relative_filepath_without_ext="instances/tiktok/proxitok/instances", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+(?:\(Official\)\s+)?\|\s+(?P<cloudflare>Yes|No)\s+\|\s+(?P<flagemoji>\S+)\s+\|"),
     RegexFromUrlInstance(relative_filepath_without_ext="instances/tiktok/proxitok/onion", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.onion)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+\|"),
+    RegexFromUrlInstance(relative_filepath_without_ext="instances/tiktok/proxitok/i2p", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.i2p)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+\|"),
     # SimplyTranslate
     JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/instances", url="https://simple-web.org/instances/simplytranslate"),
     JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/onion", url="https://simple-web.org/instances/simplytranslate_onion"),
