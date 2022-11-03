@@ -1,10 +1,10 @@
 lbry.bcow.xyz
-odysee.076.ne.jp
-librarian.pussthecat.org
+lbry.mywire.org
 lbry.projectsegfau.lt
-librarian.esmailelbob.xyz
-lbry.vern.cc
 lbry.slipfox.xyz
 lbry.sytes.net
+lbry.vern.cc
 lbry.webhop.me
-lbry.mywire.org
+librarian.esmailelbob.xyz
+librarian.pussthecat.org
+odysee.076.ne.jp
