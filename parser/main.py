@@ -1,15 +1,18 @@
 import json
 import os
 import re
+import time
 from dataclasses import dataclass
 from typing import Callable, Iterable, Optional
 from urllib.parse import urlparse
+from loguru import logger
 
 import httpx
 
 HOME_PATH = os.path.dirname(os.path.dirname(__file__))
 ENABLE_PATH_IN_DOMAINS = False
 IGNORE_DOMAINS_WITH_PATHS = True
+SLEEP_TIMEOUT_PER_GROUP = 3
 
 
 @dataclass
@@ -275,9 +278,11 @@ INSTANCE_GROUPS = [
 ]
 
 
+@logger.catch()
 def main():
     for instance in INSTANCE_GROUPS:
         instance.from_instance().update()
+        time.sleep(SLEEP_TIMEOUT_PER_GROUP)
 
 
 if __name__ == "__main__":
