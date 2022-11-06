@@ -278,7 +278,7 @@ INSTANCE_GROUPS = [
 ]
 
 
-@logger.catch()
+@logger.catch(reraise=True)
 def main():
     for instance in INSTANCE_GROUPS:
         instance.from_instance().update()
