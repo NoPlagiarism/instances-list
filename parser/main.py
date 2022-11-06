@@ -245,8 +245,8 @@ INSTANCE_GROUPS = [
                                   RegexFromUrlInstance(relative_filepath_without_ext="onion", url="https://codeberg.org/teddit/teddit/raw/branch/main/README.md", regex_group="onion", regex_pattern=r"\|\s+(?:\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<onion>[\w\-\.\/\d]+\.onion)\/?\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<i2p>[\w\-\.\/\d]+\.i2p)\/?\)\s+)?\|\s+(?P<notes>(?:[^\|])+)?\|"),
                                   RegexFromUrlInstance(relative_filepath_without_ext="i2p", url="https://codeberg.org/teddit/teddit/raw/branch/main/README.md", regex_group="i2p", regex_pattern=r"\|\s+(?:\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<onion>[\w\-\.\/\d]+\.onion)\/?\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<i2p>[\w\-\.\/\d]+\.i2p)\/?\)\s+)?\|\s+(?P<notes>(?:[^\|])+)?\|"))),
     InstancesGroupData(name="libreddit", home_url="https://github.com/libreddit/libreddit#readme", relative_filepath_without_ext="instances/reddit/libreddit",
-                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://raw.githubusercontent.com/libreddit/libreddit/master/README.md", regex_pattern=r"\|\s+\[(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\]\((?P<url>https?:\/\/[\w\-\.\/\d]+)\)\s*(?:\(official\)\s+)?\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<cloudflare>(?:✅)?)\s\|"),
-                                  RegexFromUrlInstance(relative_filepath_without_ext="onion", url="https://raw.githubusercontent.com/libreddit/libreddit/master/README.md", regex_group="onion", regex_pattern=r"\|\s+\[(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\]\((?P<url>https?:\/\/[\w\-\.\/\d]+)\)\s*(?:\(official\)\s+)?\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<cloudflare>(?:✅)?)\s\|"))),
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext="instances", url="https://github.com/libreddit/libreddit-instances/raw/master/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: url is not None, [x.get("url") for x in raw["instances"]]))))),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext="onion", url="https://github.com/libreddit/libreddit-instances/raw/master/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: url is not None, [x.get("onion") for x in raw["instances"]]))))))),
     InstancesGroupData(name="WikiLess", home_url="https://gitea.slowb.ro/ticoombs/Wikiless#wikiless", relative_filepath_without_ext="instances/wikipedia/wikiless",
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances", crop_from="## Instances", crop_to="## TODO", regex_group="domain", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext="onion", crop_from="## Instances", crop_to="## TODO", regex_group="onion", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
@@ -277,6 +277,8 @@ INSTANCE_GROUPS = [
 
 def main():
     for instance in INSTANCE_GROUPS:
+        if instance.get_name() != "libreddit":
+            continue
         instance.from_instance().update()
 
 
