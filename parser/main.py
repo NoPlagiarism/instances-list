@@ -18,7 +18,9 @@ SLEEP_TIMEOUT_PER_GROUP = 3
 @dataclass
 class BaseInstance:
     relative_filepath_without_ext: str
+    
     parent = None
+    domains_handle = None
     
     def set_parent(self, par):
         self.parent = par
@@ -63,6 +65,8 @@ class BaseDomainsGettter:
     def update(self):
         self.inst.makedirs()
         domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), self.get_all_domains()))))
+        if self.inst.domains_handle is not None:
+            domains = self.inst.domains_handle(domains)
         if self.check_if_update(domains):
             self.inst.save_as_json(domains)
             self.inst.save_list_as_txt(domains)
@@ -73,7 +77,8 @@ class BaseDomainsGettter:
 @dataclass
 class RegexFromUrlInstance(BaseInstance):
     url: str
-    regex_pattern: str  # must be <domain>
+    regex_pattern: str
+    domains_handle: Callable = None
     regex_group: str = "domain"
     
     def from_instance(self):
@@ -254,6 +259,8 @@ INSTANCE_GROUPS = [
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances", crop_from="## Instances", crop_to="## TODO", regex_group="domain", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext="onion", crop_from="## Instances", crop_to="## TODO", regex_group="onion", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext="i2p", crop_from="## Instances", crop_to="## TODO", regex_group="i2p", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"))),
+    InstancesGroupData(name="Piped", home_url="https://github.com/TeamPiped/Piped#readme", relative_filepath_without_ext="instances/youtube/piped",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://raw.githubusercontent.com/wiki/TeamPiped/Piped/Instances.md", domains_handle=lambda raw: tuple(map(lambda url: "piped."+url, raw)), regex_pattern=r"(?P<domain>[\w\-\.]+)(?:\s+\(Official\))?\s+\|\s+(?P<api>https?:\/\/(?:\w|\.|\/)+)\/?\s+\|(?P<locations>(?:[^\|])+)\|\s+Yes\s+\|"), )),
     InstancesGroupData(name="Invidious", home_url="https://github.com/iv-org/invidious#readme", relative_filepath_without_ext="instances/youtube/invidious",
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext="instances", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "https", raw))))),
                                   JSONUsingCallableInstance(relative_filepath_without_ext="onion", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "onion", raw))))),
