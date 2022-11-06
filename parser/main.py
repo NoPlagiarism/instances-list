@@ -277,8 +277,6 @@ INSTANCE_GROUPS = [
 
 def main():
     for instance in INSTANCE_GROUPS:
-        if instance.get_name() != "libreddit":
-            continue
         instance.from_instance().update()
 
 
