@@ -2,7 +2,7 @@ import json
 import os
 import re
 from dataclasses import dataclass
-from typing import Callable, Optional
+from typing import Callable, Iterable, Optional
 from urllib.parse import urlparse
 
 import httpx
@@ -15,9 +15,18 @@ IGNORE_DOMAINS_WITH_PATHS = True
 @dataclass
 class BaseInstance:
     relative_filepath_without_ext: str
+    parent = None
+    
+    def set_parent(self, par):
+        self.parent = par
+    
+    def get_relative_without_ext(self):
+        if self.parent is None:
+            return self.relative_filepath_without_ext
+        return "/".join((self.parent.relative_filepath_without_ext, self.relative_filepath_without_ext))
     
     def get_filepath(self, extension=".json"):
-        return os.path.join(HOME_PATH, self.relative_filepath_without_ext + extension)
+        return os.path.join(HOME_PATH, self.get_relative_without_ext() + extension)
     
     def file_exists(self, extension=".json"):
         return os.path.exists(self.get_filepath())
@@ -161,6 +170,39 @@ class JSONUsingCallable(BaseDomainsGettter):
         return result
 
 
+@dataclass
+class InstancesGroupData:
+    name: str
+    home_url: str
+    relative_filepath_without_ext: str
+    instances: Iterable
+    description: str=None
+    
+    def get_desc(self):
+        if self.description is None:
+            return ""
+        return self.description
+
+    def get_name(self):
+        return self.name.lower()
+    
+    def from_instance(self):
+        return InstancesGroup(self, *self.instances)
+
+
+class InstancesGroup:
+    def __init__(self, data: InstancesGroupData, *instances) -> None:
+        self.relative_filepath_without_ext = data.relative_filepath_without_ext
+        self.instances = list()
+        for inst in instances:
+            inst.set_parent(self)
+            self.instances.append(inst)
+    
+    def update(self):
+        for inst in self.instances:
+            inst.from_instance().update()
+
+
 def get_domain_from_url(url):
     parsed = urlparse(url)
     url_has_path = parsed.path not in ("", "/", None)
@@ -174,67 +216,67 @@ def get_domain_from_url(url):
         return parsed.netloc
 
 
-INSTANCES = [
-    # ProxiTok
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/tiktok/proxitok/instances", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+(?:\(Official\)\s+)?\|\s+(?P<cloudflare>Yes|No)\s+\|\s+(?P<flagemoji>\S+)\s+\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/tiktok/proxitok/onion", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.onion)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/tiktok/proxitok/i2p", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.i2p)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+\|"),
-    # SimplyTranslate
-    JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/instances", url="https://simple-web.org/instances/simplytranslate"),
-    JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/onion", url="https://simple-web.org/instances/simplytranslate_onion"),
-    JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/i2p", url="https://simple-web.org/instances/simplytranslate_i2p"),
-    JustFromUrlInstance(relative_filepath_without_ext="instances/translate/simplytranslate/loki", url="https://simple-web.org/instances/simplytranslate_loki"),
-    # Whoogle
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/whoogle/instances", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|\s+\[https?:\/\/(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|\s?(?P<cloudflare>(?:✅\s|\s))\|$"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/whoogle/onion", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>[\w\-\.]+\.onion)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/whoogle/i2p", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>[\w\-\.]+\.i2p)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
-    # LibreX
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/librex/instances", url="https://raw.githubusercontent.com/hnhx/librex/main/README.md", regex_group="clearnet", regex_pattern=r"\|\s+\[(?P<clearnet>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<onion>(?:\w|\.)+)\/?\)))\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<i2p>(?:\w|\.)+)\/?\)))\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+(?:\(OFFICIAL\s+INSTANCE\)\s+)?\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/librex/onion", url="https://raw.githubusercontent.com/hnhx/librex/main/README.md", regex_group="onion", regex_pattern=r"\|\s+\[(?P<clearnet>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<onion>(?:\w|\.)+)\/?\)))\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<i2p>(?:\w|\.)+)\/?\)))\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+(?:\(OFFICIAL\s+INSTANCE\)\s+)?\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/search/librex/i2p", url="https://raw.githubusercontent.com/hnhx/librex/main/README.md", regex_group="i2p", regex_pattern=r"\|\s+\[(?P<clearnet>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<onion>(?:\w|\.)+)\/?\)))\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<i2p>(?:\w|\.)+)\/?\)))\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+(?:\(OFFICIAL\s+INSTANCE\)\s+)?\|"),
-    # Rimgo
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/imgur/rimgo/instances", url="https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)+(?:\s+\(official\))?\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<provider>(?:[^\|])+)\s*\|\s+(?P<data>(?:[^\|])+)\s+\|(?P<notes>(?:[^\|])+)\|"),
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/imgur/rimgo/onion", url="https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/README.md", crop_from="### Tor", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)+(?:\s+\(official\))?\s+\|\s+(?P<data>(?:[^\|])+)\s+\|(?P<notes>(?:[^\|])+)\|"),
-    # Teddit
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/reddit/teddit/instances", url="https://codeberg.org/teddit/teddit/raw/branch/main/README.md", regex_pattern=r"\|\s+(?:\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<onion>[\w\-\.\/\d]+\.onion)\/?\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<i2p>[\w\-\.\/\d]+\.i2p)\/?\)\s+)?\|\s+(?P<notes>(?:[^\|])+)?\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/reddit/teddit/onion", url="https://codeberg.org/teddit/teddit/raw/branch/main/README.md", regex_group="onion", regex_pattern=r"\|\s+(?:\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<onion>[\w\-\.\/\d]+\.onion)\/?\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<i2p>[\w\-\.\/\d]+\.i2p)\/?\)\s+)?\|\s+(?P<notes>(?:[^\|])+)?\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/reddit/teddit/i2p", url="https://codeberg.org/teddit/teddit/raw/branch/main/README.md", regex_group="i2p", regex_pattern=r"\|\s+(?:\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<onion>[\w\-\.\/\d]+\.onion)\/?\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<i2p>[\w\-\.\/\d]+\.i2p)\/?\)\s+)?\|\s+(?P<notes>(?:[^\|])+)?\|"),
-    # Libreddit
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/reddit/libreddit/instances", url="https://raw.githubusercontent.com/libreddit/libreddit/master/README.md", regex_pattern=r"\|\s+\[(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\]\((?P<url>https?:\/\/[\w\-\.\/\d]+)\)\s*(?:\(official\)\s+)?\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<cloudflare>(?:✅)?)\s\|"),
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/reddit/libreddit/onion", url="https://raw.githubusercontent.com/libreddit/libreddit/master/README.md", regex_group="onion", regex_pattern=r"\|\s+\[(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\]\((?P<url>https?:\/\/[\w\-\.\/\d]+)\)\s*(?:\(official\)\s+)?\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<cloudflare>(?:✅)?)\s\|"),
-    # SearX
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/search/searx/instances", url="https://searx.space/data/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: not any((".onion" in url, ".i2p" in url)), raw["instances"].keys()))))),
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/search/searx/onion", url="https://searx.space/data/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: ".onion" in url, raw["instances"].keys()))))),
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/search/searx/i2p", url="https://searx.space/data/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: ".i2p" in url, raw["instances"].keys()))))),
-    # Invidious
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/invidious/instances", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "https", raw))))),
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/invidious/onion", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "onion", raw))))),
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/invidious/i2p", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "i2p", raw))))),
-    # HyperPipe (yt music)
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/hyperpipe/instances", url="https://raw.codeberg.page/Hyperpipe/pages/api/frontend.json", json_handle=lambda raw: tuple(filter(lambda url: not any((".onion" in url, ".i2p" in url)), tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw))))),
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/youtube/hyperpipe/onion", url="https://raw.codeberg.page/Hyperpipe/pages/api/frontend.json", json_handle=lambda raw: tuple(filter(lambda url: ".onion" in url, tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw))))),
-    # WikiLess
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/wikipedia/wikiless/instances", crop_from="## Instances", crop_to="## TODO", regex_group="domain", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/wikipedia/wikiless/onion", crop_from="## Instances", crop_to="## TODO", regex_group="onion", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/wikipedia/wikiless/i2p", crop_from="## Instances", crop_to="## TODO", regex_group="i2p", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
-    # Lingva Translate
-    RegexFromUrlInstance(relative_filepath_without_ext="instances/translate/lingvatranslate/instances", url="https://raw.githubusercontent.com/thedaviddelta/lingva-translate/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.\/\d]+)\]\(https:\/\/[\w\-\.\/\d]+\)(?:\s+\(Official\))?\s+\|\s+(?P<hosting>[^\|]+)\s+\|\s+(?P<ssl>[^\|]+)\s+\|"),
-    # Scribe
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/medium/scribe/instances", regex_group="domain", url="https://git.sr.ht/~edwardloveall/scribe/blob/HEAD/docs/instances.md", crop_from="# Instances", crop_to="## How do I get my instance on this list?", regex_pattern=r"[\<\(]https?:\/\/(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<domain>[\w\-\.\/\d]+))[\>\)]"),
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/medium/scribe/onion", regex_group="onion", url="https://git.sr.ht/~edwardloveall/scribe/blob/HEAD/docs/instances.md", crop_from="# Instances", crop_to="## How do I get my instance on this list?", regex_pattern=r"[\<\(]https?:\/\/(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<domain>[\w\-\.\/\d]+))[\>\)]"),
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/medium/scribe/i2p", regex_group="i2p", url="https://git.sr.ht/~edwardloveall/scribe/blob/HEAD/docs/instances.md", crop_from="# Instances", crop_to="## How do I get my instance on this list?", regex_pattern=r"[\<\(]https?:\/\/(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<domain>[\w\-\.\/\d]+))[\>\)]"),
-    # Quetre
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/quora/quetre/instances", crop_from="1. Clearnet", crop_to="2. Onion", url="https://raw.githubusercontent.com/zyachel/quetre/main/README.md", regex_pattern=r"\|\s+\[(https?:\/\/)?(?P<domain>[\w\-\.\/\d]+)]\(https?:\/\/[\w\-\.\/\d]+\)\s+\|\s+(?P<region>[^\|]+)\|\s+(?P<provider>[^\|]+)\s+\|\s+(?P<note>[^\|]+)\s+\|"),
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/quora/quetre/onion", crop_from="2. Onion", crop_to="3. I2P", url="https://raw.githubusercontent.com/zyachel/quetre/main/README.md", regex_pattern=r"\|\s+\[(https?:\/\/)?(?P<domain>[\w\-\.\/\d]+)]\(https?:\/\/[\w\-\.\/\d]+\)\s+\|\s+(?P<region>[^\|]+)\|\s+(?P<provider>[^\|]+)\s+\|\s+(?P<note>[^\|]+)\s+\|"),
-    RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances/quora/quetre/i2p", crop_from="3. I2P", crop_to="---", url="https://raw.githubusercontent.com/zyachel/quetre/main/README.md", regex_pattern=r"\|\s+\[(https?:\/\/)?(?P<domain>[\w\-\.\d]+)\/?\]\(https?:\/\/[\w\-\.\/\d]+?\)\s+\|\s+(?P<region>[^\|]+)\|\s+(?P<provider>[^\|]+)\s+\|\s+(?P<note>[^\|]+)\s+\|"),
-    # Librarian
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/odysee/librarian/instances", url="https://codeberg.org/librarian/librarian/raw/branch/main/instances.json", json_handle=lambda raw: tuple(filter(lambda url: not any((".onion" in url, ".i2p" in url)), tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw["instances"]))))),
-    JSONUsingCallableInstance(relative_filepath_without_ext="instances/odysee/librarian/onion", url="https://codeberg.org/librarian/librarian/raw/branch/main/instances.json", json_handle=lambda raw: tuple(filter(lambda url: "onion" in url, tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw["instances"])))))
+INSTANCE_GROUPS = [
+    InstancesGroupData(name="ProxiTok", home_url="https://github.com/pablouser1/ProxiTok", relative_filepath_without_ext="instances/tiktok/proxitok",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+(?:\(Official\)\s+)?\|\s+(?P<cloudflare>Yes|No)\s+\|\s+(?P<flagemoji>\S+)\s+\|"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="onion", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.onion)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+\|"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="i2p", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.i2p)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\)\s+\|"))),
+    InstancesGroupData(name="SimplyTranslate", home_url="https://simple-web.org/projects/simplytranslate.html", relative_filepath_without_ext="instances/translate/simplytranslate",
+                       instances=(JustFromUrlInstance(relative_filepath_without_ext="instances", url="https://simple-web.org/instances/simplytranslate"),
+                                  JustFromUrlInstance(relative_filepath_without_ext="onion", url="https://simple-web.org/instances/simplytranslate_onion"),
+                                  JustFromUrlInstance(relative_filepath_without_ext="i2p", url="https://simple-web.org/instances/simplytranslate_i2p"),
+                                  JustFromUrlInstance(relative_filepath_without_ext="loki", url="https://simple-web.org/instances/simplytranslate_loki"))),
+    InstancesGroupData(name="Lingva Translate", home_url="https://github.com/TheDavidDelta/lingva-translate#lingva-translate", relative_filepath_without_ext="instances/translate/lingvatranslate",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://raw.githubusercontent.com/thedaviddelta/lingva-translate/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.\/\d]+)\]\(https:\/\/[\w\-\.\/\d]+\)(?:\s+\(Official\))?\s+\|\s+(?P<hosting>[^\|]+)\s+\|\s+(?P<ssl>[^\|]+)\s+\|"), )),
+    InstancesGroupData(name="Whoogle", home_url="https://github.com/benbusby/whoogle-search#readme", relative_filepath_without_ext="instances/search/whoogle",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|\s+\[https?:\/\/(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|\s?(?P<cloudflare>(?:✅\s|\s))\|$"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="onion", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>[\w\-\.]+\.onion)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="i2p", url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|?\s+\[https?:\/\/(?P<domain>[\w\-\.]+\.i2p)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|"))),
+    InstancesGroupData(name="SearXNG", home_url="https://github.com/searxng/searxng#readme", relative_filepath_without_ext="instances/search/searx",
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext="instances", url="https://searx.space/data/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: not any((".onion" in url, ".i2p" in url)), raw["instances"].keys()))))),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext="onion", url="https://searx.space/data/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: ".onion" in url, raw["instances"].keys()))))),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext="i2p", url="https://searx.space/data/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: ".i2p" in url, raw["instances"].keys()))))))),
+    InstancesGroupData(name="LibreX", home_url="https://github.com/hnhx/librex#readme", relative_filepath_without_ext="instances/search/librex",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://raw.githubusercontent.com/hnhx/librex/main/README.md", regex_group="clearnet", regex_pattern=r"\|\s+\[(?P<clearnet>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<onion>(?:\w|\.)+)\/?\)))\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<i2p>(?:\w|\.)+)\/?\)))\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+(?:\(OFFICIAL\s+INSTANCE\)\s+)?\|"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="onion", url="https://raw.githubusercontent.com/hnhx/librex/main/README.md", regex_group="onion", regex_pattern=r"\|\s+\[(?P<clearnet>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<onion>(?:\w|\.)+)\/?\)))\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<i2p>(?:\w|\.)+)\/?\)))\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+(?:\(OFFICIAL\s+INSTANCE\)\s+)?\|"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="i2p", url="https://raw.githubusercontent.com/hnhx/librex/main/README.md", regex_group="i2p", regex_pattern=r"\|\s+\[(?P<clearnet>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<onion>(?:\w|\.)+)\/?\)))\s+\|\s+(?:❌|(?:\[✅\]\((?:http:\/\/)?(?P<i2p>(?:\w|\.)+)\/?\)))\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+(?:\(OFFICIAL\s+INSTANCE\)\s+)?\|"))),
+    InstancesGroupData(name="teddit", home_url="https://codeberg.org/teddit/teddit", relative_filepath_without_ext="instances/reddit/teddit",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://codeberg.org/teddit/teddit/raw/branch/main/README.md", regex_pattern=r"\|\s+(?:\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<onion>[\w\-\.\/\d]+\.onion)\/?\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<i2p>[\w\-\.\/\d]+\.i2p)\/?\)\s+)?\|\s+(?P<notes>(?:[^\|])+)?\|"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="onion", url="https://codeberg.org/teddit/teddit/raw/branch/main/README.md", regex_group="onion", regex_pattern=r"\|\s+(?:\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<onion>[\w\-\.\/\d]+\.onion)\/?\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<i2p>[\w\-\.\/\d]+\.i2p)\/?\)\s+)?\|\s+(?P<notes>(?:[^\|])+)?\|"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="i2p", url="https://codeberg.org/teddit/teddit/raw/branch/main/README.md", regex_group="i2p", regex_pattern=r"\|\s+(?:\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<onion>[\w\-\.\/\d]+\.onion)\/?\)\s+)?\|\s+(?:\[(?:http:\/\/)?[\w\-\.\/\d]+\]\(http:\/\/(?P<i2p>[\w\-\.\/\d]+\.i2p)\/?\)\s+)?\|\s+(?P<notes>(?:[^\|])+)?\|"))),
+    InstancesGroupData(name="libreddit", home_url="https://github.com/libreddit/libreddit#readme", relative_filepath_without_ext="instances/reddit/libreddit",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://raw.githubusercontent.com/libreddit/libreddit/master/README.md", regex_pattern=r"\|\s+\[(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\]\((?P<url>https?:\/\/[\w\-\.\/\d]+)\)\s*(?:\(official\)\s+)?\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<cloudflare>(?:✅)?)\s\|"),
+                                  RegexFromUrlInstance(relative_filepath_without_ext="onion", url="https://raw.githubusercontent.com/libreddit/libreddit/master/README.md", regex_group="onion", regex_pattern=r"\|\s+\[(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\]\((?P<url>https?:\/\/[\w\-\.\/\d]+)\)\s*(?:\(official\)\s+)?\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<cloudflare>(?:✅)?)\s\|"))),
+    InstancesGroupData(name="WikiLess", home_url="https://gitea.slowb.ro/ticoombs/Wikiless#wikiless", relative_filepath_without_ext="instances/wikipedia/wikiless",
+                       instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances", crop_from="## Instances", crop_to="## TODO", regex_group="domain", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext="onion", crop_from="## Instances", crop_to="## TODO", regex_group="onion", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext="i2p", crop_from="## Instances", crop_to="## TODO", regex_group="i2p", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"))),
+    InstancesGroupData(name="Invidious", home_url="https://github.com/iv-org/invidious#readme", relative_filepath_without_ext="instances/youtube/invidious",
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext="instances", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "https", raw))))),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext="onion", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "onion", raw))))),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext="i2p", url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "i2p", raw))))))),
+    InstancesGroupData(name="HyperPipe", home_url="https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe", relative_filepath_without_ext="instances/youtube/hyperpipe",
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext="instances", url="https://raw.codeberg.page/Hyperpipe/pages/api/frontend.json", json_handle=lambda raw: tuple(filter(lambda url: not any((".onion" in url, ".i2p" in url)), tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw))))),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext="onion", url="https://raw.codeberg.page/Hyperpipe/pages/api/frontend.json", json_handle=lambda raw: tuple(filter(lambda url: ".onion" in url, tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw))))))),
+    InstancesGroupData(name="Scribe", home_url="https://sr.ht/~edwardloveall/Scribe/", relative_filepath_without_ext="instances/medium/scribe",
+                       instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances", regex_group="domain", url="https://git.sr.ht/~edwardloveall/scribe/blob/HEAD/docs/instances.md", crop_from="# Instances", crop_to="## How do I get my instance on this list?", regex_pattern=r"[\<\(]https?:\/\/(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<domain>[\w\-\.\/\d]+))[\>\)]"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext="onion", regex_group="onion", url="https://git.sr.ht/~edwardloveall/scribe/blob/HEAD/docs/instances.md", crop_from="# Instances", crop_to="## How do I get my instance on this list?", regex_pattern=r"[\<\(]https?:\/\/(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<domain>[\w\-\.\/\d]+))[\>\)]"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext="i2p", regex_group="i2p", url="https://git.sr.ht/~edwardloveall/scribe/blob/HEAD/docs/instances.md", crop_from="# Instances", crop_to="## How do I get my instance on this list?", regex_pattern=r"[\<\(]https?:\/\/(?:(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<domain>[\w\-\.\/\d]+))[\>\)]"))),
+    InstancesGroupData(name="Quetre", home_url="https://github.com/zyachel/quetre#readme", relative_filepath_without_ext="instances/quora/quetre",
+                       instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext="instances", crop_from="1. Clearnet", crop_to="2. Onion", url="https://raw.githubusercontent.com/zyachel/quetre/main/README.md", regex_pattern=r"\|\s+\[(https?:\/\/)?(?P<domain>[\w\-\.\/\d]+)]\(https?:\/\/[\w\-\.\/\d]+\)\s+\|\s+(?P<region>[^\|]+)\|\s+(?P<provider>[^\|]+)\s+\|\s+(?P<note>[^\|]+)\s+\|"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext="onion", crop_from="2. Onion", crop_to="3. I2P", url="https://raw.githubusercontent.com/zyachel/quetre/main/README.md", regex_pattern=r"\|\s+\[(https?:\/\/)?(?P<domain>[\w\-\.\/\d]+)]\(https?:\/\/[\w\-\.\/\d]+\)\s+\|\s+(?P<region>[^\|]+)\|\s+(?P<provider>[^\|]+)\s+\|\s+(?P<note>[^\|]+)\s+\|"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext="i2p", crop_from="3. I2P", crop_to="---", url="https://raw.githubusercontent.com/zyachel/quetre/main/README.md", regex_pattern=r"\|\s+\[(https?:\/\/)?(?P<domain>[\w\-\.\d]+)\/?\]\(https?:\/\/[\w\-\.\/\d]+?\)\s+\|\s+(?P<region>[^\|]+)\|\s+(?P<provider>[^\|]+)\s+\|\s+(?P<note>[^\|]+)\s+\|"))),
+    InstancesGroupData(name="rimgo", home_url="https://codeberg.org/video-prize-ranch/rimgo#rimgo", relative_filepath_without_ext="instances/imgur/rimgo",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext="instances", url="https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)+(?:\s+\(official\))?\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<provider>(?:[^\|])+)\s*\|\s+(?P<data>(?:[^\|])+)\s+\|(?P<notes>(?:[^\|])+)\|"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext="onion", url="https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/README.md", crop_from="### Tor", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)+(?:\s+\(official\))?\s+\|\s+(?P<data>(?:[^\|])+)\s+\|(?P<notes>(?:[^\|])+)\|"))),
+    InstancesGroupData(name="librarian", home_url="https://codeberg.org/librarian/librarian#librarian", relative_filepath_without_ext="instances/odysee/librarian",
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext="instances", url="https://codeberg.org/librarian/librarian/raw/branch/main/instances.json", json_handle=lambda raw: tuple(filter(lambda url: not any((".onion" in url, ".i2p" in url)), tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw["instances"]))))),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext="onion", url="https://codeberg.org/librarian/librarian/raw/branch/main/instances.json", json_handle=lambda raw: tuple(filter(lambda url: "onion" in url, tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw["instances"]))))))),
 ]
 
 
 def main():
-    for instance in INSTANCES:
+    for instance in INSTANCE_GROUPS:
         instance.from_instance().update()
 
 
