@@ -5,9 +5,9 @@ import time
 from dataclasses import dataclass
 from typing import Callable, Iterable, Optional
 from urllib.parse import urlparse
-from loguru import logger
 
 import httpx
+from loguru import logger
 
 HOME_PATH = os.path.dirname(os.path.dirname(__file__))
 ENABLE_PATH_IN_DOMAINS = False
