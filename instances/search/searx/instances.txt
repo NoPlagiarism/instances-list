@@ -23,7 +23,6 @@ search.cronobox.one
 search.disroot.org
 search.drivet.xyz
 search.ethibox.fr
-search.freenetchads.com
 search.gcomm.ch
 search.kiwitalk.de
 search.kvj.ovh
@@ -41,7 +40,6 @@ search.serginho.dev
 search.smnz.de
 search.snopyta.org
 search.stinpriza.org
-search.teamriverbubbles.com
 search.trom.tf
 search.unlocked.link
 search.uspersec.com
@@ -84,6 +82,7 @@ searx.sev.monster
 searx.sp-codes.de
 searx.stuehieyr.com
 searx.tiekoetter.com
+searx.tuxcloud.net
 searx.tyil.nl
 searx.vanwa.tech
 searx.webheberg.info
@@ -91,8 +90,6 @@ searx.win
 searx.work
 searx.xyz
 searx.zapashcanon.fr
-searx.zcyph.cc
-searxng.ir
 searxng.nicfab.eu
 searxng.zackptg5.com
 sh0.it
