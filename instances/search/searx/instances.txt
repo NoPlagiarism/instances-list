@@ -38,7 +38,6 @@ search.rowie.at
 search.sapti.me
 search.serginho.dev
 search.smnz.de
-search.snopyta.org
 search.stinpriza.org
 search.trom.tf
 search.unlocked.link
@@ -80,6 +79,7 @@ searx.semipvt.com
 searx.sethforprivacy.com
 searx.sev.monster
 searx.sp-codes.de
+searx.space
 searx.stuehieyr.com
 searx.tiekoetter.com
 searx.tuxcloud.net
