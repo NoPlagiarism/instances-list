@@ -245,7 +245,7 @@ INSTANCE_GROUPS = [
                                   JustFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://simple-web.org/instances/simplytranslate_onion"),
                                   JustFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://simple-web.org/instances/simplytranslate_i2p"),
                                   JustFromUrlInstance(relative_filepath_without_ext=Network.LOKI, url="https://simple-web.org/instances/simplytranslate_loki"))),
-    InstancesGroupData(name="Lingva Translate", home_url="https://github.com/TheDavidDelta/lingva-translate#lingva-translate", relative_filepath_without_ext="translate/lingvatranslate",
+    InstancesGroupData(name="LingvaTranslate", home_url="https://github.com/TheDavidDelta/lingva-translate#lingva-translate", relative_filepath_without_ext="translate/lingvatranslate",
                        instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/thedaviddelta/lingva-translate/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.\/\d]+)\]\(https:\/\/[\w\-\.\/\d]+\)(?:\s+\(Official\))?\s+\|\s+(?P<hosting>[^\|]+)\s+\|\s+(?P<ssl>[^\|]+)\s+\|"), )),
     InstancesGroupData(name="Whoogle", home_url="https://github.com/benbusby/whoogle-search#readme", relative_filepath_without_ext="search/whoogle",
                        instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/benbusby/whoogle-search/main/README.md", regex_pattern=r"\|\s+\[https?:\/\/(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/(?:\w|\.|\/)+)\/?\)\s+\|\s+(?P<flagemoji>\W+)\s+(?P<country>\w+)\s+\|\s+(?P<language>\S+)\s+\|\s?(?P<cloudflare>(?:✅\s|\s))\|$"),
