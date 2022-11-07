@@ -10,11 +10,10 @@ import httpx
 from loguru import logger
 
 try:
-    from .consts import INST_FOLDER, Network
+    from .consts import INST_FOLDER, Network, HOME_PATH
 except ImportError:
-    from consts import INST_FOLDER, Network
+    from consts import INST_FOLDER, Network, HOME_PATH
 
-HOME_PATH = os.path.dirname(os.path.dirname(__file__))
 ENABLE_PATH_IN_DOMAINS = False
 IGNORE_DOMAINS_WITH_PATHS = True
 SLEEP_TIMEOUT_PER_GROUP = 3

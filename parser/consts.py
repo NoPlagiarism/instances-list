@@ -1,3 +1,7 @@
+import os
+
+HOME_PATH = os.path.dirname(os.path.dirname(__file__))
+
 class Network:
     CLEARNET = "instances"
     ONION = "onion"
