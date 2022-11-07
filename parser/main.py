@@ -9,7 +9,10 @@ from urllib.parse import urlparse
 import httpx
 from loguru import logger
 
-from .consts import INST_FOLDER, Network
+try:
+    from .consts import INST_FOLDER, Network
+except ImportError:
+    from consts import INST_FOLDER, Network
 
 HOME_PATH = os.path.dirname(os.path.dirname(__file__))
 ENABLE_PATH_IN_DOMAINS = False
@@ -210,6 +213,7 @@ class InstancesGroup:
     def __init__(self, data: InstancesGroupData, *instances) -> None:
         self.relative_filepath_without_ext = data.relative_filepath_without_ext
         self.instances = list()
+        self.inst = data
         for inst in instances:
             inst.set_parent(self)
             self.instances.append(inst)
