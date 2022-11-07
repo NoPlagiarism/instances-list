@@ -27,6 +27,8 @@ jobs:
         pip install -r parser/requirements.txt
     - name: Run main
       run: python parser/main.py
+    - name: Generate readme's and json's
+      run: python parser/generate_md_json.py
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
       with:
