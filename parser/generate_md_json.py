@@ -30,16 +30,20 @@ def save_json(obj, filepath):
         json.dump(obj, f, indent=4)
 
 
-def create_instance_group_readme(metadata: InstancesGroupData):
+def create_instance_group_readme(metadata: InstancesGroupData, save=True, header=1):
     data = metadata.from_instance()
     md = ""
     for inst in data.instances:
-        md += {Network.CLEARNET: "# Clearnet", Network.ONION: "# Onion",
-               Network.I2P: "# I2P", Network.LOKI: "# Loki"}[inst.relative_filepath_without_ext]
+        md += "#" * header
+        md += {Network.CLEARNET: " Clearnet", Network.ONION: " Onion",
+               Network.I2P: " I2P", Network.LOKI: " Loki"}[inst.relative_filepath_without_ext]
         md += "\n"
         md += "\n".join(get_md_url(inst, http=inst.relative_filepath_without_ext != Network.CLEARNET))
         md += "\n"
-    save_md(md, os.path.join(data.inst.get_folderpath(), "ReadMe.MD"))
+    if save:
+        save_md(md, os.path.join(data.inst.get_folderpath(), "ReadMe.MD"))
+    else:
+        return md
 
 
 def create_instance_group_json(metadata: InstancesGroupData):
@@ -65,6 +69,17 @@ def create_all_json(groups_data):
     save_json(json_raw, os.path.join(HOME_PATH, INST_FOLDER, "all.json"))
 
 
+def create_all_md(groups_data):
+    groups = [x.from_instance() for x in groups_data]
+    md = "# All Instances\n\n## Contents\n"
+    md += "\n".join([f"- [{group.inst.name}](#{group.inst.get_name().replace(' ', '-')})" for group in groups])
+    md += "\n"
+    for group in groups:
+        md += f"\n## {group.inst.name}\n\n{create_instance_group_readme(group.inst, save=False, header=3)}"
+    save_md(md, os.path.join(HOME_PATH, INST_FOLDER, "all.md"))
+
+
 if __name__ == "__main__":
     tuple(map(handle_instance, INSTANCE_GROUPS))
     create_all_json(INSTANCE_GROUPS)
+    create_all_md(INSTANCE_GROUPS)
