@@ -50,6 +50,7 @@
 - [searx.becomesovran.com](https://searx.becomesovran.com)
 - [searx.bissisoft.com](https://searx.bissisoft.com)
 - [searx.chocoflan.net](https://searx.chocoflan.net)
+- [searx.delicta.pp.ua](https://searx.delicta.pp.ua)
 - [searx.divided-by-zero.eu](https://searx.divided-by-zero.eu)
 - [searx.dresden.network](https://searx.dresden.network)
 - [searx.ebnar.xyz](https://searx.ebnar.xyz)

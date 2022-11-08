@@ -49,6 +49,7 @@ searx.be
 searx.becomesovran.com
 searx.bissisoft.com
 searx.chocoflan.net
+searx.delicta.pp.ua
 searx.divided-by-zero.eu
 searx.dresden.network
 searx.ebnar.xyz
