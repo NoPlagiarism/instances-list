@@ -189,7 +189,6 @@
 - [searx.sethforprivacy.com](https://searx.sethforprivacy.com)
 - [searx.sev.monster](https://searx.sev.monster)
 - [searx.sp-codes.de](https://searx.sp-codes.de)
-- [searx.space](https://searx.space)
 - [searx.stuehieyr.com](https://searx.stuehieyr.com)
 - [searx.tiekoetter.com](https://searx.tiekoetter.com)
 - [searx.tuxcloud.net](https://searx.tuxcloud.net)

@@ -80,7 +80,6 @@ searx.semipvt.com
 searx.sethforprivacy.com
 searx.sev.monster
 searx.sp-codes.de
-searx.space
 searx.stuehieyr.com
 searx.tiekoetter.com
 searx.tuxcloud.net
