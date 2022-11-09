@@ -83,7 +83,7 @@ class RegexFromUrlInstance(BaseInstance):
     url: str
     regex_pattern: Union[str, Iterable]
     domains_handle: Callable = None
-    regex_group: str = "domain",
+    regex_group: str = "domain"
     
     def from_instance(self):
         return RegexFromUrl(self)
@@ -303,14 +303,16 @@ INSTANCE_GROUPS = [
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", crop_to="### Tor", regex_pattern=(r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)(?P<anycast>\s+\(anycast\))?\s+\|\s+✅\s+\|\s+(?P<updated>\S+)\s+\|\s+(?P<flagemoji>\S+)\s+\|(?P<ssllabs>(?:[^\|])+)?\|", r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?P<flagemoji>\S+)\s+\|(?P<ssllabs>(?:[^\|])+)?\|")),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", crop_from="### Tor", crop_to=".i2p", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\/?\]\((?P<onionurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+✅\s+\|", regex_group="domain"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, crop_from="### I2P", crop_to="### Lokinet", regex_pattern=r"-\s+\[(?P<domain>[\w\-\.]+)\]\((?P<i2purl>https?:\/\/(?:\w|\.|\/)+)\)", url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", regex_group="i2purl", domains_handle=lambda raw: tuple(map(get_domain_from_url, raw))),
-                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.LOKI, crop_from="### Lokinet", crop_to="## Discontinued", regex_pattern=r"-\s+\[(?P<domain>[\w\-\.]+)\]\((?P<lokiurl>https?:\/\/(?:\w|\.|\/)+)\)", url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", regex_group="lokiurl", domains_handle=lambda raw: tuple(map(get_domain_from_url, raw)))))
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.LOKI, crop_from="### Lokinet", crop_to="## Discontinued", regex_pattern=r"-\s+\[(?P<domain>[\w\-\.]+)\]\((?P<lokiurl>https?:\/\/(?:\w|\.|\/)+)\)", url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", regex_group="lokiurl", domains_handle=lambda raw: tuple(map(get_domain_from_url, raw))))),
+    InstancesGroupData(name="send", home_url="https://github.com/timvisee/send#readme", relative_filepath_without_ext="filedrop/send",
+                       instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, crop_from="## Instances", crop_to="---", url="https://raw.githubusercontent.com/timvisee/send-instances/master/README.md", regex_pattern=r"\-\s+https:\/\/(?P<domain>[\w\-\.]+)\s+\("), )),
 ]
 
 
 @logger.catch(reraise=True)
 def main():
     for instance in INSTANCE_GROUPS:
-        if instance.get_name() != "nitter":
+        if instance.get_name() != "send":
             continue
         instance.from_instance().update()
         time.sleep(SLEEP_TIMEOUT_PER_GROUP)
