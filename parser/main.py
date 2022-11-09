@@ -312,8 +312,6 @@ INSTANCE_GROUPS = [
 @logger.catch(reraise=True)
 def main():
     for instance in INSTANCE_GROUPS:
-        if instance.get_name() != "send":
-            continue
         instance.from_instance().update()
         time.sleep(SLEEP_TIMEOUT_PER_GROUP)
 
