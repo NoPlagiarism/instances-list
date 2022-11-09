@@ -3,7 +3,7 @@ import os
 import re
 import time
 from dataclasses import dataclass
-from typing import Callable, Iterable, Optional
+from typing import Callable, Iterable, Optional, Union
 from urllib.parse import urlparse
 
 import httpx
@@ -81,22 +81,27 @@ class BaseDomainsGettter:
 @dataclass
 class RegexFromUrlInstance(BaseInstance):
     url: str
-    regex_pattern: str
+    regex_pattern: Union[str, Iterable]
     domains_handle: Callable = None
-    regex_group: str = "domain"
+    regex_group: str = "domain",
     
     def from_instance(self):
         return RegexFromUrl(self)
+    
+    def get_patterns_compiled(self):
+        if isinstance(self.regex_pattern, str):
+            return (re.compile(self.regex_pattern, flags=re.MULTILINE), )
+        return tuple(map(lambda x: re.compile(x, flags=re.MULTILINE), self.regex_pattern))
 
 
 class RegexFromUrl(BaseDomainsGettter):
     def __init__(self, instance: RegexFromUrlInstance) -> None:
         self.inst = instance
-        self.pattern = re.compile(self.inst.regex_pattern, flags=re.MULTILINE)
         super().__init__()
     
-    def _get_match_and_other_text(self, text, index_from=0):
-        match = self.pattern.search(text[index_from:])
+    @staticmethod
+    def _get_match_and_other_text(text, pattern, index_from=0):
+        match = pattern.search(text[index_from:])
         if match is None:
             return False
         return match, index_from+match.end()+1
@@ -104,13 +109,14 @@ class RegexFromUrl(BaseDomainsGettter):
     def get_all_domains_from_text(self, text):
         domain_list = list()
         index_from = 0
-        for _ in range(len(self.pattern.findall(text))):
-            res = self._get_match_and_other_text(text, index_from)
-            if not res:
-                break
-            match, index_from = res
-            if (match_group := match.groupdict().get(self.inst.regex_group)) is not None:
-                domain_list.append(match_group)
+        for pattern in self.inst.get_patterns_compiled():
+            for _ in range(len(pattern.findall(text))):
+                res = self._get_match_and_other_text(text, pattern, index_from)
+                if not res:
+                    break
+                match, index_from = res
+                if (match_group := match.groupdict().get(self.inst.regex_group)) is not None:
+                    domain_list.append(match_group)
         return domain_list
     
     def get_all_domains(self):
@@ -293,12 +299,19 @@ INSTANCE_GROUPS = [
     InstancesGroupData(name="librarian", home_url="https://codeberg.org/librarian/librarian#librarian", relative_filepath_without_ext="odysee/librarian",
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://codeberg.org/librarian/librarian/raw/branch/main/instances.json", json_handle=lambda raw: tuple(filter(lambda url: not any((".onion" in url, ".i2p" in url)), tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw["instances"]))))),
                                   JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url="https://codeberg.org/librarian/librarian/raw/branch/main/instances.json", json_handle=lambda raw: tuple(filter(lambda url: "onion" in url, tuple(map(lambda inst: re.match(r"https?\:\/\/([^\/\s]*)\/?", inst['url']).groups()[0], raw["instances"]))))))),
+    InstancesGroupData(name="nitter", home_url="https://github.com/zedeus/nitter#readme", relative_filepath_without_ext="twitter/nitter",
+                       instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", crop_to="### Tor", regex_pattern=(r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)(?P<anycast>\s+\(anycast\))?\s+\|\s+✅\s+\|\s+(?P<updated>\S+)\s+\|\s+(?P<flagemoji>\S+)\s+\|(?P<ssllabs>(?:[^\|])+)?\|", r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+(?P<flagemoji>\S+)\s+\|(?P<ssllabs>(?:[^\|])+)?\|")),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", crop_from="### Tor", crop_to=".i2p", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\/?\]\((?P<onionurl>https?:\/\/(?:\w|\.|\/)+)\)\s+\|\s+✅\s+\|", regex_group="domain"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, crop_from="### I2P", crop_to="### Lokinet", regex_pattern=r"-\s+\[(?P<domain>[\w\-\.]+)\]\((?P<i2purl>https?:\/\/(?:\w|\.|\/)+)\)", url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", regex_group="i2purl", domains_handle=lambda raw: tuple(map(get_domain_from_url, raw))),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.LOKI, crop_from="### Lokinet", crop_to="## Discontinued", regex_pattern=r"-\s+\[(?P<domain>[\w\-\.]+)\]\((?P<lokiurl>https?:\/\/(?:\w|\.|\/)+)\)", url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", regex_group="lokiurl", domains_handle=lambda raw: tuple(map(get_domain_from_url, raw)))))
 ]
 
 
 @logger.catch(reraise=True)
 def main():
     for instance in INSTANCE_GROUPS:
+        if instance.get_name() != "nitter":
+            continue
         instance.from_instance().update()
         time.sleep(SLEEP_TIMEOUT_PER_GROUP)
 
