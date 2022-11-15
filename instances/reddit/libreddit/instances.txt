@@ -1,4 +1,5 @@
 bob.fr.to
+discuss.whatever.social
 l.opnxng.com
 libreddit.cachyos.org
 libreddit.dcs0.hu
@@ -14,7 +15,6 @@ libreddit.garudalinux.org
 libreddit.hu
 libreddit.kavin.rocks
 libreddit.kylrth.com
-libreddit.mask.sh
 libreddit.mha.fi
 libreddit.nl
 libreddit.northboot.xyz
@@ -28,11 +28,11 @@ libreddit.strongthany.cc
 libreddit.tiekoetter.com
 libreddit.totaldarkness.net
 lr.4201337.xyz
+lr.artemislena.eu
 lr.mint.lgbt
 lr.odyssey346.dev
 lr.riverside.rocks
 lr.slipfox.xyz
-lr.vern.cc
 r.ahwx.org
 r.nf
 r.walkx.org
@@ -43,6 +43,7 @@ reddit.dr460nf1r3.org
 reddit.invak.id
 reddit.rtrace.io
 reddit.simo.sh
+reddit.stetsed.xyz
 reddit.stuehieyr.com
 reddit.utsav2.dev
 www.futureddit.gq

@@ -308,6 +308,7 @@
 
 ### Clearnet
 - [bob.fr.to](https://bob.fr.to)
+- [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.cachyos.org](https://libreddit.cachyos.org)
 - [libreddit.dcs0.hu](https://libreddit.dcs0.hu)
@@ -323,7 +324,6 @@
 - [libreddit.hu](https://libreddit.hu)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
 - [libreddit.kylrth.com](https://libreddit.kylrth.com)
-- [libreddit.mask.sh](https://libreddit.mask.sh)
 - [libreddit.mha.fi](https://libreddit.mha.fi)
 - [libreddit.nl](https://libreddit.nl)
 - [libreddit.northboot.xyz](https://libreddit.northboot.xyz)
@@ -337,11 +337,11 @@
 - [libreddit.tiekoetter.com](https://libreddit.tiekoetter.com)
 - [libreddit.totaldarkness.net](https://libreddit.totaldarkness.net)
 - [lr.4201337.xyz](https://lr.4201337.xyz)
+- [lr.artemislena.eu](https://lr.artemislena.eu)
 - [lr.mint.lgbt](https://lr.mint.lgbt)
 - [lr.odyssey346.dev](https://lr.odyssey346.dev)
 - [lr.riverside.rocks](https://lr.riverside.rocks)
 - [lr.slipfox.xyz](https://lr.slipfox.xyz)
-- [lr.vern.cc](https://lr.vern.cc)
 - [r.ahwx.org](https://r.ahwx.org)
 - [r.nf](https://r.nf)
 - [r.walkx.org](https://r.walkx.org)
@@ -352,6 +352,7 @@
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [reddit.simo.sh](https://reddit.simo.sh)
+- [reddit.stetsed.xyz](https://reddit.stetsed.xyz)
 - [reddit.stuehieyr.com](https://reddit.stuehieyr.com)
 - [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [www.futureddit.gq](https://www.futureddit.gq)
@@ -359,6 +360,7 @@
 ### Onion
 - [ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion](http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion)
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
+- [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion)
 - [ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion)
 
@@ -680,7 +682,6 @@
 ## send
 
 ### Clearnet
-- [bytefile.de](https://bytefile.de)
 - [drop.chapril.org](https://drop.chapril.org)
 - [files.psu.ru](https://files.psu.ru)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
@@ -692,7 +693,7 @@
 - [send.mni.li](https://send.mni.li)
 - [send.monks.tools](https://send.monks.tools)
 - [send.portailpro.net](https://send.portailpro.net)
-- [send.turingpoint.de](https://send.turingpoint.de)
+- [send.q1q.wtf](https://send.q1q.wtf)
 - [send.vis.ee](https://send.vis.ee)
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)

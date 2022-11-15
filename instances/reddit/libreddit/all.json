@@ -1,6 +1,7 @@
 {
     "instances": [
         "bob.fr.to",
+        "discuss.whatever.social",
         "l.opnxng.com",
         "libreddit.cachyos.org",
         "libreddit.dcs0.hu",
@@ -16,7 +17,6 @@
         "libreddit.hu",
         "libreddit.kavin.rocks",
         "libreddit.kylrth.com",
-        "libreddit.mask.sh",
         "libreddit.mha.fi",
         "libreddit.nl",
         "libreddit.northboot.xyz",
@@ -30,11 +30,11 @@
         "libreddit.tiekoetter.com",
         "libreddit.totaldarkness.net",
         "lr.4201337.xyz",
+        "lr.artemislena.eu",
         "lr.mint.lgbt",
         "lr.odyssey346.dev",
         "lr.riverside.rocks",
         "lr.slipfox.xyz",
-        "lr.vern.cc",
         "r.ahwx.org",
         "r.nf",
         "r.walkx.org",
@@ -45,6 +45,7 @@
         "reddit.invak.id",
         "reddit.rtrace.io",
         "reddit.simo.sh",
+        "reddit.stetsed.xyz",
         "reddit.stuehieyr.com",
         "reddit.utsav2.dev",
         "www.futureddit.gq",
@@ -53,6 +54,7 @@
     "onion": [
         "ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
         "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
+        "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
         "ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
         "ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion"
     ]

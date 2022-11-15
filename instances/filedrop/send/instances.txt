@@ -1,4 +1,3 @@
-bytefile.de
 drop.chapril.org
 files.psu.ru
 fileupload.ggc-project.de
@@ -10,7 +9,7 @@ send.jeugdhulp.be
 send.mni.li
 send.monks.tools
 send.portailpro.net
-send.turingpoint.de
+send.q1q.wtf
 send.vis.ee
 send.zcyph.cc
 transfer.acted.org

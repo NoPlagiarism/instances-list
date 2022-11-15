@@ -1,5 +1,4 @@
 # Clearnet
-- [bytefile.de](https://bytefile.de)
 - [drop.chapril.org](https://drop.chapril.org)
 - [files.psu.ru](https://files.psu.ru)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
@@ -11,7 +10,7 @@
 - [send.mni.li](https://send.mni.li)
 - [send.monks.tools](https://send.monks.tools)
 - [send.portailpro.net](https://send.portailpro.net)
-- [send.turingpoint.de](https://send.turingpoint.de)
+- [send.q1q.wtf](https://send.q1q.wtf)
 - [send.vis.ee](https://send.vis.ee)
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)
