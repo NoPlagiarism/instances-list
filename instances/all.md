@@ -394,10 +394,21 @@
 ## Piped
 
 ### Clearnet
+- [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.aeong.one](https://piped.aeong.one)
+- [piped.esmailelbob.xyz](https://piped.esmailelbob.xyz)
+- [piped.il.ax](https://piped.il.ax)
+- [piped.jae.fi](https://piped.jae.fi)
 - [piped.kavin.rocks](https://piped.kavin.rocks)
+- [piped.mint.lgbt](https://piped.mint.lgbt)
 - [piped.moomoo.me](https://piped.moomoo.me)
+- [piped.palveluntarjoaja.eu](https://piped.palveluntarjoaja.eu)
+- [piped.plibre.com](https://piped.plibre.com)
+- [piped.privacydev.net](https://piped.privacydev.net)
+- [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
+- [piped.qdi.fi](https://piped.qdi.fi)
 - [piped.rivo.lol](https://piped.rivo.lol)
+- [piped.smnz.de](https://piped.smnz.de)
 - [piped.syncpundit.io](https://piped.syncpundit.io)
 - [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
 - [piped.whatever.social](https://piped.whatever.social)
