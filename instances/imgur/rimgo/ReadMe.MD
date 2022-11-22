@@ -2,6 +2,7 @@
 - [i.actionsack.com](https://i.actionsack.com)
 - [i.habedieeh.re](https://i.habedieeh.re)
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)
+- [ri.zzls.xyz](https://ri.zzls.xyz)
 - [rim.odyssey346.dev](https://rim.odyssey346.dev)
 - [rimgo.bcow.xyz](https://rimgo.bcow.xyz)
 - [rimgo.bus-hit.me](https://rimgo.bus-hit.me)

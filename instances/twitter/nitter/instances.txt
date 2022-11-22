@@ -38,6 +38,7 @@ nitter.kavin.rocks
 nitter.kylrth.com
 nitter.lacontrevoie.fr
 nitter.manasiwibi.com
+nitter.marcopisco.com
 nitter.mask.sh
 nitter.mint.lgbt
 nitter.moomoo.me
@@ -51,6 +52,7 @@ nitter.privacy.com.de
 nitter.privacydev.net
 nitter.privacytools.io
 nitter.projectsegfau.lt
+nitter.pufe.org
 nitter.pussthecat.org
 nitter.pw
 nitter.qwik.space
@@ -65,6 +67,7 @@ nitter.tiekoetter.com
 nitter.tokhmi.xyz
 nitter.twei.space
 nitter.unixfox.eu
+nitter.us.projectsegfau.lt
 nitter.weiler.rocks
 nitter.winscloud.net
 notabird.site

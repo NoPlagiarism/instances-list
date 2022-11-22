@@ -1,8 +1,8 @@
 # Clearnet
 - [buscar.weblibre.org](https://buscar.weblibre.org)
 - [librex.beparanoid.de](https://librex.beparanoid.de)
-- [librex.catalyst.sx](https://librex.catalyst.sx)
-- [librex.extravi.dev](https://librex.extravi.dev)
+- [librex.kitscomputer.tk](https://librex.kitscomputer.tk)
+- [librex.smlan.dev](https://librex.smlan.dev)
 - [lx.vern.cc](https://lx.vern.cc)
 - [search.ahwx.org](https://search.ahwx.org)
 - [search.davidovski.xyz](https://search.davidovski.xyz)
@@ -12,7 +12,5 @@
 # Onion
 - [librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion](http://librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion)
 - [lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [ncblhz7q4sfbf755bdbhebfzxcpypz7ewafgi4agatecojz7pln4i3id.onion](http://ncblhz7q4sfbf755bdbhebfzxcpypz7ewafgi4agatecojz7pln4i3id.onion)
 # I2P
-- [rra33hiaf6nmby7jfpqe2gqmng3jnzkvbu2n7jgce7vbhoyuhzya.b32.i2p](http://rra33hiaf6nmby7jfpqe2gqmng3jnzkvbu2n7jgce7vbhoyuhzya.b32.i2p)
 - [vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p](http://vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p)

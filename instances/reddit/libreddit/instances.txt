@@ -15,6 +15,8 @@ libreddit.garudalinux.org
 libreddit.hu
 libreddit.kavin.rocks
 libreddit.kylrth.com
+libreddit.marcopisco.com
+libreddit.mask.sh
 libreddit.mha.fi
 libreddit.nl
 libreddit.northboot.xyz
@@ -22,6 +24,7 @@ libreddit.oxymagnesium.com
 libreddit.privacy.com.de
 libreddit.privacydev.net
 libreddit.projectsegfau.lt
+libreddit.pufe.org
 libreddit.pussthecat.org
 libreddit.spike.codes
 libreddit.strongthany.cc
@@ -33,6 +36,7 @@ lr.mint.lgbt
 lr.odyssey346.dev
 lr.riverside.rocks
 lr.slipfox.xyz
+lr.vern.cc
 r.ahwx.org
 r.nf
 r.walkx.org

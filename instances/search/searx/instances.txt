@@ -10,6 +10,7 @@ ooglester.com
 opnxng.com
 paulgo.io
 priv.au
+privatesearch.dev
 privatus.live
 s.frlt.one
 s.trung.fun
@@ -18,6 +19,7 @@ saber.tk
 search.0relay.com
 search.affusio.com
 search.bus-hit.me
+search.charleseroop.com
 search.chemicals-in-the-water.eu
 search.cronobox.one
 search.disroot.org
@@ -90,6 +92,7 @@ searx.win
 searx.work
 searx.xyz
 searx.zapashcanon.fr
+searxng.au
 searxng.nicfab.eu
 searxng.zackptg5.com
 sh0.it
@@ -99,6 +102,7 @@ srx.cosmohub.io
 suche.tromdienste.de
 swag.pw
 sx.catgirl.cloud
+wicked.guru
 www.gruble.de
 www.webrats.xyz
 xo.wtf
