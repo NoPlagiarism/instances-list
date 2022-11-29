@@ -1,6 +1,7 @@
 # Clearnet
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.aeong.one](https://piped.aeong.one)
+- [piped.daviteusz.eu](https://piped.daviteusz.eu)
 - [piped.esmailelbob.xyz](https://piped.esmailelbob.xyz)
 - [piped.il.ax](https://piped.il.ax)
 - [piped.jae.fi](https://piped.jae.fi)

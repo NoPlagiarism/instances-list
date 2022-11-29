@@ -1,6 +1,7 @@
 # Clearnet
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
 - [proxitok.manasiwibi.com](https://proxitok.manasiwibi.com)
+- [proxitok.marcopisco.com](https://proxitok.marcopisco.com)
 - [proxitok.mha.fi](https://proxitok.mha.fi)
 - [proxitok.odyssey346.dev](https://proxitok.odyssey346.dev)
 - [proxitok.pabloferreiro.es](https://proxitok.pabloferreiro.es)

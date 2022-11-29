@@ -2,6 +2,7 @@
 - [ask.habedieeh.re](https://ask.habedieeh.re)
 - [quetre.esmailelbob.xyz](https://quetre.esmailelbob.xyz)
 - [quetre.iket.me](https://quetre.iket.me)
+- [quetre.marcopisco.com](https://quetre.marcopisco.com)
 - [quetre.odyssey346.dev](https://quetre.odyssey346.dev)
 - [quetre.privacydev.net](https://quetre.privacydev.net)
 - [quetre.projectsegfau.lt](https://quetre.projectsegfau.lt)

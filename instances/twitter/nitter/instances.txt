@@ -1,6 +1,7 @@
 bird.habedieeh.re
 bird.trom.tf
 birdsite.xanny.family
+bluebird.codeine.world
 canada.unofficialbird.com
 fuckthesacklers.network
 india.unofficialbird.com
@@ -12,7 +13,6 @@ nitter.1d4.us
 nitter.adminforge.de
 nitter.at
 nitter.bird.froth.zone
-nitter.ca
 nitter.caioalonso.com
 nitter.catalyst.sx
 nitter.cutelab.space
@@ -76,6 +76,7 @@ ntr.odyssey346.dev
 nttr.stream
 read.whatever.social
 singapore.unofficialbird.com
+t.com.sb
 tw.artemislena.eu
 tweet.lambda.dance
 twitter.beparanoid.de

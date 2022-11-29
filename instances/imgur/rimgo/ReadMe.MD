@@ -1,5 +1,4 @@
 # Clearnet
-- [i.actionsack.com](https://i.actionsack.com)
 - [i.habedieeh.re](https://i.habedieeh.re)
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)
 - [ri.zzls.xyz](https://ri.zzls.xyz)
@@ -9,8 +8,8 @@
 - [rimgo.encrypted-data.xyz](https://rimgo.encrypted-data.xyz)
 - [rimgo.esmailelbob.xyz](https://rimgo.esmailelbob.xyz)
 - [rimgo.hostux.net](https://rimgo.hostux.net)
+- [rimgo.marcopisco.com](https://rimgo.marcopisco.com)
 - [rimgo.mha.fi](https://rimgo.mha.fi)
-- [rimgo.privacydev.net](https://rimgo.privacydev.net)
 - [rimgo.privacytools.io](https://rimgo.privacytools.io)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
 - [rimgo.totaldarkness.net](https://rimgo.totaldarkness.net)

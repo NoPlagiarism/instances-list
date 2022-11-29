@@ -1,9 +1,8 @@
-de.xcxc.ml
 dynabyte.ca
 etsi.me
+intelwinds.com
 jackgoss.xyz
 jsearch.pw
-metasearch.nl
 northboot.xyz
 notsearch.uk
 ooglester.com
@@ -15,7 +14,6 @@ privatus.live
 s.frlt.one
 s.trung.fun
 s.zhaocloud.net
-saber.tk
 search.0relay.com
 search.affusio.com
 search.bus-hit.me
@@ -43,6 +41,7 @@ search.smnz.de
 search.stinpriza.org
 search.trom.tf
 search.unlocked.link
+search.us.projectsegfau.lt
 search.uspersec.com
 search.vidhukant.xyz
 search.zzls.xyz
@@ -75,6 +74,7 @@ searx.oakleycord.dev
 searx.orion-hub.fr
 searx.priv.pw
 searx.prvcy.eu
+searx.rasp.fr
 searx.rimkus.it
 searx.roflcopter.fr
 searx.ru
@@ -102,7 +102,5 @@ srx.cosmohub.io
 suche.tromdienste.de
 swag.pw
 sx.catgirl.cloud
-wicked.guru
 www.gruble.de
-www.webrats.xyz
 xo.wtf
