@@ -33,6 +33,7 @@ nitter.hostux.net
 nitter.hu
 nitter.inpt.fr
 nitter.ir
+nitter.it
 nitter.kavin.rocks
 nitter.kylrth.com
 nitter.lacontrevoie.fr

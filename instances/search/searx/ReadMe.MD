@@ -40,6 +40,7 @@
 - [search.serginho.dev](https://search.serginho.dev)
 - [search.smnz.de](https://search.smnz.de)
 - [search.stinpriza.org](https://search.stinpriza.org)
+- [search.suenram.us](https://search.suenram.us)
 - [search.trom.tf](https://search.trom.tf)
 - [search.unlocked.link](https://search.unlocked.link)
 - [search.us.projectsegfau.lt](https://search.us.projectsegfau.lt)

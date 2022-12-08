@@ -2,7 +2,7 @@
 - [buscar.weblibre.org](https://buscar.weblibre.org)
 - [librex.beparanoid.de](https://librex.beparanoid.de)
 - [librex.kitscomputer.tk](https://librex.kitscomputer.tk)
-- [librex.smlan.dev](https://librex.smlan.dev)
+- [librex.mikata.ru](https://librex.mikata.ru)
 - [lx.vern.cc](https://lx.vern.cc)
 - [search.ahwx.org](https://search.ahwx.org)
 - [search.davidovski.xyz](https://search.davidovski.xyz)
@@ -10,6 +10,7 @@
 - [search.madreyk.xyz](https://search.madreyk.xyz)
 - [search.pabloferreiro.es](https://search.pabloferreiro.es)
 # Onion
+- [f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion](http://f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion)
 - [librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion](http://librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion)
 - [lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 # I2P

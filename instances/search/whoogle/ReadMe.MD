@@ -8,10 +8,12 @@
 - [wg.vern.cc](https://wg.vern.cc)
 - [whoogle.dcs0.hu](https://whoogle.dcs0.hu)
 - [whoogle.esmailelbob.xyz](https://whoogle.esmailelbob.xyz)
+- [whoogle.hostux.net](https://whoogle.hostux.net)
 - [whoogle.privacydev.net](https://whoogle.privacydev.net)
 - [www.indexia.gq](https://www.indexia.gq)
 # Onion
 - [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](http://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)
+- [whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 # I2P
 - [verneks7rfjptpz5fpii7n7nrxilsidi2qxepeuuf66c3tsf4nhq.b32.i2p](http://verneks7rfjptpz5fpii7n7nrxilsidi2qxepeuuf66c3tsf4nhq.b32.i2p)

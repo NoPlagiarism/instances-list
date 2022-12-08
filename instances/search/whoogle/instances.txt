@@ -7,5 +7,6 @@ search.sethforprivacy.com
 wg.vern.cc
 whoogle.dcs0.hu
 whoogle.esmailelbob.xyz
+whoogle.hostux.net
 whoogle.privacydev.net
 www.indexia.gq
