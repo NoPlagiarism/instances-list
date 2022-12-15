@@ -1,3 +1,4 @@
+import asyncio
 import json
 import os
 import re
@@ -14,6 +15,7 @@ try:
 except ImportError:
     from consts import INST_FOLDER, Network, HOME_PATH
 
+ENABLE_ASYNC = True
 ENABLE_PATH_IN_DOMAINS = False
 IGNORE_DOMAINS_WITH_PATHS = True
 SLEEP_TIMEOUT_PER_GROUP = 3
@@ -77,6 +79,18 @@ class BaseDomainsGettter:
             return True
         return False
 
+    async def async_update(self):
+        self.inst.makedirs()
+        domains = await self.async_get_all_domains()
+        domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), domains))))
+        if self.inst.domains_handle is not None:
+            domains = self.inst.domains_handle(domains)
+        if self.check_if_update(domains):
+            self.inst.save_as_json(domains)
+            self.inst.save_list_as_txt(domains)
+            return True
+        return False
+
 
 @dataclass
 class RegexFromUrlInstance(BaseInstance):
@@ -123,6 +137,13 @@ class RegexFromUrl(BaseDomainsGettter):
         text = httpx.get(self.inst.url).text
         domain_list = self.get_all_domains_from_text(text)
         return domain_list
+    
+    async def async_get_all_domains(self):
+        async with httpx.AsyncClient() as client:
+            resp = await client.get(self.inst.url)
+            text = resp.text
+        domain_list = self.get_all_domains_from_text(text)
+        return domain_list
 
 
 @dataclass
@@ -166,6 +187,12 @@ class JustFromUrl(BaseDomainsGettter):
         domain_list = raw.strip("\n").split("\n")
         return domain_list
 
+    async def async_get_all_domains(self):
+        async with httpx.AsyncClient() as client:
+            resp = await client.get(self.inst.url)
+            domain_list = resp.text.strip("\n").split("\n")
+            return domain_list
+
 
 @dataclass
 class JSONUsingCallableInstance(BaseInstance):
@@ -186,6 +213,13 @@ class JSONUsingCallable(BaseDomainsGettter):
         raw = resp.json()
         result = self.inst.json_handle(raw)
         return result
+
+    async def async_get_all_domains(self):
+        async with httpx.AsyncClient() as client:
+            resp = await client.get(self.inst.url)
+            raw = resp.json()
+            result = self.inst.json_handle(raw)
+            return result
 
 
 @dataclass
@@ -226,6 +260,9 @@ class InstancesGroup:
     def update(self):
         for inst in self.instances:
             inst.from_instance().update()
+
+    def get_coroutines(self):
+        return tuple([x.from_instance().async_update() for x in self.instances])
 
 
 def get_domain_from_url(url):
@@ -316,5 +353,16 @@ def main():
         time.sleep(SLEEP_TIMEOUT_PER_GROUP)
 
 
+@logger.catch(reraise=True)
+async def async_main():
+    tasks = list()
+    for instance in INSTANCE_GROUPS:
+        tasks.extend(instance.from_instance().get_coroutines())
+    await asyncio.gather(*tasks)
+
+
 if __name__ == "__main__":
-    main()
+    if ENABLE_ASYNC:
+        asyncio.run(async_main())
+    else:
+        main()
