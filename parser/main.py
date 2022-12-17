@@ -344,7 +344,11 @@ INSTANCE_GROUPS = [
     InstancesGroupData(name="send", home_url="https://github.com/timvisee/send#readme", relative_filepath_without_ext="filedrop/send",
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, crop_from="## Instances", crop_to="---", url="https://raw.githubusercontent.com/timvisee/send-instances/master/README.md", regex_pattern=r"\-\s+https:\/\/(?P<domain>[\w\-\.]+)\s+\("), )),
     InstancesGroupData(name="breezewiki", home_url="https://gitdab.com/cadence/breezewiki", relative_filepath_without_ext="fandom/breezewiki",
-                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://docs.breezewiki.com/files/instances.json", json_handle=lambda raw: tuple(map(lambda inst: get_domain_from_url(inst['instance']), raw))), ))
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://docs.breezewiki.com/files/instances.json", json_handle=lambda raw: tuple(map(lambda inst: get_domain_from_url(inst['instance']), raw))), )),
+    InstancesGroupData(name="libmedium", home_url="https://github.com/realaravinth/libmedium", relative_filepath_without_ext="medium/libmedium",
+                       instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/realaravinth/libmedium/master/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+https:\/\/(?P<domain>[\w\-\.]+)\/?\s+\|\s+(?P<country>(?:[^\|])+)\s+\|\s+(?P<provider>(?:[^\|])+)\s+\|\s+(?P<host>(?:[^\|])+)\|?"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/realaravinth/libmedium/master/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+http:\/\/(?P<domain>[\w\-\.]+(?:\.onion))\/?\s+\|\s+(?P<country>(?:[^\|])+)\s+\|\s+(?P<provider>(?:[^\|])+)\s+\|\s+(?P<host>(?:[^\|])+)\|?"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://raw.githubusercontent.com/realaravinth/libmedium/master/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+http:\/\/(?P<domain>[\w\-\.]+(?:\.i2p))\/?\s+\|\s+(?P<country>(?:[^\|])+)\s+\|\s+(?P<provider>(?:[^\|])+)\s+\|\s+(?P<host>(?:[^\|])+)\|?"))),
 ]
 
 
