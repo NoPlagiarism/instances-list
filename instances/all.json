@@ -775,5 +775,66 @@
             "bw.odyssey346.dev",
             "bw.vern.cc"
         ]
+    },
+    "libmedium": {
+        "name": "libmedium",
+        "url": "https://github.com/realaravinth/libmedium",
+        "instances": [
+            "libmedium.batsense.net",
+            "md.vern.cc"
+        ],
+        "onion": [
+            "md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
+        "i2p": [
+            "vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p"
+        ]
+    },
+    "simpleertube": {
+        "name": "SimpleerTube",
+        "url": "https://simple-web.org/projects/simpleertube.html",
+        "instances": [
+            "simpleertube.esmailelbob.xyz",
+            "st.vern.cc",
+            "stube.tokhmi.xyz",
+            "tube.simple-web.org"
+        ],
+        "onion": [
+            "simpleertube.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
+            "st.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
+        "i2p": [
+            "verntblehhel4dx6ntyxkj4mryvic3s3yptzxewzwnldq3esi4qq.b32.i2p"
+        ]
+    },
+    "dumb": {
+        "name": "dumb",
+        "url": "https://github.com/rramiachraf/dumb",
+        "instances": [
+            "dm.vern.cc",
+            "dumb.nunosempere.com"
+        ],
+        "onion": [
+            "dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
+        "i2p": [
+            "vernxpcpqi2y4uhu7to4rnjmyjjgzh3x3qxyzpmkhykefchkmleq.b32.i2p"
+        ]
+    },
+    "biblioreads": {
+        "name": "biblioreads",
+        "url": "https://github.com/nesaku/BiblioReads",
+        "instances": [
+            "biblioreads.ga",
+            "biblioreads.ml",
+            "biblioreads.netlify.app",
+            "bl.vern.cc"
+        ],
+        "onion": [
+            "bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
+        "i2p": [
+            "vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p"
+        ]
     }
 }

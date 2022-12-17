@@ -20,6 +20,10 @@
 - [nitter](#nitter)
 - [send](#send)
 - [breezewiki](#breezewiki)
+- [libmedium](#libmedium)
+- [SimpleerTube](#simpleertube)
+- [dumb](#dumb)
+- [biblioreads](#biblioreads)
 
 ## ProxiTok
 
@@ -731,3 +735,48 @@
 - [bw.artemislena.eu](https://bw.artemislena.eu)
 - [bw.odyssey346.dev](https://bw.odyssey346.dev)
 - [bw.vern.cc](https://bw.vern.cc)
+
+## libmedium
+
+### Clearnet
+- [libmedium.batsense.net](https://libmedium.batsense.net)
+- [md.vern.cc](https://md.vern.cc)
+### Onion
+- [md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+### I2P
+- [vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p](http://vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p)
+
+## SimpleerTube
+
+### Clearnet
+- [simpleertube.esmailelbob.xyz](https://simpleertube.esmailelbob.xyz)
+- [st.vern.cc](https://st.vern.cc)
+- [stube.tokhmi.xyz](https://stube.tokhmi.xyz)
+- [tube.simple-web.org](https://tube.simple-web.org)
+### Onion
+- [simpleertube.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://simpleertube.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
+- [st.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://st.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+### I2P
+- [verntblehhel4dx6ntyxkj4mryvic3s3yptzxewzwnldq3esi4qq.b32.i2p](http://verntblehhel4dx6ntyxkj4mryvic3s3yptzxewzwnldq3esi4qq.b32.i2p)
+
+## dumb
+
+### Clearnet
+- [dm.vern.cc](https://dm.vern.cc)
+- [dumb.nunosempere.com](https://dumb.nunosempere.com)
+### Onion
+- [dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+### I2P
+- [vernxpcpqi2y4uhu7to4rnjmyjjgzh3x3qxyzpmkhykefchkmleq.b32.i2p](http://vernxpcpqi2y4uhu7to4rnjmyjjgzh3x3qxyzpmkhykefchkmleq.b32.i2p)
+
+## biblioreads
+
+### Clearnet
+- [biblioreads.ga](https://biblioreads.ga)
+- [biblioreads.ml](https://biblioreads.ml)
+- [biblioreads.netlify.app](https://biblioreads.netlify.app)
+- [bl.vern.cc](https://bl.vern.cc)
+### Onion
+- [bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+### I2P
+- [vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p](http://vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p)
