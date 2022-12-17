@@ -361,6 +361,8 @@ INSTANCE_GROUPS = [
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/nesaku/BiblioReads/main/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\(https:\/\/[\w\-\.]+\)\s+\|"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/nesaku/BiblioReads/main/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.onion)\]\(http:\/\/[\w\-\.]+\)\s+\|"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://raw.githubusercontent.com/nesaku/BiblioReads/main/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.i2p)\]\(http:\/\/[\w\-\.]+\)\s+\|"))),
+    InstancesGroupData(name="gothub", home_url="https://codeberg.org/gothub/gothub", relative_filepath_without_ext="github/gothub",
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://codeberg.org/gothub/gothub/wiki/raw/Instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\(https:\/\/[\w\-\.]+\)\s+\|"), )),
 ]
 
 
