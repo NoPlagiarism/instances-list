@@ -836,5 +836,12 @@
         "i2p": [
             "vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p"
         ]
+    },
+    "gothub": {
+        "name": "gothub",
+        "url": "https://codeberg.org/gothub/gothub",
+        "instances": [
+            "gh.vern.cc"
+        ]
     }
 }

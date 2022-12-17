@@ -24,6 +24,7 @@
 - [SimpleerTube](#simpleertube)
 - [dumb](#dumb)
 - [biblioreads](#biblioreads)
+- [gothub](#gothub)
 
 ## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
@@ -780,3 +781,8 @@
 - [bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 ### I2P
 - [vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p](http://vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p)
+
+## [gothub](https://codeberg.org/gothub/gothub)
+
+### Clearnet
+- [gh.vern.cc](https://gh.vern.cc)
