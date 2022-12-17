@@ -19,6 +19,7 @@
 - [librarian](#librarian)
 - [nitter](#nitter)
 - [send](#send)
+- [breezewiki](#breezewiki)
 
 ## ProxiTok
 
@@ -142,7 +143,6 @@
 - [search.cronobox.one](https://search.cronobox.one)
 - [search.disroot.org](https://search.disroot.org)
 - [search.drivet.xyz](https://search.drivet.xyz)
-- [search.ethibox.fr](https://search.ethibox.fr)
 - [search.gcomm.ch](https://search.gcomm.ch)
 - [search.kiwitalk.de](https://search.kiwitalk.de)
 - [search.kvj.ovh](https://search.kvj.ovh)
@@ -721,3 +721,13 @@
 - [send.vis.ee](https://send.vis.ee)
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)
+
+## breezewiki
+
+### Clearnet
+- [breezewiki.com](https://breezewiki.com)
+- [breezewiki.esmailelbob.xyz](https://breezewiki.esmailelbob.xyz)
+- [breezewiki.pussthecat.org](https://breezewiki.pussthecat.org)
+- [bw.artemislena.eu](https://bw.artemislena.eu)
+- [bw.odyssey346.dev](https://bw.odyssey346.dev)
+- [bw.vern.cc](https://bw.vern.cc)

@@ -25,7 +25,6 @@ search.chemicals-in-the-water.eu
 search.cronobox.one
 search.disroot.org
 search.drivet.xyz
-search.ethibox.fr
 search.gcomm.ch
 search.kiwitalk.de
 search.kvj.ovh

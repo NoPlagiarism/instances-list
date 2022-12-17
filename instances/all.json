@@ -137,7 +137,6 @@
             "search.cronobox.one",
             "search.disroot.org",
             "search.drivet.xyz",
-            "search.ethibox.fr",
             "search.gcomm.ch",
             "search.kiwitalk.de",
             "search.kvj.ovh",
@@ -763,6 +762,18 @@
             "send.vis.ee",
             "send.zcyph.cc",
             "transfer.acted.org"
+        ]
+    },
+    "breezewiki": {
+        "name": "breezewiki",
+        "url": "https://gitdab.com/cadence/breezewiki",
+        "instances": [
+            "breezewiki.com",
+            "breezewiki.esmailelbob.xyz",
+            "breezewiki.pussthecat.org",
+            "bw.artemislena.eu",
+            "bw.odyssey346.dev",
+            "bw.vern.cc"
         ]
     }
 }

@@ -26,7 +26,6 @@
 - [search.cronobox.one](https://search.cronobox.one)
 - [search.disroot.org](https://search.disroot.org)
 - [search.drivet.xyz](https://search.drivet.xyz)
-- [search.ethibox.fr](https://search.ethibox.fr)
 - [search.gcomm.ch](https://search.gcomm.ch)
 - [search.kiwitalk.de](https://search.kiwitalk.de)
 - [search.kvj.ovh](https://search.kvj.ovh)
