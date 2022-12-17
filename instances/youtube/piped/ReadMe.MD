@@ -17,4 +17,5 @@
 - [piped.smnz.de](https://piped.smnz.de)
 - [piped.syncpundit.io](https://piped.syncpundit.io)
 - [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
+- [piped.vern.cc](https://piped.vern.cc)
 - [piped.whatever.social](https://piped.whatever.social)

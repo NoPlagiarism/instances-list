@@ -164,7 +164,6 @@
 - [search.unlocked.link](https://search.unlocked.link)
 - [search.us.projectsegfau.lt](https://search.us.projectsegfau.lt)
 - [search.uspersec.com](https://search.uspersec.com)
-- [search.vidhukant.xyz](https://search.vidhukant.xyz)
 - [search.zzls.xyz](https://search.zzls.xyz)
 - [searx.baczek.me](https://searx.baczek.me)
 - [searx.be](https://searx.be)
@@ -197,7 +196,6 @@
 - [searx.priv.pw](https://searx.priv.pw)
 - [searx.prvcy.eu](https://searx.prvcy.eu)
 - [searx.rasp.fr](https://searx.rasp.fr)
-- [searx.rimkus.it](https://searx.rimkus.it)
 - [searx.roflcopter.fr](https://searx.roflcopter.fr)
 - [searx.ru](https://searx.ru)
 - [searx.semipvt.com](https://searx.semipvt.com)
@@ -433,6 +431,7 @@
 - [piped.smnz.de](https://piped.smnz.de)
 - [piped.syncpundit.io](https://piped.syncpundit.io)
 - [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
+- [piped.vern.cc](https://piped.vern.cc)
 - [piped.whatever.social](https://piped.whatever.social)
 
 ## Invidious
