@@ -349,6 +349,10 @@ INSTANCE_GROUPS = [
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/realaravinth/libmedium/master/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+https:\/\/(?P<domain>[\w\-\.]+)\/?\s+\|\s+(?P<country>(?:[^\|])+)\s+\|\s+(?P<provider>(?:[^\|])+)\s+\|\s+(?P<host>(?:[^\|])+)\|?"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/realaravinth/libmedium/master/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+http:\/\/(?P<domain>[\w\-\.]+(?:\.onion))\/?\s+\|\s+(?P<country>(?:[^\|])+)\s+\|\s+(?P<provider>(?:[^\|])+)\s+\|\s+(?P<host>(?:[^\|])+)\|?"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://raw.githubusercontent.com/realaravinth/libmedium/master/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+http:\/\/(?P<domain>[\w\-\.]+(?:\.i2p))\/?\s+\|\s+(?P<country>(?:[^\|])+)\s+\|\s+(?P<provider>(?:[^\|])+)\s+\|\s+(?P<host>(?:[^\|])+)\|?"))),
+    InstancesGroupData(name="SimpleerTube", home_url="https://simple-web.org/projects/simpleertube.html", relative_filepath_without_ext="peertube/simpleertube",
+                       instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://simple-web.org/instances/simpleertube"),
+                                  JustFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://simple-web.org/instances/simpleertube_onion"),
+                                  JustFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://simple-web.org/instances/simpleertube_i2p"))),
 ]
 
 
