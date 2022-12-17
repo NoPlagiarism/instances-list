@@ -25,7 +25,7 @@
 - [dumb](#dumb)
 - [biblioreads](#biblioreads)
 
-## ProxiTok
+## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
 ### Clearnet
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
@@ -51,7 +51,7 @@
 ### I2P
 - [vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p](http://vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p)
 
-## SimplyTranslate
+## [SimplyTranslate](https://simple-web.org/projects/simplytranslate.html)
 
 ### Clearnet
 - [simplytranslate.esmailelbob.xyz](https://simplytranslate.esmailelbob.xyz)
@@ -84,7 +84,7 @@
 ### Loki
 - [translate.priv.loki](http://translate.priv.loki)
 
-## LingvaTranslate
+## [LingvaTranslate](https://github.com/TheDavidDelta/lingva-translate#lingva-translate)
 
 ### Clearnet
 - [lingva.garudalinux.org](https://lingva.garudalinux.org)
@@ -95,7 +95,7 @@
 - [translate.plausibility.cloud](https://translate.plausibility.cloud)
 - [translate.projectsegfau.lt](https://translate.projectsegfau.lt)
 
-## Whoogle
+## [Whoogle](https://github.com/benbusby/whoogle-search#readme)
 
 ### Clearnet
 - [gowogle.voring.me](https://gowogle.voring.me)
@@ -117,7 +117,7 @@
 ### I2P
 - [verneks7rfjptpz5fpii7n7nrxilsidi2qxepeuuf66c3tsf4nhq.b32.i2p](http://verneks7rfjptpz5fpii7n7nrxilsidi2qxepeuuf66c3tsf4nhq.b32.i2p)
 
-## SearXNG
+## [SearXNG](https://github.com/searxng/searxng#readme)
 
 ### Clearnet
 - [baresearch.org](https://baresearch.org)
@@ -250,7 +250,7 @@
 - [mqamk4cfykdvhw5kjez2gnvse56gmnqxn7vkvvbuor4k4j2lbbnq.b32.i2p](http://mqamk4cfykdvhw5kjez2gnvse56gmnqxn7vkvvbuor4k4j2lbbnq.b32.i2p)
 - [ransack.i2p](http://ransack.i2p)
 
-## LibreX
+## [LibreX](https://github.com/hnhx/librex#readme)
 
 ### Clearnet
 - [buscar.weblibre.org](https://buscar.weblibre.org)
@@ -270,7 +270,7 @@
 ### I2P
 - [vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p](http://vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p)
 
-## teddit
+## [teddit](https://codeberg.org/teddit/teddit)
 
 ### Clearnet
 - [i.opnxng.com](https://i.opnxng.com)
@@ -317,7 +317,7 @@
 - [vzeiwzi7ogwl3ijrfek4fbtwhvamxcpyqoc3s4vcgnhlp54s5clq.b32.i2p](http://vzeiwzi7ogwl3ijrfek4fbtwhvamxcpyqoc3s4vcgnhlp54s5clq.b32.i2p)
 - [xugoqcf2pftm76vbznx4xuhrzyb5b6zwpizpnw2hysexjdn5l2tq.b32.i2p](http://xugoqcf2pftm76vbznx4xuhrzyb5b6zwpizpnw2hysexjdn5l2tq.b32.i2p)
 
-## libreddit
+## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
 - [bob.fr.to](https://bob.fr.to)
@@ -385,7 +385,7 @@
 - [ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion)
 - [ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion)
 
-## WikiLess
+## [WikiLess](https://gitea.slowb.ro/ticoombs/Wikiless#wikiless)
 
 ### Clearnet
 - [wiki.604kph.xyz](https://wiki.604kph.xyz)
@@ -414,7 +414,7 @@
 - [vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p](http://vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p)
 - [wikiless.i2p](http://wikiless.i2p)
 
-## Piped
+## [Piped](https://github.com/TeamPiped/Piped#readme)
 
 ### Clearnet
 - [piped.adminforge.de](https://piped.adminforge.de)
@@ -438,7 +438,7 @@
 - [piped.vern.cc](https://piped.vern.cc)
 - [piped.whatever.social](https://piped.whatever.social)
 
-## Invidious
+## [Invidious](https://github.com/iv-org/invidious#readme)
 
 ### Clearnet
 - [inv.bp.projectsegfau.lt](https://inv.bp.projectsegfau.lt)
@@ -481,7 +481,7 @@
 ### I2P
 - [inv.vern.i2p](http://inv.vern.i2p)
 
-## HyperPipe
+## [HyperPipe](https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe)
 
 ### Clearnet
 - [hyperpipe.esmailelbob.xyz](https://hyperpipe.esmailelbob.xyz)
@@ -491,7 +491,7 @@
 ### Onion
 - [hyperpipe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://hyperpipe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 
-## Scribe
+## [Scribe](https://sr.ht/~edwardloveall/Scribe/)
 
 ### Clearnet
 - [scribe.bus-hit.me](https://scribe.bus-hit.me)
@@ -509,7 +509,7 @@
 ### I2P
 - [vern3whzyfmjclq6snhlupma6nrmojghwp37tydfgqotj7sc6izq.b32.i2p](http://vern3whzyfmjclq6snhlupma6nrmojghwp37tydfgqotj7sc6izq.b32.i2p)
 
-## Quetre
+## [Quetre](https://github.com/zyachel/quetre#readme)
 
 ### Clearnet
 - [ask.habedieeh.re](https://ask.habedieeh.re)
@@ -532,7 +532,7 @@
 ### I2P
 - [qr.vern.i2p](http://qr.vern.i2p)
 
-## rimgo
+## [rimgo](https://codeberg.org/video-prize-ranch/rimgo#rimgo)
 
 ### Clearnet
 - [i.habedieeh.re](https://i.habedieeh.re)
@@ -559,7 +559,7 @@
 - [rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [tdp6uqjtmok723suum5ms3jbquht6d7dssug4cgcxhfniatb25gcipad.onion](http://tdp6uqjtmok723suum5ms3jbquht6d7dssug4cgcxhfniatb25gcipad.onion)
 
-## librarian
+## [librarian](https://codeberg.org/librarian/librarian#librarian)
 
 ### Clearnet
 - [lbry.bcow.xyz](https://lbry.bcow.xyz)
@@ -577,7 +577,7 @@
 - [librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [zjmls4urccc5wxc64ilbv4oqarjab6pbanvmhd2qqt6p7fgqrjjnryqd.onion](http://zjmls4urccc5wxc64ilbv4oqarjab6pbanvmhd2qqt6p7fgqrjjnryqd.onion)
 
-## nitter
+## [nitter](https://github.com/zedeus/nitter#readme)
 
 ### Clearnet
 - [bird.habedieeh.re](https://bird.habedieeh.re)
@@ -707,7 +707,7 @@
 ### Loki
 - [nitter.priv.loki](http://nitter.priv.loki)
 
-## send
+## [send](https://github.com/timvisee/send#readme)
 
 ### Clearnet
 - [drop.chapril.org](https://drop.chapril.org)
@@ -726,7 +726,7 @@
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)
 
-## breezewiki
+## [breezewiki](https://gitdab.com/cadence/breezewiki)
 
 ### Clearnet
 - [breezewiki.com](https://breezewiki.com)
@@ -736,7 +736,7 @@
 - [bw.odyssey346.dev](https://bw.odyssey346.dev)
 - [bw.vern.cc](https://bw.vern.cc)
 
-## libmedium
+## [libmedium](https://github.com/realaravinth/libmedium)
 
 ### Clearnet
 - [libmedium.batsense.net](https://libmedium.batsense.net)
@@ -746,7 +746,7 @@
 ### I2P
 - [vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p](http://vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p)
 
-## SimpleerTube
+## [SimpleerTube](https://simple-web.org/projects/simpleertube.html)
 
 ### Clearnet
 - [simpleertube.esmailelbob.xyz](https://simpleertube.esmailelbob.xyz)
@@ -759,7 +759,7 @@
 ### I2P
 - [verntblehhel4dx6ntyxkj4mryvic3s3yptzxewzwnldq3esi4qq.b32.i2p](http://verntblehhel4dx6ntyxkj4mryvic3s3yptzxewzwnldq3esi4qq.b32.i2p)
 
-## dumb
+## [dumb](https://github.com/rramiachraf/dumb)
 
 ### Clearnet
 - [dm.vern.cc](https://dm.vern.cc)
@@ -769,7 +769,7 @@
 ### I2P
 - [vernxpcpqi2y4uhu7to4rnjmyjjgzh3x3qxyzpmkhykefchkmleq.b32.i2p](http://vernxpcpqi2y4uhu7to4rnjmyjjgzh3x3qxyzpmkhykefchkmleq.b32.i2p)
 
-## biblioreads
+## [biblioreads](https://github.com/nesaku/BiblioReads)
 
 ### Clearnet
 - [biblioreads.ga](https://biblioreads.ga)

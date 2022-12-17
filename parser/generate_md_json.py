@@ -75,7 +75,7 @@ def create_all_md(groups_data):
     md += "\n".join([f"- [{group.inst.name}](#{group.inst.get_name().replace(' ', '-')})" for group in groups])
     md += "\n"
     for group in groups:
-        md += f"\n## {group.inst.name}\n\n{create_instance_group_readme(group.inst, save=False, header=3)}"
+        md += f"\n## [{group.inst.name}]({group.inst.home_url})\n\n{create_instance_group_readme(group.inst, save=False, header=3)}"
     save_md(md, os.path.join(HOME_PATH, INST_FOLDER, "all.md"))
 
 
