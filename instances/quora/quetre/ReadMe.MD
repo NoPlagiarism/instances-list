@@ -9,7 +9,6 @@
 - [quetre.projectsegfau.lt](https://quetre.projectsegfau.lt)
 - [quetre.pussthecat.org](https://quetre.pussthecat.org)
 - [quetre.tokhmi.xyz](https://quetre.tokhmi.xyz)
-- [quetreus.herokuapp.com](https://quetreus.herokuapp.com)
 - [quora.vern.cc](https://quora.vern.cc)
 # Onion
 - [ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)

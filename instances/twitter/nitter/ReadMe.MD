@@ -12,6 +12,7 @@
 - [nitter.adminforge.de](https://nitter.adminforge.de)
 - [nitter.at](https://nitter.at)
 - [nitter.bird.froth.zone](https://nitter.bird.froth.zone)
+- [nitter.bus-hit.me](https://nitter.bus-hit.me)
 - [nitter.caioalonso.com](https://nitter.caioalonso.com)
 - [nitter.catalyst.sx](https://nitter.catalyst.sx)
 - [nitter.cutelab.space](https://nitter.cutelab.space)

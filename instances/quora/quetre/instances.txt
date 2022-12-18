@@ -8,5 +8,4 @@ quetre.privacydev.net
 quetre.projectsegfau.lt
 quetre.pussthecat.org
 quetre.tokhmi.xyz
-quetreus.herokuapp.com
 quora.vern.cc

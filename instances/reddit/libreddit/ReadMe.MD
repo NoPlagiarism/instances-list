@@ -24,7 +24,6 @@
 - [libreddit.northboot.xyz](https://libreddit.northboot.xyz)
 - [libreddit.org](https://libreddit.org)
 - [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)
-- [libreddit.privacy.com.de](https://libreddit.privacy.com.de)
 - [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pufe.org](https://libreddit.pufe.org)
@@ -54,6 +53,7 @@
 - [reddit.selfhostable.net](https://reddit.selfhostable.net)
 - [reddit.simo.sh](https://reddit.simo.sh)
 - [reddit.smnz.de](https://reddit.smnz.de)
+- [reddit.stuehieyr.com](https://reddit.stuehieyr.com)
 - [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [www.futureddit.gq](https://www.futureddit.gq)
 # Onion
