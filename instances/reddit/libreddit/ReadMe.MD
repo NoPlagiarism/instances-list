@@ -43,7 +43,7 @@
 - [lr.vern.cc](https://lr.vern.cc)
 - [r.ahwx.org](https://r.ahwx.org)
 - [r.nf](https://r.nf)
-- [r.walkx.org](https://r.walkx.org)
+- [r.walkx.fyi](https://r.walkx.fyi)
 - [rd.funami.tech](https://rd.funami.tech)
 - [rd.jae.su](https://rd.jae.su)
 - [reddi.tk](https://reddi.tk)
