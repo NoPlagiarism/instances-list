@@ -35,6 +35,8 @@ def save_json(obj, filepath):
 def create_instance_group_readme(metadata: InstancesGroupData, save=True, header=1):
     data = metadata.from_instance()
     md = ""
+    if save:
+        md += f"# [{metadata.name}]({metadata.home_url})\n\n"
     for inst in data.instances:
         md += "#" * header
         md += {Network.CLEARNET: " Clearnet", Network.ONION: " Onion",

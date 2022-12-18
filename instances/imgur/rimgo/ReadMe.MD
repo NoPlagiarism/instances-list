@@ -1,3 +1,5 @@
+# [rimgo](https://codeberg.org/video-prize-ranch/rimgo#rimgo)
+
 # Clearnet
 - [i.habedieeh.re](https://i.habedieeh.re)
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)

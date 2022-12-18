@@ -1,3 +1,5 @@
+# [Whoogle](https://github.com/benbusby/whoogle-search#readme)
+
 # Clearnet
 - [gowogle.voring.me](https://gowogle.voring.me)
 - [s.tokhmi.xyz](https://s.tokhmi.xyz)

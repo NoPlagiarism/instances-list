@@ -1,3 +1,5 @@
+# [SearXNG](https://github.com/searxng/searxng#readme)
+
 # Clearnet
 - [baresearch.org](https://baresearch.org)
 - [dynabyte.ca](https://dynabyte.ca)

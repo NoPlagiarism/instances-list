@@ -1,3 +1,5 @@
+# [LingvaTranslate](https://github.com/TheDavidDelta/lingva-translate#lingva-translate)
+
 # Clearnet
 - [lingva.garudalinux.org](https://lingva.garudalinux.org)
 - [lingva.ml](https://lingva.ml)

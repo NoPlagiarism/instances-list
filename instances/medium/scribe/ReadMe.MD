@@ -1,3 +1,5 @@
+# [Scribe](https://sr.ht/~edwardloveall/Scribe/)
+
 # Clearnet
 - [scribe.bus-hit.me](https://scribe.bus-hit.me)
 - [scribe.citizen4.eu](https://scribe.citizen4.eu)
