@@ -25,6 +25,7 @@
 - [dumb](#dumb)
 - [biblioreads](#biblioreads)
 - [gothub](#gothub)
+- [RYD-Proxy](#ryd-proxy)
 
 ## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
@@ -365,7 +366,7 @@
 - [lr.vern.cc](https://lr.vern.cc)
 - [r.ahwx.org](https://r.ahwx.org)
 - [r.nf](https://r.nf)
-- [r.walkx.org](https://r.walkx.org)
+- [r.walkx.fyi](https://r.walkx.fyi)
 - [rd.funami.tech](https://rd.funami.tech)
 - [rd.jae.su](https://rd.jae.su)
 - [reddi.tk](https://reddi.tk)
@@ -786,3 +787,9 @@
 
 ### Clearnet
 - [gh.vern.cc](https://gh.vern.cc)
+
+## [RYD-Proxy](https://github.com/TeamPiped/RYD-Proxy)
+
+### Clearnet
+- [ryd-proxy.kavin.rocks](https://ryd-proxy.kavin.rocks)
+- [ryd-proxy.privacydev.net](https://ryd-proxy.privacydev.net)

@@ -366,7 +366,7 @@
             "lr.vern.cc",
             "r.ahwx.org",
             "r.nf",
-            "r.walkx.org",
+            "r.walkx.fyi",
             "rd.funami.tech",
             "rd.jae.su",
             "reddi.tk",
@@ -842,6 +842,14 @@
         "url": "https://codeberg.org/gothub/gothub",
         "instances": [
             "gh.vern.cc"
+        ]
+    },
+    "ryd-proxy": {
+        "name": "RYD-Proxy",
+        "url": "https://github.com/TeamPiped/RYD-Proxy",
+        "instances": [
+            "ryd-proxy.kavin.rocks",
+            "ryd-proxy.privacydev.net"
         ]
     }
 }
