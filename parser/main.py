@@ -363,6 +363,8 @@ INSTANCE_GROUPS = [
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://raw.githubusercontent.com/nesaku/BiblioReads/main/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.i2p)\]\(http:\/\/[\w\-\.]+\)\s+\|"))),
     InstancesGroupData(name="gothub", home_url="https://codeberg.org/gothub/gothub", relative_filepath_without_ext="github/gothub",
                        instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://codeberg.org/gothub/gothub/wiki/raw/Instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\(https:\/\/[\w\-\.]+\)\s+\|"), )),
+    InstancesGroupData(name="RYD-Proxy", home_url="https://github.com/TeamPiped/RYD-Proxy", relative_filepath_without_ext="ryd/rydproxy",
+                       instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/ryd/clearnet.txt"), )),
 ]
 
 
