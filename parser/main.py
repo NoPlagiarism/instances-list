@@ -382,9 +382,12 @@ async def async_main():
         tasks.extend(instance.from_instance().get_coroutines())
     await asyncio.gather(*tasks)
 
-
-if __name__ == "__main__":
+def run():
     if ENABLE_ASYNC:
         asyncio.run(async_main())
     else:
         main()
+
+
+if __name__ == "__main__":
+    run()

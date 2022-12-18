@@ -1,6 +1,8 @@
 import json
 import os
 
+from loguru import logger
+
 try:
     from .consts import INST_FOLDER, Network
     from .main import HOME_PATH, INSTANCE_GROUPS, BaseInstance, InstancesGroupData
@@ -79,7 +81,12 @@ def create_all_md(groups_data):
     save_md(md, os.path.join(HOME_PATH, INST_FOLDER, "all.md"))
 
 
-if __name__ == "__main__":
+@logger.catch(reraise=True)
+def run():
     tuple(map(handle_instance, INSTANCE_GROUPS))
     create_all_json(INSTANCE_GROUPS)
     create_all_md(INSTANCE_GROUPS)
+
+
+if __name__ == "__main__":
+    run()
