@@ -268,7 +268,7 @@ class GetDomainsFromHeaders(BaseDomainsGettter):
     def get_domain_from_header(self, domain):
         _domain = None
         try:
-            resp = httpx.head("https://" + domain)
+            resp = httpx.get("https://" + domain)
             _domain = get_domain_from_url(resp.headers[self.inst.header])
         except KeyError:
             return None
@@ -282,7 +282,7 @@ class GetDomainsFromHeaders(BaseDomainsGettter):
         _domain = None
         try:
             async with httpx.AsyncClient() as client:
-                resp = await client.head("https://" + domain)
+                resp = await client.get("https://" + domain)
             _domain = get_domain_from_url(resp.headers[self.inst.header])
         except KeyError:
             return None
