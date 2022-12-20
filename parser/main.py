@@ -23,6 +23,8 @@ SLEEP_TIMEOUT_PER_TIMEOUT = 3
 SLEEP_TIMEOUT_PER_CHECK = 1
 TIMEOUTS_MAX = 3
 
+PRIORITIES = (0, 1)  # LOW, MEDIUM
+
 
 @dataclass
 class BaseInstance:
@@ -252,7 +254,6 @@ class GetDomainsFromHeadersInstance(BaseInstance):
     main: BaseInstance
     header: str
     
-    # TODO: support priority 
     priority = 1
     
     def from_instance(self):
@@ -342,12 +343,14 @@ class InstancesGroup:
             inst.set_parent(self)
             self.instances.append(inst)
     
-    def update(self):
+    def update(self, priority=0):
         for inst in self.instances:
+            if inst.priority != priority:
+                continue
             inst.from_instance().update()
 
-    def get_coroutines(self):
-        return tuple([x.from_instance().async_update() for x in self.instances])
+    def get_coroutines(self, priority=0):
+        return tuple([x.from_instance().async_update() for x in self.instances if x.priority == priority])
 
 
 def get_domain_from_url(url):
@@ -453,17 +456,19 @@ INSTANCE_GROUPS = [
 
 @logger.catch(reraise=True)
 def main():
-    for instance in INSTANCE_GROUPS:
-        instance.from_instance().update()
-        time.sleep(SLEEP_TIMEOUT_PER_GROUP)
+    for p in PRIORITIES:
+        for instance in INSTANCE_GROUPS:
+            instance.from_instance().update(priority=p)
+            time.sleep(SLEEP_TIMEOUT_PER_GROUP)
 
 
 @logger.catch(reraise=True)
 async def async_main():
-    tasks = list()
-    for instance in INSTANCE_GROUPS:
-        tasks.extend(instance.from_instance().get_coroutines())
-    await asyncio.gather(*tasks)
+    for p in PRIORITIES:
+        tasks = list()
+        for instance in INSTANCE_GROUPS:
+            tasks.extend(instance.from_instance().get_coroutines(priority=p))
+        await asyncio.gather(*tasks)
 
 def run():
     if ENABLE_ASYNC:
