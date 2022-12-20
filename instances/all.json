@@ -422,37 +422,6 @@
             "wikiless.i2p"
         ]
     },
-    "piped": {
-        "name": "Piped",
-        "url": "https://github.com/TeamPiped/Piped#readme",
-        "instances": [
-            "piped.adminforge.de",
-            "piped.aeong.one",
-            "piped.daviteusz.eu",
-            "piped.esmailelbob.xyz",
-            "piped.garudalinux.org",
-            "piped.hostux.net",
-            "piped.il.ax",
-            "piped.jae.fi",
-            "piped.kavin.rocks",
-            "piped.libre",
-            "piped.mha.fi",
-            "piped.mint.lgbt",
-            "piped.moomoo.me",
-            "piped.palveluntarjoaja.eu",
-            "piped.plibre.com",
-            "piped.privacy.com.de",
-            "piped.privacydev.net",
-            "piped.projectsegfau.lt",
-            "piped.qdi.fi",
-            "piped.rivo.lol",
-            "piped.smnz.de",
-            "piped.syncpundit.io",
-            "piped.tokhmi.xyz",
-            "piped.vern.cc",
-            "piped.whatever.social"
-        ]
-    },
     "invidious": {
         "name": "Invidious",
         "url": "https://github.com/iv-org/invidious#readme",
