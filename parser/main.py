@@ -11,11 +11,11 @@ import httpx
 from loguru import logger
 
 try:
-    from .consts import INST_FOLDER, Network, HOME_PATH
+    from .consts import INST_FOLDER, Network, HOME_PATH, MirrorHeaders
 except ImportError:
-    from consts import INST_FOLDER, Network, HOME_PATH
+    from consts import INST_FOLDER, Network, HOME_PATH, MirrorHeaders
 
-ENABLE_ASYNC = True
+ENABLE_ASYNC = False
 ENABLE_PATH_IN_DOMAINS = False
 IGNORE_DOMAINS_WITH_PATHS = True
 SLEEP_TIMEOUT_PER_GROUP = 3
@@ -27,6 +27,8 @@ class BaseInstance:
     
     parent = None
     domains_handle = None
+    check_domain = False
+    priority = 0
     
     def set_parent(self, par):
         self.parent = par
@@ -68,11 +70,21 @@ class BaseDomainsGettter:
         domains_old = self.inst.load_from_json()
         return not (domains == domains_old)
     
+    @staticmethod
+    def check_domain(domain):
+        try:
+            httpx.head("https://" + domain)
+            return True
+        except:
+            return False
+    
     def update(self):
         self.inst.makedirs()
         domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), self.get_all_domains()))))
         if self.inst.domains_handle is not None:
             domains = self.inst.domains_handle(domains)
+        if self.inst.check_domain:
+            domains = list(filter(self.check_domain, domains))
         if self.check_if_update(domains):
             self.inst.save_as_json(domains)
             self.inst.save_list_as_txt(domains)
@@ -85,6 +97,8 @@ class BaseDomainsGettter:
         domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), domains))))
         if self.inst.domains_handle is not None:
             domains = self.inst.domains_handle(domains)
+        if self.inst.check_domain:  # I even don't want to fix it... It's all to Piped... I love u, Piped
+            domains = list(filter(lambda x: self.check_domain(x), domains))
         if self.check_if_update(domains):
             self.inst.save_as_json(domains)
             self.inst.save_list_as_txt(domains)
@@ -98,6 +112,7 @@ class RegexFromUrlInstance(BaseInstance):
     regex_pattern: Union[str, Iterable]
     domains_handle: Callable = None
     regex_group: str = "domain"
+    check_domain: bool = False
     
     def from_instance(self):
         return RegexFromUrl(self)
@@ -223,6 +238,66 @@ class JSONUsingCallable(BaseDomainsGettter):
 
 
 @dataclass
+class GetDomainsFromHeadersInstance(BaseInstance):
+    main: BaseInstance
+    header: str
+    
+    # TODO: support priority 
+    priority = 1
+    
+    def from_instance(self):
+        return GetDomainsFromHeaders(self)
+
+
+class GetDomainsFromHeaders(BaseDomainsGettter):
+    def __init__(self, instance: GetDomainsFromHeadersInstance) -> None:
+        self.inst = instance
+        super().__init__()
+    
+    def get_domain_from_header(self, domain):
+        _domain = None
+        try:
+            resp = httpx.head("https://" + domain)
+            _domain = get_domain_from_url(resp.headers[self.inst.header])
+        except KeyError:
+            return None
+        except Exception as e:
+            logger.warning("Sth wrong with " + domain)
+            logger.warning("Error: " + str(type(e)))
+            logger.warning(f"{self.inst.header} from {domain} skipped")
+        return _domain
+
+    async def async_get_domain_from_header(self, domain):
+        _domain = None
+        try:
+            async with httpx.AsyncClient() as client:
+                resp = await client.head("https://" + domain)
+            _domain = get_domain_from_url(resp.headers[self.inst.header])
+        except KeyError:
+            return None
+        except Exception as e:
+            logger.warning("Sth wrong with " + domain)
+            logger.warning("Error: " + str(type(e)))
+            logger.warning(f"{self.inst.header} from {domain} skipped")
+        return _domain
+        
+    
+    def get_all_domains(self):
+        main_domains = self.inst.main.load_from_json()
+        domains = list(filter(lambda x: x is not None, map(self.get_domain_from_header, main_domains)))
+        return tuple(domains)
+    
+    async def async_get_all_domains(self):
+        main_domains = self.inst.main.load_from_json()
+        domains = list()
+        for main in main_domains:
+            domain = await self.async_get_domain_from_header(main)
+            if domain:
+                domains.append(domain)
+        return tuple(domains)
+
+
+@dataclass
 class InstancesGroupData:
     name: str
     home_url: str
@@ -314,7 +389,9 @@ INSTANCE_GROUPS = [
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, crop_from="## Instances", crop_to="## TODO", regex_group="onion", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, crop_from="## Instances", crop_to="## TODO", regex_group="i2p", url="https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/README.md", regex_pattern=r"\(https?:\/\/(?:(?P<i2p>[\w\-\.\/\d]+\.i2p)|(?P<onion>[\w\-\.\/\d]+\.onion)|(?P<domain>[\w\-\.\/\d]+))\)"))),
     InstancesGroupData(name="Piped", home_url="https://github.com/TeamPiped/Piped#readme", relative_filepath_without_ext="youtube/piped",
-                       instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/wiki/TeamPiped/Piped/Instances.md", domains_handle=lambda raw: tuple(map(lambda url: "piped."+url, raw)), regex_pattern=r"(?P<domain>[\w\-\.]+)(?:\s+\(Official\))?\s+\|\s+(?P<api>https?:\/\/[\w\-\.\/]+)\/?\s+\|(?P<locations>(?:[^\|])+)\|\s+(?:Yes|No)\s+\|"), )),
+                       instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/wiki/TeamPiped/Piped/Instances.md", domains_handle=lambda raw: tuple(map(lambda url: "piped."+url, raw)), regex_pattern=r"(?P<domain>[\w\-\.]+)(?:\s+\(Official\))?\s+\|\s+(?P<api>https?:\/\/[\w\-\.\/]+)\/?\s+\|(?P<locations>(?:[^\|])+)\|\s+(?:Yes|No)\s+\|", check_domain=True),  # TODO: FUCKING BULLSHIT. USE UPPTIME INFO WITH URLS
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.ONION, header=MirrorHeaders.ONION, main=BaseInstance(relative_filepath_without_ext=INST_FOLDER + "/youtube/piped/" + Network.CLEARNET)),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.I2P, header=MirrorHeaders.I2P, main=BaseInstance(relative_filepath_without_ext=INST_FOLDER + "/youtube/piped/" + Network.CLEARNET)))),
     InstancesGroupData(name="Invidious", home_url="https://github.com/iv-org/invidious#readme", relative_filepath_without_ext="youtube/invidious",
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "https", raw))))),
                                   JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "onion", raw))))),

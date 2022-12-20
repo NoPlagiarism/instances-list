@@ -8,4 +8,9 @@ class Network:
     I2P = "i2p"
     LOKI = "loki"
 
+
+class MirrorHeaders:
+    ONION = "onion-location"
+    I2P = "x-i2p-location"
+
 INST_FOLDER = "instances"
