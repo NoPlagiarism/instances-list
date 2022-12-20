@@ -15,7 +15,7 @@ try:
 except ImportError:
     from consts import INST_FOLDER, Network, HOME_PATH, MirrorHeaders
 
-ENABLE_ASYNC = False
+ENABLE_ASYNC = True
 ENABLE_PATH_IN_DOMAINS = False
 IGNORE_DOMAINS_WITH_PATHS = True
 SLEEP_TIMEOUT_PER_GROUP = 3
