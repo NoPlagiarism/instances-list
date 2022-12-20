@@ -20,6 +20,7 @@ ENABLE_PATH_IN_DOMAINS = False
 IGNORE_DOMAINS_WITH_PATHS = True
 SLEEP_TIMEOUT_PER_GROUP = 3
 SLEEP_TIMEOUT_PER_TIMEOUT = 3
+SLEEP_TIMEOUT_PER_CHECK = 1
 TIMEOUTS_MAX = 3
 
 
@@ -76,6 +77,7 @@ class BaseDomainsGettter:
     def check_domain(domain):
         try:
             httpx.head("https://" + domain)
+            time.sleep(SLEEP_TIMEOUT_PER_CHECK)
             return True
         except:
             return False
