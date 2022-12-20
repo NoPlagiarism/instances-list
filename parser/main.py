@@ -19,6 +19,8 @@ ENABLE_ASYNC = True
 ENABLE_PATH_IN_DOMAINS = False
 IGNORE_DOMAINS_WITH_PATHS = True
 SLEEP_TIMEOUT_PER_GROUP = 3
+SLEEP_TIMEOUT_PER_TIMEOUT = 3
+TIMEOUTS_MAX = 3
 
 
 @dataclass
@@ -229,9 +231,15 @@ class JSONUsingCallable(BaseDomainsGettter):
         result = self.inst.json_handle(raw)
         return result
 
-    async def async_get_all_domains(self):
+    async def async_get_all_domains(self, _timeouts=0, _last_timeout=None):
+        if _timeouts > TIMEOUTS_MAX:
+            raise _last_timeout
         async with httpx.AsyncClient() as client:
-            resp = await client.get(self.inst.url)
+            try:
+                resp = await client.get(self.inst.url)
+            except httpx.ConnectTimeout as e:
+                time.sleep(SLEEP_TIMEOUT_PER_TIMEOUT)
+                return await self.async_get_all_domains(_timeouts=_timeouts+1, _last_timeout=e)
             raw = resp.json()
             result = self.inst.json_handle(raw)
             return result
