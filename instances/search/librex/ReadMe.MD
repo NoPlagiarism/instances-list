@@ -5,6 +5,8 @@
 - [librex.beparanoid.de](https://librex.beparanoid.de)
 - [librex.kitscomputer.tk](https://librex.kitscomputer.tk)
 - [librex.mikata.ru](https://librex.mikata.ru)
+- [librex.terryiscool160.xyz](https://librex.terryiscool160.xyz)
+- [lx.sesu.cc](https://lx.sesu.cc)
 - [lx.vern.cc](https://lx.vern.cc)
 - [search.ahwx.org](https://search.ahwx.org)
 - [search.davidovski.xyz](https://search.davidovski.xyz)
@@ -14,6 +16,9 @@
 # Onion
 - [f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion](http://f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion)
 - [librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion](http://librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion)
+- [librex.n53wt4ivvfdfaqkwldgdzfsubszukie2an6auja6x2wp3e3oa7v2gqyd.onion](http://librex.n53wt4ivvfdfaqkwldgdzfsubszukie2an6auja6x2wp3e3oa7v2gqyd.onion)
+- [lx.swxoebbpeqiiixyhbuh3vbw53pdrmtbiaj2sqveol6kkn5rpapfi4aad.onion](http://lx.swxoebbpeqiiixyhbuh3vbw53pdrmtbiaj2sqveol6kkn5rpapfi4aad.onion)
 - [lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 # I2P
+- [37bw4xelfgivsih5s4s5cozkxkhgoeqx5bjfjnrnmv5utdtk45sa.b32.i2p](http://37bw4xelfgivsih5s4s5cozkxkhgoeqx5bjfjnrnmv5utdtk45sa.b32.i2p)
 - [vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p](http://vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p)

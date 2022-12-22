@@ -8,7 +8,6 @@ rimgo.encrypted-data.xyz
 rimgo.esmailelbob.xyz
 rimgo.hostux.net
 rimgo.marcopisco.com
-rimgo.mha.fi
 rimgo.privacytools.io
 rimgo.pussthecat.org
 rimgo.totaldarkness.net
