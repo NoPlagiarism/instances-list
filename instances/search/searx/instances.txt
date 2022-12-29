@@ -28,6 +28,7 @@ search.drivet.xyz
 search.gcomm.ch
 search.kiwitalk.de
 search.kvj.ovh
+search.leptons.xyz
 search.mdosch.de
 search.mpx.wtf
 search.neet.works
@@ -95,6 +96,7 @@ searx.work
 searx.xyz
 searx.zapashcanon.fr
 searxng.au
+searxng.bandarawela.net
 searxng.nicfab.eu
 sh0.it
 spot.murena.io

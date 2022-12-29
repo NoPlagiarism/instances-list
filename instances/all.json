@@ -140,6 +140,7 @@
             "search.gcomm.ch",
             "search.kiwitalk.de",
             "search.kvj.ovh",
+            "search.leptons.xyz",
             "search.mdosch.de",
             "search.mpx.wtf",
             "search.neet.works",
@@ -207,6 +208,7 @@
             "searx.xyz",
             "searx.zapashcanon.fr",
             "searxng.au",
+            "searxng.bandarawela.net",
             "searxng.nicfab.eu",
             "sh0.it",
             "spot.murena.io",
@@ -251,6 +253,8 @@
             "librex.beparanoid.de",
             "librex.kitscomputer.tk",
             "librex.mikata.ru",
+            "librex.terryiscool160.xyz",
+            "lx.sesu.cc",
             "lx.vern.cc",
             "search.ahwx.org",
             "search.davidovski.xyz",
@@ -261,9 +265,12 @@
         "onion": [
             "f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion",
             "librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion",
+            "librex.n53wt4ivvfdfaqkwldgdzfsubszukie2an6auja6x2wp3e3oa7v2gqyd.onion",
+            "lx.swxoebbpeqiiixyhbuh3vbw53pdrmtbiaj2sqveol6kkn5rpapfi4aad.onion",
             "lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
+            "37bw4xelfgivsih5s4s5cozkxkhgoeqx5bjfjnrnmv5utdtk45sa.b32.i2p",
             "vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p"
         ]
     },
@@ -544,7 +551,6 @@
             "rimgo.esmailelbob.xyz",
             "rimgo.hostux.net",
             "rimgo.marcopisco.com",
-            "rimgo.mha.fi",
             "rimgo.privacytools.io",
             "rimgo.pussthecat.org",
             "rimgo.totaldarkness.net",
@@ -555,7 +561,6 @@
             "imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "rim.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion",
             "rimgo.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-            "rimgo.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion",
             "rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "tdp6uqjtmok723suum5ms3jbquht6d7dssug4cgcxhfniatb25gcipad.onion"
         ]
