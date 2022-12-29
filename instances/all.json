@@ -196,6 +196,7 @@
             "searx.ru",
             "searx.semipvt.com",
             "searx.sev.monster",
+            "searx.si",
             "searx.sp-codes.de",
             "searx.stuehieyr.com",
             "searx.tiekoetter.com",
@@ -237,6 +238,7 @@
             "searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion",
             "searxdr3pqz4nydgnqocsia2xbywptxbkympa2emn7zlgggrir4bkfad.onion",
             "searxfilowxokbogygrigir4wqxfxqzuxofxgdon7dg6rsii4yxzytyd.onion",
+            "searxyqdegtqksicnwpxa24ipnb2ylmp6iutnnwtazbhup4dit4eeyqd.onion",
             "w5rl6wsd7mzj4bdkbuqvzidet5osdsm5jhg2f7nvfidakfq5exda5wid.onion",
             "z5vawdol25vrmorm4yydmohsd4u6rdoj2sylvoi3e3nqvxkvpqul7bqd.onion",
             "zbuc3bbzbfdqqo2x46repx2ddajbha6fpsjeeptjhhhhzji3zopxdqyd.onion"
@@ -613,7 +615,6 @@
         "name": "nitter",
         "url": "https://github.com/zedeus/nitter#readme",
         "instances": [
-            "bird.habedieeh.re",
             "bird.trom.tf",
             "birdsite.xanny.family",
             "canada.unofficialbird.com",
@@ -705,7 +706,6 @@
             "4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion",
             "a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion",
             "aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion",
-            "bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
             "ckzuw5misyahmg7j5t5xwwuj3bwy62jfolxyux4brfflramzsvvd3syd.onion",
             "codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion",
             "ec5nvbycpfa5k6ro77blxgkyrzbkv7uy6r5cngcbkadtjj2733nm3uyd.onion",
@@ -817,15 +817,12 @@
         "url": "https://github.com/rramiachraf/dumb",
         "instances": [
             "dm.vern.cc",
+            "dumb.lunar.icu",
             "dumb.nunosempere.com",
             "sing.whatever.social"
         ],
-        "onion": [
-            "dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
-        ],
-        "i2p": [
-            "vernxpcpqi2y4uhu7to4rnjmyjjgzh3x3qxyzpmkhykefchkmleq.b32.i2p"
-        ]
+        "onion": [],
+        "i2p": []
     },
     "biblioreads": {
         "name": "biblioreads",
@@ -877,6 +874,21 @@
         ],
         "i2p": [
             "vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p"
+        ]
+    },
+    "anonymousoverflow": {
+        "name": "AnonymousOverflow",
+        "url": "https://github.com/httpjamesm/AnonymousOverflow#readme",
+        "instances": [
+            "ao.vern.cc",
+            "code.whatever.social",
+            "overflow.777.tf"
+        ],
+        "onion": [
+            "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
+        "i2p": [
+            "vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p"
         ]
     }
 }
