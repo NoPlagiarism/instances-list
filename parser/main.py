@@ -455,6 +455,10 @@ INSTANCE_GROUPS = [
                        instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://codeberg.org/gothub/gothub/wiki/raw/Instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\(https:\/\/[\w\-\.]+\)\s+\|"), )),
     InstancesGroupData(name="RYD-Proxy", home_url="https://github.com/TeamPiped/RYD-Proxy", relative_filepath_without_ext="ryd/rydproxy",
                        instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/ryd/clearnet.txt"), )),
+    InstancesGroupData(name="libremdb", home_url="https://github.com/zyachel/libremdb", relative_filepath_without_ext="imdb/libremdb",
+                       instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/zyachel/libremdb/main/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\(https:\/\/[\w\-\.]+\)\s+\|(?P<country>(?:[^\|])+)\s+\|\s+(?P<notes>(?:[^\|])+)\|"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/zyachel/libremdb/main/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.onion)\]\(http:\/\/[\w\-\.]+\)\s+\|(?P<country>(?:[^\|])+)\s+\|\s+(?P<notes>(?:[^\|])+)\|"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://raw.githubusercontent.com/zyachel/libremdb/main/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.i2p)\]\(http:\/\/[\w\-\.]+\)\s+\|(?P<country>(?:[^\|])+)\s+\|\s+(?P<notes>(?:[^\|])+)\|"))),
 ]
 
 
