@@ -22,6 +22,7 @@ SLEEP_TIMEOUT_PER_GROUP = 3
 SLEEP_TIMEOUT_PER_TIMEOUT = 3
 SLEEP_TIMEOUT_PER_CHECK = 1
 TIMEOUTS_MAX = 3
+HEADERS = {"User-Agent": "@NoPlagiarism / frontend-instances-scraper"}
 
 PRIORITIES = (0, 1)  # LOW, MEDIUM
 
@@ -78,7 +79,7 @@ class BaseDomainsGettter:
     @staticmethod
     def check_domain(domain):
         try:
-            httpx.head("https://" + domain)
+            httpx.head("https://" + domain, headers=HEADERS)
             time.sleep(SLEEP_TIMEOUT_PER_CHECK)
             return True
         except:
@@ -155,12 +156,12 @@ class RegexFromUrl(BaseDomainsGettter):
         return domain_list
     
     def get_all_domains(self):
-        text = httpx.get(self.inst.url).text
+        text = httpx.get(self.inst.url, headers=HEADERS).text
         domain_list = self.get_all_domains_from_text(text)
         return domain_list
     
     async def async_get_all_domains(self):
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(headers=HEADERS) as client:
             resp = await client.get(self.inst.url)
             text = resp.text
         domain_list = self.get_all_domains_from_text(text)
@@ -204,12 +205,12 @@ class JustFromUrl(BaseDomainsGettter):
         super().__init__()
     
     def get_all_domains(self):
-        raw = httpx.get(self.inst.url).text
+        raw = httpx.get(self.inst.url, headers=HEADERS).text
         domain_list = raw.strip("\n").split("\n")
         return domain_list
 
     async def async_get_all_domains(self):
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(headers=HEADERS) as client:
             resp = await client.get(self.inst.url)
             domain_list = resp.text.strip("\n").split("\n")
             return domain_list
@@ -230,7 +231,7 @@ class JSONUsingCallable(BaseDomainsGettter):
         super().__init__()
     
     def get_all_domains(self):
-        resp = httpx.get(self.inst.url)
+        resp = httpx.get(self.inst.url, headers=HEADERS)
         raw = resp.json()
         result = self.inst.json_handle(raw)
         return result
@@ -238,7 +239,7 @@ class JSONUsingCallable(BaseDomainsGettter):
     async def async_get_all_domains(self, _timeouts=0, _last_timeout=None):
         if _timeouts > TIMEOUTS_MAX:
             raise _last_timeout
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(headers=HEADERS) as client:
             try:
                 resp = await client.get(self.inst.url)
             except httpx.ConnectTimeout as e:
@@ -268,7 +269,7 @@ class GetDomainsFromHeaders(BaseDomainsGettter):
     def get_domain_from_header(self, domain):
         _domain = None
         try:
-            resp = httpx.get("https://" + domain)
+            resp = httpx.get("https://" + domain, headers=HEADERS)
             _domain = get_domain_from_url(resp.headers[self.inst.header])
         except KeyError:
             return None
@@ -281,7 +282,7 @@ class GetDomainsFromHeaders(BaseDomainsGettter):
     async def async_get_domain_from_header(self, domain):
         _domain = None
         try:
-            async with httpx.AsyncClient() as client:
+            async with httpx.AsyncClient(headers=HEADERS) as client:
                 resp = await client.get("https://" + domain)
             _domain = get_domain_from_url(resp.headers[self.inst.header])
         except KeyError:
