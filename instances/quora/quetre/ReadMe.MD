@@ -9,6 +9,7 @@
 - [quetre.odyssey346.dev](https://quetre.odyssey346.dev)
 - [quetre.privacydev.net](https://quetre.privacydev.net)
 - [quetre.projectsegfau.lt](https://quetre.projectsegfau.lt)
+- [quetre.pufe.org](https://quetre.pufe.org)
 - [quetre.pussthecat.org](https://quetre.pussthecat.org)
 - [quetre.tokhmi.xyz](https://quetre.tokhmi.xyz)
 - [quora.vern.cc](https://quora.vern.cc)

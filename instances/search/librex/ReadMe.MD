@@ -3,7 +3,6 @@
 # Clearnet
 - [buscar.weblibre.org](https://buscar.weblibre.org)
 - [librex.beparanoid.de](https://librex.beparanoid.de)
-- [librex.kitscomputer.tk](https://librex.kitscomputer.tk)
 - [librex.mikata.ru](https://librex.mikata.ru)
 - [librex.terryiscool160.xyz](https://librex.terryiscool160.xyz)
 - [lx.sesu.cc](https://lx.sesu.cc)
@@ -12,6 +11,7 @@
 - [search.davidovski.xyz](https://search.davidovski.xyz)
 - [search.funami.tech](https://search.funami.tech)
 - [search.madreyk.xyz](https://search.madreyk.xyz)
+- [search.milivojevic.in.rs](https://search.milivojevic.in.rs)
 - [search.pabloferreiro.es](https://search.pabloferreiro.es)
 # Onion
 - [f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion](http://f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion)

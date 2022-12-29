@@ -1,6 +1,7 @@
 # [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
 # Clearnet
+- [cringe.whatever.social](https://cringe.whatever.social)
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
 - [proxitok.manasiwibi.com](https://proxitok.manasiwibi.com)
 - [proxitok.marcopisco.com](https://proxitok.marcopisco.com)

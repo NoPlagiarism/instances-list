@@ -35,6 +35,7 @@ nitter.ir
 nitter.it
 nitter.kavin.rocks
 nitter.kling.gg
+nitter.ktachibana.party
 nitter.kylrth.com
 nitter.lacontrevoie.fr
 nitter.manasiwibi.com

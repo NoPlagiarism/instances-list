@@ -1,0 +1,20 @@
+{
+    "instances": [
+        "pd.vern.cc",
+        "piped.adminforge.de",
+        "piped.moomoo.me",
+        "piped.qdi.fi",
+        "piped.smnz.de",
+        "piped.syncpundit.io",
+        "piped.tokhmi.xyz",
+        "piped.video",
+        "watch.whatever.social"
+    ],
+    "onion": [
+        "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+        "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
+    ],
+    "i2p": [
+        "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
+    ]
+}

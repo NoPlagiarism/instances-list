@@ -7,7 +7,6 @@
 - [rim.odyssey346.dev](https://rim.odyssey346.dev)
 - [rimgo.bcow.xyz](https://rimgo.bcow.xyz)
 - [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
-- [rimgo.encrypted-data.xyz](https://rimgo.encrypted-data.xyz)
 - [rimgo.esmailelbob.xyz](https://rimgo.esmailelbob.xyz)
 - [rimgo.hostux.net](https://rimgo.hostux.net)
 - [rimgo.marcopisco.com](https://rimgo.marcopisco.com)

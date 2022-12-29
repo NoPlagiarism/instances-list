@@ -1,6 +1,8 @@
 baresearch.org
+coppedge.info
 dynabyte.ca
 etsi.me
+gsch.eu
 intelwinds.com
 jackgoss.xyz
 jsearch.pw
@@ -18,7 +20,6 @@ s.zhaocloud.net
 search.0relay.com
 search.0xgingi.com
 search.affusio.com
-search.bloodygang.com
 search.bus-hit.me
 search.charleseroop.com
 search.chemicals-in-the-water.eu
@@ -82,7 +83,6 @@ searx.rasp.fr
 searx.roflcopter.fr
 searx.ru
 searx.semipvt.com
-searx.sethforprivacy.com
 searx.sev.monster
 searx.sp-codes.de
 searx.stuehieyr.com
@@ -97,6 +97,7 @@ searx.xyz
 searx.zapashcanon.fr
 searxng.au
 searxng.bandarawela.net
+searxng.fingerbib.xyz
 searxng.nicfab.eu
 sh0.it
 spot.murena.io

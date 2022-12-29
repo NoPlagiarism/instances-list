@@ -38,6 +38,7 @@
 - [nitter.it](https://nitter.it)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
 - [nitter.kling.gg](https://nitter.kling.gg)
+- [nitter.ktachibana.party](https://nitter.ktachibana.party)
 - [nitter.kylrth.com](https://nitter.kylrth.com)
 - [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr)
 - [nitter.manasiwibi.com](https://nitter.manasiwibi.com)

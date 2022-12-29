@@ -3,6 +3,7 @@
 # Clearnet
 - [dm.vern.cc](https://dm.vern.cc)
 - [dumb.nunosempere.com](https://dumb.nunosempere.com)
+- [sing.whatever.social](https://sing.whatever.social)
 # Onion
 - [dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 # I2P

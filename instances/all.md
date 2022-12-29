@@ -10,6 +10,7 @@
 - [teddit](#teddit)
 - [libreddit](#libreddit)
 - [WikiLess](#wikiless)
+- [Piped](#piped)
 - [Invidious](#invidious)
 - [HyperPipe](#hyperpipe)
 - [Scribe](#scribe)
@@ -25,10 +26,12 @@
 - [biblioreads](#biblioreads)
 - [gothub](#gothub)
 - [RYD-Proxy](#ryd-proxy)
+- [libremdb](#libremdb)
 
 ## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
 ### Clearnet
+- [cringe.whatever.social](https://cringe.whatever.social)
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
 - [proxitok.manasiwibi.com](https://proxitok.manasiwibi.com)
 - [proxitok.marcopisco.com](https://proxitok.marcopisco.com)
@@ -63,7 +66,6 @@
 - [st.privacydev.net](https://st.privacydev.net)
 - [st.tokhmi.xyz](https://st.tokhmi.xyz)
 - [tl.vern.cc](https://tl.vern.cc)
-- [translate.beparanoid.de](https://translate.beparanoid.de)
 - [translate.bus-hit.me](https://translate.bus-hit.me)
 - [translate.josias.dev](https://translate.josias.dev)
 - [translate.namazso.eu](https://translate.namazso.eu)
@@ -122,8 +124,10 @@
 
 ### Clearnet
 - [baresearch.org](https://baresearch.org)
+- [coppedge.info](https://coppedge.info)
 - [dynabyte.ca](https://dynabyte.ca)
 - [etsi.me](https://etsi.me)
+- [gsch.eu](https://gsch.eu)
 - [intelwinds.com](https://intelwinds.com)
 - [jackgoss.xyz](https://jackgoss.xyz)
 - [jsearch.pw](https://jsearch.pw)
@@ -141,7 +145,6 @@
 - [search.0relay.com](https://search.0relay.com)
 - [search.0xgingi.com](https://search.0xgingi.com)
 - [search.affusio.com](https://search.affusio.com)
-- [search.bloodygang.com](https://search.bloodygang.com)
 - [search.bus-hit.me](https://search.bus-hit.me)
 - [search.charleseroop.com](https://search.charleseroop.com)
 - [search.chemicals-in-the-water.eu](https://search.chemicals-in-the-water.eu)
@@ -205,7 +208,6 @@
 - [searx.roflcopter.fr](https://searx.roflcopter.fr)
 - [searx.ru](https://searx.ru)
 - [searx.semipvt.com](https://searx.semipvt.com)
-- [searx.sethforprivacy.com](https://searx.sethforprivacy.com)
 - [searx.sev.monster](https://searx.sev.monster)
 - [searx.sp-codes.de](https://searx.sp-codes.de)
 - [searx.stuehieyr.com](https://searx.stuehieyr.com)
@@ -220,6 +222,7 @@
 - [searx.zapashcanon.fr](https://searx.zapashcanon.fr)
 - [searxng.au](https://searxng.au)
 - [searxng.bandarawela.net](https://searxng.bandarawela.net)
+- [searxng.fingerbib.xyz](https://searxng.fingerbib.xyz)
 - [searxng.nicfab.eu](https://searxng.nicfab.eu)
 - [sh0.it](https://sh0.it)
 - [spot.murena.io](https://spot.murena.io)
@@ -258,7 +261,6 @@
 ### Clearnet
 - [buscar.weblibre.org](https://buscar.weblibre.org)
 - [librex.beparanoid.de](https://librex.beparanoid.de)
-- [librex.kitscomputer.tk](https://librex.kitscomputer.tk)
 - [librex.mikata.ru](https://librex.mikata.ru)
 - [librex.terryiscool160.xyz](https://librex.terryiscool160.xyz)
 - [lx.sesu.cc](https://lx.sesu.cc)
@@ -267,6 +269,7 @@
 - [search.davidovski.xyz](https://search.davidovski.xyz)
 - [search.funami.tech](https://search.funami.tech)
 - [search.madreyk.xyz](https://search.madreyk.xyz)
+- [search.milivojevic.in.rs](https://search.milivojevic.in.rs)
 - [search.pabloferreiro.es](https://search.pabloferreiro.es)
 ### Onion
 - [f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion](http://f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion)
@@ -422,6 +425,24 @@
 - [vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p](http://vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p)
 - [wikiless.i2p](http://wikiless.i2p)
 
+## [Piped](https://github.com/TeamPiped/Piped#readme)
+
+### Clearnet
+- [pd.vern.cc](https://pd.vern.cc)
+- [piped.adminforge.de](https://piped.adminforge.de)
+- [piped.moomoo.me](https://piped.moomoo.me)
+- [piped.qdi.fi](https://piped.qdi.fi)
+- [piped.smnz.de](https://piped.smnz.de)
+- [piped.syncpundit.io](https://piped.syncpundit.io)
+- [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
+- [piped.video](https://piped.video)
+- [watch.whatever.social](https://watch.whatever.social)
+### Onion
+- [pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+- [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+### I2P
+- [vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p](http://vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p)
+
 ## [Invidious](https://github.com/iv-org/invidious#readme)
 
 ### Clearnet
@@ -504,6 +525,7 @@
 - [quetre.odyssey346.dev](https://quetre.odyssey346.dev)
 - [quetre.privacydev.net](https://quetre.privacydev.net)
 - [quetre.projectsegfau.lt](https://quetre.projectsegfau.lt)
+- [quetre.pufe.org](https://quetre.pufe.org)
 - [quetre.pussthecat.org](https://quetre.pussthecat.org)
 - [quetre.tokhmi.xyz](https://quetre.tokhmi.xyz)
 - [quora.vern.cc](https://quora.vern.cc)
@@ -524,7 +546,6 @@
 - [rim.odyssey346.dev](https://rim.odyssey346.dev)
 - [rimgo.bcow.xyz](https://rimgo.bcow.xyz)
 - [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
-- [rimgo.encrypted-data.xyz](https://rimgo.encrypted-data.xyz)
 - [rimgo.esmailelbob.xyz](https://rimgo.esmailelbob.xyz)
 - [rimgo.hostux.net](https://rimgo.hostux.net)
 - [rimgo.marcopisco.com](https://rimgo.marcopisco.com)
@@ -598,6 +619,7 @@
 - [nitter.it](https://nitter.it)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
 - [nitter.kling.gg](https://nitter.kling.gg)
+- [nitter.ktachibana.party](https://nitter.ktachibana.party)
 - [nitter.kylrth.com](https://nitter.kylrth.com)
 - [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr)
 - [nitter.manasiwibi.com](https://nitter.manasiwibi.com)
@@ -695,10 +717,11 @@
 - [drop.chapril.org](https://drop.chapril.org)
 - [files.psu.ru](https://files.psu.ru)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
-- [nhanh.cloud](https://nhanh.cloud)
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)
+- [send.boblorange.net](https://send.boblorange.net)
 - [send.datahoarder.dev](https://send.datahoarder.dev)
 - [send.ephemeral.land](https://send.ephemeral.land)
+- [send.epsilonrecords.nl](https://send.epsilonrecords.nl)
 - [send.jeugdhulp.be](https://send.jeugdhulp.be)
 - [send.mni.li](https://send.mni.li)
 - [send.monks.tools](https://send.monks.tools)
@@ -707,6 +730,7 @@
 - [send.vis.ee](https://send.vis.ee)
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)
+- [transfer.fm](https://transfer.fm)
 
 ## [breezewiki](https://gitdab.com/cadence/breezewiki)
 
@@ -746,6 +770,7 @@
 ### Clearnet
 - [dm.vern.cc](https://dm.vern.cc)
 - [dumb.nunosempere.com](https://dumb.nunosempere.com)
+- [sing.whatever.social](https://sing.whatever.social)
 ### Onion
 - [dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 ### I2P
@@ -755,6 +780,7 @@
 
 ### Clearnet
 - [biblioreads.ga](https://biblioreads.ga)
+- [biblioreads.lunar.icu](https://biblioreads.lunar.icu)
 - [biblioreads.ml](https://biblioreads.ml)
 - [biblioreads.netlify.app](https://biblioreads.netlify.app)
 - [bl.vern.cc](https://bl.vern.cc)
@@ -773,3 +799,19 @@
 ### Clearnet
 - [ryd-proxy.kavin.rocks](https://ryd-proxy.kavin.rocks)
 - [ryd-proxy.privacydev.net](https://ryd-proxy.privacydev.net)
+
+## [libremdb](https://github.com/zyachel/libremdb)
+
+### Clearnet
+- [binge.whatever.social](https://binge.whatever.social)
+- [ld.vern.cc](https://ld.vern.cc)
+- [libremdb.esmailelbob.xyz](https://libremdb.esmailelbob.xyz)
+- [libremdb.iket.me](https://libremdb.iket.me)
+- [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
+- [libremdbeu.herokuapp.com](https://libremdbeu.herokuapp.com)
+- [lmdb.tokhmi.xyz](https://lmdb.tokhmi.xyz)
+### Onion
+- [ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+- [libremdb.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libremdb.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
+### I2P
+- [vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p](http://vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p)

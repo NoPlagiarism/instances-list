@@ -9,7 +9,6 @@
 - [st.privacydev.net](https://st.privacydev.net)
 - [st.tokhmi.xyz](https://st.tokhmi.xyz)
 - [tl.vern.cc](https://tl.vern.cc)
-- [translate.beparanoid.de](https://translate.beparanoid.de)
 - [translate.bus-hit.me](https://translate.bus-hit.me)
 - [translate.josias.dev](https://translate.josias.dev)
 - [translate.namazso.eu](https://translate.namazso.eu)
