@@ -88,7 +88,8 @@ class BaseDomainsGettter:
     
     def check_duplicates(self, domains):
         no_duplicates = list(set(domains))
-        if (dups := domains - no_duplicates):
+        if len(no_duplicates) != len(domains):
+            dups = [x for x in no_duplicates if domains.count(x) > 1]
             logger.info(f"{self.inst.name} duplicates: " + ", ".join(dups))
             return no_duplicates
         else:
