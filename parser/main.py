@@ -86,11 +86,19 @@ class BaseDomainsGettter:
         except:
             return False
     
+    def check_duplicates(self, domains):
+        no_duplicates = list(set(domains))
+        if (dups := domains - no_duplicates):
+            logger.info(f"{self.inst.name} duplicates: " + ", ".join(dups))
+            return no_duplicates
+        else:
+            return domains
+    
     def update(self):
         self.inst.makedirs()
         domains = self.get_all_domains()
         if ESCAPE_DUPLICATES:
-            domains = set(domains)
+            domains = self.check_duplicates(domains)
         domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), domains))))
         if self.inst.domains_handle is not None:
             domains = self.inst.domains_handle(domains)
@@ -106,7 +114,7 @@ class BaseDomainsGettter:
         self.inst.makedirs()
         domains = await self.async_get_all_domains()
         if ESCAPE_DUPLICATES:
-            domains = set(domains)
+            domains = self.check_duplicates(domains)
         domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), domains))))
         if self.inst.domains_handle is not None:
             domains = self.inst.domains_handle(domains)
