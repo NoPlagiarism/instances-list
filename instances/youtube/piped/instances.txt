@@ -13,7 +13,6 @@ piped.smnz.de
 piped.syncpundit.io
 piped.tokhmi.xyz
 piped.video
-piped.video
 watch.leptons.xyz
 watch.whatever.social
 yt.jae.fi
