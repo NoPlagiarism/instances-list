@@ -12,7 +12,6 @@
 - [libreddit.drivet.xyz](https://libreddit.drivet.xyz)
 - [libreddit.esmailelbob.xyz](https://libreddit.esmailelbob.xyz)
 - [libreddit.eu.org](https://libreddit.eu.org)
-- [libreddit.eu.org](https://libreddit.eu.org)
 - [libreddit.foss.wtf](https://libreddit.foss.wtf)
 - [libreddit.freedit.eu](https://libreddit.freedit.eu)
 - [libreddit.garudalinux.org](https://libreddit.garudalinux.org)
@@ -63,5 +62,4 @@
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
-- [ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion)
 - [ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion)

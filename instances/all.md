@@ -345,7 +345,6 @@
 - [libreddit.drivet.xyz](https://libreddit.drivet.xyz)
 - [libreddit.esmailelbob.xyz](https://libreddit.esmailelbob.xyz)
 - [libreddit.eu.org](https://libreddit.eu.org)
-- [libreddit.eu.org](https://libreddit.eu.org)
 - [libreddit.foss.wtf](https://libreddit.foss.wtf)
 - [libreddit.freedit.eu](https://libreddit.freedit.eu)
 - [libreddit.garudalinux.org](https://libreddit.garudalinux.org)
@@ -397,7 +396,6 @@
 - [libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion)
-- [ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion)
 
 ## [WikiLess](https://gitea.slowb.ro/ticoombs/Wikiless#wikiless)
 
@@ -446,7 +444,6 @@
 - [piped.syncpundit.io](https://piped.syncpundit.io)
 - [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
 - [piped.video](https://piped.video)
-- [piped.video](https://piped.video)
 - [watch.leptons.xyz](https://watch.leptons.xyz)
 - [watch.whatever.social](https://watch.whatever.social)
 - [yt.jae.fi](https://yt.jae.fi)
@@ -454,7 +451,6 @@
 - [pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [piped.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://piped.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
-- [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 ### I2P
 - [vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p](http://vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p)
