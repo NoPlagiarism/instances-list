@@ -115,9 +115,10 @@ class BaseDomainsGettter:
     async def async_update(self):
         self.inst.makedirs()
         domains = await self.async_get_all_domains()
+        domains = tuple(filter(lambda url: url not in (False, "", None), domains))
         if ESCAPE_DUPLICATES:
             domains = self.check_duplicates(domains)
-        domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), domains))))
+        domains = list(sorted(domains))
         if self.inst.domains_handle is not None:
             domains = self.inst.domains_handle(domains)
         if self.inst.check_domain:  # I even don't want to fix it... It's all to Piped... I love u, Piped
