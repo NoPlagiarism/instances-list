@@ -90,7 +90,7 @@ class BaseDomainsGettter:
         no_duplicates = list(set(domains))
         if len(no_duplicates) != len(domains):
             dups = [x for x in no_duplicates if domains.count(x) > 1]
-            logger.info(f"{self.inst.url if self.inst.parent is None else self.inst.parent.name + '/' + self.inst.relative_filepath_without_ext} duplicates: " + ", ".join(dups))
+            logger.info(f"{self.inst.url if self.inst.parent is None else self.inst.parent.inst.name + '/' + self.inst.relative_filepath_without_ext} duplicates: " + ", ".join(dups))
             return no_duplicates
         else:
             return domains
