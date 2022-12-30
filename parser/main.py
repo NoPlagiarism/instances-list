@@ -23,6 +23,7 @@ SLEEP_TIMEOUT_PER_TIMEOUT = 3
 SLEEP_TIMEOUT_PER_CHECK = 1
 TIMEOUTS_MAX = 3
 HEADERS = {"User-Agent": "@NoPlagiarism / frontend-instances-scraper"}
+ESCAPE_DUPLICATES = True
 
 PRIORITIES = (0, 1)  # LOW, MEDIUM
 
@@ -87,7 +88,10 @@ class BaseDomainsGettter:
     
     def update(self):
         self.inst.makedirs()
-        domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), self.get_all_domains()))))
+        domains = self.get_all_domains()
+        if ESCAPE_DUPLICATES:
+            domains = set(domains)
+        domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), domains))))
         if self.inst.domains_handle is not None:
             domains = self.inst.domains_handle(domains)
         if self.inst.check_domain:
@@ -101,6 +105,8 @@ class BaseDomainsGettter:
     async def async_update(self):
         self.inst.makedirs()
         domains = await self.async_get_all_domains()
+        if ESCAPE_DUPLICATES:
+            domains = set(domains)
         domains = list(sorted(tuple(filter(lambda url: url not in (False, "", None), domains))))
         if self.inst.domains_handle is not None:
             domains = self.inst.domains_handle(domains)
