@@ -349,12 +349,12 @@
             "libreddit.hu",
             "libreddit.kavin.rocks",
             "libreddit.kylrth.com",
+            "libreddit.lunar.icu",
             "libreddit.marcopisco.com",
             "libreddit.mask.sh",
             "libreddit.mha.fi",
             "libreddit.nl",
             "libreddit.northboot.xyz",
-            "libreddit.org",
             "libreddit.oxymagnesium.com",
             "libreddit.privacydev.net",
             "libreddit.projectsegfau.lt",
@@ -379,7 +379,6 @@
             "rd.jae.su",
             "reddi.tk",
             "reddit.dr460nf1r3.org",
-            "reddit.invak.id",
             "reddit.leptons.xyz",
             "reddit.rtrace.io",
             "reddit.selfhostable.net",
@@ -390,7 +389,6 @@
             "www.futureddit.gq"
         ],
         "onion": [
-            "ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -438,7 +436,7 @@
             "il.ax",
             "pd.vern.cc",
             "piped.adminforge.de",
-            "piped.esmailelbob.xyz",
+            "piped.chauvet.pro",
             "piped.garudalinux.org",
             "piped.hostux.net",
             "piped.mha.fi",
@@ -455,7 +453,6 @@
         ],
         "onion": [
             "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "piped.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
@@ -558,6 +555,7 @@
             "quetre.blackdrgn.nl",
             "quetre.esmailelbob.xyz",
             "quetre.iket.me",
+            "quetre.lunar.icu",
             "quetre.marcopisco.com",
             "quetre.odyssey346.dev",
             "quetre.privacydev.net",
@@ -589,6 +587,7 @@
             "rimgo.bus-hit.me",
             "rimgo.esmailelbob.xyz",
             "rimgo.hostux.net",
+            "rimgo.lunar.icu",
             "rimgo.marcopisco.com",
             "rimgo.privacytools.io",
             "rimgo.pussthecat.org",
@@ -859,6 +858,7 @@
         "name": "gothub",
         "url": "https://codeberg.org/gothub/gothub",
         "instances": [
+            "gh.riverside.rocks",
             "gh.vern.cc"
         ]
     },
@@ -896,7 +896,8 @@
         "instances": [
             "ao.vern.cc",
             "code.whatever.social",
-            "overflow.777.tf"
+            "overflow.777.tf",
+            "overflow.smnz.de"
         ],
         "onion": [
             "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"

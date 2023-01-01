@@ -9,6 +9,7 @@
 - [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
 - [rimgo.esmailelbob.xyz](https://rimgo.esmailelbob.xyz)
 - [rimgo.hostux.net](https://rimgo.hostux.net)
+- [rimgo.lunar.icu](https://rimgo.lunar.icu)
 - [rimgo.marcopisco.com](https://rimgo.marcopisco.com)
 - [rimgo.privacytools.io](https://rimgo.privacytools.io)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)

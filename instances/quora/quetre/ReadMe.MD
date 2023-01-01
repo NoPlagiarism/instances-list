@@ -5,6 +5,7 @@
 - [quetre.blackdrgn.nl](https://quetre.blackdrgn.nl)
 - [quetre.esmailelbob.xyz](https://quetre.esmailelbob.xyz)
 - [quetre.iket.me](https://quetre.iket.me)
+- [quetre.lunar.icu](https://quetre.lunar.icu)
 - [quetre.marcopisco.com](https://quetre.marcopisco.com)
 - [quetre.odyssey346.dev](https://quetre.odyssey346.dev)
 - [quetre.privacydev.net](https://quetre.privacydev.net)
