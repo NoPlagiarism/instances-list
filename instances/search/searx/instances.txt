@@ -69,7 +69,6 @@ searx.gnu.style
 searx.juancord.xyz
 searx.mastodontech.de
 searx.mha.fi
-searx.mistli.net
 searx.mxchange.org
 searx.nakhan.net
 searx.namejeff.xyz
@@ -90,7 +89,6 @@ searx.stuehieyr.com
 searx.tiekoetter.com
 searx.tuxcloud.net
 searx.tyil.nl
-searx.vanwa.tech
 searx.webheberg.info
 searx.win
 searx.work

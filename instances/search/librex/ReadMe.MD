@@ -4,7 +4,10 @@
 - [buscar.weblibre.org](https://buscar.weblibre.org)
 - [librex.beparanoid.de](https://librex.beparanoid.de)
 - [librex.mikata.ru](https://librex.mikata.ru)
+- [librex.myroware.eu](https://librex.myroware.eu)
+- [librex.ratakor.com](https://librex.ratakor.com)
 - [librex.terryiscool160.xyz](https://librex.terryiscool160.xyz)
+- [librex.yogeshlamichhane.com.np](https://librex.yogeshlamichhane.com.np)
 - [lx.sesu.cc](https://lx.sesu.cc)
 - [lx.vern.cc](https://lx.vern.cc)
 - [search.ahwx.org](https://search.ahwx.org)
@@ -13,6 +16,7 @@
 - [search.madreyk.xyz](https://search.madreyk.xyz)
 - [search.milivojevic.in.rs](https://search.milivojevic.in.rs)
 - [search.pabloferreiro.es](https://search.pabloferreiro.es)
+- [search.tildevarsh.in](https://search.tildevarsh.in)
 # Onion
 - [f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion](http://f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion)
 - [librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion](http://librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion)

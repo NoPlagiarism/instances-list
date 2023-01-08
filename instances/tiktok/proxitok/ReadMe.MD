@@ -3,6 +3,7 @@
 # Clearnet
 - [cringe.whatever.social](https://cringe.whatever.social)
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
+- [proxitok.lunar.icu](https://proxitok.lunar.icu)
 - [proxitok.manasiwibi.com](https://proxitok.manasiwibi.com)
 - [proxitok.marcopisco.com](https://proxitok.marcopisco.com)
 - [proxitok.mha.fi](https://proxitok.mha.fi)

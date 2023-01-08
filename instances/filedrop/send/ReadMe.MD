@@ -7,6 +7,7 @@
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)
 - [send.boblorange.net](https://send.boblorange.net)
 - [send.datahoarder.dev](https://send.datahoarder.dev)
+- [send.datenpost.app](https://send.datenpost.app)
 - [send.ephemeral.land](https://send.ephemeral.land)
 - [send.epsilonrecords.nl](https://send.epsilonrecords.nl)
 - [send.jeugdhulp.be](https://send.jeugdhulp.be)

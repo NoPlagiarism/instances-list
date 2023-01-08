@@ -8,5 +8,6 @@ wg.vern.cc
 whoogle.dcs0.hu
 whoogle.esmailelbob.xyz
 whoogle.hostux.net
+whoogle.lunar.icu
 whoogle.privacydev.net
 www.indexia.gq

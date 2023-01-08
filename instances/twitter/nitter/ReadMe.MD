@@ -1,7 +1,9 @@
 # [nitter](https://github.com/zedeus/nitter#readme)
 
 # Clearnet
+- [bird.habedieeh.re](https://bird.habedieeh.re)
 - [bird.trom.tf](https://bird.trom.tf)
+- [bird.wilbvr.me](https://bird.wilbvr.me)
 - [birdsite.xanny.family](https://birdsite.xanny.family)
 - [canada.unofficialbird.com](https://canada.unofficialbird.com)
 - [fuckthesacklers.network](https://fuckthesacklers.network)
@@ -40,6 +42,7 @@
 - [nitter.ktachibana.party](https://nitter.ktachibana.party)
 - [nitter.kylrth.com](https://nitter.kylrth.com)
 - [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr)
+- [nitter.lunar.icu](https://nitter.lunar.icu)
 - [nitter.manasiwibi.com](https://nitter.manasiwibi.com)
 - [nitter.marcopisco.com](https://nitter.marcopisco.com)
 - [nitter.mask.sh](https://nitter.mask.sh)
@@ -91,6 +94,7 @@
 - [4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion](http://4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion)
 - [a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion](http://a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion)
 - [aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion](http://aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion)
+- [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
 - [ckzuw5misyahmg7j5t5xwwuj3bwy62jfolxyux4brfflramzsvvd3syd.onion](http://ckzuw5misyahmg7j5t5xwwuj3bwy62jfolxyux4brfflramzsvvd3syd.onion)
 - [codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion](http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion)
 - [ec5nvbycpfa5k6ro77blxgkyrzbkv7uy6r5cngcbkadtjj2733nm3uyd.onion](http://ec5nvbycpfa5k6ro77blxgkyrzbkv7uy6r5cngcbkadtjj2733nm3uyd.onion)
@@ -111,6 +115,7 @@
 - [npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion](http://npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion)
 - [nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [nttr2iupbb6fazdpr2rgbooon2tzbbsvvkagkgkwohhodjzj43stxhad.onion](http://nttr2iupbb6fazdpr2rgbooon2tzbbsvvkagkgkwohhodjzj43stxhad.onion)
+- [oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion](http://oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion)
 - [qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion](http://qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion)
 - [r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion](http://r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion)
 - [tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -119,6 +124,7 @@
 - [vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion](http://vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion)
 - [wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion](http://wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion)
 # I2P
+- [4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p](http://4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p)
 - [axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p)
 - [gseczlzmiv23p5vhsktyd7whquq2uy3c5fgkmdohh453qp3daoua.b32.i2p](http://gseczlzmiv23p5vhsktyd7whquq2uy3c5fgkmdohh453qp3daoua.b32.i2p)
 - [pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p](http://pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p)

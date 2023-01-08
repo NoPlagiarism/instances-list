@@ -6,10 +6,11 @@ invidio.xamh.de
 invidious.baczek.me
 invidious.dhusch.de
 invidious.drivet.xyz
+invidious.epicsite.xyz
 invidious.esmailelbob.xyz
 invidious.flokinet.to
+invidious.kavin.rocks
 invidious.lidarshield.cloud
-invidious.marcopisco.com
 invidious.namazso.eu
 invidious.nerdvpn.de
 invidious.privacydev.net
@@ -19,6 +20,7 @@ invidious.slipfox.xyz
 invidious.snopyta.org
 invidious.tiekoetter.com
 invidious.weblibre.org
+iv.ggtyler.dev
 iv.melmac.space
 vid.priv.au
 vid.puffyan.us

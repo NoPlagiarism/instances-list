@@ -12,11 +12,9 @@ libreddit.eu.org
 libreddit.foss.wtf
 libreddit.freedit.eu
 libreddit.garudalinux.org
-libreddit.hu
 libreddit.kavin.rocks
 libreddit.kylrth.com
 libreddit.lunar.icu
-libreddit.marcopisco.com
 libreddit.mask.sh
 libreddit.mha.fi
 libreddit.nl
@@ -45,6 +43,7 @@ rd.funami.tech
 rd.jae.su
 reddi.tk
 reddit.dr460nf1r3.org
+reddit.invak.id
 reddit.leptons.xyz
 reddit.rtrace.io
 reddit.selfhostable.net
