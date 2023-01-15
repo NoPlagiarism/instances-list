@@ -5,13 +5,13 @@ piped.adminforge.de
 piped.chauvet.pro
 piped.garudalinux.org
 piped.hostux.net
+piped.lunar.icu
 piped.mha.fi
-piped.mint.lgbt
 piped.palveluntarjoaja.eu
 piped.privacydev.net
+piped.projectsegfau.lt
 piped.qdi.fi
 piped.smnz.de
-piped.syncpundit.io
 piped.video
 watch.leptons.xyz
 watch.whatever.social

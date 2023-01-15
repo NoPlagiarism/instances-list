@@ -2,6 +2,7 @@
 
 # Clearnet
 - [lingva.garudalinux.org](https://lingva.garudalinux.org)
+- [lingva.lunar.icu](https://lingva.lunar.icu)
 - [lingva.ml](https://lingva.ml)
 - [translate.dr460nf1r3.org](https://translate.dr460nf1r3.org)
 - [translate.igna.wtf](https://translate.igna.wtf)

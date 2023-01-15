@@ -73,6 +73,7 @@
         "url": "https://github.com/TheDavidDelta/lingva-translate#lingva-translate",
         "instances": [
             "lingva.garudalinux.org",
+            "lingva.lunar.icu",
             "lingva.ml",
             "translate.dr460nf1r3.org",
             "translate.igna.wtf",
@@ -253,16 +254,15 @@
         "url": "https://github.com/hnhx/librex#readme",
         "instances": [
             "buscar.weblibre.org",
-            "librex.beparanoid.de",
             "librex.mikata.ru",
             "librex.myroware.eu",
             "librex.ratakor.com",
             "librex.terryiscool160.xyz",
-            "librex.yogeshlamichhane.com.np",
             "lx.sesu.cc",
             "lx.vern.cc",
             "search.ahwx.org",
             "search.davidovski.xyz",
+            "search.femboy.hu",
             "search.funami.tech",
             "search.madreyk.xyz",
             "search.milivojevic.in.rs",
@@ -271,10 +271,11 @@
         ],
         "onion": [
             "f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion",
-            "librex.2356uhnbpv5nk3bni5bv6jg2cd6lgj664kwx3lhyelstpttpyv4kk2qd.onion",
             "librex.n53wt4ivvfdfaqkwldgdzfsubszukie2an6auja6x2wp3e3oa7v2gqyd.onion",
+            "librex2xsek6qnh2i4yufuzqjumfdwtw7io7omgmimpzna6llqudqzyd.onion",
             "lx.swxoebbpeqiiixyhbuh3vbw53pdrmtbiaj2sqveol6kkn5rpapfi4aad.onion",
-            "lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+            "lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "search.femboy2vec5mc3rdvecifqrwzpiaeoyfh4zodppxq4pc2tdvzhm4moqd.onion"
         ],
         "i2p": [
             "37bw4xelfgivsih5s4s5cozkxkhgoeqx5bjfjnrnmv5utdtk45sa.b32.i2p",
@@ -342,7 +343,6 @@
             "libreddit.bus-hit.me",
             "libreddit.cachyos.org",
             "libreddit.dcs0.hu",
-            "libreddit.de",
             "libreddit.domain.glass",
             "libreddit.drivet.xyz",
             "libreddit.esmailelbob.xyz",
@@ -389,6 +389,7 @@
             "reddit.smnz.de",
             "reddit.stuehieyr.com",
             "reddit.utsav2.dev",
+            "safereddit.com",
             "www.futureddit.gq"
         ],
         "onion": [
@@ -443,13 +444,13 @@
             "piped.chauvet.pro",
             "piped.garudalinux.org",
             "piped.hostux.net",
+            "piped.lunar.icu",
             "piped.mha.fi",
-            "piped.mint.lgbt",
             "piped.palveluntarjoaja.eu",
             "piped.privacydev.net",
+            "piped.projectsegfau.lt",
             "piped.qdi.fi",
             "piped.smnz.de",
-            "piped.syncpundit.io",
             "piped.video",
             "watch.leptons.xyz",
             "watch.whatever.social",
@@ -472,7 +473,6 @@
             "inv.odyssey346.dev",
             "inv.riverside.rocks",
             "inv.vern.cc",
-            "invidio.xamh.de",
             "invidious.baczek.me",
             "invidious.dhusch.de",
             "invidious.drivet.xyz",
@@ -494,10 +494,12 @@
             "iv.melmac.space",
             "vid.priv.au",
             "vid.puffyan.us",
+            "watch.thekitty.zone",
             "y.com.sb",
             "yewtu.be",
             "yt.artemislena.eu",
-            "yt.funami.tech"
+            "yt.funami.tech",
+            "yt.oelrichsgarcia.de"
         ],
         "onion": [
             "am74vkcrjp2d5v36lcdqgsj2m6x36tbrkhsruoegwfcizzabnfgf5zyd.onion",
@@ -664,6 +666,7 @@
             "nitter.fly.dev",
             "nitter.foss.wtf",
             "nitter.fprivacy.com",
+            "nitter.freedit.eu",
             "nitter.garudalinux.org",
             "nitter.grimneko.de",
             "nitter.hostux.net",
@@ -721,6 +724,7 @@
             "twitter.beparanoid.de",
             "twitter.censors.us",
             "twitter.dr460nf1r3.org",
+            "twitter.moe.ngo",
             "uk.unofficialbird.com",
             "unofficialbird.com"
         ],
@@ -844,6 +848,7 @@
         "url": "https://github.com/rramiachraf/dumb",
         "instances": [
             "dm.vern.cc",
+            "dumb.esmailelbob.xyz",
             "dumb.lunar.icu",
             "dumb.nunosempere.com",
             "sing.whatever.social"
@@ -855,6 +860,7 @@
         "name": "biblioreads",
         "url": "https://github.com/nesaku/BiblioReads",
         "instances": [
+            "biblioreads.esmailelbob.xyz",
             "biblioreads.ga",
             "biblioreads.lunar.icu",
             "biblioreads.ml",
@@ -862,6 +868,7 @@
             "bl.vern.cc"
         ],
         "onion": [
+            "biblioreads.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
@@ -871,9 +878,7 @@
     "gothub": {
         "name": "gothub",
         "url": "https://codeberg.org/gothub/gothub",
-        "instances": [
-            "gh.riverside.rocks"
-        ]
+        "instances": []
     },
     "ryd-proxy": {
         "name": "RYD-Proxy",
@@ -907,12 +912,15 @@
         "name": "AnonymousOverflow",
         "url": "https://github.com/httpjamesm/AnonymousOverflow#readme",
         "instances": [
+            "anonymousoverflow.esmailelbob.xyz",
             "ao.vern.cc",
             "code.whatever.social",
             "overflow.777.tf",
+            "overflow.lunar.icu",
             "overflow.smnz.de"
         ],
         "onion": [
+            "anonymousoverflow.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [

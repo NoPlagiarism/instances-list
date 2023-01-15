@@ -27,6 +27,7 @@ nitter.fdn.fr
 nitter.fly.dev
 nitter.foss.wtf
 nitter.fprivacy.com
+nitter.freedit.eu
 nitter.garudalinux.org
 nitter.grimneko.de
 nitter.hostux.net
@@ -84,5 +85,6 @@ tweet.lambda.dance
 twitter.beparanoid.de
 twitter.censors.us
 twitter.dr460nf1r3.org
+twitter.moe.ngo
 uk.unofficialbird.com
 unofficialbird.com

@@ -2,7 +2,6 @@ inv.bp.projectsegfau.lt
 inv.odyssey346.dev
 inv.riverside.rocks
 inv.vern.cc
-invidio.xamh.de
 invidious.baczek.me
 invidious.dhusch.de
 invidious.drivet.xyz
@@ -24,7 +23,9 @@ iv.ggtyler.dev
 iv.melmac.space
 vid.priv.au
 vid.puffyan.us
+watch.thekitty.zone
 y.com.sb
 yewtu.be
 yt.artemislena.eu
 yt.funami.tech
+yt.oelrichsgarcia.de

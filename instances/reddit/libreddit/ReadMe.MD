@@ -7,7 +7,6 @@
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.cachyos.org](https://libreddit.cachyos.org)
 - [libreddit.dcs0.hu](https://libreddit.dcs0.hu)
-- [libreddit.de](https://libreddit.de)
 - [libreddit.domain.glass](https://libreddit.domain.glass)
 - [libreddit.drivet.xyz](https://libreddit.drivet.xyz)
 - [libreddit.esmailelbob.xyz](https://libreddit.esmailelbob.xyz)
@@ -54,6 +53,7 @@
 - [reddit.smnz.de](https://reddit.smnz.de)
 - [reddit.stuehieyr.com](https://reddit.stuehieyr.com)
 - [reddit.utsav2.dev](https://reddit.utsav2.dev)
+- [safereddit.com](https://safereddit.com)
 - [www.futureddit.gq](https://www.futureddit.gq)
 # Onion
 - [ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion](http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion)

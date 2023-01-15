@@ -30,6 +30,7 @@
 - [nitter.fly.dev](https://nitter.fly.dev)
 - [nitter.foss.wtf](https://nitter.foss.wtf)
 - [nitter.fprivacy.com](https://nitter.fprivacy.com)
+- [nitter.freedit.eu](https://nitter.freedit.eu)
 - [nitter.garudalinux.org](https://nitter.garudalinux.org)
 - [nitter.grimneko.de](https://nitter.grimneko.de)
 - [nitter.hostux.net](https://nitter.hostux.net)
@@ -87,6 +88,7 @@
 - [twitter.beparanoid.de](https://twitter.beparanoid.de)
 - [twitter.censors.us](https://twitter.censors.us)
 - [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org)
+- [twitter.moe.ngo](https://twitter.moe.ngo)
 - [uk.unofficialbird.com](https://uk.unofficialbird.com)
 - [unofficialbird.com](https://unofficialbird.com)
 # Onion
