@@ -4,7 +4,6 @@ dynabyte.ca
 etsi.me
 gsch.eu
 intelwinds.com
-jackgoss.xyz
 jsearch.pw
 northboot.xyz
 notsearch.uk
@@ -23,9 +22,9 @@ search.affusio.com
 search.bus-hit.me
 search.charleseroop.com
 search.chemicals-in-the-water.eu
+search.cosyinternet.cafe
 search.cronobox.one
 search.disroot.org
-search.drivet.xyz
 search.gcomm.ch
 search.kiwitalk.de
 search.kvj.ovh
@@ -35,7 +34,6 @@ search.mpx.wtf
 search.neet.works
 search.ononoki.org
 search.privacyguides.net
-search.projectsegfau.lt
 search.rabbit-company.com
 search.rhscz.eu
 search.rowie.at
@@ -70,7 +68,6 @@ searx.juancord.xyz
 searx.mastodontech.de
 searx.mha.fi
 searx.mxchange.org
-searx.nakhan.net
 searx.namejeff.xyz
 searx.netzspielplatz.de
 searx.nixnet.services
@@ -96,14 +93,13 @@ searx.xyz
 searx.zapashcanon.fr
 searxng.au
 searxng.bandarawela.net
+searxng.diadz.de
 searxng.fingerbib.xyz
 searxng.nicfab.eu
-sh0.it
 spot.murena.io
 srx.cosmohub.io
 suche.tromdienste.de
 swag.pw
 sx.catgirl.cloud
-sx.fukt.lol
 www.gruble.de
 xo.wtf

@@ -1,8 +1,9 @@
 # [librarian](https://codeberg.org/librarian/librarian#librarian)
 
 # Clearnet
-- [lbry.bcow.xyz](https://lbry.bcow.xyz)
+- [lbn.frail.duckdns.org](https://lbn.frail.duckdns.org)
 - [lbry.mywire.org](https://lbry.mywire.org)
+- [lbry.ooguy.com](https://lbry.ooguy.com)
 - [lbry.projectsegfau.lt](https://lbry.projectsegfau.lt)
 - [lbry.slipfox.xyz](https://lbry.slipfox.xyz)
 - [lbry.vern.cc](https://lbry.vern.cc)

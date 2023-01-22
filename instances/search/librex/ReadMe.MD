@@ -13,6 +13,7 @@
 - [search.femboy.hu](https://search.femboy.hu)
 - [search.funami.tech](https://search.funami.tech)
 - [search.madreyk.xyz](https://search.madreyk.xyz)
+- [search.mascotboi.xyz](https://search.mascotboi.xyz)
 - [search.milivojevic.in.rs](https://search.milivojevic.in.rs)
 - [search.pabloferreiro.es](https://search.pabloferreiro.es)
 - [search.tildevarsh.in](https://search.tildevarsh.in)
@@ -24,5 +25,5 @@
 - [lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [search.femboy2vec5mc3rdvecifqrwzpiaeoyfh4zodppxq4pc2tdvzhm4moqd.onion](http://search.femboy2vec5mc3rdvecifqrwzpiaeoyfh4zodppxq4pc2tdvzhm4moqd.onion)
 # I2P
-- [37bw4xelfgivsih5s4s5cozkxkhgoeqx5bjfjnrnmv5utdtk45sa.b32.i2p](http://37bw4xelfgivsih5s4s5cozkxkhgoeqx5bjfjnrnmv5utdtk45sa.b32.i2p)
+- [lqbchqljxiwl3bbjt4vqe76luovk5ly6khqhg7mt5qcqfn6e4sbq.b32.i2p](http://lqbchqljxiwl3bbjt4vqe76luovk5ly6khqhg7mt5qcqfn6e4sbq.b32.i2p)
 - [vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p](http://vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p)

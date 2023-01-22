@@ -1,6 +1,7 @@
 # [breezewiki](https://gitdab.com/cadence/breezewiki)
 
 # Clearnet
+- [breeze.hostux.net](https://breeze.hostux.net)
 - [breezewiki.com](https://breezewiki.com)
 - [breezewiki.esmailelbob.xyz](https://breezewiki.esmailelbob.xyz)
 - [breezewiki.pussthecat.org](https://breezewiki.pussthecat.org)
