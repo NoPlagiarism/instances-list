@@ -4,7 +4,6 @@ proxitok.lunar.icu
 proxitok.manasiwibi.com
 proxitok.marcopisco.com
 proxitok.mha.fi
-proxitok.odyssey346.dev
 proxitok.pabloferreiro.es
 proxitok.privacydev.net
 proxitok.pufe.org

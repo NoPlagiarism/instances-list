@@ -10,6 +10,7 @@ n.sneed.network
 nederland.unofficialbird.com
 nitter.1d4.us
 nitter.adminforge.de
+nitter.arcticfoxes.net
 nitter.at
 nitter.bird.froth.zone
 nitter.bus-hit.me
@@ -30,6 +31,7 @@ nitter.foss.wtf
 nitter.fprivacy.com
 nitter.freedit.eu
 nitter.garudalinux.org
+nitter.girlboss.ceo
 nitter.grimneko.de
 nitter.hostux.net
 nitter.hu
@@ -41,6 +43,7 @@ nitter.kling.gg
 nitter.ktachibana.party
 nitter.kylrth.com
 nitter.lacontrevoie.fr
+nitter.librenode.org
 nitter.lunar.icu
 nitter.manasiwibi.com
 nitter.marcopisco.com
@@ -62,6 +65,8 @@ nitter.pussthecat.org
 nitter.pw
 nitter.qwik.space
 nitter.rawbit.ninja
+nitter.riverside.rocks
+nitter.selfhostable.net
 nitter.sethforprivacy.com
 nitter.slipfox.xyz
 nitter.smnz.de
@@ -88,5 +93,6 @@ twitter.beparanoid.de
 twitter.censors.us
 twitter.dr460nf1r3.org
 twitter.moe.ngo
+twt.funami.tech
 uk.unofficialbird.com
 unofficialbird.com

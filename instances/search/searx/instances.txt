@@ -45,7 +45,6 @@ search.suenram.us
 search.trom.tf
 search.unlocked.link
 search.us.projectsegfau.lt
-search.uspersec.com
 search.zzls.xyz
 searx.baczek.me
 searx.be
@@ -82,7 +81,6 @@ searx.semipvt.com
 searx.sev.monster
 searx.si
 searx.sp-codes.de
-searx.stuehieyr.com
 searx.tiekoetter.com
 searx.tuxcloud.net
 searx.tyil.nl

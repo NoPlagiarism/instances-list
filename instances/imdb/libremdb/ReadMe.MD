@@ -5,6 +5,7 @@
 - [ld.vern.cc](https://ld.vern.cc)
 - [libremdb.esmailelbob.xyz](https://libremdb.esmailelbob.xyz)
 - [libremdb.iket.me](https://libremdb.iket.me)
+- [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
 - [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
 - [libremdbeu.herokuapp.com](https://libremdbeu.herokuapp.com)
 - [lmdb.tokhmi.xyz](https://lmdb.tokhmi.xyz)
