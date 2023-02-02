@@ -2,19 +2,18 @@
     "instances": [
         "efy.piped.pages.dev",
         "il.ax",
+        "pd.vern.cc",
         "piped.adminforge.de",
         "piped.chauvet.pro",
-        "piped.esmailelbob.xyz",
         "piped.garudalinux.org",
         "piped.hostux.net",
         "piped.lunar.icu",
         "piped.mha.fi",
-        "piped.mint.lgbt",
         "piped.palveluntarjoaja.eu",
         "piped.privacydev.net",
+        "piped.projectsegfau.lt",
         "piped.qdi.fi",
         "piped.smnz.de",
-        "piped.syncpundit.io",
         "piped.tokhmi.xyz",
         "piped.video",
         "watch.leptons.xyz",
@@ -22,8 +21,11 @@
         "yt.jae.fi"
     ],
     "onion": [
+        "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
         "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
-    "i2p": []
+    "i2p": [
+        "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
+    ]
 }

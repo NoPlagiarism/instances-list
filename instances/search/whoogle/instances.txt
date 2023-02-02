@@ -5,9 +5,11 @@ search.dr460nf1r3.org
 search.garudalinux.org
 search.sethforprivacy.com
 wg.vern.cc
+wgl.frail.duckdns.org
 whoogle.dcs0.hu
 whoogle.esmailelbob.xyz
 whoogle.hostux.net
 whoogle.lunar.icu
 whoogle.privacydev.net
+whoogle.rhyshl.live
 www.indexia.gq

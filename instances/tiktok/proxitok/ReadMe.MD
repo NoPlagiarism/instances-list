@@ -15,6 +15,7 @@
 - [tok.adminforge.de](https://tok.adminforge.de)
 - [tok.artemislena.eu](https://tok.artemislena.eu)
 - [tok.habedieeh.re](https://tok.habedieeh.re)
+- [tok.thekitty.zone](https://tok.thekitty.zone)
 - [tt.vern.cc](https://tt.vern.cc)
 # Onion
 - [habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)

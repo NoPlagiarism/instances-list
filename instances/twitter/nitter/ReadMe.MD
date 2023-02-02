@@ -69,7 +69,6 @@
 - [nitter.qwik.space](https://nitter.qwik.space)
 - [nitter.rawbit.ninja](https://nitter.rawbit.ninja)
 - [nitter.riverside.rocks](https://nitter.riverside.rocks)
-- [nitter.selfhostable.net](https://nitter.selfhostable.net)
 - [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)
 - [nitter.slipfox.xyz](https://nitter.slipfox.xyz)
 - [nitter.smnz.de](https://nitter.smnz.de)

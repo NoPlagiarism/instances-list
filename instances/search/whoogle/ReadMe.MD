@@ -8,11 +8,13 @@
 - [search.garudalinux.org](https://search.garudalinux.org)
 - [search.sethforprivacy.com](https://search.sethforprivacy.com)
 - [wg.vern.cc](https://wg.vern.cc)
+- [wgl.frail.duckdns.org](https://wgl.frail.duckdns.org)
 - [whoogle.dcs0.hu](https://whoogle.dcs0.hu)
 - [whoogle.esmailelbob.xyz](https://whoogle.esmailelbob.xyz)
 - [whoogle.hostux.net](https://whoogle.hostux.net)
 - [whoogle.lunar.icu](https://whoogle.lunar.icu)
 - [whoogle.privacydev.net](https://whoogle.privacydev.net)
+- [whoogle.rhyshl.live](https://whoogle.rhyshl.live)
 - [www.indexia.gq](https://www.indexia.gq)
 # Onion
 - [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](http://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)

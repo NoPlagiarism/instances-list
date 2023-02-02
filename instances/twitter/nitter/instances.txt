@@ -66,7 +66,6 @@ nitter.pw
 nitter.qwik.space
 nitter.rawbit.ninja
 nitter.riverside.rocks
-nitter.selfhostable.net
 nitter.sethforprivacy.com
 nitter.slipfox.xyz
 nitter.smnz.de

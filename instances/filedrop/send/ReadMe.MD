@@ -4,6 +4,7 @@
 - [drop.chapril.org](https://drop.chapril.org)
 - [files.psu.ru](https://files.psu.ru)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
+- [send.angelic.icu](https://send.angelic.icu)
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)
 - [send.boblorange.net](https://send.boblorange.net)
 - [send.datahoarder.dev](https://send.datahoarder.dev)
