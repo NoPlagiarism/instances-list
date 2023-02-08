@@ -8,7 +8,6 @@ libreddit.cachyos.org
 libreddit.dcs0.hu
 libreddit.de
 libreddit.domain.glass
-libreddit.drivet.xyz
 libreddit.esmailelbob.xyz
 libreddit.eu.org
 libreddit.foss.wtf
@@ -18,9 +17,9 @@ libreddit.kavin.rocks
 libreddit.kylrth.com
 libreddit.lunar.icu
 libreddit.mha.fi
+libreddit.nl
 libreddit.northboot.xyz
 libreddit.oxymagnesium.com
-libreddit.privacy.com.de
 libreddit.privacydev.net
 libreddit.projectsegfau.lt
 libreddit.pufe.org

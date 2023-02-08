@@ -2,9 +2,9 @@ baresearch.org
 coppedge.info
 dynabyte.ca
 etsi.me
-gsch.eu
 intelwinds.com
 jsearch.pw
+myprivatesrx.us
 northboot.xyz
 notsearch.uk
 ooglester.com
@@ -64,6 +64,7 @@ searx.fossencdi.org
 searx.gnous.eu
 searx.gnu.style
 searx.juancord.xyz
+searx.kutay.dev
 searx.mastodontech.de
 searx.mha.fi
 searx.mxchange.org
@@ -96,8 +97,10 @@ searxng.fingerbib.xyz
 searxng.nicfab.eu
 spot.murena.io
 srx.cosmohub.io
+stalk.antelope.day
 suche.tromdienste.de
 swag.pw
 sx.catgirl.cloud
+sx.fukt.lol
 www.gruble.de
 xo.wtf

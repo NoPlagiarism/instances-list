@@ -1,11 +1,10 @@
 bird.habedieeh.re
 bird.trom.tf
-bird.wilbvr.me
 birdsite.xanny.family
 canada.unofficialbird.com
-fuckthesacklers.network
 india.unofficialbird.com
 n.l5.ca
+n.opnxng.com
 n.sneed.network
 nederland.unofficialbird.com
 nitter.1d4.us
@@ -28,13 +27,11 @@ nitter.evil.site
 nitter.fdn.fr
 nitter.fly.dev
 nitter.foss.wtf
-nitter.fprivacy.com
 nitter.freedit.eu
 nitter.garudalinux.org
 nitter.girlboss.ceo
 nitter.grimneko.de
 nitter.hostux.net
-nitter.hu
 nitter.inpt.fr
 nitter.ir
 nitter.it
@@ -46,7 +43,6 @@ nitter.lacontrevoie.fr
 nitter.librenode.org
 nitter.lunar.icu
 nitter.manasiwibi.com
-nitter.marcopisco.com
 nitter.mask.sh
 nitter.mint.lgbt
 nitter.moomoo.me
@@ -88,10 +84,9 @@ singapore.unofficialbird.com
 t.com.sb
 tw.artemislena.eu
 tweet.lambda.dance
-twitter.beparanoid.de
 twitter.censors.us
 twitter.dr460nf1r3.org
+twitter.femboy.hu
 twitter.moe.ngo
-twt.funami.tech
 uk.unofficialbird.com
 unofficialbird.com
