@@ -2,10 +2,11 @@
 
 # Clearnet
 - [buscar.weblibre.org](https://buscar.weblibre.org)
+- [librex.bloatcat.tk](https://librex.bloatcat.tk)
 - [librex.mikata.ru](https://librex.mikata.ru)
 - [librex.myroware.eu](https://librex.myroware.eu)
-- [librex.nekus.gay](https://librex.nekus.gay)
 - [librex.ratakor.com](https://librex.ratakor.com)
+- [librex.retro-hax.net](https://librex.retro-hax.net)
 - [librex.sesu.cc](https://librex.sesu.cc)
 - [librex.zzls.xyz](https://librex.zzls.xyz)
 - [lx.drain.win](https://lx.drain.win)
@@ -13,12 +14,12 @@
 - [search.ahwx.org](https://search.ahwx.org)
 - [search.davidovski.xyz](https://search.davidovski.xyz)
 - [search.femboy.hu](https://search.femboy.hu)
+- [search.funami.tech](https://search.funami.tech)
 - [search.madreyk.xyz](https://search.madreyk.xyz)
 - [search.milivojevic.in.rs](https://search.milivojevic.in.rs)
 - [search.pabloferreiro.es](https://search.pabloferreiro.es)
 - [search.tildevarsh.in](https://search.tildevarsh.in)
 # Onion
-- [5yblccekvswxl4n43bn5eg4pr7c4xygvu5lhhdb6ulzmislvahmhitad.onion](http://5yblccekvswxl4n43bn5eg4pr7c4xygvu5lhhdb6ulzmislvahmhitad.onion)
 - [f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion](http://f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion)
 - [librex.swxoebbpeqiiixyhbuh3vbw53pdrmtbiaj2sqveol6kkn5rpapfi4aad.onion](http://librex.swxoebbpeqiiixyhbuh3vbw53pdrmtbiaj2sqveol6kkn5rpapfi4aad.onion)
 - [librex.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion](http://librex.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion)

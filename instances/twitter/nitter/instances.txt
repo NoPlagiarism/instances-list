@@ -50,6 +50,7 @@ nitter.namazso.eu
 nitter.nicfab.eu
 nitter.nl
 nitter.platypush.tech
+nitter.plus.st
 nitter.poast.org
 nitter.priv.pw
 nitter.privacy.com.de
@@ -57,7 +58,6 @@ nitter.privacydev.net
 nitter.privacytools.io
 nitter.projectsegfau.lt
 nitter.pufe.org
-nitter.pussthecat.org
 nitter.pw
 nitter.qwik.space
 nitter.rawbit.ninja
