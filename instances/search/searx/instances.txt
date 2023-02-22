@@ -72,7 +72,6 @@ searx.netzspielplatz.de
 searx.nixnet.services
 searx.oakleycord.dev
 searx.orion-hub.fr
-searx.priv.pw
 searx.prvcy.eu
 searx.rasp.fr
 searx.roflcopter.fr
@@ -94,6 +93,7 @@ searxng.bandarawela.net
 searxng.diadz.de
 searxng.fingerbib.xyz
 searxng.nicfab.eu
+searxng.tordenskjold.de
 spot.murena.io
 srx.cosmohub.io
 stalk.antelope.day

@@ -2,9 +2,7 @@ efy.piped.pages.dev
 il.ax
 pd.vern.cc
 piped.adminforge.de
-piped.berryez.xyz
 piped.chauvet.pro
-piped.esmailelbob.xyz
 piped.garudalinux.org
 piped.hostux.net
 piped.lunar.icu
@@ -15,6 +13,7 @@ piped.privacydev.net
 piped.projectsegfau.lt
 piped.qdi.fi
 piped.smnz.de
+piped.syncpundit.io
 piped.tokhmi.xyz
 piped.video
 watch.leptons.xyz

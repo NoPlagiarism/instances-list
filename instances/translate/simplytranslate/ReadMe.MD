@@ -11,7 +11,6 @@
 - [tl.vern.cc](https://tl.vern.cc)
 - [translate.bus-hit.me](https://translate.bus-hit.me)
 - [translate.josias.dev](https://translate.josias.dev)
-- [translate.namazso.eu](https://translate.namazso.eu)
 - [translate.northboot.xyz](https://translate.northboot.xyz)
 - [translate.priv.pw](https://translate.priv.pw)
 - [translate.riverside.rocks](https://translate.riverside.rocks)

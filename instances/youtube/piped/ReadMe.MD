@@ -5,9 +5,7 @@
 - [il.ax](https://il.ax)
 - [pd.vern.cc](https://pd.vern.cc)
 - [piped.adminforge.de](https://piped.adminforge.de)
-- [piped.berryez.xyz](https://piped.berryez.xyz)
 - [piped.chauvet.pro](https://piped.chauvet.pro)
-- [piped.esmailelbob.xyz](https://piped.esmailelbob.xyz)
 - [piped.garudalinux.org](https://piped.garudalinux.org)
 - [piped.hostux.net](https://piped.hostux.net)
 - [piped.lunar.icu](https://piped.lunar.icu)
@@ -18,6 +16,7 @@
 - [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.qdi.fi](https://piped.qdi.fi)
 - [piped.smnz.de](https://piped.smnz.de)
+- [piped.syncpundit.io](https://piped.syncpundit.io)
 - [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
 - [piped.video](https://piped.video)
 - [watch.leptons.xyz](https://watch.leptons.xyz)
@@ -25,7 +24,6 @@
 - [yt.jae.fi](https://yt.jae.fi)
 # Onion
 - [pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [piped.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://piped.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 # I2P
