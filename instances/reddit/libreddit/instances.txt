@@ -3,6 +3,7 @@ discuss.whatever.social
 l.opnxng.com
 lbr.frail.duckdns.org
 libreddit.albr.to
+libreddit.billbert.co
 libreddit.bus-hit.me
 libreddit.cachyos.org
 libreddit.dcs0.hu
@@ -14,12 +15,14 @@ libreddit.foss.wtf
 libreddit.freedit.eu
 libreddit.garudalinux.org
 libreddit.kavin.rocks
+libreddit.kutay.dev
 libreddit.kylrth.com
 libreddit.lunar.icu
 libreddit.mha.fi
 libreddit.nl
 libreddit.northboot.xyz
 libreddit.oxymagnesium.com
+libreddit.privacy.com.de
 libreddit.privacydev.net
 libreddit.projectsegfau.lt
 libreddit.pufe.org
@@ -28,11 +31,12 @@ libreddit.spike.codes
 libreddit.strongthany.cc
 libreddit.tiekoetter.com
 libreddit.totaldarkness.net
+libreddit.tux.pizza
+lr.4201337.xyz
 lr.aeong.one
 lr.artemislena.eu
 lr.mint.lgbt
 lr.odyssey346.dev
-lr.rfl890.cf
 lr.riverside.rocks
 lr.slipfox.xyz
 lr.vern.cc
@@ -43,6 +47,7 @@ r.walkx.fyi
 rd.777.tf
 rd.funami.tech
 reddi.tk
+reddit.baby
 reddit.dr460nf1r3.org
 reddit.invak.id
 reddit.leptons.xyz

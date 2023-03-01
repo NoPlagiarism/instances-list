@@ -8,9 +8,9 @@ myprivatesrx.us
 northboot.xyz
 notsearch.uk
 ooglester.com
+opnxng.com
 paulgo.io
 priv.au
-privatesearch.dev
 privatus.live
 s.frlt.one
 s.trung.fun
@@ -22,7 +22,6 @@ search.berryez.xyz
 search.bus-hit.me
 search.charleseroop.com
 search.chemicals-in-the-water.eu
-search.cosyinternet.cafe
 search.cronobox.one
 search.disroot.org
 search.gcomm.ch
@@ -57,7 +56,6 @@ searx.divided-by-zero.eu
 searx.dresden.network
 searx.ericaftereric.top
 searx.esmailelbob.xyz
-searx.fi
 searx.fmac.xyz
 searx.fossencdi.org
 searx.gnous.eu
@@ -91,9 +89,7 @@ searx.zapashcanon.fr
 searxng.au
 searxng.bandarawela.net
 searxng.diadz.de
-searxng.fingerbib.xyz
 searxng.nicfab.eu
-searxng.tordenskjold.de
 spot.murena.io
 srx.cosmohub.io
 stalk.antelope.day

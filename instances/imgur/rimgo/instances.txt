@@ -6,6 +6,7 @@ rim.odyssey346.dev
 rimgo.bus-hit.me
 rimgo.esmailelbob.xyz
 rimgo.hostux.net
+rimgo.kling.gg
 rimgo.lunar.icu
 rimgo.marcopisco.com
 rimgo.privacytools.io

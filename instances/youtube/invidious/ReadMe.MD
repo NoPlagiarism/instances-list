@@ -15,7 +15,7 @@
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.privacydev.net](https://invidious.privacydev.net)
 - [invidious.sethforprivacy.com](https://invidious.sethforprivacy.com)
-- [invidious.silur.me](https://invidious.silur.me)
+- [invidious.slipfox.xyz](https://invidious.slipfox.xyz)
 - [invidious.snopyta.org](https://invidious.snopyta.org)
 - [invidious.tiekoetter.com](https://invidious.tiekoetter.com)
 - [invidious.weblibre.org](https://invidious.weblibre.org)
