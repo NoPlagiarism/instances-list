@@ -4,7 +4,6 @@ librex.mikata.ru
 librex.myroware.eu
 librex.ratakor.com
 librex.retro-hax.net
-librex.sesu.cc
 librex.zzls.xyz
 lx.drain.win
 lx.vern.cc
@@ -15,4 +14,5 @@ search.funami.tech
 search.madreyk.xyz
 search.milivojevic.in.rs
 search.pabloferreiro.es
+search.sesu.cc
 search.tildevarsh.in

@@ -1,8 +1,10 @@
 efy.piped.pages.dev
 il.ax
+piped.adminforge.de
+piped.berryez.xyz
 piped.chauvet.pro
-piped.garudalinux.org
 piped.hostux.net
+piped.in.projectsegfau.lt
 piped.lunar.icu
 piped.mha.fi
 piped.palveluntarjoaja.eu

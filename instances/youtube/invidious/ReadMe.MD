@@ -6,7 +6,6 @@
 - [inv.riverside.rocks](https://inv.riverside.rocks)
 - [inv.vern.cc](https://inv.vern.cc)
 - [invidious.baczek.me](https://invidious.baczek.me)
-- [invidious.epicsite.xyz](https://invidious.epicsite.xyz)
 - [invidious.esmailelbob.xyz](https://invidious.esmailelbob.xyz)
 - [invidious.flokinet.to](https://invidious.flokinet.to)
 - [invidious.kavin.rocks](https://invidious.kavin.rocks)

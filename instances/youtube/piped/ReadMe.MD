@@ -3,9 +3,11 @@
 # Clearnet
 - [efy.piped.pages.dev](https://efy.piped.pages.dev)
 - [il.ax](https://il.ax)
+- [piped.adminforge.de](https://piped.adminforge.de)
+- [piped.berryez.xyz](https://piped.berryez.xyz)
 - [piped.chauvet.pro](https://piped.chauvet.pro)
-- [piped.garudalinux.org](https://piped.garudalinux.org)
 - [piped.hostux.net](https://piped.hostux.net)
+- [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
 - [piped.lunar.icu](https://piped.lunar.icu)
 - [piped.mha.fi](https://piped.mha.fi)
 - [piped.palveluntarjoaja.eu](https://piped.palveluntarjoaja.eu)

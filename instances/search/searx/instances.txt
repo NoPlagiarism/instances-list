@@ -2,7 +2,7 @@ baresearch.org
 coppedge.info
 dynabyte.ca
 etsi.me
-intelwinds.com
+freesearch.club
 jsearch.pw
 myprivatesrx.us
 northboot.xyz
@@ -15,7 +15,6 @@ privatus.live
 s.frlt.one
 s.trung.fun
 s.zhaocloud.net
-search.0relay.com
 search.0xgingi.com
 search.affusio.com
 search.berryez.xyz
@@ -24,6 +23,7 @@ search.charleseroop.com
 search.chemicals-in-the-water.eu
 search.cronobox.one
 search.disroot.org
+search.dojoro.de
 search.gcomm.ch
 search.kiwitalk.de
 search.leptons.xyz
@@ -31,6 +31,7 @@ search.mdosch.de
 search.mpx.wtf
 search.neet.works
 search.ononoki.org
+search.opensrc.one
 search.privacyguides.net
 search.rabbit-company.com
 search.rhscz.eu
@@ -41,7 +42,6 @@ search.smnz.de
 search.stinpriza.org
 search.suenram.us
 search.trom.tf
-search.unlocked.link
 search.us.projectsegfau.lt
 search.zzls.xyz
 searx.baczek.me

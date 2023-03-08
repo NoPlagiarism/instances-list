@@ -4,10 +4,8 @@
 - [cringe.whatever.social](https://cringe.whatever.social)
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
 - [proxitok.lunar.icu](https://proxitok.lunar.icu)
-- [proxitok.manasiwibi.com](https://proxitok.manasiwibi.com)
-- [proxitok.marcopisco.com](https://proxitok.marcopisco.com)
-- [proxitok.mha.fi](https://proxitok.mha.fi)
 - [proxitok.pabloferreiro.es](https://proxitok.pabloferreiro.es)
+- [proxitok.privacy.com.de](https://proxitok.privacy.com.de)
 - [proxitok.privacydev.net](https://proxitok.privacydev.net)
 - [proxitok.pufe.org](https://proxitok.pufe.org)
 - [proxitok.pussthecat.org](https://proxitok.pussthecat.org)
@@ -22,6 +20,5 @@
 - [proxitok.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://proxitok.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [tok.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://tok.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [tt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://tt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [vywqfflneajejuhg7o5iklqvzemu2fcdrb3gtkvnyqsho6qin5svdsad.onion](http://vywqfflneajejuhg7o5iklqvzemu2fcdrb3gtkvnyqsho6qin5svdsad.onion)
 # I2P
 - [vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p](http://vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p)
