@@ -1,8 +1,7 @@
-efy.piped.pages.dev
 il.ax
 piped.adminforge.de
-piped.berryez.xyz
 piped.chauvet.pro
+piped.garudalinux.org
 piped.hostux.net
 piped.in.projectsegfau.lt
 piped.lunar.icu
@@ -14,8 +13,8 @@ piped.projectsegfau.lt
 piped.qdi.fi
 piped.smnz.de
 piped.syncpundit.io
-piped.tokhmi.xyz
+piped.us.projectsegfau.lt
 piped.video
 watch.leptons.xyz
 watch.whatever.social
-yt.jae.fi
+yt.777.tf

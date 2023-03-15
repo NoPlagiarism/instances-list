@@ -190,6 +190,7 @@
             "searx.sev.monster",
             "searx.si",
             "searx.sp-codes.de",
+            "searx.thefloatinglab.world",
             "searx.tiekoetter.com",
             "searx.tuxcloud.net",
             "searx.tyil.nl",
@@ -217,6 +218,7 @@
             "4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion",
             "f4qfqajszpx5b7itzxt6mb7kj4ktpgbdq7lq6xaiqyqx6a7de3epptad.onion",
             "gbat2pbpg7ys3fi3pbp64667tt5x66mg45xok35bxdw7v55brm7a27yd.onion",
+            "iziatwmtwhrp2kjm3tkrurj3b25qjhznleztdwqc6jgoxmxfvkmh3mid.onion",
             "lgmekfnpealdqhnctyg3p5fuelpdwnbqbwnl2ickpdoodzatzgz27ryd.onion",
             "opensrcr35fc4ucfwjjnmc7ru7da4kifkox75wcdn3rc6s2vemolpkyd.onion",
             "privateoz3u5utrimal2edr56j3r5caakektxxgixigdkycuxigvquid.onion",
@@ -247,6 +249,7 @@
             "librex.myroware.eu",
             "librex.ratakor.com",
             "librex.retro-hax.net",
+            "librex.revvy.de",
             "librex.zzls.xyz",
             "lx.drain.win",
             "lx.vern.cc",
@@ -262,6 +265,8 @@
         ],
         "onion": [
             "f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion",
+            "fcnfg6avz45hqzwbneekq57u2mqbnwa7veyvjcc4dndqbatvkjlaj7yd.onion",
+            "librex.revvybrr6pvbx4n3j4475h4ghw4elqr4t5xo2vtd3gfpu2nrsnhh57id.onion",
             "librex.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion",
             "librex2xsek6qnh2i4yufuzqjumfdwtw7io7omgmimpzna6llqudqzyd.onion",
             "lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
@@ -271,6 +276,7 @@
         "i2p": [
             "7huurwog32tny663wkglrhozfoyqyqmsuxjbd7dtudccx44awjda.b32.i2p",
             "lqbchqljxiwl3bbjt4vqe76luovk5ly6khqhg7mt5qcqfn6e4sbq.b32.i2p",
+            "revekebotog64xrrammtsmjwtwlg3vqyzwdurzt2pu6botg4bejq.b32.i2p",
             "vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p"
         ]
     },
@@ -329,10 +335,8 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "instances": [
-            "bob.fr.to",
             "discuss.whatever.social",
             "l.opnxng.com",
-            "lbr.frail.duckdns.org",
             "libreddit.albr.to",
             "libreddit.billbert.co",
             "libreddit.bus-hit.me",
@@ -345,6 +349,7 @@
             "libreddit.foss.wtf",
             "libreddit.freedit.eu",
             "libreddit.garudalinux.org",
+            "libreddit.hu",
             "libreddit.kavin.rocks",
             "libreddit.kutay.dev",
             "libreddit.kylrth.com",
@@ -358,7 +363,6 @@
             "libreddit.projectsegfau.lt",
             "libreddit.pufe.org",
             "libreddit.pussthecat.org",
-            "libreddit.spike.codes",
             "libreddit.strongthany.cc",
             "libreddit.tiekoetter.com",
             "libreddit.totaldarkness.net",
@@ -437,11 +441,10 @@
         "name": "Piped",
         "url": "https://github.com/TeamPiped/Piped#readme",
         "instances": [
-            "efy.piped.pages.dev",
             "il.ax",
             "piped.adminforge.de",
-            "piped.berryez.xyz",
             "piped.chauvet.pro",
+            "piped.garudalinux.org",
             "piped.hostux.net",
             "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
@@ -453,11 +456,11 @@
             "piped.qdi.fi",
             "piped.smnz.de",
             "piped.syncpundit.io",
-            "piped.tokhmi.xyz",
+            "piped.us.projectsegfau.lt",
             "piped.video",
             "watch.leptons.xyz",
             "watch.whatever.social",
-            "yt.jae.fi"
+            "yt.777.tf"
         ],
         "onion": [
             "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
@@ -481,6 +484,7 @@
             "invidious.lunar.icu",
             "invidious.nerdvpn.de",
             "invidious.privacydev.net",
+            "invidious.projectsegfau.lt",
             "invidious.sethforprivacy.com",
             "invidious.slipfox.xyz",
             "invidious.snopyta.org",

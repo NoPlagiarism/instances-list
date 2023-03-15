@@ -13,6 +13,7 @@
 - [invidious.lunar.icu](https://invidious.lunar.icu)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.privacydev.net](https://invidious.privacydev.net)
+- [invidious.projectsegfau.lt](https://invidious.projectsegfau.lt)
 - [invidious.sethforprivacy.com](https://invidious.sethforprivacy.com)
 - [invidious.slipfox.xyz](https://invidious.slipfox.xyz)
 - [invidious.snopyta.org](https://invidious.snopyta.org)

@@ -1,7 +1,5 @@
-bob.fr.to
 discuss.whatever.social
 l.opnxng.com
-lbr.frail.duckdns.org
 libreddit.albr.to
 libreddit.billbert.co
 libreddit.bus-hit.me
@@ -14,6 +12,7 @@ libreddit.eu.org
 libreddit.foss.wtf
 libreddit.freedit.eu
 libreddit.garudalinux.org
+libreddit.hu
 libreddit.kavin.rocks
 libreddit.kutay.dev
 libreddit.kylrth.com
@@ -27,7 +26,6 @@ libreddit.privacydev.net
 libreddit.projectsegfau.lt
 libreddit.pufe.org
 libreddit.pussthecat.org
-libreddit.spike.codes
 libreddit.strongthany.cc
 libreddit.tiekoetter.com
 libreddit.totaldarkness.net

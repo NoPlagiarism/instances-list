@@ -78,6 +78,7 @@ searx.semipvt.com
 searx.sev.monster
 searx.si
 searx.sp-codes.de
+searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
 searx.tyil.nl

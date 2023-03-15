@@ -1,10 +1,8 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
-- [bob.fr.to](https://bob.fr.to)
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
-- [lbr.frail.duckdns.org](https://lbr.frail.duckdns.org)
 - [libreddit.albr.to](https://libreddit.albr.to)
 - [libreddit.billbert.co](https://libreddit.billbert.co)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
@@ -17,6 +15,7 @@
 - [libreddit.foss.wtf](https://libreddit.foss.wtf)
 - [libreddit.freedit.eu](https://libreddit.freedit.eu)
 - [libreddit.garudalinux.org](https://libreddit.garudalinux.org)
+- [libreddit.hu](https://libreddit.hu)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
 - [libreddit.kutay.dev](https://libreddit.kutay.dev)
 - [libreddit.kylrth.com](https://libreddit.kylrth.com)
@@ -30,7 +29,6 @@
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pufe.org](https://libreddit.pufe.org)
 - [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
-- [libreddit.spike.codes](https://libreddit.spike.codes)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tiekoetter.com](https://libreddit.tiekoetter.com)
 - [libreddit.totaldarkness.net](https://libreddit.totaldarkness.net)

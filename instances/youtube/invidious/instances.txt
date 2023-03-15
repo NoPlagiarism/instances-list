@@ -10,6 +10,7 @@ invidious.lidarshield.cloud
 invidious.lunar.icu
 invidious.nerdvpn.de
 invidious.privacydev.net
+invidious.projectsegfau.lt
 invidious.sethforprivacy.com
 invidious.slipfox.xyz
 invidious.snopyta.org
