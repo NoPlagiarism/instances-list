@@ -9,7 +9,6 @@
 - [invidious.esmailelbob.xyz](https://invidious.esmailelbob.xyz)
 - [invidious.flokinet.to](https://invidious.flokinet.to)
 - [invidious.kavin.rocks](https://invidious.kavin.rocks)
-- [invidious.lidarshield.cloud](https://invidious.lidarshield.cloud)
 - [invidious.lunar.icu](https://invidious.lunar.icu)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.privacydev.net](https://invidious.privacydev.net)

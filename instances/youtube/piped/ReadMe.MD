@@ -1,7 +1,9 @@
 # [Piped](https://github.com/TeamPiped/Piped#readme)
 
 # Clearnet
+- [efy.piped.pages.dev](https://efy.piped.pages.dev)
 - [il.ax](https://il.ax)
+- [pd.vern.cc](https://pd.vern.cc)
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.chauvet.pro](https://piped.chauvet.pro)
 - [piped.garudalinux.org](https://piped.garudalinux.org)
@@ -15,8 +17,7 @@
 - [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.qdi.fi](https://piped.qdi.fi)
 - [piped.smnz.de](https://piped.smnz.de)
-- [piped.syncpundit.io](https://piped.syncpundit.io)
-- [piped.us.projectsegfau.lt](https://piped.us.projectsegfau.lt)
+- [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
 - [piped.video](https://piped.video)
 - [watch.leptons.xyz](https://watch.leptons.xyz)
 - [watch.whatever.social](https://watch.whatever.social)

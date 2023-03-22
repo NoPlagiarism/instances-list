@@ -1,4 +1,6 @@
+efy.piped.pages.dev
 il.ax
+pd.vern.cc
 piped.adminforge.de
 piped.chauvet.pro
 piped.garudalinux.org
@@ -12,8 +14,7 @@ piped.privacydev.net
 piped.projectsegfau.lt
 piped.qdi.fi
 piped.smnz.de
-piped.syncpundit.io
-piped.us.projectsegfau.lt
+piped.tokhmi.xyz
 piped.video
 watch.leptons.xyz
 watch.whatever.social

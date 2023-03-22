@@ -6,7 +6,6 @@ invidious.baczek.me
 invidious.esmailelbob.xyz
 invidious.flokinet.to
 invidious.kavin.rocks
-invidious.lidarshield.cloud
 invidious.lunar.icu
 invidious.nerdvpn.de
 invidious.privacydev.net

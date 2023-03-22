@@ -38,6 +38,7 @@ search.rhscz.eu
 search.rowie.at
 search.sapti.me
 search.serginho.dev
+search.shininglea.dev
 search.smnz.de
 search.stinpriza.org
 search.suenram.us
@@ -97,6 +98,5 @@ stalk.antelope.day
 suche.tromdienste.de
 swag.pw
 sx.catgirl.cloud
-sx.fukt.lol
 www.gruble.de
 xo.wtf

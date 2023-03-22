@@ -41,6 +41,7 @@
 - [search.rowie.at](https://search.rowie.at)
 - [search.sapti.me](https://search.sapti.me)
 - [search.serginho.dev](https://search.serginho.dev)
+- [search.shininglea.dev](https://search.shininglea.dev)
 - [search.smnz.de](https://search.smnz.de)
 - [search.stinpriza.org](https://search.stinpriza.org)
 - [search.suenram.us](https://search.suenram.us)
@@ -100,7 +101,6 @@
 - [suche.tromdienste.de](https://suche.tromdienste.de)
 - [swag.pw](https://swag.pw)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
-- [sx.fukt.lol](https://sx.fukt.lol)
 - [www.gruble.de](https://www.gruble.de)
 - [xo.wtf](https://xo.wtf)
 # Onion
