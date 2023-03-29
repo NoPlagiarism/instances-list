@@ -14,7 +14,6 @@
 - [whoogle.hostux.net](https://whoogle.hostux.net)
 - [whoogle.lunar.icu](https://whoogle.lunar.icu)
 - [whoogle.privacydev.net](https://whoogle.privacydev.net)
-- [whoogle.rhyshl.live](https://whoogle.rhyshl.live)
 # Onion
 - [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](http://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)
 - [whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)

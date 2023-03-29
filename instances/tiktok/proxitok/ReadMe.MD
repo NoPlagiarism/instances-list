@@ -10,6 +10,7 @@
 - [proxitok.pufe.org](https://proxitok.pufe.org)
 - [proxitok.pussthecat.org](https://proxitok.pussthecat.org)
 - [tik.hostux.net](https://tik.hostux.net)
+- [tiktok.chauvet.pro](https://tiktok.chauvet.pro)
 - [tok.adminforge.de](https://tok.adminforge.de)
 - [tok.artemislena.eu](https://tok.artemislena.eu)
 - [tok.habedieeh.re](https://tok.habedieeh.re)

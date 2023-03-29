@@ -3,7 +3,6 @@ coppedge.info
 dynabyte.ca
 etsi.me
 freesearch.club
-jsearch.pw
 myprivatesrx.us
 northboot.xyz
 notsearch.uk
@@ -27,8 +26,8 @@ search.dojoro.de
 search.gcomm.ch
 search.kiwitalk.de
 search.leptons.xyz
+search.listi.me
 search.mdosch.de
-search.mpx.wtf
 search.neet.works
 search.ononoki.org
 search.opensrc.one
@@ -84,7 +83,6 @@ searx.tiekoetter.com
 searx.tuxcloud.net
 searx.tyil.nl
 searx.webheberg.info
-searx.win
 searx.work
 searx.xyz
 searx.zapashcanon.fr
