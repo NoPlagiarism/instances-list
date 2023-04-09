@@ -71,6 +71,8 @@ class BaseInstance:
 
 
 class BaseDomainsGettter:
+    inst: BaseInstance
+
     def check_if_update(self, domains):
         if not self.inst.file_exists():
             return True
@@ -129,6 +131,12 @@ class BaseDomainsGettter:
             return True
         return False
 
+    async def async_get_all_domains(self):
+        raise NotImplementedError
+
+    def get_all_domains(self):
+        raise NotImplementedError
+
 
 @dataclass
 class RegexFromUrlInstance(BaseInstance):
@@ -148,6 +156,8 @@ class RegexFromUrlInstance(BaseInstance):
 
 
 class RegexFromUrl(BaseDomainsGettter):
+    inst: RegexFromUrlInstance
+
     def __init__(self, instance: RegexFromUrlInstance) -> None:
         self.inst = instance
         super().__init__()
@@ -200,6 +210,8 @@ class RegexCroppedFromUrlInstance(RegexFromUrlInstance):
 
 
 class RegexCroppedFromUrl(RegexFromUrl):
+    inst: RegexCroppedFromUrlInstance
+
     def __init__(self, instance: RegexCroppedFromUrlInstance) -> None:
         super().__init__(instance)
     
@@ -217,6 +229,8 @@ class JustFromUrlInstance(BaseInstance):
 
 
 class JustFromUrl(BaseDomainsGettter):
+    inst: JustFromUrlInstance
+
     def __init__(self, instance: JustFromUrlInstance) -> None:
         self.inst = instance
         super().__init__()
@@ -243,6 +257,8 @@ class JSONUsingCallableInstance(BaseInstance):
 
 
 class JSONUsingCallable(BaseDomainsGettter):
+    inst: JSONUsingCallableInstance
+
     def __init__(self, instance: JSONUsingCallableInstance) -> None:
         self.inst = instance
         super().__init__()
@@ -279,6 +295,8 @@ class GetDomainsFromHeadersInstance(BaseInstance):
 
 
 class GetDomainsFromHeaders(BaseDomainsGettter):
+    inst: GetDomainsFromHeadersInstance
+
     def __init__(self, instance: GetDomainsFromHeadersInstance) -> None:
         self.inst = instance
         super().__init__()
@@ -353,6 +371,8 @@ class InstancesGroupData:
 
 
 class InstancesGroup:
+    inst: InstancesGroupData
+
     def __init__(self, data: InstancesGroupData, *instances) -> None:
         self.relative_filepath_without_ext = data.relative_filepath_without_ext
         self.instances = list()
@@ -499,6 +519,7 @@ async def async_main():
         for instance in INSTANCE_GROUPS:
             tasks.extend(instance.from_instance().get_coroutines(priority=p))
         await asyncio.gather(*tasks)
+
 
 def run():
     if ENABLE_ASYNC:

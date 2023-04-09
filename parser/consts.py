@@ -2,6 +2,7 @@ import os
 
 HOME_PATH = os.path.dirname(os.path.dirname(__file__))
 
+
 class Network:
     CLEARNET = "instances"
     ONION = "onion"
@@ -12,5 +13,6 @@ class Network:
 class MirrorHeaders:
     ONION = "onion-location"
     I2P = "x-i2p-location"
+
 
 INST_FOLDER = "instances"
