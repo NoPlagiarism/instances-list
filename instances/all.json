@@ -118,6 +118,7 @@
             "myprivatesrx.us",
             "northboot.xyz",
             "notsearch.uk",
+            "offtheradar.info",
             "ooglester.com",
             "opnxng.com",
             "paulgo.io",
@@ -140,10 +141,10 @@
             "search.leptons.xyz",
             "search.listi.me",
             "search.mdosch.de",
+            "search.modalogi.com",
             "search.neet.works",
             "search.ononoki.org",
             "search.opensrc.one",
-            "search.privacyguides.net",
             "search.rabbit-company.com",
             "search.rhscz.eu",
             "search.rowie.at",
@@ -183,7 +184,6 @@
             "searx.oakleycord.dev",
             "searx.orion-hub.fr",
             "searx.prvcy.eu",
-            "searx.rasp.fr",
             "searx.roflcopter.fr",
             "searx.ru",
             "searx.semipvt.com",
@@ -241,7 +241,6 @@
         "name": "LibreX",
         "url": "https://github.com/hnhx/librex#readme",
         "instances": [
-            "buscar.weblibre.org",
             "librex.bloatcat.tk",
             "librex.mikata.ru",
             "librex.myroware.eu",
@@ -249,31 +248,26 @@
             "librex.retro-hax.net",
             "librex.revvy.de",
             "librex.zzls.xyz",
-            "lx.drain.win",
             "lx.vern.cc",
             "search.ahwx.org",
             "search.davidovski.xyz",
-            "search.femboy.hu",
             "search.funami.tech",
             "search.madreyk.xyz",
             "search.milivojevic.in.rs",
             "search.pabloferreiro.es",
-            "search.sesu.cc",
+            "search.spaceint.fr",
             "search.tildevarsh.in"
         ],
         "onion": [
+            "cosrpybbddzdfjquer3zfmb2h5avtacnctnbu4gucwocdb42s63gcqqd.onion",
             "f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion",
-            "fcnfg6avz45hqzwbneekq57u2mqbnwa7veyvjcc4dndqbatvkjlaj7yd.onion",
             "librex.revvybrr6pvbx4n3j4475h4ghw4elqr4t5xo2vtd3gfpu2nrsnhh57id.onion",
             "librex.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion",
             "librex2xsek6qnh2i4yufuzqjumfdwtw7io7omgmimpzna6llqudqzyd.onion",
-            "lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "search.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion",
-            "search.swxoebbpeqiiixyhbuh3vbw53pdrmtbiaj2sqveol6kkn5rpapfi4aad.onion"
+            "lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
             "7huurwog32tny663wkglrhozfoyqyqmsuxjbd7dtudccx44awjda.b32.i2p",
-            "lqbchqljxiwl3bbjt4vqe76luovk5ly6khqhg7mt5qcqfn6e4sbq.b32.i2p",
             "revekebotog64xrrammtsmjwtwlg3vqyzwdurzt2pu6botg4bejq.b32.i2p",
             "vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p"
         ]
@@ -299,7 +293,6 @@
             "teddit.ggc-project.de",
             "teddit.hostux.net",
             "teddit.httpjames.space",
-            "teddit.manasiwibi.com",
             "teddit.namazso.eu",
             "teddit.privacytools.io",
             "teddit.pussthecat.org",
@@ -311,7 +304,6 @@
             "teddit.zaggy.nl"
         ],
         "onion": [
-            "24fympskbrdgbf4afuvhqwwl2tv3y2vwxg5t2ktozd4j5b3fob5ntzyd.onion",
             "dawtyi5e2cfyfmoht4izmczi42aa2zwh6wi34zwvc6rzf2acpxhrcrad.onion",
             "ibarajztopxnuhabfu7fg6gbudynxofbnmvis3ltj6lfx47b6fhrd5qd.onion",
             "jnuonmf2n36sfdmyksqqqyab3w63cq4kx24olyjleh5z6zzfvyt7uqqd.onion",
@@ -442,7 +434,6 @@
             "pd.vern.cc",
             "piped.adminforge.de",
             "piped.chauvet.pro",
-            "piped.esmailelbob.xyz",
             "piped.garudalinux.org",
             "piped.hostux.net",
             "piped.in.projectsegfau.lt",
@@ -478,6 +469,8 @@
             "inv.odyssey346.dev",
             "inv.riverside.rocks",
             "inv.vern.cc",
+            "inv.zzls.xyz",
+            "invidious.0011.lt",
             "invidious.baczek.me",
             "invidious.esmailelbob.xyz",
             "invidious.flokinet.to",
@@ -487,25 +480,25 @@
             "invidious.privacydev.net",
             "invidious.projectsegfau.lt",
             "invidious.sethforprivacy.com",
-            "invidious.slipfox.xyz",
             "invidious.snopyta.org",
             "invidious.tiekoetter.com",
-            "invidious.weblibre.org",
+            "invidious.vpsburti.com",
             "iv.ggtyler.dev",
             "iv.melmac.space",
+            "vid.priv.au",
             "vid.puffyan.us",
             "watch.thekitty.zone",
             "y.com.sb",
             "yewtu.be",
             "yt.artemislena.eu",
-            "yt.funami.tech",
-            "yt.oelrichsgarcia.de"
+            "yt.funami.tech"
         ],
         "onion": [
-            "am74vkcrjp2d5v36lcdqgsj2m6x36tbrkhsruoegwfcizzabnfgf5zyd.onion",
             "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
             "euxxcnhsynwmfidvhjf6uzptsmh4dipkmgdmcmxxuo7tunp3ad2jrwyd.onion",
             "grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
+            "http://inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "http://invbp.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "inv.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "invidious.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
@@ -517,6 +510,8 @@
             "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion"
         ],
         "i2p": [
+            "http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p",
+            "http://pjsfi2szfkb4guqzmfmlyq4no46fayertjrwt4h2uughccrh2lvq.b32.i2p",
             "inv.vern.i2p"
         ]
     },
@@ -598,13 +593,16 @@
             "rim.odyssey346.dev",
             "rimgo.bus-hit.me",
             "rimgo.esmailelbob.xyz",
+            "rimgo.eu.projectsegfau.lt",
             "rimgo.hostux.net",
+            "rimgo.in.projectsegfau.lt",
             "rimgo.kling.gg",
             "rimgo.lunar.icu",
             "rimgo.marcopisco.com",
             "rimgo.privacytools.io",
             "rimgo.pussthecat.org",
             "rimgo.totaldarkness.net",
+            "rimgo.us.projectsegfau.lt",
             "rimgo.vern.cc"
         ],
         "onion": [
@@ -684,6 +682,7 @@
             "nitter.hostux.net",
             "nitter.in.projectsegfau.lt",
             "nitter.inpt.fr",
+            "nitter.instance.no",
             "nitter.ir",
             "nitter.it",
             "nitter.kavin.rocks",
@@ -771,6 +770,7 @@
             "4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p",
             "axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p",
             "gseczlzmiv23p5vhsktyd7whquq2uy3c5fgkmdohh453qp3daoua.b32.i2p",
+            "pjsfs4ukb6prmfx3qx3a5ef2cpcupkvcrxdh72kqn2rxc2cw4nka.b32.i2p",
             "pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p",
             "tm4rwkeysv3zz3q5yacyr4rlmca2c4etkdobfvuqzt6vsfsu4weq.b32.i2p",
             "u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p",
@@ -859,6 +859,7 @@
             "dumb.esmailelbob.xyz",
             "dumb.lunar.icu",
             "dumb.nunosempere.com",
+            "dumb.privacydev.net",
             "sing.whatever.social"
         ],
         "onion": [],
@@ -907,6 +908,7 @@
             "libremdb.jeikobu.net",
             "libremdb.pussthecat.org",
             "libremdbeu.herokuapp.com",
+            "lmdb.hostux.net",
             "lmdb.tokhmi.xyz"
         ],
         "onion": [
@@ -929,11 +931,13 @@
             "overflow.adminforge.de",
             "overflow.hostux.net",
             "overflow.lunar.icu",
+            "overflow.projectsegfau.lt",
             "overflow.smnz.de"
         ],
         "onion": [
             "anonymousoverflow.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-            "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+            "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
         ],
         "i2p": [
             "vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p"

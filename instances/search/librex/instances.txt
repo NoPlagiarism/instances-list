@@ -1,4 +1,3 @@
-buscar.weblibre.org
 librex.bloatcat.tk
 librex.mikata.ru
 librex.myroware.eu
@@ -6,14 +5,12 @@ librex.ratakor.com
 librex.retro-hax.net
 librex.revvy.de
 librex.zzls.xyz
-lx.drain.win
 lx.vern.cc
 search.ahwx.org
 search.davidovski.xyz
-search.femboy.hu
 search.funami.tech
 search.madreyk.xyz
 search.milivojevic.in.rs
 search.pabloferreiro.es
-search.sesu.cc
+search.spaceint.fr
 search.tildevarsh.in

@@ -6,6 +6,7 @@ freesearch.club
 myprivatesrx.us
 northboot.xyz
 notsearch.uk
+offtheradar.info
 ooglester.com
 opnxng.com
 paulgo.io
@@ -28,10 +29,10 @@ search.kiwitalk.de
 search.leptons.xyz
 search.listi.me
 search.mdosch.de
+search.modalogi.com
 search.neet.works
 search.ononoki.org
 search.opensrc.one
-search.privacyguides.net
 search.rabbit-company.com
 search.rhscz.eu
 search.rowie.at
@@ -71,7 +72,6 @@ searx.nixnet.services
 searx.oakleycord.dev
 searx.orion-hub.fr
 searx.prvcy.eu
-searx.rasp.fr
 searx.roflcopter.fr
 searx.ru
 searx.semipvt.com
