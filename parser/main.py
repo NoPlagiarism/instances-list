@@ -11,9 +11,9 @@ import httpx
 from loguru import logger
 
 try:
-    from .consts import INST_FOLDER, Network, HOME_PATH, MirrorHeaders
+    from .consts import INST_FOLDER, Network, HOME_PATH, MirrorHeaders, Retries
 except ImportError:
-    from consts import INST_FOLDER, Network, HOME_PATH, MirrorHeaders
+    from consts import INST_FOLDER, Network, HOME_PATH, MirrorHeaders, Retries
 
 ENABLE_ASYNC = True
 ENABLE_PATH_IN_DOMAINS = False
@@ -96,40 +96,74 @@ class BaseDomainsGettter:
             return no_duplicates
         else:
             return domains
-    
-    def update(self):
-        self.inst.makedirs()
-        domains = self.get_all_domains()
-        domains = tuple(filter(lambda url: url not in (False, "", None), domains))
-        if ESCAPE_DUPLICATES:
-            domains = self.check_duplicates(domains)
-        domains = list(sorted(domains))
-        if self.inst.domains_handle is not None:
-            domains = self.inst.domains_handle(domains)
-        if self.inst.check_domain:
-            domains = list(filter(self.check_domain, domains))
-        if self.check_if_update(domains):
-            self.inst.save_as_json(domains)
-            self.inst.save_list_as_txt(domains)
-            return True
-        return False
 
-    async def async_update(self):
-        self.inst.makedirs()
-        domains = await self.async_get_all_domains()
-        domains = tuple(filter(lambda url: url not in (False, "", None), domains))
-        if ESCAPE_DUPLICATES:
-            domains = self.check_duplicates(domains)
-        domains = list(sorted(domains))
-        if self.inst.domains_handle is not None:
-            domains = self.inst.domains_handle(domains)
-        if self.inst.check_domain:  # I even don't want to fix it... It's all to Piped... I love u, Piped
-            domains = list(filter(lambda x: self.check_domain(x), domains))
-        if self.check_if_update(domains):
-            self.inst.save_as_json(domains)
-            self.inst.save_list_as_txt(domains)
-            return True
-        return False
+    def _log_exc_type_on_try(self, exc, try_num):
+        logger.info(f"{self.inst.get_relative_without_ext()} couldn't update due err {type(exc)} on try {try_num}")
+
+    @staticmethod
+    def _sleep_before_another_try(try_num=0):
+        time.sleep(Retries.sleep * (try_num * Retries.sleep_multiplier))
+
+    def _log_exc_final_failure(self, exc):
+        logger.exception(f"{self.inst.get_relative_without_ext()} didn't update due err {type(exc)}")
+        if Retries.trace_errors:
+            logger.exception("Backtrace: ", exception=exc)
+
+    def sync_handle_exception(self, exc, _retries=0):
+        if _retries > Retries.max_:
+            self._log_exc_final_failure(exc)
+            return False
+        self._log_exc_final_failure(exc)
+        self._sleep_before_another_try(_retries)
+        return self.update(_retry=_retries+1)
+
+    async def async_handle_exception(self, exc, _retries=0):
+        if _retries > Retries.max_:
+            self._log_exc_final_failure(exc)
+            return False
+        self._log_exc_final_failure(exc)
+        self._sleep_before_another_try(_retries)
+        return await self.async_update(_retry=_retries+1)
+    
+    def update(self, _retry=0):
+        try:
+            self.inst.makedirs()
+            domains = self.get_all_domains()
+            domains = tuple(filter(lambda url: url not in (False, "", None), domains))
+            if ESCAPE_DUPLICATES:
+                domains = self.check_duplicates(domains)
+            domains = list(sorted(domains))
+            if self.inst.domains_handle is not None:
+                domains = self.inst.domains_handle(domains)
+            if self.inst.check_domain:
+                domains = list(filter(self.check_domain, domains))
+            if self.check_if_update(domains):
+                self.inst.save_as_json(domains)
+                self.inst.save_list_as_txt(domains)
+                return True
+            return False
+        except Exception as exc:
+            return self.sync_handle_exception(exc, _retries=_retry)
+
+    async def async_update(self, _retry=0):
+        try:
+            self.inst.makedirs()
+            domains = await self.async_get_all_domains()
+            domains = tuple(filter(lambda url: url not in (False, "", None), domains))
+            if ESCAPE_DUPLICATES:
+                domains = self.check_duplicates(domains)
+            domains = list(sorted(domains))
+            if self.inst.domains_handle is not None:
+                domains = self.inst.domains_handle(domains)
+            if self.inst.check_domain:  # I even don't want to fix it... It's all to Piped... I love u, Piped
+                domains = list(filter(lambda x: self.check_domain(x), domains))
+            if self.check_if_update(domains):
+                self.inst.save_as_json(domains)
+                self.inst.save_list_as_txt(domains)
+                return True
+            return False
+        except Exception as exc:
+            return await self.async_handle_exception(exc, _retries=_retry)
 
     async def async_get_all_domains(self):
         raise NotImplementedError
