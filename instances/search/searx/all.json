@@ -27,6 +27,7 @@
         "search.disroot.org",
         "search.dojoro.de",
         "search.gcomm.ch",
+        "search.in.projectsegfau.lt",
         "search.kiwitalk.de",
         "search.leptons.xyz",
         "search.listi.me",
@@ -35,6 +36,7 @@
         "search.neet.works",
         "search.ononoki.org",
         "search.opensrc.one",
+        "search.projectsegfau.lt",
         "search.rabbit-company.com",
         "search.rhscz.eu",
         "search.rowie.at",
@@ -112,6 +114,7 @@
         "privateoz3u5utrimal2edr56j3r5caakektxxgixigdkycuxigvquid.onion",
         "qyyb5xsar7gp4q3agxnrxgajx4nnnihptqhmyee5nolidtkhxjks6ayd.onion",
         "rq2w52kyrif3xpfihkgjnhqm3a5aqhoikpv72z3drpjglfzc2wr5z4yd.onion",
+        "search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
         "searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion",
         "searx.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
         "searx.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion",
@@ -124,6 +127,7 @@
     ],
     "i2p": [
         "mqamk4cfykdvhw5kjez2gnvse56gmnqxn7vkvvbuor4k4j2lbbnq.b32.i2p",
+        "pjsfwklrellqoj275kzeu2tz4c3j5zktnqod56s7l5dc25ro3wgq.b32.i2p",
         "ransack.i2p"
     ]
 }

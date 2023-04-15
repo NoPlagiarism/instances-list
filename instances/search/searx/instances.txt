@@ -25,6 +25,7 @@ search.cronobox.one
 search.disroot.org
 search.dojoro.de
 search.gcomm.ch
+search.in.projectsegfau.lt
 search.kiwitalk.de
 search.leptons.xyz
 search.listi.me
@@ -33,6 +34,7 @@ search.modalogi.com
 search.neet.works
 search.ononoki.org
 search.opensrc.one
+search.projectsegfau.lt
 search.rabbit-company.com
 search.rhscz.eu
 search.rowie.at

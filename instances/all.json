@@ -137,6 +137,7 @@
             "search.disroot.org",
             "search.dojoro.de",
             "search.gcomm.ch",
+            "search.in.projectsegfau.lt",
             "search.kiwitalk.de",
             "search.leptons.xyz",
             "search.listi.me",
@@ -145,6 +146,7 @@
             "search.neet.works",
             "search.ononoki.org",
             "search.opensrc.one",
+            "search.projectsegfau.lt",
             "search.rabbit-company.com",
             "search.rhscz.eu",
             "search.rowie.at",
@@ -222,6 +224,7 @@
             "privateoz3u5utrimal2edr56j3r5caakektxxgixigdkycuxigvquid.onion",
             "qyyb5xsar7gp4q3agxnrxgajx4nnnihptqhmyee5nolidtkhxjks6ayd.onion",
             "rq2w52kyrif3xpfihkgjnhqm3a5aqhoikpv72z3drpjglfzc2wr5z4yd.onion",
+            "search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion",
             "searx.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "searx.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion",
@@ -234,6 +237,7 @@
         ],
         "i2p": [
             "mqamk4cfykdvhw5kjez2gnvse56gmnqxn7vkvvbuor4k4j2lbbnq.b32.i2p",
+            "pjsfwklrellqoj275kzeu2tz4c3j5zktnqod56s7l5dc25ro3wgq.b32.i2p",
             "ransack.i2p"
         ]
     },
@@ -434,11 +438,13 @@
             "pd.vern.cc",
             "piped.adminforge.de",
             "piped.chauvet.pro",
+            "piped.esmailelbob.xyz",
             "piped.garudalinux.org",
             "piped.hostux.net",
             "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
             "piped.mha.fi",
+            "piped.mint.lgbt",
             "piped.palveluntarjoaja.eu",
             "piped.privacy.com.de",
             "piped.privacydev.net",
@@ -468,7 +474,6 @@
             "inv.bp.projectsegfau.lt",
             "inv.odyssey346.dev",
             "inv.riverside.rocks",
-            "inv.vern.cc",
             "inv.zzls.xyz",
             "invidious.0011.lt",
             "invidious.baczek.me",
@@ -499,7 +504,6 @@
             "grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
             "http://inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "http://invbp.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-            "inv.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "invidious.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "iv.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion",
@@ -511,8 +515,7 @@
         ],
         "i2p": [
             "http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p",
-            "http://pjsfi2szfkb4guqzmfmlyq4no46fayertjrwt4h2uughccrh2lvq.b32.i2p",
-            "inv.vern.i2p"
+            "http://pjsfi2szfkb4guqzmfmlyq4no46fayertjrwt4h2uughccrh2lvq.b32.i2p"
         ]
     },
     "hyperpipe": {
@@ -663,7 +666,6 @@
             "nitter.arcticfoxes.net",
             "nitter.at",
             "nitter.bird.froth.zone",
-            "nitter.bus-hit.me",
             "nitter.caioalonso.com",
             "nitter.cutelab.space",
             "nitter.cz",
@@ -737,7 +739,6 @@
             "twit.hell.rodeo",
             "twitter.censors.us",
             "twitter.dr460nf1r3.org",
-            "twitter.femboy.hu",
             "twitter.moe.ngo",
             "twt.funami.tech",
             "uk.unofficialbird.com",
@@ -788,21 +789,19 @@
             "files.psu.ru",
             "fileupload.ggc-project.de",
             "send.angelic.icu",
+            "send.artemislena.eu",
             "send.aurorabilisim.com",
             "send.boblorange.net",
             "send.datahoarder.dev",
             "send.datenpost.app",
             "send.ephemeral.land",
-            "send.epsilonrecords.nl",
             "send.jeugdhulp.be",
             "send.mni.li",
             "send.monks.tools",
             "send.portailpro.net",
-            "send.q1q.wtf",
             "send.vis.ee",
             "send.zcyph.cc",
-            "transfer.acted.org",
-            "transfer.fm"
+            "transfer.acted.org"
         ]
     },
     "breezewiki": {
