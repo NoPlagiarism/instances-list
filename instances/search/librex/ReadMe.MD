@@ -8,6 +8,7 @@
 - [librex.retro-hax.net](https://librex.retro-hax.net)
 - [librex.revvy.de](https://librex.revvy.de)
 - [librex.zzls.xyz](https://librex.zzls.xyz)
+- [lx.benike.monster](https://lx.benike.monster)
 - [lx.vern.cc](https://lx.vern.cc)
 - [search.ahwx.org](https://search.ahwx.org)
 - [search.davidovski.xyz](https://search.davidovski.xyz)

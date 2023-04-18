@@ -12,19 +12,19 @@
 - [WikiLess](#wikiless)
 - [Piped](#piped)
 - [Invidious](#invidious)
-- [HyperPipe](#hyperpipe)
+- [Hyperpipe](#hyperpipe)
 - [Scribe](#scribe)
 - [Quetre](#quetre)
 - [rimgo](#rimgo)
 - [librarian](#librarian)
 - [nitter](#nitter)
 - [send](#send)
-- [breezewiki](#breezewiki)
+- [BreezeWiki](#breezewiki)
 - [libmedium](#libmedium)
 - [SimpleerTube](#simpleertube)
 - [dumb](#dumb)
-- [biblioreads](#biblioreads)
-- [gothub](#gothub)
+- [BiblioReads](#biblioreads)
+- [GotHub](#gothub)
 - [RYD-Proxy](#ryd-proxy)
 - [libremdb](#libremdb)
 - [AnonymousOverflow](#anonymousoverflow)
@@ -262,6 +262,7 @@
 - [librex.retro-hax.net](https://librex.retro-hax.net)
 - [librex.revvy.de](https://librex.revvy.de)
 - [librex.zzls.xyz](https://librex.zzls.xyz)
+- [lx.benike.monster](https://lx.benike.monster)
 - [lx.vern.cc](https://lx.vern.cc)
 - [search.ahwx.org](https://search.ahwx.org)
 - [search.davidovski.xyz](https://search.davidovski.xyz)
@@ -453,11 +454,10 @@
 - [watch.whatever.social](https://watch.whatever.social)
 - [yt.777.tf](https://yt.777.tf)
 ### Onion
-- [pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 ### I2P
-- [vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p](http://vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p)
+
 
 ## [Invidious](https://github.com/iv-org/invidious#readme)
 
@@ -506,7 +506,7 @@
 - [http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p](http://http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p)
 - [http://pjsfi2szfkb4guqzmfmlyq4no46fayertjrwt4h2uughccrh2lvq.b32.i2p](http://http://pjsfi2szfkb4guqzmfmlyq4no46fayertjrwt4h2uughccrh2lvq.b32.i2p)
 
-## [HyperPipe](https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe)
+## [Hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe)
 
 ### Clearnet
 - [hyperpipe.esmailelbob.xyz](https://hyperpipe.esmailelbob.xyz)
@@ -591,6 +591,7 @@
 - [rim.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion](http://rim.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion)
 - [rimgo.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://rimgo.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [rimgo.i2p](http://rimgo.i2p)
+- [rimgo.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://rimgo.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 - [rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [rimgo.zzls.i2p](http://rimgo.zzls.i2p)
 - [rimgo.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion](http://rimgo.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion)
@@ -655,6 +656,7 @@
 - [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)
 - [nitter.inpt.fr](https://nitter.inpt.fr)
 - [nitter.instance.no](https://nitter.instance.no)
+- [nitter.io.lol](https://nitter.io.lol)
 - [nitter.ir](https://nitter.ir)
 - [nitter.it](https://nitter.it)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
@@ -768,7 +770,7 @@
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)
 
-## [breezewiki](https://gitdab.com/cadence/breezewiki)
+## [BreezeWiki](https://gitdab.com/cadence/breezewiki)
 
 ### Clearnet
 - [antifandom.com](https://antifandom.com)
@@ -780,7 +782,7 @@
 - [bw.artemislena.eu](https://bw.artemislena.eu)
 - [bw.projectsegfau.lt](https://bw.projectsegfau.lt)
 
-## [libmedium](https://github.com/realaravinth/libmedium)
+## [libmedium](https://git.batsense.net/realaravinth/libmedium)
 
 ### Clearnet
 - [libmedium.batsense.net](https://libmedium.batsense.net)
@@ -818,7 +820,7 @@
 ### I2P
 
 
-## [biblioreads](https://github.com/nesaku/BiblioReads)
+## [BiblioReads](https://github.com/nesaku/BiblioReads)
 
 ### Clearnet
 - [biblioreads.esmailelbob.xyz](https://biblioreads.esmailelbob.xyz)
@@ -833,7 +835,7 @@
 ### I2P
 - [vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p](http://vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p)
 
-## [gothub](https://codeberg.org/gothub/gothub)
+## [GotHub](https://codeberg.org/gothub/gothub)
 
 ### Clearnet
 

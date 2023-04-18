@@ -37,6 +37,7 @@
 - [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)
 - [nitter.inpt.fr](https://nitter.inpt.fr)
 - [nitter.instance.no](https://nitter.instance.no)
+- [nitter.io.lol](https://nitter.io.lol)
 - [nitter.ir](https://nitter.ir)
 - [nitter.it](https://nitter.it)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)

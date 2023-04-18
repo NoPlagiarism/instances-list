@@ -1,4 +1,4 @@
-# [libmedium](https://github.com/realaravinth/libmedium)
+# [libmedium](https://git.batsense.net/realaravinth/libmedium)
 
 # Clearnet
 - [libmedium.batsense.net](https://libmedium.batsense.net)

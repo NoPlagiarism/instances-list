@@ -1,4 +1,4 @@
-# [biblioreads](https://github.com/nesaku/BiblioReads)
+# [BiblioReads](https://github.com/nesaku/BiblioReads)
 
 # Clearnet
 - [biblioreads.esmailelbob.xyz](https://biblioreads.esmailelbob.xyz)

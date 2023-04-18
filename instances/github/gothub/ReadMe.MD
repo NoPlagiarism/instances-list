@@ -1,4 +1,4 @@
-# [gothub](https://codeberg.org/gothub/gothub)
+# [GotHub](https://codeberg.org/gothub/gothub)
 
 # Clearnet
 

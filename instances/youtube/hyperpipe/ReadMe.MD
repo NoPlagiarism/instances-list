@@ -1,4 +1,4 @@
-# [HyperPipe](https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe)
+# [Hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe)
 
 # Clearnet
 - [hyperpipe.esmailelbob.xyz](https://hyperpipe.esmailelbob.xyz)

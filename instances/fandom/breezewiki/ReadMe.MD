@@ -1,4 +1,4 @@
-# [breezewiki](https://gitdab.com/cadence/breezewiki)
+# [BreezeWiki](https://gitdab.com/cadence/breezewiki)
 
 # Clearnet
 - [antifandom.com](https://antifandom.com)
