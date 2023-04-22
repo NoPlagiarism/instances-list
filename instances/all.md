@@ -431,19 +431,17 @@
 
 ### Clearnet
 - [il.ax](https://il.ax)
-- [pd.vern.cc](https://pd.vern.cc)
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.chauvet.pro](https://piped.chauvet.pro)
-- [piped.esmailelbob.xyz](https://piped.esmailelbob.xyz)
 - [piped.garudalinux.org](https://piped.garudalinux.org)
 - [piped.hostux.net](https://piped.hostux.net)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
+- [piped.jotoma.de](https://piped.jotoma.de)
 - [piped.lunar.icu](https://piped.lunar.icu)
 - [piped.mha.fi](https://piped.mha.fi)
-- [piped.mint.lgbt](https://piped.mint.lgbt)
 - [piped.palveluntarjoaja.eu](https://piped.palveluntarjoaja.eu)
+- [piped.pfcd.me](https://piped.pfcd.me)
 - [piped.privacy.com.de](https://piped.privacy.com.de)
-- [piped.privacydev.net](https://piped.privacydev.net)
 - [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.qdi.fi](https://piped.qdi.fi)
 - [piped.smnz.de](https://piped.smnz.de)
@@ -453,8 +451,8 @@
 - [watch.leptons.xyz](https://watch.leptons.xyz)
 - [watch.whatever.social](https://watch.whatever.social)
 - [yt.777.tf](https://yt.777.tf)
+- [yt.dc09.ru](https://yt.dc09.ru)
 ### Onion
-- [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 ### I2P
 
@@ -483,7 +481,6 @@
 - [iv.melmac.space](https://iv.melmac.space)
 - [vid.priv.au](https://vid.priv.au)
 - [vid.puffyan.us](https://vid.puffyan.us)
-- [watch.thekitty.zone](https://watch.thekitty.zone)
 - [y.com.sb](https://y.com.sb)
 - [yewtu.be](https://yewtu.be)
 - [yt.artemislena.eu](https://yt.artemislena.eu)
@@ -513,6 +510,7 @@
 - [hyperpipe.surge.sh](https://hyperpipe.surge.sh)
 - [listen.whatever.social](https://listen.whatever.social)
 - [music.adminforge.de](https://music.adminforge.de)
+- [music.pfcd.me](https://music.pfcd.me)
 ### Onion
 - [hyperpipe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://hyperpipe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 
@@ -648,7 +646,6 @@
 - [nitter.eu.projectsegfau.lt](https://nitter.eu.projectsegfau.lt)
 - [nitter.fdn.fr](https://nitter.fdn.fr)
 - [nitter.fly.dev](https://nitter.fly.dev)
-- [nitter.foss.wtf](https://nitter.foss.wtf)
 - [nitter.freedit.eu](https://nitter.freedit.eu)
 - [nitter.garudalinux.org](https://nitter.garudalinux.org)
 - [nitter.grimneko.de](https://nitter.grimneko.de)
@@ -664,7 +661,6 @@
 - [nitter.ktachibana.party](https://nitter.ktachibana.party)
 - [nitter.kylrth.com](https://nitter.kylrth.com)
 - [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr)
-- [nitter.librenode.org](https://nitter.librenode.org)
 - [nitter.lunar.icu](https://nitter.lunar.icu)
 - [nitter.mint.lgbt](https://nitter.mint.lgbt)
 - [nitter.moomoo.me](https://nitter.moomoo.me)

@@ -26,7 +26,6 @@ nitter.esmailelbob.xyz
 nitter.eu.projectsegfau.lt
 nitter.fdn.fr
 nitter.fly.dev
-nitter.foss.wtf
 nitter.freedit.eu
 nitter.garudalinux.org
 nitter.grimneko.de
@@ -42,7 +41,6 @@ nitter.kling.gg
 nitter.ktachibana.party
 nitter.kylrth.com
 nitter.lacontrevoie.fr
-nitter.librenode.org
 nitter.lunar.icu
 nitter.mint.lgbt
 nitter.moomoo.me

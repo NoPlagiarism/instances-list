@@ -1,17 +1,15 @@
 il.ax
-pd.vern.cc
 piped.adminforge.de
 piped.chauvet.pro
-piped.esmailelbob.xyz
 piped.garudalinux.org
 piped.hostux.net
 piped.in.projectsegfau.lt
+piped.jotoma.de
 piped.lunar.icu
 piped.mha.fi
-piped.mint.lgbt
 piped.palveluntarjoaja.eu
+piped.pfcd.me
 piped.privacy.com.de
-piped.privacydev.net
 piped.projectsegfau.lt
 piped.qdi.fi
 piped.smnz.de
@@ -21,3 +19,4 @@ piped.video
 watch.leptons.xyz
 watch.whatever.social
 yt.777.tf
+yt.dc09.ru

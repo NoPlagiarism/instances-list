@@ -22,7 +22,6 @@
 - [iv.melmac.space](https://iv.melmac.space)
 - [vid.priv.au](https://vid.priv.au)
 - [vid.puffyan.us](https://vid.puffyan.us)
-- [watch.thekitty.zone](https://watch.thekitty.zone)
 - [y.com.sb](https://y.com.sb)
 - [yewtu.be](https://yewtu.be)
 - [yt.artemislena.eu](https://yt.artemislena.eu)

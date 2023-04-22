@@ -436,19 +436,17 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "instances": [
             "il.ax",
-            "pd.vern.cc",
             "piped.adminforge.de",
             "piped.chauvet.pro",
-            "piped.esmailelbob.xyz",
             "piped.garudalinux.org",
             "piped.hostux.net",
             "piped.in.projectsegfau.lt",
+            "piped.jotoma.de",
             "piped.lunar.icu",
             "piped.mha.fi",
-            "piped.mint.lgbt",
             "piped.palveluntarjoaja.eu",
+            "piped.pfcd.me",
             "piped.privacy.com.de",
-            "piped.privacydev.net",
             "piped.projectsegfau.lt",
             "piped.qdi.fi",
             "piped.smnz.de",
@@ -457,10 +455,10 @@
             "piped.video",
             "watch.leptons.xyz",
             "watch.whatever.social",
-            "yt.777.tf"
+            "yt.777.tf",
+            "yt.dc09.ru"
         ],
         "onion": [
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -490,7 +488,6 @@
             "iv.melmac.space",
             "vid.priv.au",
             "vid.puffyan.us",
-            "watch.thekitty.zone",
             "y.com.sb",
             "yewtu.be",
             "yt.artemislena.eu",
@@ -523,7 +520,8 @@
             "hyperpipe.esmailelbob.xyz",
             "hyperpipe.surge.sh",
             "listen.whatever.social",
-            "music.adminforge.de"
+            "music.adminforge.de",
+            "music.pfcd.me"
         ],
         "onion": [
             "hyperpipe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion"
@@ -676,7 +674,6 @@
             "nitter.eu.projectsegfau.lt",
             "nitter.fdn.fr",
             "nitter.fly.dev",
-            "nitter.foss.wtf",
             "nitter.freedit.eu",
             "nitter.garudalinux.org",
             "nitter.grimneko.de",
@@ -692,7 +689,6 @@
             "nitter.ktachibana.party",
             "nitter.kylrth.com",
             "nitter.lacontrevoie.fr",
-            "nitter.librenode.org",
             "nitter.lunar.icu",
             "nitter.mint.lgbt",
             "nitter.moomoo.me",
