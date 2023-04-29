@@ -47,6 +47,7 @@ nitter.moomoo.me
 nitter.nachtalb.io
 nitter.nicfab.eu
 nitter.nl
+nitter.no-logs.com
 nitter.one
 nitter.platypush.tech
 nitter.plus.st

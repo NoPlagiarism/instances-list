@@ -33,7 +33,6 @@ search.mdosch.de
 search.modalogi.com
 search.neet.works
 search.ononoki.org
-search.opensrc.one
 search.projectsegfau.lt
 search.rabbit-company.com
 search.rhscz.eu

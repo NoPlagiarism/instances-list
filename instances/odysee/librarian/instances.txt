@@ -2,6 +2,7 @@ lbn.frail.duckdns.org
 lbry.mywire.org
 lbry.ooguy.com
 lbry.projectsegfau.lt
+lbry.ramondia.net
 lbry.slipfox.xyz
 lbry.vern.cc
 librarian.esmailelbob.xyz

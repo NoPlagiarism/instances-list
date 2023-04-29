@@ -7,9 +7,10 @@ piped.in.projectsegfau.lt
 piped.jotoma.de
 piped.lunar.icu
 piped.mha.fi
+piped.mint.lgbt
 piped.palveluntarjoaja.eu
 piped.pfcd.me
-piped.privacy.com.de
+piped.privacydev.net
 piped.projectsegfau.lt
 piped.qdi.fi
 piped.smnz.de

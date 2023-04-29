@@ -9,9 +9,10 @@
         "piped.jotoma.de",
         "piped.lunar.icu",
         "piped.mha.fi",
+        "piped.mint.lgbt",
         "piped.palveluntarjoaja.eu",
         "piped.pfcd.me",
-        "piped.privacy.com.de",
+        "piped.privacydev.net",
         "piped.projectsegfau.lt",
         "piped.qdi.fi",
         "piped.smnz.de",
@@ -24,6 +25,7 @@
         "yt.dc09.ru"
     ],
     "onion": [
+        "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
     "i2p": []

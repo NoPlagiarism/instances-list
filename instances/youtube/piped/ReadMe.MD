@@ -10,9 +10,10 @@
 - [piped.jotoma.de](https://piped.jotoma.de)
 - [piped.lunar.icu](https://piped.lunar.icu)
 - [piped.mha.fi](https://piped.mha.fi)
+- [piped.mint.lgbt](https://piped.mint.lgbt)
 - [piped.palveluntarjoaja.eu](https://piped.palveluntarjoaja.eu)
 - [piped.pfcd.me](https://piped.pfcd.me)
-- [piped.privacy.com.de](https://piped.privacy.com.de)
+- [piped.privacydev.net](https://piped.privacydev.net)
 - [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.qdi.fi](https://piped.qdi.fi)
 - [piped.smnz.de](https://piped.smnz.de)
@@ -24,6 +25,7 @@
 - [yt.777.tf](https://yt.777.tf)
 - [yt.dc09.ru](https://yt.dc09.ru)
 # Onion
+- [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 # I2P
 

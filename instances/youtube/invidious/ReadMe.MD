@@ -15,6 +15,7 @@
 - [invidious.privacydev.net](https://invidious.privacydev.net)
 - [invidious.projectsegfau.lt](https://invidious.projectsegfau.lt)
 - [invidious.sethforprivacy.com](https://invidious.sethforprivacy.com)
+- [invidious.slipfox.xyz](https://invidious.slipfox.xyz)
 - [invidious.snopyta.org](https://invidious.snopyta.org)
 - [invidious.tiekoetter.com](https://invidious.tiekoetter.com)
 - [invidious.vpsburti.com](https://invidious.vpsburti.com)

@@ -2,10 +2,12 @@
 
 # Clearnet
 - [binge.whatever.social](https://binge.whatever.social)
+- [imdb.xbdm.fun](https://imdb.xbdm.fun)
 - [ld.vern.cc](https://ld.vern.cc)
 - [libremdb.esmailelbob.xyz](https://libremdb.esmailelbob.xyz)
 - [libremdb.iket.me](https://libremdb.iket.me)
 - [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
+- [libremdb.nerdyfam.tech](https://libremdb.nerdyfam.tech)
 - [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
 - [libremdbeu.herokuapp.com](https://libremdbeu.herokuapp.com)
 - [lmdb.hostux.net](https://lmdb.hostux.net)

@@ -16,7 +16,6 @@
             "tok.adminforge.de",
             "tok.artemislena.eu",
             "tok.habedieeh.re",
-            "tok.thekitty.zone",
             "tt.vern.cc"
         ],
         "onion": [
@@ -88,6 +87,7 @@
             "search.albony.xyz",
             "search.dr460nf1r3.org",
             "search.garudalinux.org",
+            "search.rubberverse.xyz",
             "search.sethforprivacy.com",
             "wg.vern.cc",
             "wgl.frail.duckdns.org",
@@ -145,7 +145,6 @@
             "search.modalogi.com",
             "search.neet.works",
             "search.ononoki.org",
-            "search.opensrc.one",
             "search.projectsegfau.lt",
             "search.rabbit-company.com",
             "search.rhscz.eu",
@@ -220,7 +219,6 @@
             "gbat2pbpg7ys3fi3pbp64667tt5x66mg45xok35bxdw7v55brm7a27yd.onion",
             "iziatwmtwhrp2kjm3tkrurj3b25qjhznleztdwqc6jgoxmxfvkmh3mid.onion",
             "lgmekfnpealdqhnctyg3p5fuelpdwnbqbwnl2ickpdoodzatzgz27ryd.onion",
-            "opensrcr35fc4ucfwjjnmc7ru7da4kifkox75wcdn3rc6s2vemolpkyd.onion",
             "privateoz3u5utrimal2edr56j3r5caakektxxgixigdkycuxigvquid.onion",
             "qyyb5xsar7gp4q3agxnrxgajx4nnnihptqhmyee5nolidtkhxjks6ayd.onion",
             "rq2w52kyrif3xpfihkgjnhqm3a5aqhoikpv72z3drpjglfzc2wr5z4yd.onion",
@@ -300,6 +298,7 @@
             "teddit.httpjames.space",
             "teddit.namazso.eu",
             "teddit.privacytools.io",
+            "teddit.projectsegfau.lt",
             "teddit.pussthecat.org",
             "teddit.rawbit.ninja",
             "teddit.sethforprivacy.com",
@@ -316,6 +315,7 @@
             "snoo.ioensistjs7wd746zluwixvojbbkxhr37lepdvwtdfeav673o64iflqd.onion",
             "td.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "teddit.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+            "teddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "tedditfyn6idalzso5wam5qd3kdtxoljjhbrbbx34q2xkcisvshuytad.onion",
             "yqu4yj5lju7bmlwpzpmltb5gsu6cw7nnbcxxx4iqemwa56nxjiggf4qd.onion"
         ],
@@ -444,9 +444,10 @@
             "piped.jotoma.de",
             "piped.lunar.icu",
             "piped.mha.fi",
+            "piped.mint.lgbt",
             "piped.palveluntarjoaja.eu",
             "piped.pfcd.me",
-            "piped.privacy.com.de",
+            "piped.privacydev.net",
             "piped.projectsegfau.lt",
             "piped.qdi.fi",
             "piped.smnz.de",
@@ -459,6 +460,7 @@
             "yt.dc09.ru"
         ],
         "onion": [
+            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -481,6 +483,7 @@
             "invidious.privacydev.net",
             "invidious.projectsegfau.lt",
             "invidious.sethforprivacy.com",
+            "invidious.slipfox.xyz",
             "invidious.snopyta.org",
             "invidious.tiekoetter.com",
             "invidious.vpsburti.com",
@@ -566,6 +569,7 @@
             "quetre.pufe.org",
             "quetre.pussthecat.org",
             "quetre.tokhmi.xyz",
+            "quetre.xbdm.fun",
             "quora.femboy.hu",
             "quora.vern.cc"
         ],
@@ -628,6 +632,7 @@
             "lbry.mywire.org",
             "lbry.ooguy.com",
             "lbry.projectsegfau.lt",
+            "lbry.ramondia.net",
             "lbry.slipfox.xyz",
             "lbry.vern.cc",
             "librarian.esmailelbob.xyz",
@@ -695,6 +700,7 @@
             "nitter.nachtalb.io",
             "nitter.nicfab.eu",
             "nitter.nl",
+            "nitter.no-logs.com",
             "nitter.one",
             "nitter.platypush.tech",
             "nitter.plus.st",
@@ -747,6 +753,7 @@
             "aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion",
             "bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
             "codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion",
+            "fbdi323aj3t6hdx4jtkuwxrnafzskquciowu2yu3jizfssaq35aow6ad.onion",
             "ibsboeui2im5o7dxnik3s5yghufumgy5abevtij5nbizequfpu4qi4ad.onion",
             "jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion",
             "nitraeju2mipeziu2wtcrqsxg7h62v5y4eqgwi75uprynkj74gevvuqd.onion",
@@ -780,25 +787,7 @@
     "send": {
         "name": "send",
         "url": "https://github.com/timvisee/send#readme",
-        "instances": [
-            "drop.chapril.org",
-            "files.psu.ru",
-            "fileupload.ggc-project.de",
-            "send.angelic.icu",
-            "send.artemislena.eu",
-            "send.aurorabilisim.com",
-            "send.boblorange.net",
-            "send.datahoarder.dev",
-            "send.datenpost.app",
-            "send.ephemeral.land",
-            "send.jeugdhulp.be",
-            "send.mni.li",
-            "send.monks.tools",
-            "send.portailpro.net",
-            "send.vis.ee",
-            "send.zcyph.cc",
-            "transfer.acted.org"
-        ]
+        "instances": []
     },
     "breezewiki": {
         "name": "BreezeWiki",
@@ -897,10 +886,12 @@
         "url": "https://github.com/zyachel/libremdb",
         "instances": [
             "binge.whatever.social",
+            "imdb.xbdm.fun",
             "ld.vern.cc",
             "libremdb.esmailelbob.xyz",
             "libremdb.iket.me",
             "libremdb.jeikobu.net",
+            "libremdb.nerdyfam.tech",
             "libremdb.pussthecat.org",
             "libremdbeu.herokuapp.com",
             "lmdb.hostux.net",
