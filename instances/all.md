@@ -755,7 +755,23 @@
 ## [send](https://github.com/timvisee/send#readme)
 
 ### Clearnet
-
+- [drop.chapril.org](https://drop.chapril.org)
+- [files.psu.ru](https://files.psu.ru)
+- [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
+- [send.angelic.icu](https://send.angelic.icu)
+- [send.artemislena.eu](https://send.artemislena.eu)
+- [send.aurorabilisim.com](https://send.aurorabilisim.com)
+- [send.boblorange.net](https://send.boblorange.net)
+- [send.datahoarder.dev](https://send.datahoarder.dev)
+- [send.datenpost.app](https://send.datenpost.app)
+- [send.ephemeral.land](https://send.ephemeral.land)
+- [send.jeugdhulp.be](https://send.jeugdhulp.be)
+- [send.mni.li](https://send.mni.li)
+- [send.monks.tools](https://send.monks.tools)
+- [send.portailpro.net](https://send.portailpro.net)
+- [send.vis.ee](https://send.vis.ee)
+- [send.zcyph.cc](https://send.zcyph.cc)
+- [transfer.acted.org](https://transfer.acted.org)
 
 ## [BreezeWiki](https://gitdab.com/cadence/breezewiki)
 
