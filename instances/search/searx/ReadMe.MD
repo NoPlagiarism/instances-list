@@ -58,6 +58,7 @@
 - [searx.cthd.icu](https://searx.cthd.icu)
 - [searx.delicta.pp.ua](https://searx.delicta.pp.ua)
 - [searx.divided-by-zero.eu](https://searx.divided-by-zero.eu)
+- [searx.doofpot.nl](https://searx.doofpot.nl)
 - [searx.dresden.network](https://searx.dresden.network)
 - [searx.ericaftereric.top](https://searx.ericaftereric.top)
 - [searx.esmailelbob.xyz](https://searx.esmailelbob.xyz)

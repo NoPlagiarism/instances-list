@@ -1,6 +1,7 @@
 # [Piped](https://github.com/TeamPiped/Piped#readme)
 
 # Clearnet
+- [777.tf](https://777.tf)
 - [il.ax](https://il.ax)
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.chauvet.pro](https://piped.chauvet.pro)
@@ -13,16 +14,15 @@
 - [piped.mint.lgbt](https://piped.mint.lgbt)
 - [piped.palveluntarjoaja.eu](https://piped.palveluntarjoaja.eu)
 - [piped.pfcd.me](https://piped.pfcd.me)
+- [piped.privacy.com.de](https://piped.privacy.com.de)
 - [piped.privacydev.net](https://piped.privacydev.net)
 - [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.qdi.fi](https://piped.qdi.fi)
 - [piped.smnz.de](https://piped.smnz.de)
 - [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
-- [piped.us.projectsegfau.lt](https://piped.us.projectsegfau.lt)
 - [piped.video](https://piped.video)
 - [watch.leptons.xyz](https://watch.leptons.xyz)
 - [watch.whatever.social](https://watch.whatever.social)
-- [yt.777.tf](https://yt.777.tf)
 - [yt.dc09.ru](https://yt.dc09.ru)
 # Onion
 - [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)

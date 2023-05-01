@@ -55,6 +55,7 @@ searx.chocoflan.net
 searx.cthd.icu
 searx.delicta.pp.ua
 searx.divided-by-zero.eu
+searx.doofpot.nl
 searx.dresden.network
 searx.ericaftereric.top
 searx.esmailelbob.xyz

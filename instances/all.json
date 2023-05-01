@@ -167,6 +167,7 @@
             "searx.cthd.icu",
             "searx.delicta.pp.ua",
             "searx.divided-by-zero.eu",
+            "searx.doofpot.nl",
             "searx.dresden.network",
             "searx.ericaftereric.top",
             "searx.esmailelbob.xyz",
@@ -251,7 +252,6 @@
             "librex.revvy.de",
             "librex.zzls.xyz",
             "lx.benike.monster",
-            "lx.vern.cc",
             "search.ahwx.org",
             "search.davidovski.xyz",
             "search.funami.tech",
@@ -266,13 +266,11 @@
             "f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion",
             "librex.revvybrr6pvbx4n3j4475h4ghw4elqr4t5xo2vtd3gfpu2nrsnhh57id.onion",
             "librex.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion",
-            "librex2xsek6qnh2i4yufuzqjumfdwtw7io7omgmimpzna6llqudqzyd.onion",
-            "lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+            "librex2xsek6qnh2i4yufuzqjumfdwtw7io7omgmimpzna6llqudqzyd.onion"
         ],
         "i2p": [
             "7huurwog32tny663wkglrhozfoyqyqmsuxjbd7dtudccx44awjda.b32.i2p",
-            "revekebotog64xrrammtsmjwtwlg3vqyzwdurzt2pu6botg4bejq.b32.i2p",
-            "vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p"
+            "revekebotog64xrrammtsmjwtwlg3vqyzwdurzt2pu6botg4bejq.b32.i2p"
         ]
     },
     "teddit": {
@@ -435,6 +433,7 @@
         "name": "Piped",
         "url": "https://github.com/TeamPiped/Piped#readme",
         "instances": [
+            "777.tf",
             "il.ax",
             "piped.adminforge.de",
             "piped.chauvet.pro",
@@ -447,16 +446,15 @@
             "piped.mint.lgbt",
             "piped.palveluntarjoaja.eu",
             "piped.pfcd.me",
+            "piped.privacy.com.de",
             "piped.privacydev.net",
             "piped.projectsegfau.lt",
             "piped.qdi.fi",
             "piped.smnz.de",
             "piped.tokhmi.xyz",
-            "piped.us.projectsegfau.lt",
             "piped.video",
             "watch.leptons.xyz",
             "watch.whatever.social",
-            "yt.777.tf",
             "yt.dc09.ru"
         ],
         "onion": [
@@ -677,11 +675,11 @@
             "nitter.edist.ro",
             "nitter.esmailelbob.xyz",
             "nitter.eu.projectsegfau.lt",
+            "nitter.fascinated.cc",
             "nitter.fdn.fr",
             "nitter.fly.dev",
             "nitter.freedit.eu",
             "nitter.garudalinux.org",
-            "nitter.grimneko.de",
             "nitter.hostux.net",
             "nitter.in.projectsegfau.lt",
             "nitter.inpt.fr",
@@ -704,7 +702,6 @@
             "nitter.one",
             "nitter.platypush.tech",
             "nitter.plus.st",
-            "nitter.poast.org",
             "nitter.privacy.com.de",
             "nitter.privacydev.net",
             "nitter.privacytools.io",

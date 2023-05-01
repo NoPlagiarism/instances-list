@@ -24,11 +24,11 @@ nitter.domain.glass
 nitter.edist.ro
 nitter.esmailelbob.xyz
 nitter.eu.projectsegfau.lt
+nitter.fascinated.cc
 nitter.fdn.fr
 nitter.fly.dev
 nitter.freedit.eu
 nitter.garudalinux.org
-nitter.grimneko.de
 nitter.hostux.net
 nitter.in.projectsegfau.lt
 nitter.inpt.fr
@@ -51,7 +51,6 @@ nitter.no-logs.com
 nitter.one
 nitter.platypush.tech
 nitter.plus.st
-nitter.poast.org
 nitter.privacy.com.de
 nitter.privacydev.net
 nitter.privacytools.io
