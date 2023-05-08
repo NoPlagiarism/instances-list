@@ -24,7 +24,9 @@ search.chemicals-in-the-water.eu
 search.cronobox.one
 search.disroot.org
 search.dojoro.de
+search.fascinated.cc
 search.gcomm.ch
+search.houba.rocks
 search.in.projectsegfau.lt
 search.kiwitalk.de
 search.leptons.xyz
@@ -92,6 +94,7 @@ searxng.au
 searxng.bandarawela.net
 searxng.diadz.de
 searxng.nicfab.eu
+searxng.no-logs.com
 spot.murena.io
 srx.cosmohub.io
 stalk.antelope.day

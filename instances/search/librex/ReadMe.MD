@@ -2,11 +2,11 @@
 
 # Clearnet
 - [librex.bloatcat.tk](https://librex.bloatcat.tk)
+- [librex.me](https://librex.me)
 - [librex.mikata.ru](https://librex.mikata.ru)
 - [librex.myroware.eu](https://librex.myroware.eu)
 - [librex.ratakor.com](https://librex.ratakor.com)
 - [librex.retro-hax.net](https://librex.retro-hax.net)
-- [librex.revvy.de](https://librex.revvy.de)
 - [librex.zzls.xyz](https://librex.zzls.xyz)
 - [lx.benike.monster](https://lx.benike.monster)
 - [search.ahwx.org](https://search.ahwx.org)

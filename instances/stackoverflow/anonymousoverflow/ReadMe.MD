@@ -7,6 +7,7 @@
 - [code.whatever.social](https://code.whatever.social)
 - [overflow.777.tf](https://overflow.777.tf)
 - [overflow.adminforge.de](https://overflow.adminforge.de)
+- [overflow.fascinated.cc](https://overflow.fascinated.cc)
 - [overflow.hostux.net](https://overflow.hostux.net)
 - [overflow.lunar.icu](https://overflow.lunar.icu)
 - [overflow.projectsegfau.lt](https://overflow.projectsegfau.lt)

@@ -18,7 +18,7 @@
 - [teddit.ggc-project.de](https://teddit.ggc-project.de)
 - [teddit.hostux.net](https://teddit.hostux.net)
 - [teddit.httpjames.space](https://teddit.httpjames.space)
-- [teddit.namazso.eu](https://teddit.namazso.eu)
+- [teddit.no-logs.com](https://teddit.no-logs.com)
 - [teddit.privacytools.io](https://teddit.privacytools.io)
 - [teddit.projectsegfau.lt](https://teddit.projectsegfau.lt)
 - [teddit.pussthecat.org](https://teddit.pussthecat.org)
@@ -27,6 +27,7 @@
 - [teddit.tinfoil-hat.net](https://teddit.tinfoil-hat.net)
 - [teddit.tokhmi.xyz](https://teddit.tokhmi.xyz)
 - [teddit.totaldarkness.net](https://teddit.totaldarkness.net)
+- [teddit.xbdm.fun](https://teddit.xbdm.fun)
 - [teddit.zaggy.nl](https://teddit.zaggy.nl)
 # Onion
 - [dawtyi5e2cfyfmoht4izmczi42aa2zwh6wi34zwvc6rzf2acpxhrcrad.onion](http://dawtyi5e2cfyfmoht4izmczi42aa2zwh6wi34zwvc6rzf2acpxhrcrad.onion)

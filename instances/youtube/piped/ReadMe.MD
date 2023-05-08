@@ -1,10 +1,10 @@
 # [Piped](https://github.com/TeamPiped/Piped#readme)
 
 # Clearnet
-- [777.tf](https://777.tf)
 - [il.ax](https://il.ax)
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.chauvet.pro](https://piped.chauvet.pro)
+- [piped.frontendfriendly.xyz](https://piped.frontendfriendly.xyz)
 - [piped.garudalinux.org](https://piped.garudalinux.org)
 - [piped.hostux.net](https://piped.hostux.net)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)

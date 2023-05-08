@@ -5,6 +5,7 @@
 - [imdb.xbdm.fun](https://imdb.xbdm.fun)
 - [ld.vern.cc](https://ld.vern.cc)
 - [libremdb.esmailelbob.xyz](https://libremdb.esmailelbob.xyz)
+- [libremdb.fascinated.cc](https://libremdb.fascinated.cc)
 - [libremdb.iket.me](https://libremdb.iket.me)
 - [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
 - [libremdb.nerdyfam.tech](https://libremdb.nerdyfam.tech)

@@ -1,9 +1,9 @@
 librex.bloatcat.tk
+librex.me
 librex.mikata.ru
 librex.myroware.eu
 librex.ratakor.com
 librex.retro-hax.net
-librex.revvy.de
 librex.zzls.xyz
 lx.benike.monster
 search.ahwx.org
