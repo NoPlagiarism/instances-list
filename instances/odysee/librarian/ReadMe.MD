@@ -1,4 +1,4 @@
-# [librarian](https://codeberg.org/librarian/librarian#librarian)
+# [librarian (discontinued)](https://codeberg.org/librarian/librarian#librarian)
 
 # Clearnet
 - [lbn.frail.duckdns.org](https://lbn.frail.duckdns.org)

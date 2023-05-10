@@ -16,7 +16,7 @@
 - [Scribe](#scribe)
 - [Quetre](#quetre)
 - [rimgo](#rimgo)
-- [librarian](#librarian)
+- [librarian (discontinued)](#librarian-(discontinued))
 - [nitter](#nitter)
 - [send](#send)
 - [BreezeWiki](#breezewiki)
@@ -592,7 +592,7 @@
 - [rimgov7l2tqyrm5txrtvhtnfyrzkc5d7ipafofavchbnnyog4r3q.b32.i2p](http://rimgov7l2tqyrm5txrtvhtnfyrzkc5d7ipafofavchbnnyog4r3q.b32.i2p)
 - [tdp6uqjtmok723suum5ms3jbquht6d7dssug4cgcxhfniatb25gcipad.onion](http://tdp6uqjtmok723suum5ms3jbquht6d7dssug4cgcxhfniatb25gcipad.onion)
 
-## [librarian](https://codeberg.org/librarian/librarian#librarian)
+## [librarian (discontinued)](https://codeberg.org/librarian/librarian#librarian)
 
 ### Clearnet
 - [lbn.frail.duckdns.org](https://lbn.frail.duckdns.org)
