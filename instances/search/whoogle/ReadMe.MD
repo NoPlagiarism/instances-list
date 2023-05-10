@@ -13,6 +13,7 @@
 - [whoogle.dcs0.hu](https://whoogle.dcs0.hu)
 - [whoogle.esmailelbob.xyz](https://whoogle.esmailelbob.xyz)
 - [whoogle.hostux.net](https://whoogle.hostux.net)
+- [whoogle.link](https://whoogle.link)
 - [whoogle.lunar.icu](https://whoogle.lunar.icu)
 - [whoogle.privacydev.net](https://whoogle.privacydev.net)
 # Onion
