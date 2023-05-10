@@ -832,7 +832,20 @@
 ## [GotHub](https://codeberg.org/gothub/gothub)
 
 ### Clearnet
-
+- [dev.gh.akisblack.dev](https://dev.gh.akisblack.dev)
+- [gh.akisblack.dev](https://gh.akisblack.dev)
+- [gh.creller.net](https://gh.creller.net)
+- [gh.dev.odyssey346.dev](https://gh.dev.odyssey346.dev)
+- [gh.fascinated.cc](https://gh.fascinated.cc)
+- [gh.odyssey346.dev](https://gh.odyssey346.dev)
+- [gh.phreedom.club](https://gh.phreedom.club)
+- [gh.riverside.rocks](https://gh.riverside.rocks)
+- [gothub.dev.projectsegfau.lt](https://gothub.dev.projectsegfau.lt)
+- [gothub.esmailelbob.xyz](https://gothub.esmailelbob.xyz)
+- [gothub.lunar.icu](https://gothub.lunar.icu)
+- [gothub.no-logs.com](https://gothub.no-logs.com)
+- [gothub.projectsegfau.lt](https://gothub.projectsegfau.lt)
+- [gothub.xbdm.fun](https://gothub.xbdm.fun)
 
 ## [RYD-Proxy](https://github.com/TeamPiped/RYD-Proxy)
 
