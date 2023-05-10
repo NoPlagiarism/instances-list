@@ -538,10 +538,18 @@ INSTANCE_GROUPS = [
 ]
 
 
+GROUPS_ONLY = tuple(os.environ.get("FIL_GROUPS_ONLY").split(",")) if os.environ.get("FIL_GROUPS_ONLY") else None
+if GROUPS_ONLY is not None:
+    logger.info("FIL_GROUPS_ONLY's active: " + str(GROUPS_ONLY))
+
+
 @logger.catch(reraise=True)
 def main():
     for p in PRIORITIES:
         for instance in INSTANCE_GROUPS:
+            if isinstance(GROUPS_ONLY, tuple):
+                if instance.name not in GROUPS_ONLY:
+                    continue
             instance.from_instance().update(priority=p)
             time.sleep(SLEEP_TIMEOUT_PER_GROUP)
 
@@ -551,6 +559,9 @@ async def async_main():
     for p in PRIORITIES:
         tasks = list()
         for instance in INSTANCE_GROUPS:
+            if isinstance(GROUPS_ONLY, tuple):
+                if instance.name not in GROUPS_ONLY:
+                    continue
             tasks.extend(instance.from_instance().get_coroutines(priority=p))
         await asyncio.gather(*tasks)
 

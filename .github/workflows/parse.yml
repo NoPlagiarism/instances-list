@@ -9,6 +9,13 @@ on:
         description: 'PostMessage commit'
         required: false
         type: string
+      groupsOnly:
+        description: 'Groups to scan'
+        required: false
+        type: string
+
+env:
+  FIL_GROUPS_ONLY: ${{ inputs.groupsOnly }}
 
 jobs:
   build:
