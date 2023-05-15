@@ -1,11 +1,14 @@
 il.ax
 piped.adminforge.de
 piped.chauvet.pro
+piped.colinslegacy.com
+piped.esmailelbob.xyz
 piped.frontendfriendly.xyz
 piped.garudalinux.org
 piped.hostux.net
 piped.in.projectsegfau.lt
 piped.jotoma.de
+piped.kozmik.studio
 piped.lunar.icu
 piped.mha.fi
 piped.mint.lgbt

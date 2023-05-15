@@ -3,11 +3,14 @@
         "il.ax",
         "piped.adminforge.de",
         "piped.chauvet.pro",
+        "piped.colinslegacy.com",
+        "piped.esmailelbob.xyz",
         "piped.frontendfriendly.xyz",
         "piped.garudalinux.org",
         "piped.hostux.net",
         "piped.in.projectsegfau.lt",
         "piped.jotoma.de",
+        "piped.kozmik.studio",
         "piped.lunar.icu",
         "piped.mha.fi",
         "piped.mint.lgbt",
@@ -25,6 +28,7 @@
         "yt.dc09.ru"
     ],
     "onion": [
+        "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
     "i2p": []

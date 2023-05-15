@@ -1,8 +1,9 @@
 {
     "instances": [
         "inv.bp.projectsegfau.lt",
-        "inv.odyssey346.dev",
+        "inv.pistasjis.net",
         "inv.riverside.rocks",
+        "inv.tux.pizza",
         "inv.zzls.xyz",
         "invidious.0011.lt",
         "invidious.baczek.me",
@@ -11,6 +12,7 @@
         "invidious.kavin.rocks",
         "invidious.lunar.icu",
         "invidious.nerdvpn.de",
+        "invidious.nogafa.org",
         "invidious.privacydev.net",
         "invidious.projectsegfau.lt",
         "invidious.sethforprivacy.com",
@@ -25,6 +27,7 @@
         "y.com.sb",
         "yewtu.be",
         "yt.artemislena.eu",
+        "yt.floss.media",
         "yt.funami.tech"
     ],
     "onion": [

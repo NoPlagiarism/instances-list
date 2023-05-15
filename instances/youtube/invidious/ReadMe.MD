@@ -2,8 +2,9 @@
 
 # Clearnet
 - [inv.bp.projectsegfau.lt](https://inv.bp.projectsegfau.lt)
-- [inv.odyssey346.dev](https://inv.odyssey346.dev)
+- [inv.pistasjis.net](https://inv.pistasjis.net)
 - [inv.riverside.rocks](https://inv.riverside.rocks)
+- [inv.tux.pizza](https://inv.tux.pizza)
 - [inv.zzls.xyz](https://inv.zzls.xyz)
 - [invidious.0011.lt](https://invidious.0011.lt)
 - [invidious.baczek.me](https://invidious.baczek.me)
@@ -12,6 +13,7 @@
 - [invidious.kavin.rocks](https://invidious.kavin.rocks)
 - [invidious.lunar.icu](https://invidious.lunar.icu)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
+- [invidious.nogafa.org](https://invidious.nogafa.org)
 - [invidious.privacydev.net](https://invidious.privacydev.net)
 - [invidious.projectsegfau.lt](https://invidious.projectsegfau.lt)
 - [invidious.sethforprivacy.com](https://invidious.sethforprivacy.com)
@@ -26,6 +28,7 @@
 - [y.com.sb](https://y.com.sb)
 - [yewtu.be](https://yewtu.be)
 - [yt.artemislena.eu](https://yt.artemislena.eu)
+- [yt.floss.media](https://yt.floss.media)
 - [yt.funami.tech](https://yt.funami.tech)
 # Onion
 - [c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion](http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion)

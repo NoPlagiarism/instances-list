@@ -7,7 +7,6 @@
 - [proxitok.pabloferreiro.es](https://proxitok.pabloferreiro.es)
 - [proxitok.privacy.com.de](https://proxitok.privacy.com.de)
 - [proxitok.privacydev.net](https://proxitok.privacydev.net)
-- [proxitok.pufe.org](https://proxitok.pufe.org)
 - [proxitok.pussthecat.org](https://proxitok.pussthecat.org)
 - [tik.hostux.net](https://tik.hostux.net)
 - [tiktok.chauvet.pro](https://tiktok.chauvet.pro)
