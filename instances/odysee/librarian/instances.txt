@@ -1,4 +1,3 @@
-lbn.frail.duckdns.org
 lbry.mywire.org
 lbry.ooguy.com
 lbry.projectsegfau.lt

@@ -626,7 +626,6 @@
         "name": "librarian (discontinued)",
         "url": "https://codeberg.org/librarian/librarian#librarian",
         "instances": [
-            "lbn.frail.duckdns.org",
             "lbry.mywire.org",
             "lbry.ooguy.com",
             "lbry.projectsegfau.lt",

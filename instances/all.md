@@ -601,7 +601,6 @@
 ## [librarian (discontinued)](https://codeberg.org/librarian/librarian#librarian)
 
 ### Clearnet
-- [lbn.frail.duckdns.org](https://lbn.frail.duckdns.org)
 - [lbry.mywire.org](https://lbry.mywire.org)
 - [lbry.ooguy.com](https://lbry.ooguy.com)
 - [lbry.projectsegfau.lt](https://lbry.projectsegfau.lt)
