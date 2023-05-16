@@ -4,7 +4,7 @@ import os
 import re
 import time
 from dataclasses import dataclass
-from typing import Callable, Iterable, Optional, Union
+from typing import Callable, Iterable, Optional, Union, Any
 from urllib.parse import urlparse
 
 import httpx
@@ -68,6 +68,48 @@ class BaseInstance:
         to_save = "\n".join(obj)
         with open(self.get_filepath(".txt"), mode="w+", encoding="utf-8") as f:
             f.write(to_save)
+
+    def get_url(self):
+        return self.__dict__.get("url")
+
+    def cache_response(self, response, url=None):
+        if self.parent:
+            if url is None:
+                if (url := self.get_url()) is None:
+                    raise TypeError("cache_response url can't be None")
+            self.parent.cache_response(url, response)
+
+    def get_cached_response(self, url=None):
+        if self.parent:
+            if url is None:
+                if (url := self.get_url()) is None:
+                    raise TypeError("get_cached_response url can't be None")
+            return self.parent.get_cached_response(url)
+
+    def get(self, url=None, **kwargs):
+        if url is None:
+            if (url := self.get_url()) is None:
+                raise TypeError("url can't be None")
+        if (resp := self.get_cached_response(url)) is not None:
+            return resp
+        if 'headers' not in kwargs:
+            kwargs['headers'] = HEADERS
+        resp = httpx.get(url, **kwargs)
+        self.cache_response(resp, url)
+        return resp
+
+    async def a_get(self, url=None, **kwargs):
+        if url is None:
+            if (url := self.get_url()) is None:
+                raise TypeError("url can't be None")
+        if (resp := self.get_cached_response(url)) is not None:
+            return resp
+        if 'headers' not in kwargs:
+            kwargs['headers'] = HEADERS
+        async with httpx.AsyncClient() as client:
+            resp = await client.get(url, **kwargs)
+        self.cache_response(resp, url)
+        return resp
 
 
 class BaseDomainsGettter:
@@ -217,14 +259,13 @@ class RegexFromUrl(BaseDomainsGettter):
         return domain_list
     
     def get_all_domains(self):
-        text = httpx.get(self.inst.url, headers=HEADERS).text
+        text = self.inst.get().text
         domain_list = self.get_all_domains_from_text(text)
         return domain_list
     
     async def async_get_all_domains(self):
-        async with httpx.AsyncClient(headers=HEADERS) as client:
-            resp = await client.get(self.inst.url)
-            text = resp.text
+        resp = await self.inst.a_get()
+        text = resp.text
         domain_list = self.get_all_domains_from_text(text)
         return domain_list
 
@@ -270,15 +311,14 @@ class JustFromUrl(BaseDomainsGettter):
         super().__init__()
     
     def get_all_domains(self):
-        raw = httpx.get(self.inst.url, headers=HEADERS).text
+        raw = self.inst.get().text
         domain_list = raw.strip("\n").split("\n")
         return domain_list
 
     async def async_get_all_domains(self):
-        async with httpx.AsyncClient(headers=HEADERS) as client:
-            resp = await client.get(self.inst.url)
-            domain_list = resp.text.strip("\n").split("\n")
-            return domain_list
+        resp = await self.inst.a_get()
+        domain_list = resp.text.strip("\n").split("\n")
+        return domain_list
 
 
 @dataclass
@@ -298,7 +338,7 @@ class JSONUsingCallable(BaseDomainsGettter):
         super().__init__()
     
     def get_all_domains(self):
-        resp = httpx.get(self.inst.url, headers=HEADERS)
+        resp = self.inst.get()
         raw = resp.json()
         result = self.inst.json_handle(raw)
         return result
@@ -308,7 +348,7 @@ class JSONUsingCallable(BaseDomainsGettter):
             raise _last_timeout
         async with httpx.AsyncClient(headers=HEADERS) as client:
             try:
-                resp = await client.get(self.inst.url)
+                resp = await self.inst.a_get()
             except httpx.ConnectTimeout as e:
                 time.sleep(SLEEP_TIMEOUT_PER_TIMEOUT)
                 return await self.async_get_all_domains(_timeouts=_timeouts+1, _last_timeout=e)
@@ -361,7 +401,6 @@ class GetDomainsFromHeaders(BaseDomainsGettter):
             logger.warning("Error: " + str(type(e)))
             logger.warning(f"{self.inst.header} from {domain} skipped")
         return _domain
-        
     
     def get_all_domains(self):
         main_domains = self.inst.main.load_from_json()
@@ -384,7 +423,7 @@ class InstancesGroupData:
     home_url: str
     relative_filepath_without_ext: str
     instances: Iterable
-    description: str=None
+    description: str = None
     
     def get_desc(self):
         if self.description is None:
@@ -407,19 +446,28 @@ class InstancesGroupData:
 class InstancesGroup:
     inst: InstancesGroupData
 
-    def __init__(self, data: InstancesGroupData, *instances) -> None:
+    def __init__(self, data: InstancesGroupData, *instances, cached_responses: bool = True) -> None:
         self.relative_filepath_without_ext = data.relative_filepath_without_ext
         self.instances = list()
         self.inst = data
         for inst in instances:
             inst.set_parent(self)
             self.instances.append(inst)
+        self.cached_enabled = cached_responses
+        self.cached = dict()
     
     def update(self, priority=0):
         for inst in self.instances:
             if inst.priority != priority:
                 continue
             inst.from_instance().update()
+
+    def cache_response(self, url, data):
+        if self.cached_enabled:
+            self.cached[url] = data
+
+    def get_cached_response(self, url):
+        return self.cached.get(url)
 
     def get_coroutines(self, priority=0):
         return tuple([x.from_instance().async_update() for x in self.instances if x.priority == priority])
