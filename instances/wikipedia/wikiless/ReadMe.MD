@@ -4,6 +4,7 @@
 - [wiki.604kph.xyz](https://wiki.604kph.xyz)
 - [wiki.adminforge.de](https://wiki.adminforge.de)
 - [wiki.froth.zone](https://wiki.froth.zone)
+- [wiki.privacytools.io](https://wiki.privacytools.io)
 - [wiki.slipfox.xyz](https://wiki.slipfox.xyz)
 - [wikiless.esmailelbob.xyz](https://wikiless.esmailelbob.xyz)
 - [wikiless.funami.tech](https://wikiless.funami.tech)

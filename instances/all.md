@@ -28,6 +28,7 @@
 - [RYD-Proxy](#ryd-proxy)
 - [libremdb](#libremdb)
 - [AnonymousOverflow](#anonymousoverflow)
+- [SimpleAmazon](#simpleamazon)
 
 ## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
@@ -57,6 +58,7 @@
 
 ### Clearnet
 - [simplytranslate.esmailelbob.xyz](https://simplytranslate.esmailelbob.xyz)
+- [simplytranslate.leemoon.network](https://simplytranslate.leemoon.network)
 - [simplytranslate.manerakai.com](https://simplytranslate.manerakai.com)
 - [simplytranslate.org](https://simplytranslate.org)
 - [simplytranslate.pussthecat.org](https://simplytranslate.pussthecat.org)
@@ -393,6 +395,7 @@
 - [wiki.604kph.xyz](https://wiki.604kph.xyz)
 - [wiki.adminforge.de](https://wiki.adminforge.de)
 - [wiki.froth.zone](https://wiki.froth.zone)
+- [wiki.privacytools.io](https://wiki.privacytools.io)
 - [wiki.slipfox.xyz](https://wiki.slipfox.xyz)
 - [wikiless.esmailelbob.xyz](https://wikiless.esmailelbob.xyz)
 - [wikiless.funami.tech](https://wikiless.funami.tech)
@@ -902,3 +905,15 @@
 - [overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 ### I2P
 - [vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p](http://vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p)
+
+## [SimpleAmazon](https://codeberg.org/SimpleWeb/SimpleAmazon)
+
+### Clearnet
+- [amazon.simple-web.org](https://amazon.simple-web.org)
+- [az.vern.cc](https://az.vern.cc)
+- [simpleamazon.esmailelbob.xyz](https://simpleamazon.esmailelbob.xyz)
+### Onion
+- [az.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://az.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+- [simpleamazon.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://simpleamazon.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
+### I2P
+- [vernlncxo4aswplv7naacpjvp5ts4uhrv4wbv3y4skufdbz763gq.b32.i2p](http://vernlncxo4aswplv7naacpjvp5ts4uhrv4wbv3y4skufdbz763gq.b32.i2p)

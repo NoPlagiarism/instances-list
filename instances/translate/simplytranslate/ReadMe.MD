@@ -2,6 +2,7 @@
 
 # Clearnet
 - [simplytranslate.esmailelbob.xyz](https://simplytranslate.esmailelbob.xyz)
+- [simplytranslate.leemoon.network](https://simplytranslate.leemoon.network)
 - [simplytranslate.manerakai.com](https://simplytranslate.manerakai.com)
 - [simplytranslate.org](https://simplytranslate.org)
 - [simplytranslate.pussthecat.org](https://simplytranslate.pussthecat.org)
