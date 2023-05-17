@@ -28,6 +28,19 @@ ESCAPE_DUPLICATES = True
 PRIORITIES = (0, 1)  # LOW, MEDIUM
 
 
+class URLForCache:
+    def __init__(self, url):
+        self.url = url
+        self.data = None
+
+    @property
+    def loaded(self) -> bool:
+        return self.data is not None
+
+
+URL = Union[httpx.URL, str, URLForCache]
+
+
 @dataclass
 class BaseInstance:
     relative_filepath_without_ext: str
@@ -73,17 +86,22 @@ class BaseInstance:
         return self.__dict__.get("url")
 
     def cache_response(self, response, url=None):
-        if self.parent:
-            if url is None:
-                if (url := self.get_url()) is None:
-                    raise TypeError("cache_response url can't be None")
+        if url is None:
+            if (url := self.get_url()) is None:
+                raise TypeError("cache_response url can't be None")
+        if isinstance(url, URLForCache):
+            url.data = response
+        elif self.parent:
             self.parent.cache_response(url, response)
 
     def get_cached_response(self, url=None):
-        if self.parent:
-            if url is None:
-                if (url := self.get_url()) is None:
-                    raise TypeError("get_cached_response url can't be None")
+        if url is None:
+            if (url := self.get_url()) is None:
+                raise TypeError("get_cached_response url can't be None")
+        if isinstance(url, URLForCache):
+            if url.loaded:
+                return url.data
+        elif self.parent:
             return self.parent.get_cached_response(url)
 
     def get(self, url=None, **kwargs):
@@ -94,7 +112,11 @@ class BaseInstance:
             return resp
         if 'headers' not in kwargs:
             kwargs['headers'] = HEADERS
-        resp = httpx.get(url, **kwargs)
+        if isinstance(url, URLForCache):
+            raw_url = url.url
+        else:
+            raw_url = url
+        resp = httpx.get(raw_url, **kwargs)
         self.cache_response(resp, url)
         return resp
 
@@ -106,8 +128,12 @@ class BaseInstance:
             return resp
         if 'headers' not in kwargs:
             kwargs['headers'] = HEADERS
+        if isinstance(url, URLForCache):
+            raw_url = url.url
+        else:
+            raw_url = url
         async with httpx.AsyncClient() as client:
-            resp = await client.get(url, **kwargs)
+            resp = await client.get(raw_url, **kwargs)
         self.cache_response(resp, url)
         return resp
 
@@ -216,7 +242,7 @@ class BaseDomainsGettter:
 
 @dataclass
 class RegexFromUrlInstance(BaseInstance):
-    url: str
+    url: URL
     regex_pattern: Union[str, Iterable]
     domains_handle: Callable = None
     regex_group: str = "domain"
@@ -297,7 +323,7 @@ class RegexCroppedFromUrl(RegexFromUrl):
 
 @dataclass
 class JustFromUrlInstance(BaseInstance):
-    url: str
+    url: URL
     
     def from_instance(self):
         return JustFromUrl(self)
@@ -323,7 +349,7 @@ class JustFromUrl(BaseDomainsGettter):
 
 @dataclass
 class JSONUsingCallableInstance(BaseInstance):
-    url: str
+    url: URL
     json_handle: Callable
     
     def from_instance(self):
@@ -486,16 +512,18 @@ def get_domain_from_url(url):
         return parsed.netloc
 
 
+SHARED_URLS_FOR_CACHE = dict(simple_web=URLForCache("https://codeberg.org/SimpleWeb/Website/raw/branch/master/config.json"))
+
 INSTANCE_GROUPS = [
     InstancesGroupData(name="ProxiTok", home_url="https://github.com/pablouser1/ProxiTok", relative_filepath_without_ext="tiktok/proxitok",
                        instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+(?:\(Official\)\s+)?\|\s+(?P<cloudflare>Yes|No)\s+\|\s+(?P<flagemoji>\S+)\s+\|"),
                                   RegexFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.onion)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+\|"),
                                   RegexFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.i2p)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)\s+\|"))),
     InstancesGroupData(name="SimplyTranslate", home_url="https://simple-web.org/projects/simplytranslate.html", relative_filepath_without_ext="translate/simplytranslate",
-                       instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://simple-web.org/instances/simplytranslate"),
-                                  JustFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://simple-web.org/instances/simplytranslate_onion"),
-                                  JustFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://simple-web.org/instances/simplytranslate_i2p"),
-                                  JustFromUrlInstance(relative_filepath_without_ext=Network.LOKI, url="https://simple-web.org/instances/simplytranslate_loki"))),
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simplytranslate'][0].get('instances')),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simplytranslate'][0].get('onion_instances')),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.I2P, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simplytranslate'][0].get('i2p_instances')),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.LOKI, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simplytranslate'][0].get('loki_instances')))),
     InstancesGroupData(name="LingvaTranslate", home_url="https://github.com/TheDavidDelta/lingva-translate#lingva-translate", relative_filepath_without_ext="translate/lingvatranslate",
                        instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/thedaviddelta/lingva-translate/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.\/\d]+)\]\(https:\/\/[\w\-\.\/\d]+\)(?:\s+\(Official\))?\s+\|\s+(?P<hosting>[^\|]+)\s+\|\s+(?P<ssl>[^\|]+)\s+\|"), )),
     InstancesGroupData(name="Whoogle", home_url="https://github.com/benbusby/whoogle-search#readme", relative_filepath_without_ext="search/whoogle",
@@ -560,9 +588,9 @@ INSTANCE_GROUPS = [
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://git.batsense.net/realaravinth/libmedium/raw/branch/master/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+http:\/\/(?P<domain>[\w\-\.]+(?:\.onion))\/?\s+\|\s+(?P<country>(?:[^\|])+)\s+\|\s+(?P<provider>(?:[^\|])+)\s+\|\s+(?P<host>(?:[^\|])+)\|?"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://git.batsense.net/realaravinth/libmedium/raw/branch/master/README.md", crop_from="## Instances", crop_to="##", regex_pattern=r"\|\s+http:\/\/(?P<domain>[\w\-\.]+(?:\.i2p))\/?\s+\|\s+(?P<country>(?:[^\|])+)\s+\|\s+(?P<provider>(?:[^\|])+)\s+\|\s+(?P<host>(?:[^\|])+)\|?"))),
     InstancesGroupData(name="SimpleerTube", home_url="https://simple-web.org/projects/simpleertube.html", relative_filepath_without_ext="peertube/simpleertube",
-                       instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://simple-web.org/instances/simpleertube"),
-                                  JustFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://simple-web.org/instances/simpleertube_onion"),
-                                  JustFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://simple-web.org/instances/simpleertube_i2p"))),
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleertube'][0].get('instances')),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleertube'][0].get('onion_instances')),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.I2P, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleertube'][0].get('i2p_instances')))),
     InstancesGroupData(name="dumb", home_url="https://github.com/rramiachraf/dumb", relative_filepath_without_ext="genius/dumb",
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/rramiachraf/dumb/main/README.md", crop_from="## Public Instances", crop_to="##", regex_pattern=r"\|\s+\<https:\/\/(?P<domain>[\w\-\.]+)\>(?:\s+\(experimental\))?\s+\|\s+(?P<region>(?:[^\|])+)\s+\|\s+(?P<cdn>Yes|No)\s+\|\s+(?P<operator>(?:[^\|])+)\|?"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/rramiachraf/dumb/main/README.md", crop_from="## Public Instances", crop_to="##", regex_pattern=r"\|\s+\<http:\/\/(?P<domain>[\w\-\.]+\.onion)\>(?:\s+\(experimental\))?\s+\|\s+(?P<region>(?:[^\|])+)\s+\|\s+(?P<cdn>Yes|No)\s+\|\s+(?P<operator>(?:[^\|])+)\|?"),
@@ -583,6 +611,10 @@ INSTANCE_GROUPS = [
                        instances=(RegexFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/httpjamesm/AnonymousOverflow/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+(?:[^(?:.i2p)|(?:.onion)]))\]\(https?:\/\/[\w\-\.]+\/?\)\s+\|(?P<country>(?:[^\|])+)\s+\|\s+(?P<notes>(?:[^\|])+)\|"),
                                   RegexFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/httpjamesm/AnonymousOverflow/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.onion)\]\(https?:\/\/[\w\-\.]+\/?\)\s+\|(?P<country>(?:[^\|])+)\s+\|\s+(?P<notes>(?:[^\|])+)\|"),
                                   RegexFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://raw.githubusercontent.com/httpjamesm/AnonymousOverflow/main/README.md", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+\.i2p)\]\(https?:\/\/[\w\-\.]+\/?\)\s+\|(?P<country>(?:[^\|])+)\s+\|\s+(?P<notes>(?:[^\|])+)\|"))),
+    InstancesGroupData(name="SimpleAmazon", home_url="https://codeberg.org/SimpleWeb/SimpleAmazon", relative_filepath_without_ext="amazon/simpleamazon",
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleamazon'][0].get('instances')),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleamazon'][0].get('onion_instances')),
+                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.I2P, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleamazon'][0].get('i2p_instances')))),
 ]
 
 
