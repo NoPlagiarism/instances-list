@@ -135,6 +135,7 @@
             "search.gcomm.ch",
             "search.houba.rocks",
             "search.in.projectsegfau.lt",
+            "search.inetol.net",
             "search.kiwitalk.de",
             "search.leptons.xyz",
             "search.listi.me",
@@ -467,7 +468,6 @@
             "inv.zzls.xyz",
             "invidious.0011.lt",
             "invidious.baczek.me",
-            "invidious.esmailelbob.xyz",
             "invidious.flokinet.to",
             "invidious.kavin.rocks",
             "invidious.lunar.icu",
@@ -496,7 +496,6 @@
             "grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
             "http://inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "http://invbp.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-            "invidious.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "invidiousge2cq2qegp4vdzsfu6mvpqdf6dtcyzmqbv7yx2spvkkajad.onion",
             "iv.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion",
@@ -530,9 +529,9 @@
         "name": "Scribe",
         "url": "https://sr.ht/~edwardloveall/Scribe/",
         "instances": [
+            "m.opnxng.com",
             "scribe.bus-hit.me",
             "scribe.citizen4.eu",
-            "scribe.esmailelbob.xyz",
             "scribe.froth.zone",
             "scribe.nixnet.services",
             "scribe.privacydev.net",
@@ -540,7 +539,6 @@
             "scribe.rip"
         ],
         "onion": [
-            "scribe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "scribe.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "w7uhv5lxhgck72hhimdglmusc54t4m6bionlmd5mvyddq3bs53mohqid.onion"
         ],
@@ -668,13 +666,13 @@
             "nitter.cutelab.space",
             "nitter.cz",
             "nitter.d420.de",
-            "nitter.dcs0.hu",
             "nitter.domain.glass",
             "nitter.edist.ro",
             "nitter.esmailelbob.xyz",
             "nitter.eu.projectsegfau.lt",
             "nitter.fascinated.cc",
             "nitter.fdn.fr",
+            "nitter.fediflix.org",
             "nitter.fly.dev",
             "nitter.freedit.eu",
             "nitter.garudalinux.org",
@@ -712,7 +710,6 @@
             "nitter.rawbit.ninja",
             "nitter.riverside.rocks",
             "nitter.sethforprivacy.com",
-            "nitter.simpleprivacy.fr",
             "nitter.slipfox.xyz",
             "nitter.smnz.de",
             "nitter.sneed.network",
@@ -725,7 +722,6 @@
             "nitter.unixfox.eu",
             "nitter.us.projectsegfau.lt",
             "nitter.weiler.rocks",
-            "nitter.winscloud.net",
             "notabird.site",
             "nt.vern.cc",
             "ntr.frail.duckdns.org",
@@ -743,7 +739,6 @@
             "twitter.censors.us",
             "twitter.dr460nf1r3.org",
             "twitter.moe.ngo",
-            "twt.funami.tech",
             "uk.unofficialbird.com",
             "unofficialbird.com"
         ],
@@ -792,6 +787,7 @@
             "drop.chapril.org",
             "files.psu.ru",
             "fileupload.ggc-project.de",
+            "s.opnxng.com",
             "send.angelic.icu",
             "send.artemislena.eu",
             "send.aurorabilisim.com",
@@ -928,9 +924,7 @@
             "libremdb.jeikobu.net",
             "libremdb.nerdyfam.tech",
             "libremdb.pussthecat.org",
-            "libremdbeu.herokuapp.com",
-            "lmdb.hostux.net",
-            "lmdb.tokhmi.xyz"
+            "lmdb.hostux.net"
         ],
         "onion": [
             "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
@@ -944,11 +938,8 @@
         "name": "AnonymousOverflow",
         "url": "https://github.com/httpjamesm/AnonymousOverflow#readme",
         "instances": [
-            "anonymousoverflow.esmailelbob.xyz",
-            "ao.foss.wtf",
             "ao.vern.cc",
             "code.whatever.social",
-            "overflow.777.tf",
             "overflow.adminforge.de",
             "overflow.fascinated.cc",
             "overflow.hostux.net",
@@ -957,7 +948,6 @@
             "overflow.smnz.de"
         ],
         "onion": [
-            "anonymousoverflow.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
         ],

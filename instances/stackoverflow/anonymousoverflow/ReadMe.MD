@@ -1,11 +1,8 @@
 # [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow#readme)
 
 # Clearnet
-- [anonymousoverflow.esmailelbob.xyz](https://anonymousoverflow.esmailelbob.xyz)
-- [ao.foss.wtf](https://ao.foss.wtf)
 - [ao.vern.cc](https://ao.vern.cc)
 - [code.whatever.social](https://code.whatever.social)
-- [overflow.777.tf](https://overflow.777.tf)
 - [overflow.adminforge.de](https://overflow.adminforge.de)
 - [overflow.fascinated.cc](https://overflow.fascinated.cc)
 - [overflow.hostux.net](https://overflow.hostux.net)
@@ -13,7 +10,6 @@
 - [overflow.projectsegfau.lt](https://overflow.projectsegfau.lt)
 - [overflow.smnz.de](https://overflow.smnz.de)
 # Onion
-- [anonymousoverflow.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://anonymousoverflow.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 # I2P

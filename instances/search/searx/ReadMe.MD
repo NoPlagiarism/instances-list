@@ -25,6 +25,7 @@
 - [search.gcomm.ch](https://search.gcomm.ch)
 - [search.houba.rocks](https://search.houba.rocks)
 - [search.in.projectsegfau.lt](https://search.in.projectsegfau.lt)
+- [search.inetol.net](https://search.inetol.net)
 - [search.kiwitalk.de](https://search.kiwitalk.de)
 - [search.leptons.xyz](https://search.leptons.xyz)
 - [search.listi.me](https://search.listi.me)

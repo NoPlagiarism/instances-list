@@ -10,9 +10,7 @@
 - [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
 - [libremdb.nerdyfam.tech](https://libremdb.nerdyfam.tech)
 - [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
-- [libremdbeu.herokuapp.com](https://libremdbeu.herokuapp.com)
 - [lmdb.hostux.net](https://lmdb.hostux.net)
-- [lmdb.tokhmi.xyz](https://lmdb.tokhmi.xyz)
 # Onion
 - [ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [libremdb.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libremdb.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)

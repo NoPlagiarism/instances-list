@@ -19,13 +19,13 @@ nitter.caioalonso.com
 nitter.cutelab.space
 nitter.cz
 nitter.d420.de
-nitter.dcs0.hu
 nitter.domain.glass
 nitter.edist.ro
 nitter.esmailelbob.xyz
 nitter.eu.projectsegfau.lt
 nitter.fascinated.cc
 nitter.fdn.fr
+nitter.fediflix.org
 nitter.fly.dev
 nitter.freedit.eu
 nitter.garudalinux.org
@@ -63,7 +63,6 @@ nitter.qwik.space
 nitter.rawbit.ninja
 nitter.riverside.rocks
 nitter.sethforprivacy.com
-nitter.simpleprivacy.fr
 nitter.slipfox.xyz
 nitter.smnz.de
 nitter.sneed.network
@@ -76,7 +75,6 @@ nitter.twei.space
 nitter.unixfox.eu
 nitter.us.projectsegfau.lt
 nitter.weiler.rocks
-nitter.winscloud.net
 notabird.site
 nt.vern.cc
 ntr.frail.duckdns.org
@@ -94,6 +92,5 @@ twit.hell.rodeo
 twitter.censors.us
 twitter.dr460nf1r3.org
 twitter.moe.ngo
-twt.funami.tech
 uk.unofficialbird.com
 unofficialbird.com

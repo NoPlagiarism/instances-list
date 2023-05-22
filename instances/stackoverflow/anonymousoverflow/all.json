@@ -1,10 +1,7 @@
 {
     "instances": [
-        "anonymousoverflow.esmailelbob.xyz",
-        "ao.foss.wtf",
         "ao.vern.cc",
         "code.whatever.social",
-        "overflow.777.tf",
         "overflow.adminforge.de",
         "overflow.fascinated.cc",
         "overflow.hostux.net",
@@ -13,7 +10,6 @@
         "overflow.smnz.de"
     ],
     "onion": [
-        "anonymousoverflow.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
         "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
         "overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
     ],
