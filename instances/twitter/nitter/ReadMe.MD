@@ -88,7 +88,6 @@
 - [t.floss.media](https://t.floss.media)
 - [t.uchun.net](https://t.uchun.net)
 - [tw.artemislena.eu](https://tw.artemislena.eu)
-- [tw.libb.pw](https://tw.libb.pw)
 - [tweet.lambda.dance](https://tweet.lambda.dance)
 - [tweet.whateveritworks.org](https://tweet.whateveritworks.org)
 - [twit.hell.rodeo](https://twit.hell.rodeo)

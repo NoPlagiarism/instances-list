@@ -569,7 +569,6 @@
 - [ri.zzls.xyz](https://ri.zzls.xyz)
 - [rim.odyssey346.dev](https://rim.odyssey346.dev)
 - [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
-- [rimgo.esmailelbob.xyz](https://rimgo.esmailelbob.xyz)
 - [rimgo.eu.projectsegfau.lt](https://rimgo.eu.projectsegfau.lt)
 - [rimgo.fascinated.cc](https://rimgo.fascinated.cc)
 - [rimgo.hostux.net](https://rimgo.hostux.net)
@@ -586,7 +585,6 @@
 - [i.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://i.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
 - [imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [rim.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion](http://rim.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion)
-- [rimgo.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://rimgo.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [rimgo.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://rimgo.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 - [rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [rimgo.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion](http://rimgo.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion)
@@ -707,7 +705,6 @@
 - [t.floss.media](https://t.floss.media)
 - [t.uchun.net](https://t.uchun.net)
 - [tw.artemislena.eu](https://tw.artemislena.eu)
-- [tw.libb.pw](https://tw.libb.pw)
 - [tweet.lambda.dance](https://tweet.lambda.dance)
 - [tweet.whateveritworks.org](https://tweet.whateveritworks.org)
 - [twit.hell.rodeo](https://twit.hell.rodeo)
@@ -770,6 +767,7 @@
 - [send.monks.tools](https://send.monks.tools)
 - [send.portailpro.net](https://send.portailpro.net)
 - [send.vis.ee](https://send.vis.ee)
+- [send.whateveritworks.org](https://send.whateveritworks.org)
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)
 
@@ -777,10 +775,8 @@
 
 ### Clearnet
 - [antifandom.com](https://antifandom.com)
-- [breeze.777.tf](https://breeze.777.tf)
 - [breeze.hostux.net](https://breeze.hostux.net)
 - [breezewiki.com](https://breezewiki.com)
-- [breezewiki.esmailelbob.xyz](https://breezewiki.esmailelbob.xyz)
 - [breezewiki.pussthecat.org](https://breezewiki.pussthecat.org)
 - [bw.artemislena.eu](https://bw.artemislena.eu)
 - [bw.projectsegfau.lt](https://bw.projectsegfau.lt)

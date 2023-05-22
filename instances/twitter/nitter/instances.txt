@@ -85,7 +85,6 @@ t.com.sb
 t.floss.media
 t.uchun.net
 tw.artemislena.eu
-tw.libb.pw
 tweet.lambda.dance
 tweet.whateveritworks.org
 twit.hell.rodeo
