@@ -138,7 +138,7 @@ class BaseInstance:
         return resp
 
 
-class BaseDomainsGettter:
+class BaseDomainsProvider:
     inst: BaseInstance
 
     def check_if_update(self, domains):
@@ -257,7 +257,7 @@ class RegexFromUrlInstance(BaseInstance):
         return tuple(map(lambda x: re.compile(x, flags=re.MULTILINE), self.regex_pattern))
 
 
-class RegexFromUrl(BaseDomainsGettter):
+class RegexFromUrl(BaseDomainsProvider):
     inst: RegexFromUrlInstance
 
     def __init__(self, instance: RegexFromUrlInstance) -> None:
@@ -329,7 +329,7 @@ class JustFromUrlInstance(BaseInstance):
         return JustFromUrl(self)
 
 
-class JustFromUrl(BaseDomainsGettter):
+class JustFromUrl(BaseDomainsProvider):
     inst: JustFromUrlInstance
 
     def __init__(self, instance: JustFromUrlInstance) -> None:
@@ -356,7 +356,7 @@ class JSONUsingCallableInstance(BaseInstance):
         return JSONUsingCallable(self)
 
 
-class JSONUsingCallable(BaseDomainsGettter):
+class JSONUsingCallable(BaseDomainsProvider):
     inst: JSONUsingCallableInstance
 
     def __init__(self, instance: JSONUsingCallableInstance) -> None:
@@ -394,7 +394,7 @@ class GetDomainsFromHeadersInstance(BaseInstance):
         return GetDomainsFromHeaders(self)
 
 
-class GetDomainsFromHeaders(BaseDomainsGettter):
+class GetDomainsFromHeaders(BaseDomainsProvider):
     inst: GetDomainsFromHeadersInstance
 
     def __init__(self, instance: GetDomainsFromHeadersInstance) -> None:
