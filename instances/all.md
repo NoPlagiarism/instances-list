@@ -580,7 +580,7 @@
 - [rimgo.totaldarkness.net](https://rimgo.totaldarkness.net)
 - [rimgo.us.projectsegfau.lt](https://rimgo.us.projectsegfau.lt)
 - [rimgo.vern.cc](https://rimgo.vern.cc)
-- [rimgo.xbdm.fun](https://rimgo.xbdm.fun)
+- [rimgo.whateveritworks.org](https://rimgo.whateveritworks.org)
 ### Onion
 - [i.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://i.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
 - [imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
