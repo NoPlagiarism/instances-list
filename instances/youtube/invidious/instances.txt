@@ -8,7 +8,6 @@ invidious.baczek.me
 invidious.flokinet.to
 invidious.kavin.rocks
 invidious.lunar.icu
-invidious.nerdvpn.de
 invidious.nogafa.org
 invidious.privacydev.net
 invidious.projectsegfau.lt
@@ -16,7 +15,6 @@ invidious.sethforprivacy.com
 invidious.slipfox.xyz
 invidious.snopyta.org
 invidious.tiekoetter.com
-invidious.vpsburti.com
 iv.ggtyler.dev
 iv.melmac.space
 vid.priv.au

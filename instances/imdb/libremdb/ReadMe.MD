@@ -2,7 +2,7 @@
 
 # Clearnet
 - [binge.whatever.social](https://binge.whatever.social)
-- [imdb.xbdm.fun](https://imdb.xbdm.fun)
+- [binge.whateveritworks.org](https://binge.whateveritworks.org)
 - [ld.vern.cc](https://ld.vern.cc)
 - [libremdb.esmailelbob.xyz](https://libremdb.esmailelbob.xyz)
 - [libremdb.fascinated.cc](https://libremdb.fascinated.cc)

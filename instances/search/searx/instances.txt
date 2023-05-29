@@ -20,10 +20,10 @@ search.disroot.org
 search.dojoro.de
 search.fascinated.cc
 search.gcomm.ch
-search.houba.rocks
 search.in.projectsegfau.lt
 search.inetol.net
 search.kiwitalk.de
+search.laksith.dev
 search.leptons.xyz
 search.listi.me
 search.mdosch.de
@@ -41,6 +41,7 @@ search.smnz.de
 search.stinpriza.org
 search.trom.tf
 search.us.projectsegfau.lt
+search.whateveritworks.org
 search.zzls.xyz
 searx.baczek.me
 searx.be
@@ -53,7 +54,6 @@ searx.divided-by-zero.eu
 searx.doofpot.nl
 searx.dresden.network
 searx.ericaftereric.top
-searx.esmailelbob.xyz
 searx.fmac.xyz
 searx.fossencdi.org
 searx.gnous.eu
@@ -87,7 +87,6 @@ searxng.no-logs.com
 spot.murena.io
 stalk.antelope.day
 suche.tromdienste.de
-swag.pw
 sx.catgirl.cloud
 www.gruble.de
 xo.wtf

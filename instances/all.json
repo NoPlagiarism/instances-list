@@ -92,10 +92,10 @@
             "wg.vern.cc",
             "wgl.frail.duckdns.org",
             "whoogle.dcs0.hu",
-            "whoogle.esmailelbob.xyz",
             "whoogle.hostux.net",
             "whoogle.link",
             "whoogle.lunar.icu",
+            "whoogle.no-logs.com",
             "whoogle.privacydev.net"
         ],
         "onion": [
@@ -133,10 +133,10 @@
             "search.dojoro.de",
             "search.fascinated.cc",
             "search.gcomm.ch",
-            "search.houba.rocks",
             "search.in.projectsegfau.lt",
             "search.inetol.net",
             "search.kiwitalk.de",
+            "search.laksith.dev",
             "search.leptons.xyz",
             "search.listi.me",
             "search.mdosch.de",
@@ -154,6 +154,7 @@
             "search.stinpriza.org",
             "search.trom.tf",
             "search.us.projectsegfau.lt",
+            "search.whateveritworks.org",
             "search.zzls.xyz",
             "searx.baczek.me",
             "searx.be",
@@ -166,7 +167,6 @@
             "searx.doofpot.nl",
             "searx.dresden.network",
             "searx.ericaftereric.top",
-            "searx.esmailelbob.xyz",
             "searx.fmac.xyz",
             "searx.fossencdi.org",
             "searx.gnous.eu",
@@ -200,7 +200,6 @@
             "spot.murena.io",
             "stalk.antelope.day",
             "suche.tromdienste.de",
-            "swag.pw",
             "sx.catgirl.cloud",
             "www.gruble.de",
             "xo.wtf"
@@ -217,7 +216,6 @@
             "rq2w52kyrif3xpfihkgjnhqm3a5aqhoikpv72z3drpjglfzc2wr5z4yd.onion",
             "search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion",
-            "searx.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "searx.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion",
             "searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion",
             "searxdr3pqz4nydgnqocsia2xbywptxbkympa2emn7zlgggrir4bkfad.onion",
@@ -474,7 +472,6 @@
             "invidious.flokinet.to",
             "invidious.kavin.rocks",
             "invidious.lunar.icu",
-            "invidious.nerdvpn.de",
             "invidious.nogafa.org",
             "invidious.privacydev.net",
             "invidious.projectsegfau.lt",
@@ -482,7 +479,6 @@
             "invidious.slipfox.xyz",
             "invidious.snopyta.org",
             "invidious.tiekoetter.com",
-            "invidious.vpsburti.com",
             "iv.ggtyler.dev",
             "iv.melmac.space",
             "vid.priv.au",
@@ -555,6 +551,7 @@
         "instances": [
             "ask.habedieeh.re",
             "que.wilbvr.me",
+            "questions.whateveritworks.org",
             "quetre.blackdrgn.nl",
             "quetre.esmailelbob.xyz",
             "quetre.fascinated.cc",
@@ -566,7 +563,6 @@
             "quetre.pufe.org",
             "quetre.pussthecat.org",
             "quetre.tokhmi.xyz",
-            "quetre.xbdm.fun",
             "quora.femboy.hu",
             "quora.vern.cc"
         ],
@@ -634,7 +630,8 @@
             "lbry.vern.cc",
             "librarian.esmailelbob.xyz",
             "librarian.pussthecat.org",
-            "odysee.076.ne.jp"
+            "odysee.076.ne.jp",
+            "watch.whateveritworks.org"
         ],
         "onion": [
             "5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion",
@@ -700,6 +697,7 @@
             "nitter.nicfab.eu",
             "nitter.nl",
             "nitter.no-logs.com",
+            "nitter.nohost.network",
             "nitter.one",
             "nitter.platypush.tech",
             "nitter.plus.st",
@@ -712,6 +710,7 @@
             "nitter.qwik.space",
             "nitter.rawbit.ninja",
             "nitter.riverside.rocks",
+            "nitter.services.woodland.cafe",
             "nitter.sethforprivacy.com",
             "nitter.slipfox.xyz",
             "nitter.smnz.de",
@@ -813,10 +812,13 @@
         "instances": [
             "antifandom.com",
             "breeze.hostux.net",
+            "breeze.nohost.network",
             "breezewiki.com",
             "breezewiki.pussthecat.org",
             "bw.artemislena.eu",
-            "bw.projectsegfau.lt"
+            "bw.hamstro.dev",
+            "bw.projectsegfau.lt",
+            "nerd.whatever.social"
         ]
     },
     "libmedium": {
@@ -890,18 +892,18 @@
         "instances": [
             "dev.gh.akisblack.dev",
             "gh.akisblack.dev",
-            "gh.creller.net",
+            "gh.bloatcat.tk",
             "gh.dev.odyssey346.dev",
             "gh.fascinated.cc",
             "gh.odyssey346.dev",
             "gh.phreedom.club",
             "gh.riverside.rocks",
+            "gh.whateveritworks.org",
             "gothub.dev.projectsegfau.lt",
             "gothub.esmailelbob.xyz",
             "gothub.lunar.icu",
             "gothub.no-logs.com",
-            "gothub.projectsegfau.lt",
-            "gothub.xbdm.fun"
+            "gothub.projectsegfau.lt"
         ]
     },
     "ryd-proxy": {
@@ -917,7 +919,7 @@
         "url": "https://github.com/zyachel/libremdb",
         "instances": [
             "binge.whatever.social",
-            "imdb.xbdm.fun",
+            "binge.whateveritworks.org",
             "ld.vern.cc",
             "libremdb.esmailelbob.xyz",
             "libremdb.fascinated.cc",

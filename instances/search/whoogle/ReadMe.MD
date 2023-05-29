@@ -11,10 +11,10 @@
 - [wg.vern.cc](https://wg.vern.cc)
 - [wgl.frail.duckdns.org](https://wgl.frail.duckdns.org)
 - [whoogle.dcs0.hu](https://whoogle.dcs0.hu)
-- [whoogle.esmailelbob.xyz](https://whoogle.esmailelbob.xyz)
 - [whoogle.hostux.net](https://whoogle.hostux.net)
 - [whoogle.link](https://whoogle.link)
 - [whoogle.lunar.icu](https://whoogle.lunar.icu)
+- [whoogle.no-logs.com](https://whoogle.no-logs.com)
 - [whoogle.privacydev.net](https://whoogle.privacydev.net)
 # Onion
 - [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](http://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)

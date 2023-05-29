@@ -3,6 +3,7 @@
 # Clearnet
 - [ask.habedieeh.re](https://ask.habedieeh.re)
 - [que.wilbvr.me](https://que.wilbvr.me)
+- [questions.whateveritworks.org](https://questions.whateveritworks.org)
 - [quetre.blackdrgn.nl](https://quetre.blackdrgn.nl)
 - [quetre.esmailelbob.xyz](https://quetre.esmailelbob.xyz)
 - [quetre.fascinated.cc](https://quetre.fascinated.cc)
@@ -14,7 +15,6 @@
 - [quetre.pufe.org](https://quetre.pufe.org)
 - [quetre.pussthecat.org](https://quetre.pussthecat.org)
 - [quetre.tokhmi.xyz](https://quetre.tokhmi.xyz)
-- [quetre.xbdm.fun](https://quetre.xbdm.fun)
 - [quora.femboy.hu](https://quora.femboy.hu)
 - [quora.vern.cc](https://quora.vern.cc)
 # Onion
