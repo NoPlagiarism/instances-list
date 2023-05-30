@@ -32,3 +32,16 @@ class Retries:
 
 
 INST_FOLDER = "instances"
+
+
+ENABLE_ASYNC = True
+ENABLE_PATH_IN_DOMAINS = False
+IGNORE_DOMAINS_WITH_PATHS = True
+SLEEP_TIMEOUT_PER_GROUP = 3
+SLEEP_TIMEOUT_PER_TIMEOUT = 3
+SLEEP_TIMEOUT_PER_CHECK = 1
+TIMEOUTS_MAX = 3
+HEADERS = {"User-Agent": "@NoPlagiarism / frontend-instances-scraper"}
+ESCAPE_DUPLICATES = True
+
+PRIORITIES = (0, 1)  # LOW, MEDIUM
