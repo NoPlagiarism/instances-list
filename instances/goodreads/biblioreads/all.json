@@ -1,14 +1,13 @@
 {
     "instances": [
-        "biblioreads.esmailelbob.xyz",
         "biblioreads.ga",
         "biblioreads.lunar.icu",
         "biblioreads.ml",
         "biblioreads.netlify.app",
-        "bl.vern.cc"
+        "bl.vern.cc",
+        "read.whateveritworks.org"
     ],
     "onion": [
-        "biblioreads.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
         "bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
     ],
     "i2p": [

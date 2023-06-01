@@ -23,6 +23,7 @@
 - [search.dojoro.de](https://search.dojoro.de)
 - [search.fascinated.cc](https://search.fascinated.cc)
 - [search.gcomm.ch](https://search.gcomm.ch)
+- [search.im-in.space](https://search.im-in.space)
 - [search.in.projectsegfau.lt](https://search.in.projectsegfau.lt)
 - [search.inetol.net](https://search.inetol.net)
 - [search.kiwitalk.de](https://search.kiwitalk.de)

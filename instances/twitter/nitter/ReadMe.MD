@@ -96,6 +96,7 @@
 - [twitter.censors.us](https://twitter.censors.us)
 - [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org)
 - [twitter.moe.ngo](https://twitter.moe.ngo)
+- [twt.funami.tech](https://twt.funami.tech)
 - [uk.unofficialbird.com](https://uk.unofficialbird.com)
 - [unofficialbird.com](https://unofficialbird.com)
 # Onion

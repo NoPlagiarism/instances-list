@@ -133,6 +133,7 @@
             "search.dojoro.de",
             "search.fascinated.cc",
             "search.gcomm.ch",
+            "search.im-in.space",
             "search.in.projectsegfau.lt",
             "search.inetol.net",
             "search.kiwitalk.de",
@@ -236,31 +237,31 @@
         "instances": [
             "librex.bloatcat.tk",
             "librex.me",
-            "librex.mikata.ru",
             "librex.myroware.eu",
+            "librex.nohost.network",
             "librex.ratakor.com",
             "librex.retro-hax.net",
             "librex.zzls.xyz",
             "lx.benike.monster",
+            "s.dyox.in",
             "search.ahwx.org",
             "search.davidovski.xyz",
             "search.funami.tech",
             "search.madreyk.xyz",
-            "search.milivojevic.in.rs",
             "search.pabloferreiro.es",
             "search.spaceint.fr",
             "search.tildevarsh.in"
         ],
         "onion": [
             "cosrpybbddzdfjquer3zfmb2h5avtacnctnbu4gucwocdb42s63gcqqd.onion",
-            "f7ssz7l3biu4fugwctfpcx4txg5yq4gqhrt473ledsuc3ivtd3omniid.onion",
+            "ddhigxwjz7elcl2erm7qzzukda4qmovoy4cepcueahggpwrpu24mi6qd.onion",
             "librex.revvybrr6pvbx4n3j4475h4ghw4elqr4t5xo2vtd3gfpu2nrsnhh57id.onion",
-            "librex.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion",
-            "librex2xsek6qnh2i4yufuzqjumfdwtw7io7omgmimpzna6llqudqzyd.onion"
+            "librex.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion"
         ],
         "i2p": [
-            "7huurwog32tny663wkglrhozfoyqyqmsuxjbd7dtudccx44awjda.b32.i2p",
-            "revekebotog64xrrammtsmjwtwlg3vqyzwdurzt2pu6botg4bejq.b32.i2p"
+            "revekebotog64xrrammtsmjwtwlg3vqyzwdurzt2pu6botg4bejq.b32.i2p",
+            "s.dyoxin.i2p",
+            "zzlsaymhcfla7vibo3a223bybeecu3bd5z6rmw2u4y76maqeu76q.b32.i2p"
         ]
     },
     "teddit": {
@@ -319,21 +320,16 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "instances": [
+            "bob.fr.to",
             "discuss.whatever.social",
             "l.opnxng.com",
-            "libreddit.albr.to",
-            "libreddit.billbert.co",
             "libreddit.bus-hit.me",
             "libreddit.cachyos.org",
             "libreddit.dcs0.hu",
             "libreddit.de",
             "libreddit.domain.glass",
-            "libreddit.esmailelbob.xyz",
-            "libreddit.eu.org",
-            "libreddit.foss.wtf",
             "libreddit.freedit.eu",
             "libreddit.garudalinux.org",
-            "libreddit.gq",
             "libreddit.hu",
             "libreddit.kavin.rocks",
             "libreddit.kutay.dev",
@@ -365,7 +361,6 @@
             "r.darklab.sh",
             "r.nf",
             "r.walkx.fyi",
-            "rd.777.tf",
             "rd.funami.tech",
             "reddi.tk",
             "reddit.baby",
@@ -376,7 +371,7 @@
             "reddit.rtrace.io",
             "reddit.simo.sh",
             "reddit.smnz.de",
-            "reddit.thekitty.zone",
+            "reddit.utsav2.dev",
             "safereddit.com",
             "snoo.habedieeh.re"
         ],
@@ -739,6 +734,7 @@
             "twitter.censors.us",
             "twitter.dr460nf1r3.org",
             "twitter.moe.ngo",
+            "twt.funami.tech",
             "uk.unofficialbird.com",
             "unofficialbird.com"
         ],
@@ -870,15 +866,14 @@
         "name": "BiblioReads",
         "url": "https://github.com/nesaku/BiblioReads",
         "instances": [
-            "biblioreads.esmailelbob.xyz",
             "biblioreads.ga",
             "biblioreads.lunar.icu",
             "biblioreads.ml",
             "biblioreads.netlify.app",
-            "bl.vern.cc"
+            "bl.vern.cc",
+            "read.whateveritworks.org"
         ],
         "onion": [
-            "biblioreads.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
@@ -910,7 +905,8 @@
         "url": "https://github.com/TeamPiped/RYD-Proxy",
         "instances": [
             "ryd-proxy.kavin.rocks",
-            "ryd-proxy.privacydev.net"
+            "ryd-proxy.privacydev.net",
+            "ryd-proxy.whateveritworks.org"
         ]
     },
     "libremdb": {

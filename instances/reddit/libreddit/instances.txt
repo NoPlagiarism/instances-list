@@ -1,18 +1,13 @@
+bob.fr.to
 discuss.whatever.social
 l.opnxng.com
-libreddit.albr.to
-libreddit.billbert.co
 libreddit.bus-hit.me
 libreddit.cachyos.org
 libreddit.dcs0.hu
 libreddit.de
 libreddit.domain.glass
-libreddit.esmailelbob.xyz
-libreddit.eu.org
-libreddit.foss.wtf
 libreddit.freedit.eu
 libreddit.garudalinux.org
-libreddit.gq
 libreddit.hu
 libreddit.kavin.rocks
 libreddit.kutay.dev
@@ -44,7 +39,6 @@ r.ahwx.org
 r.darklab.sh
 r.nf
 r.walkx.fyi
-rd.777.tf
 rd.funami.tech
 reddi.tk
 reddit.baby
@@ -55,6 +49,6 @@ reddit.moe.ngo
 reddit.rtrace.io
 reddit.simo.sh
 reddit.smnz.de
-reddit.thekitty.zone
+reddit.utsav2.dev
 safereddit.com
 snoo.habedieeh.re
