@@ -423,8 +423,8 @@
             "piped.chauvet.pro",
             "piped.colinslegacy.com",
             "piped.frontendfriendly.xyz",
+            "piped.garudalinux.org",
             "piped.hostux.net",
-            "piped.in.projectsegfau.lt",
             "piped.jotoma.de",
             "piped.kozmik.studio",
             "piped.lunar.icu",
@@ -432,13 +432,14 @@
             "piped.mint.lgbt",
             "piped.palveluntarjoaja.eu",
             "piped.pfcd.me",
-            "piped.privacy.com.de",
+            "piped.privacydev.net",
             "piped.projectsegfau.lt",
             "piped.qdi.fi",
             "piped.smnz.de",
             "piped.tokhmi.xyz",
             "piped.us.projectsegfau.lt",
             "piped.video",
+            "piped.yt",
             "vyper.me",
             "watch.leptons.xyz",
             "watch.whatever.social",
@@ -446,6 +447,7 @@
         ],
         "onion": [
             "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": [
