@@ -14,6 +14,7 @@
 - [rimgo.in.projectsegfau.lt](https://rimgo.in.projectsegfau.lt)
 - [rimgo.kling.gg](https://rimgo.kling.gg)
 - [rimgo.lunar.icu](https://rimgo.lunar.icu)
+- [rimgo.nohost.network](https://rimgo.nohost.network)
 - [rimgo.privacytools.io](https://rimgo.privacytools.io)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
 - [rimgo.totaldarkness.net](https://rimgo.totaldarkness.net)

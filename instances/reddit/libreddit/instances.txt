@@ -1,4 +1,3 @@
-bob.fr.to
 discuss.whatever.social
 l.opnxng.com
 libreddit.bus-hit.me
@@ -22,7 +21,6 @@ libreddit.privacydev.net
 libreddit.projectsegfau.lt
 libreddit.pufe.org
 libreddit.pussthecat.org
-libreddit.spike.codes
 libreddit.strongthany.cc
 libreddit.tiekoetter.com
 libreddit.totaldarkness.net

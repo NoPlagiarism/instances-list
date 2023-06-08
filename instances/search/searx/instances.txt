@@ -14,7 +14,7 @@ s.trung.fun
 s.zhaocloud.net
 search.0xgingi.com
 search.bus-hit.me
-search.chemicals-in-the-water.eu
+search.citw.lgbt
 search.cronobox.one
 search.disroot.org
 search.dojoro.de
@@ -58,7 +58,6 @@ searx.ericaftereric.top
 searx.fmac.xyz
 searx.fossencdi.org
 searx.gnous.eu
-searx.gnu.style
 searx.juancord.xyz
 searx.kutay.dev
 searx.mastodontech.de

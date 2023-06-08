@@ -11,6 +11,7 @@ rimgo.hostux.net
 rimgo.in.projectsegfau.lt
 rimgo.kling.gg
 rimgo.lunar.icu
+rimgo.nohost.network
 rimgo.privacytools.io
 rimgo.pussthecat.org
 rimgo.totaldarkness.net

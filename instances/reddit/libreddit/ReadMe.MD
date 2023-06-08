@@ -1,7 +1,6 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
-- [bob.fr.to](https://bob.fr.to)
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
@@ -25,7 +24,6 @@
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pufe.org](https://libreddit.pufe.org)
 - [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
-- [libreddit.spike.codes](https://libreddit.spike.codes)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tiekoetter.com](https://libreddit.tiekoetter.com)
 - [libreddit.totaldarkness.net](https://libreddit.totaldarkness.net)

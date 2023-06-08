@@ -79,7 +79,6 @@
 - [nitter.twei.space](https://nitter.twei.space)
 - [nitter.unixfox.eu](https://nitter.unixfox.eu)
 - [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)
-- [nitter.weiler.rocks](https://nitter.weiler.rocks)
 - [notabird.site](https://notabird.site)
 - [nt.vern.cc](https://nt.vern.cc)
 - [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org)
