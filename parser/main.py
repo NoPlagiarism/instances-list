@@ -500,6 +500,10 @@ def get_domain_from_url(url):
         return parsed.netloc
 
 
+def get_clearnet_base(path):
+    return BaseInstance(relative_filepath_without_ext='/'.join((path, Network.CLEARNET)))
+
+
 SHARED_URLS_FOR_CACHE = dict(simple_web=URLForCache("https://codeberg.org/SimpleWeb/Website/raw/branch/master/config.json"))
 
 INSTANCE_GROUPS = [
@@ -535,12 +539,12 @@ INSTANCE_GROUPS = [
                                   JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/libreddit/libreddit-instances/master/instances.json", json_handle=lambda raw: tuple(map(get_domain_from_url, tuple(filter(lambda url: url is not None, [x.get("onion") for x in raw["instances"]]))))))),
     InstancesGroupData(name="WikiLess", home_url="https://gitea.slowb.ro/ticoombs/Wikiless#wikiless", relative_filepath_without_ext="wikipedia/wikiless",
                        instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/wikiless/clearnet.txt"),
-                                  JustFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/wikiless/onion.txt"),
-                                  JustFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/wikiless/i2p.txt"),)),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.ONION, header=MirrorHeaders.ONION, main=get_clearnet_base("wikipedia/wikiless")),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.I2P, header=MirrorHeaders.I2P, main=get_clearnet_base("wikipedia/wikiless")),)),
     InstancesGroupData(name="Piped", home_url="https://github.com/TeamPiped/Piped#readme", relative_filepath_without_ext="youtube/piped",
                        instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/piped/clearnet.txt"),
-                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.ONION, header=MirrorHeaders.ONION, main=BaseInstance(relative_filepath_without_ext=INST_FOLDER + "/youtube/piped/" + Network.CLEARNET)),
-                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.I2P, header=MirrorHeaders.I2P, main=BaseInstance(relative_filepath_without_ext=INST_FOLDER + "/youtube/piped/" + Network.CLEARNET)))),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.ONION, header=MirrorHeaders.ONION, main=get_clearnet_base("youtube/piped")),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.I2P, header=MirrorHeaders.I2P, main=get_clearnet_base("youtube/piped")))),
     InstancesGroupData(name="Invidious", home_url="https://github.com/iv-org/invidious#readme", relative_filepath_without_ext="youtube/invidious",
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "https", raw))))),
                                   JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url="https://api.invidious.io/instances.json", json_handle=lambda raw: tuple(map(lambda inst: inst[0], tuple(filter(lambda inst: inst[1]["type"] == "onion", raw))))),
@@ -562,7 +566,7 @@ INSTANCE_GROUPS = [
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, url="https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/README.md", crop_from="### I2P", crop_to="##", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<url>https?:\/\/[\w\-\.\/]+)\)+(?:\s+\(official\))?\s+\|\s+(?P<data>(?:[^\|])+)\s+\|(?P<notes>(?:[^\|])+)\|"))),
     InstancesGroupData(name="librarian (discontinued)", home_url="https://codeberg.org/librarian/librarian#librarian", relative_filepath_without_ext="odysee/librarian",
                        instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/librarian/clearnet.txt"),
-                                  JustFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/librarian/onion.txt"))),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.ONION, header=MirrorHeaders.ONION, main=get_clearnet_base("odysee/librarian")))),
     InstancesGroupData(name="nitter", home_url="https://github.com/zedeus/nitter#readme", relative_filepath_without_ext="twitter/nitter",
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", crop_to="### Tor", regex_pattern=(r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/[\w\-\.\/]+)\)(?P<anycast>\s+\(anycast\))?\s+\|\s+✅\s+\|\s+(?P<updated>\S+)\s+\|\s+(?P<flagemoji>\S+)\s+\|(?P<ssllabs>(?:[^\|])+)?\|", r"\|\s+\[(?P<domain>[\w\-\.]+)\]\((?P<clearurl>https?:\/\/[\w\-\.\/]+)\)\s+\|\s+(?P<flagemoji>\S+)\s+\|(?P<ssllabs>(?:[^\|])+)?\|")),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, url="https://raw.githubusercontent.com/wiki/zedeus/nitter/Instances.md", crop_from="### Tor", crop_to=".i2p", regex_pattern=r"\|\s+\[(?P<domain>[\w\-\.]+)\/?\]\((?P<onionurl>https?:\/\/[\w\-\.\/]+)\)\s+\|\s+✅\s+\|", regex_group="domain"),
