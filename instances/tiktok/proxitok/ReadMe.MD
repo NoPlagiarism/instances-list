@@ -2,6 +2,7 @@
 
 # Clearnet
 - [cringe.whatever.social](https://cringe.whatever.social)
+- [cringe.whateveritworks.org](https://cringe.whateveritworks.org)
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
 - [proxitok.lunar.icu](https://proxitok.lunar.icu)
 - [proxitok.pabloferreiro.es](https://proxitok.pabloferreiro.es)
@@ -9,7 +10,6 @@
 - [proxitok.privacydev.net](https://proxitok.privacydev.net)
 - [proxitok.pussthecat.org](https://proxitok.pussthecat.org)
 - [tik.hostux.net](https://tik.hostux.net)
-- [tiktok.chauvet.pro](https://tiktok.chauvet.pro)
 - [tok.adminforge.de](https://tok.adminforge.de)
 - [tok.artemislena.eu](https://tok.artemislena.eu)
 - [tok.habedieeh.re](https://tok.habedieeh.re)

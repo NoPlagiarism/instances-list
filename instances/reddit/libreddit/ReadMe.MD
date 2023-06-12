@@ -5,8 +5,6 @@
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.cachyos.org](https://libreddit.cachyos.org)
-- [libreddit.dcs0.hu](https://libreddit.dcs0.hu)
-- [libreddit.de](https://libreddit.de)
 - [libreddit.domain.glass](https://libreddit.domain.glass)
 - [libreddit.freedit.eu](https://libreddit.freedit.eu)
 - [libreddit.garudalinux.org](https://libreddit.garudalinux.org)

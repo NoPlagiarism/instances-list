@@ -1,4 +1,5 @@
 cringe.whatever.social
+cringe.whateveritworks.org
 proxitok.esmailelbob.xyz
 proxitok.lunar.icu
 proxitok.pabloferreiro.es
@@ -6,7 +7,6 @@ proxitok.privacy.com.de
 proxitok.privacydev.net
 proxitok.pussthecat.org
 tik.hostux.net
-tiktok.chauvet.pro
 tok.adminforge.de
 tok.artemislena.eu
 tok.habedieeh.re

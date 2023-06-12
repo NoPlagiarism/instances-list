@@ -20,7 +20,6 @@ nitter.cutelab.space
 nitter.cz
 nitter.d420.de
 nitter.domain.glass
-nitter.edist.ro
 nitter.esmailelbob.xyz
 nitter.eu.projectsegfau.lt
 nitter.fascinated.cc
@@ -54,6 +53,7 @@ nitter.nohost.network
 nitter.one
 nitter.platypush.tech
 nitter.plus.st
+nitter.poast.org
 nitter.privacy.com.de
 nitter.privacydev.net
 nitter.privacytools.io
@@ -76,6 +76,7 @@ nitter.tux.pizza
 nitter.twei.space
 nitter.unixfox.eu
 nitter.us.projectsegfau.lt
+nitter.weiler.rocks
 notabird.site
 nt.vern.cc
 ntr.frail.duckdns.org

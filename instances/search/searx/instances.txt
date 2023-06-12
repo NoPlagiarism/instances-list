@@ -11,7 +11,6 @@ paulgo.io
 priv.au
 s.frlt.one
 s.trung.fun
-s.zhaocloud.net
 search.0xgingi.com
 search.bus-hit.me
 search.citw.lgbt
@@ -49,7 +48,6 @@ searx.be
 searx.becomesovran.com
 searx.bissisoft.com
 searx.catfluori.de
-searx.chocoflan.net
 searx.cthd.icu
 searx.divided-by-zero.eu
 searx.doofpot.nl
@@ -84,6 +82,7 @@ searxng.au
 searxng.diadz.de
 searxng.nicfab.eu
 searxng.no-logs.com
+searxng.xcxc.eu
 spot.murena.io
 stalk.antelope.day
 suche.tromdienste.de

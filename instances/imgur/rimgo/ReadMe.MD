@@ -1,26 +1,7 @@
 # [rimgo](https://codeberg.org/video-prize-ranch/rimgo#rimgo)
 
 # Clearnet
-- [i.01r.xyz](https://i.01r.xyz)
-- [i.habedieeh.re](https://i.habedieeh.re)
-- [imgur.010032.xyz](https://imgur.010032.xyz)
-- [imgur.artemislena.eu](https://imgur.artemislena.eu)
-- [ri.zzls.xyz](https://ri.zzls.xyz)
-- [rim.odyssey346.dev](https://rim.odyssey346.dev)
-- [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
-- [rimgo.eu.projectsegfau.lt](https://rimgo.eu.projectsegfau.lt)
-- [rimgo.fascinated.cc](https://rimgo.fascinated.cc)
-- [rimgo.hostux.net](https://rimgo.hostux.net)
-- [rimgo.in.projectsegfau.lt](https://rimgo.in.projectsegfau.lt)
-- [rimgo.kling.gg](https://rimgo.kling.gg)
-- [rimgo.lunar.icu](https://rimgo.lunar.icu)
-- [rimgo.nohost.network](https://rimgo.nohost.network)
-- [rimgo.privacytools.io](https://rimgo.privacytools.io)
-- [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
-- [rimgo.totaldarkness.net](https://rimgo.totaldarkness.net)
-- [rimgo.us.projectsegfau.lt](https://rimgo.us.projectsegfau.lt)
-- [rimgo.vern.cc](https://rimgo.vern.cc)
-- [rimgo.whateveritworks.org](https://rimgo.whateveritworks.org)
+
 # Onion
 - [i.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://i.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
 - [imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
