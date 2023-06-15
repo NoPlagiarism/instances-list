@@ -1,17 +1,16 @@
 inv.bp.projectsegfau.lt
-inv.riverside.rocks
+inv.citw.lgbt
+inv.in.projectsegfau.lt
+inv.makerlab.tech
 inv.tux.pizza
 inv.zzls.xyz
 invidious.0011.lt
 invidious.baczek.me
-invidious.flokinet.to
-invidious.kavin.rocks
 invidious.lunar.icu
 invidious.privacydev.net
 invidious.projectsegfau.lt
 invidious.protokolla.fi
 invidious.slipfox.xyz
-invidious.snopyta.org
 invidious.tiekoetter.com
 iv.ggtyler.dev
 iv.melmac.space
@@ -23,4 +22,4 @@ y.com.sb
 yewtu.be
 yt.artemislena.eu
 yt.floss.media
-yt.funami.tech
+yt.oelrichsgarcia.de

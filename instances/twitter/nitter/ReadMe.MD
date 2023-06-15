@@ -35,7 +35,7 @@
 - [nitter.hu](https://nitter.hu)
 - [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)
 - [nitter.inpt.fr](https://nitter.inpt.fr)
-- [nitter.instance.no](https://nitter.instance.no)
+- [nitter.instances.cc](https://nitter.instances.cc)
 - [nitter.io.lol](https://nitter.io.lol)
 - [nitter.ir](https://nitter.ir)
 - [nitter.it](https://nitter.it)

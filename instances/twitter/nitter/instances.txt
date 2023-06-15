@@ -32,7 +32,7 @@ nitter.hostux.net
 nitter.hu
 nitter.in.projectsegfau.lt
 nitter.inpt.fr
-nitter.instance.no
+nitter.instances.cc
 nitter.io.lol
 nitter.ir
 nitter.it
