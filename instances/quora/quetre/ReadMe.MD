@@ -5,7 +5,6 @@
 - [que.wilbvr.me](https://que.wilbvr.me)
 - [questions.whateveritworks.org](https://questions.whateveritworks.org)
 - [quetre.blackdrgn.nl](https://quetre.blackdrgn.nl)
-- [quetre.esmailelbob.xyz](https://quetre.esmailelbob.xyz)
 - [quetre.fascinated.cc](https://quetre.fascinated.cc)
 - [quetre.iket.me](https://quetre.iket.me)
 - [quetre.lunar.icu](https://quetre.lunar.icu)
@@ -20,7 +19,6 @@
 # Onion
 - [ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
 - [qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [quetre.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://quetre.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [quetre.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://quetre.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion](http://quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion)
 # I2P

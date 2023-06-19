@@ -75,10 +75,8 @@ searx.sp-codes.de
 searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
-searx.webheberg.info
 searx.work
 searx.zapashcanon.fr
-searxng.au
 searxng.diadz.de
 searxng.nicfab.eu
 searxng.no-logs.com

@@ -3,7 +3,6 @@
 # Clearnet
 - [i.01r.xyz](https://i.01r.xyz)
 - [i.habedieeh.re](https://i.habedieeh.re)
-- [imgur.010032.xyz](https://imgur.010032.xyz)
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)
 - [ri.zzls.xyz](https://ri.zzls.xyz)
 - [rim.odyssey346.dev](https://rim.odyssey346.dev)
@@ -15,7 +14,6 @@
 - [rimgo.kling.gg](https://rimgo.kling.gg)
 - [rimgo.lunar.icu](https://rimgo.lunar.icu)
 - [rimgo.nohost.network](https://rimgo.nohost.network)
-- [rimgo.privacytools.io](https://rimgo.privacytools.io)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
 - [rimgo.totaldarkness.net](https://rimgo.totaldarkness.net)
 - [rimgo.us.projectsegfau.lt](https://rimgo.us.projectsegfau.lt)

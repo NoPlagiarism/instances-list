@@ -1,3 +1,2 @@
 ryd-proxy.kavin.rocks
-ryd-proxy.privacydev.net
 ryd-proxy.whateveritworks.org

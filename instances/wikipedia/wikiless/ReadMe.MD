@@ -6,6 +6,7 @@
 - [wiki.froth.zone](https://wiki.froth.zone)
 - [wiki.privacytools.io](https://wiki.privacytools.io)
 - [wiki.slipfox.xyz](https://wiki.slipfox.xyz)
+- [wiki.sylentpunk.xyz](https://wiki.sylentpunk.xyz)
 - [wikiless.esmailelbob.xyz](https://wikiless.esmailelbob.xyz)
 - [wikiless.funami.tech](https://wikiless.funami.tech)
 - [wikiless.northboot.xyz](https://wikiless.northboot.xyz)

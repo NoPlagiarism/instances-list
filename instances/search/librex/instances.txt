@@ -6,6 +6,7 @@ librex.ratakor.com
 librex.retro-hax.net
 librex.zzls.xyz
 lx.benike.monster
+lx.vern.cc
 s.dyox.in
 search.ahwx.org
 search.davidovski.xyz

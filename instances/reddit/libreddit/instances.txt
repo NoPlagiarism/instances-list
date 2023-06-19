@@ -2,7 +2,6 @@ discuss.whatever.social
 l.opnxng.com
 libreddit.bus-hit.me
 libreddit.cachyos.org
-libreddit.dcs0.hu
 libreddit.de
 libreddit.domain.glass
 libreddit.freedit.eu
@@ -10,6 +9,7 @@ libreddit.garudalinux.org
 libreddit.hu
 libreddit.kavin.rocks
 libreddit.kutay.dev
+libreddit.kylrth.com
 libreddit.lunar.icu
 libreddit.mha.fi
 libreddit.nl
@@ -28,7 +28,6 @@ lr.4201337.xyz
 lr.aeong.one
 lr.artemislena.eu
 lr.mint.lgbt
-lr.odyssey346.dev
 lr.riverside.rocks
 lr.slipfox.xyz
 lr.vern.cc
