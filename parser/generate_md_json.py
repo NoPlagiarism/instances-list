@@ -65,7 +65,7 @@ def create_all_json(groups_data):
     groups = [x.from_instance() for x in groups_data]
     json_raw = dict()
     for group in groups:
-        json_raw[group.inst.get_name()] = {"name": group.inst.name, "url": group.inst.home_url}
+        json_raw[group.inst.get_name()] = {"name": group.inst.name, "url": group.inst.home_url, "path": group.relative_filepath_without_ext}
         if group.inst.description:
             json_raw[group.inst.get_name()]["desc"] = group.inst.description
         for inst in group.instances:

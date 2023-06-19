@@ -2,6 +2,7 @@
     "proxitok": {
         "name": "ProxiTok",
         "url": "https://github.com/pablouser1/ProxiTok",
+        "path": "tiktok/proxitok",
         "instances": [
             "cringe.whatever.social",
             "cringe.whateveritworks.org",
@@ -30,6 +31,7 @@
     "simplytranslate": {
         "name": "SimplyTranslate",
         "url": "https://simple-web.org/projects/simplytranslate.html",
+        "path": "translate/simplytranslate",
         "instances": [
             "simplytranslate.esmailelbob.xyz",
             "simplytranslate.leemoon.network",
@@ -67,6 +69,7 @@
     "lingvatranslate": {
         "name": "LingvaTranslate",
         "url": "https://github.com/TheDavidDelta/lingva-translate#lingva-translate",
+        "path": "translate/lingvatranslate",
         "instances": [
             "lingva.garudalinux.org",
             "lingva.lunar.icu",
@@ -81,6 +84,7 @@
     "whoogle": {
         "name": "Whoogle",
         "url": "https://github.com/benbusby/whoogle-search#readme",
+        "path": "search/whoogle",
         "instances": [
             "gowogle.voring.me",
             "s.tokhmi.xyz",
@@ -110,6 +114,7 @@
     "searxng": {
         "name": "SearXNG",
         "url": "https://github.com/searxng/searxng#readme",
+        "path": "search/searx",
         "instances": [
             "baresearch.org",
             "coppedge.info",
@@ -232,6 +237,7 @@
     "librex": {
         "name": "LibreX",
         "url": "https://github.com/hnhx/librex#readme",
+        "path": "search/librex",
         "instances": [
             "librex.bloatcat.tk",
             "librex.me",
@@ -265,6 +271,7 @@
     "teddit": {
         "name": "teddit",
         "url": "https://codeberg.org/teddit/teddit",
+        "path": "reddit/teddit",
         "instances": [
             "i.opnxng.com",
             "incogsnoo.com",
@@ -317,6 +324,7 @@
     "libreddit": {
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
+        "path": "reddit/libreddit",
         "instances": [
             "discuss.whatever.social",
             "l.opnxng.com",
@@ -379,6 +387,7 @@
     "wikiless": {
         "name": "WikiLess",
         "url": "https://gitea.slowb.ro/ticoombs/Wikiless#wikiless",
+        "path": "wikipedia/wikiless",
         "instances": [
             "wiki.604kph.xyz",
             "wiki.adminforge.de",
@@ -410,6 +419,7 @@
     "piped": {
         "name": "Piped",
         "url": "https://github.com/TeamPiped/Piped#readme",
+        "path": "youtube/piped",
         "instances": [
             "il.ax",
             "pd.vern.cc",
@@ -447,6 +457,7 @@
     "invidious": {
         "name": "Invidious",
         "url": "https://github.com/iv-org/invidious#readme",
+        "path": "youtube/invidious",
         "instances": [
             "inv.bp.projectsegfau.lt",
             "inv.citw.lgbt",
@@ -497,6 +508,7 @@
     "hyperpipe": {
         "name": "Hyperpipe",
         "url": "https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe",
+        "path": "youtube/hyperpipe",
         "instances": [
             "hyperpipe.esmailelbob.xyz",
             "hyperpipe.surge.sh",
@@ -512,6 +524,7 @@
     "scribe": {
         "name": "Scribe",
         "url": "https://sr.ht/~edwardloveall/Scribe/",
+        "path": "medium/scribe",
         "instances": [
             "m.opnxng.com",
             "scribe.bus-hit.me",
@@ -533,6 +546,7 @@
     "quetre": {
         "name": "Quetre",
         "url": "https://github.com/zyachel/quetre#readme",
+        "path": "quora/quetre",
         "instances": [
             "ask.habedieeh.re",
             "que.wilbvr.me",
@@ -565,6 +579,7 @@
     "rimgo": {
         "name": "rimgo",
         "url": "https://codeberg.org/video-prize-ranch/rimgo#rimgo",
+        "path": "imgur/rimgo",
         "instances": [
             "i.01r.xyz",
             "i.habedieeh.re",
@@ -607,6 +622,7 @@
     "librarian (discontinued)": {
         "name": "librarian (discontinued)",
         "url": "https://codeberg.org/librarian/librarian#librarian",
+        "path": "odysee/librarian",
         "instances": [
             "lbry.mywire.org",
             "lbry.ooguy.com",
@@ -630,6 +646,7 @@
     "nitter": {
         "name": "nitter",
         "url": "https://github.com/zedeus/nitter#readme",
+        "path": "twitter/nitter",
         "instances": [
             "bird.habedieeh.re",
             "bird.trom.tf",
@@ -771,6 +788,7 @@
     "send": {
         "name": "send",
         "url": "https://github.com/timvisee/send#readme",
+        "path": "filedrop/send",
         "instances": [
             "drop.chapril.org",
             "files.psu.ru",
@@ -796,6 +814,7 @@
     "breezewiki": {
         "name": "BreezeWiki",
         "url": "https://gitdab.com/cadence/breezewiki",
+        "path": "fandom/breezewiki",
         "instances": [
             "antifandom.com",
             "breeze.hostux.net",
@@ -811,6 +830,7 @@
     "libmedium": {
         "name": "libmedium",
         "url": "https://git.batsense.net/realaravinth/libmedium",
+        "path": "medium/libmedium",
         "instances": [
             "libmedium.batsense.net",
             "md.vern.cc",
@@ -826,6 +846,7 @@
     "simpleertube": {
         "name": "SimpleerTube",
         "url": "https://simple-web.org/projects/simpleertube.html",
+        "path": "peertube/simpleertube",
         "instances": [
             "simpleertube.esmailelbob.xyz",
             "st.vern.cc",
@@ -843,6 +864,7 @@
     "dumb": {
         "name": "dumb",
         "url": "https://github.com/rramiachraf/dumb",
+        "path": "genius/dumb",
         "instances": [
             "dm.vern.cc",
             "dumb.lunar.icu",
@@ -856,6 +878,7 @@
     "biblioreads": {
         "name": "BiblioReads",
         "url": "https://github.com/nesaku/BiblioReads",
+        "path": "goodreads/biblioreads",
         "instances": [
             "biblioreads.ga",
             "biblioreads.lunar.icu",
@@ -874,6 +897,7 @@
     "gothub": {
         "name": "GotHub",
         "url": "https://codeberg.org/gothub/gothub",
+        "path": "github/gothub",
         "instances": [
             "dev.gh.akisblack.dev",
             "gh.akisblack.dev",
@@ -889,6 +913,7 @@
     "ryd-proxy": {
         "name": "RYD-Proxy",
         "url": "https://github.com/TeamPiped/RYD-Proxy",
+        "path": "ryd/rydproxy",
         "instances": [
             "ryd-proxy.kavin.rocks",
             "ryd-proxy.privacydev.net",
@@ -898,6 +923,7 @@
     "libremdb": {
         "name": "libremdb",
         "url": "https://github.com/zyachel/libremdb",
+        "path": "imdb/libremdb",
         "instances": [
             "binge.whatever.social",
             "binge.whateveritworks.org",
@@ -921,6 +947,7 @@
     "anonymousoverflow": {
         "name": "AnonymousOverflow",
         "url": "https://github.com/httpjamesm/AnonymousOverflow#readme",
+        "path": "stackoverflow/anonymousoverflow",
         "instances": [
             "ao.bloatcat.tk",
             "ao.vern.cc",
@@ -943,6 +970,7 @@
     "simpleamazon": {
         "name": "SimpleAmazon",
         "url": "https://codeberg.org/SimpleWeb/SimpleAmazon",
+        "path": "amazon/simpleamazon",
         "instances": [
             "amazon.simple-web.org",
             "az.vern.cc",
