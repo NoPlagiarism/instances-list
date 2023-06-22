@@ -15,6 +15,7 @@ search.0xgingi.com
 search.bus-hit.me
 search.citw.lgbt
 search.cronobox.one
+search.demoniak.ch
 search.disroot.org
 search.dojoro.de
 search.fascinated.cc
@@ -25,6 +26,7 @@ search.inetol.net
 search.kiwitalk.de
 search.laksith.dev
 search.leptons.xyz
+search.lightinthedark.space
 search.listi.me
 search.mdosch.de
 search.modalogi.com
@@ -66,6 +68,7 @@ searx.netzspielplatz.de
 searx.nixnet.services
 searx.oakleycord.dev
 searx.orion-hub.fr
+searx.ox2.fr
 searx.prvcy.eu
 searx.roflcopter.fr
 searx.ru

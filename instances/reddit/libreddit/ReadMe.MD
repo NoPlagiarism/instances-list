@@ -1,7 +1,6 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
-- [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.cachyos.org](https://libreddit.cachyos.org)
@@ -44,6 +43,7 @@
 - [reddit.dr460nf1r3.org](https://reddit.dr460nf1r3.org)
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.leptons.xyz](https://reddit.leptons.xyz)
+- [reddit.moe.ngo](https://reddit.moe.ngo)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [reddit.simo.sh](https://reddit.simo.sh)
 - [reddit.smnz.de](https://reddit.smnz.de)

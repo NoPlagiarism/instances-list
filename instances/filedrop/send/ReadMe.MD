@@ -9,6 +9,7 @@
 - [send.artemislena.eu](https://send.artemislena.eu)
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)
 - [send.boblorange.net](https://send.boblorange.net)
+- [send.cyberjake.xyz](https://send.cyberjake.xyz)
 - [send.datahoarder.dev](https://send.datahoarder.dev)
 - [send.datenpost.app](https://send.datenpost.app)
 - [send.ephemeral.land](https://send.ephemeral.land)
