@@ -451,7 +451,7 @@ class InstancesGroupData:
         return InstancesGroup(self, *self.instances)
     
     def get_relative_filepath(self):
-        return os.path.join((INST_FOLDER, self.relative_filepath_without_ext))
+        return os.path.join(INST_FOLDER, self.relative_filepath_without_ext)
     
     def get_folderpath(self):
         return os.path.join(HOME_PATH, self.get_relative_filepath())
