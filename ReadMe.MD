@@ -3,7 +3,7 @@
 ###  Find all .md and machine-readable .json in [instances](/instances)
 
 ## Related Projects
-- [FIL-UI](https://github.com/NoPlagiarism/fil-ui) - WIP: UI for this repository
+- [FIL-UI](https://github.com/NoPlagiarism/fil-ui) - UI for this repository
 
 ## Similar Projects
 - [FarSide](https://github.com/benbusby/farside) - redirecting gateway for various frontend services
