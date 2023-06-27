@@ -168,6 +168,7 @@
             "searx.bissisoft.com",
             "searx.catfluori.de",
             "searx.cthd.icu",
+            "searx.daetalytica.io",
             "searx.divided-by-zero.eu",
             "searx.doofpot.nl",
             "searx.dresden.network",
@@ -406,17 +407,14 @@
             "wl.vern.cc"
         ],
         "onion": [
-            "c2pesewpalbi6lbfc5hf53q4g3ovnxe4s7tfa6k2aqkf7jd7a7dlz5ad.onion",
-            "dj2tbh2nqfxyfmvq33cjmhuw7nb6am7thzd3zsjvizeqf374fixbrxyd.onion",
-            "tdx37ew3oke5rxn3yi5r5665ka7ozvehnd4xmnjxxdvqorias2nyl4qd.onion",
+            "7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion",
+            "mznsas7mxciel3kbzoum5yj7cz65zrzhzvfrfm5pt4lbwyrfddbsb7ad.onion",
             "wikiless.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
         "i2p": [
-            "hflqp2ejxygpj6cdwo3ogfieqmxw3b56w7dblt7bor2ltwk6kcfa.b32.i2p",
-            "vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p",
-            "wikiless.i2p"
+            "vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p"
         ]
     },
     "piped": {
@@ -446,13 +444,10 @@
             "watch.whatever.social"
         ],
         "onion": [
-            "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
-        "i2p": [
-            "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
-        ]
+        "i2p": []
     },
     "invidious": {
         "name": "Invidious",
@@ -633,10 +628,8 @@
         ],
         "onion": [
             "5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion",
-            "bxewpsswttslepw27w2hhxhlizwm7l7y54x3jw5cfrb64hb6lgc557ad.onion",
-            "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-            "zjmls4urccc5wxc64ilbv4oqarjab6pbanvmhd2qqt6p7fgqrjjnryqd.onion"
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion"
         ]
     },
     "nitter": {
@@ -840,6 +833,7 @@
             "antifandom.com",
             "breeze.hostux.net",
             "breeze.nohost.network",
+            "breeze.whateveritworks.org",
             "breezewiki.com",
             "breezewiki.pussthecat.org",
             "bw.artemislena.eu",
@@ -958,6 +952,7 @@
             "libremdb.jeikobu.net",
             "libremdb.nerdyfam.tech",
             "libremdb.pussthecat.org",
+            "libremdb.tux.pizza",
             "lmdb.hostux.net"
         ],
         "onion": [

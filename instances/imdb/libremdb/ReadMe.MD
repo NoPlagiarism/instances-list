@@ -10,6 +10,7 @@
 - [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
 - [libremdb.nerdyfam.tech](https://libremdb.nerdyfam.tech)
 - [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
+- [libremdb.tux.pizza](https://libremdb.tux.pizza)
 - [lmdb.hostux.net](https://lmdb.hostux.net)
 # Onion
 - [ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)

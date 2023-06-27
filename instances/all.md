@@ -179,6 +179,7 @@
 - [searx.bissisoft.com](https://searx.bissisoft.com)
 - [searx.catfluori.de](https://searx.catfluori.de)
 - [searx.cthd.icu](https://searx.cthd.icu)
+- [searx.daetalytica.io](https://searx.daetalytica.io)
 - [searx.divided-by-zero.eu](https://searx.divided-by-zero.eu)
 - [searx.doofpot.nl](https://searx.doofpot.nl)
 - [searx.dresden.network](https://searx.dresden.network)
@@ -397,16 +398,13 @@
 - [wikiless.tiekoetter.com](https://wikiless.tiekoetter.com)
 - [wl.vern.cc](https://wl.vern.cc)
 ### Onion
-- [c2pesewpalbi6lbfc5hf53q4g3ovnxe4s7tfa6k2aqkf7jd7a7dlz5ad.onion](http://c2pesewpalbi6lbfc5hf53q4g3ovnxe4s7tfa6k2aqkf7jd7a7dlz5ad.onion)
-- [dj2tbh2nqfxyfmvq33cjmhuw7nb6am7thzd3zsjvizeqf374fixbrxyd.onion](http://dj2tbh2nqfxyfmvq33cjmhuw7nb6am7thzd3zsjvizeqf374fixbrxyd.onion)
-- [tdx37ew3oke5rxn3yi5r5665ka7ozvehnd4xmnjxxdvqorias2nyl4qd.onion](http://tdx37ew3oke5rxn3yi5r5665ka7ozvehnd4xmnjxxdvqorias2nyl4qd.onion)
+- [7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion](http://7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion)
+- [mznsas7mxciel3kbzoum5yj7cz65zrzhzvfrfm5pt4lbwyrfddbsb7ad.onion](http://mznsas7mxciel3kbzoum5yj7cz65zrzhzvfrfm5pt4lbwyrfddbsb7ad.onion)
 - [wikiless.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://wikiless.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion](http://ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion)
 ### I2P
-- [hflqp2ejxygpj6cdwo3ogfieqmxw3b56w7dblt7bor2ltwk6kcfa.b32.i2p](http://hflqp2ejxygpj6cdwo3ogfieqmxw3b56w7dblt7bor2ltwk6kcfa.b32.i2p)
 - [vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p](http://vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p)
-- [wikiless.i2p](http://wikiless.i2p)
 
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
@@ -432,11 +430,10 @@
 - [watch.leptons.xyz](https://watch.leptons.xyz)
 - [watch.whatever.social](https://watch.whatever.social)
 ### Onion
-- [pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 ### I2P
-- [vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p](http://vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p)
+
 
 ## [Invidious](https://github.com/iv-org/invidious#readme)
 
@@ -590,10 +587,8 @@
 - [watch.whateveritworks.org](https://watch.whateveritworks.org)
 ### Onion
 - [5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion](http://5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion)
-- [bxewpsswttslepw27w2hhxhlizwm7l7y54x3jw5cfrb64hb6lgc557ad.onion](http://bxewpsswttslepw27w2hhxhlizwm7l7y54x3jw5cfrb64hb6lgc557ad.onion)
-- [lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+- [lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 - [librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
-- [zjmls4urccc5wxc64ilbv4oqarjab6pbanvmhd2qqt6p7fgqrjjnryqd.onion](http://zjmls4urccc5wxc64ilbv4oqarjab6pbanvmhd2qqt6p7fgqrjjnryqd.onion)
 
 ## [nitter](https://github.com/zedeus/nitter#readme)
 
@@ -785,6 +780,7 @@
 - [antifandom.com](https://antifandom.com)
 - [breeze.hostux.net](https://breeze.hostux.net)
 - [breeze.nohost.network](https://breeze.nohost.network)
+- [breeze.whateveritworks.org](https://breeze.whateveritworks.org)
 - [breezewiki.com](https://breezewiki.com)
 - [breezewiki.pussthecat.org](https://breezewiki.pussthecat.org)
 - [bw.artemislena.eu](https://bw.artemislena.eu)
@@ -874,6 +870,7 @@
 - [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
 - [libremdb.nerdyfam.tech](https://libremdb.nerdyfam.tech)
 - [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
+- [libremdb.tux.pizza](https://libremdb.tux.pizza)
 - [lmdb.hostux.net](https://lmdb.hostux.net)
 ### Onion
 - [ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)

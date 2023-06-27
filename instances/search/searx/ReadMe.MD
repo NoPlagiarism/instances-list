@@ -53,6 +53,7 @@
 - [searx.bissisoft.com](https://searx.bissisoft.com)
 - [searx.catfluori.de](https://searx.catfluori.de)
 - [searx.cthd.icu](https://searx.cthd.icu)
+- [searx.daetalytica.io](https://searx.daetalytica.io)
 - [searx.divided-by-zero.eu](https://searx.divided-by-zero.eu)
 - [searx.doofpot.nl](https://searx.doofpot.nl)
 - [searx.dresden.network](https://searx.dresden.network)

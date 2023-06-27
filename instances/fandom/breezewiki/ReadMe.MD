@@ -4,6 +4,7 @@
 - [antifandom.com](https://antifandom.com)
 - [breeze.hostux.net](https://breeze.hostux.net)
 - [breeze.nohost.network](https://breeze.nohost.network)
+- [breeze.whateveritworks.org](https://breeze.whateveritworks.org)
 - [breezewiki.com](https://breezewiki.com)
 - [breezewiki.pussthecat.org](https://breezewiki.pussthecat.org)
 - [bw.artemislena.eu](https://bw.artemislena.eu)
