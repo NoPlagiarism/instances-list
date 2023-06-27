@@ -43,8 +43,8 @@ class BaseInstance:
     
     def get_relative_without_ext(self):
         if self.parent is None:
-            return self.relative_filepath_without_ext
-        return "/".join((INST_FOLDER, self.parent.relative_filepath_without_ext, self.relative_filepath_without_ext))
+            return os.path.join(INST_FOLDER, self.relative_filepath_without_ext)
+        return os.path.join(INST_FOLDER, self.parent.relative_filepath_without_ext, self.relative_filepath_without_ext)
     
     def get_filepath(self, extension=".json"):
         return os.path.join(HOME_PATH, self.get_relative_without_ext() + extension)
@@ -451,7 +451,7 @@ class InstancesGroupData:
         return InstancesGroup(self, *self.instances)
     
     def get_relative_filepath(self):
-        return "/".join((INST_FOLDER, self.relative_filepath_without_ext))
+        return os.path.join((INST_FOLDER, self.relative_filepath_without_ext))
     
     def get_folderpath(self):
         return os.path.join(HOME_PATH, self.get_relative_filepath())
@@ -608,6 +608,10 @@ INSTANCE_GROUPS = [
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleamazon'][0].get('instances')),
                                   JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleamazon'][0].get('onion_instances')),
                                   JSONUsingCallableInstance(relative_filepath_without_ext=Network.I2P, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simpleamazon'][0].get('i2p_instances')))),
+    InstancesGroupData(name="PrivateBin", home_url="https://privatebin.info/", relative_filepath_without_ext="tools/privatebin",
+                       instances=(RegexCroppedFromUrlInstance(crop_from=r"<h2>Welcome!</h2>", crop_to=r"github-fork-ribbon", relative_filepath_without_ext=Network.CLEARNET, url="https://privatebin.info/directory/", domains_handle=lambda x: tuple(map(lambda dom: get_domain_from_url(dom.replace("&#x2F;&#x2F;", "//").replace("&", "")), x)), regex_pattern=r'<a href="(?P<url>https:(?:(?:\/\/)|&#x2F;&#x2F;)\S+)">', regex_group="url"),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.ONION, header=MirrorHeaders.ONION, main=get_clearnet_base("tools/privatebin")),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.I2P, header=MirrorHeaders.I2P, main=get_clearnet_base("tools/privatebin")))),
 ]
 
 
