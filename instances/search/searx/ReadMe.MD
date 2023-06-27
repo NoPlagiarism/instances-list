@@ -50,7 +50,6 @@
 - [search.zzls.xyz](https://search.zzls.xyz)
 - [searx.baczek.me](https://searx.baczek.me)
 - [searx.be](https://searx.be)
-- [searx.becomesovran.com](https://searx.becomesovran.com)
 - [searx.bissisoft.com](https://searx.bissisoft.com)
 - [searx.catfluori.de](https://searx.catfluori.de)
 - [searx.cthd.icu](https://searx.cthd.icu)

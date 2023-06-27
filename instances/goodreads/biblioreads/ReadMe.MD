@@ -1,10 +1,10 @@
 # [BiblioReads](https://github.com/nesaku/BiblioReads)
 
 # Clearnet
-- [biblioreads.ga](https://biblioreads.ga)
+- [biblioreads.eu.org](https://biblioreads.eu.org)
 - [biblioreads.lunar.icu](https://biblioreads.lunar.icu)
 - [biblioreads.ml](https://biblioreads.ml)
-- [biblioreads.netlify.app](https://biblioreads.netlify.app)
+- [biblioreads.mooo.com](https://biblioreads.mooo.com)
 - [bl.vern.cc](https://bl.vern.cc)
 - [read.whateveritworks.org](https://read.whateveritworks.org)
 # Onion

@@ -14,6 +14,7 @@
 - [send.datenpost.app](https://send.datenpost.app)
 - [send.ephemeral.land](https://send.ephemeral.land)
 - [send.jeugdhulp.be](https://send.jeugdhulp.be)
+- [send.kokomo.cloud](https://send.kokomo.cloud)
 - [send.mni.li](https://send.mni.li)
 - [send.monks.tools](https://send.monks.tools)
 - [send.portailpro.net](https://send.portailpro.net)

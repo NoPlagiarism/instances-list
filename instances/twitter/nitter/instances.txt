@@ -1,5 +1,6 @@
 bird.habedieeh.re
 bird.trom.tf
+birdsite.xanny.family
 canada.unofficialbird.com
 india.unofficialbird.com
 jote.lile.cl
@@ -27,6 +28,7 @@ nitter.evil.site
 nitter.fascinated.cc
 nitter.fdn.fr
 nitter.fediflix.org
+nitter.fly.dev
 nitter.freedit.eu
 nitter.garudalinux.org
 nitter.hostux.net
@@ -83,6 +85,7 @@ nitter.twei.space
 nitter.unixfox.eu
 nitter.us.projectsegfau.lt
 nitter.weiler.rocks
+notabird.site
 nt.vern.cc
 ntr.frail.duckdns.org
 ntr.odyssey346.dev
@@ -90,7 +93,6 @@ read.whatever.social
 singapore.unofficialbird.com
 t.com.sb
 t.floss.media
-t.uchun.net
 tw.artemislena.eu
 tweet.lambda.dance
 tweet.whateveritworks.org
@@ -99,6 +101,7 @@ twitter.censors.us
 twitter.dr460nf1r3.org
 twitter.femboy.hu
 twitter.moe.ngo
+twitter.owacon.moe
 twt.funami.tech
 uk.unofficialbird.com
 unofficialbird.com
