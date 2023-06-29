@@ -340,6 +340,7 @@
             "libreddit.freedit.eu",
             "libreddit.garudalinux.org",
             "libreddit.hu",
+            "libreddit.kavin.rocks",
             "libreddit.kutay.dev",
             "libreddit.kylrth.com",
             "libreddit.lunar.icu",
@@ -377,8 +378,7 @@
             "reddit.simo.sh",
             "reddit.smnz.de",
             "reddit.utsav2.dev",
-            "safereddit.com",
-            "snoo.habedieeh.re"
+            "safereddit.com"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -423,6 +423,7 @@
         "path": "youtube/piped",
         "instances": [
             "il.ax",
+            "pd.vern.cc",
             "piped.adminforge.de",
             "piped.colinslegacy.com",
             "piped.hostux.net",
@@ -430,24 +431,30 @@
             "piped.jotoma.de",
             "piped.lunar.icu",
             "piped.mha.fi",
+            "piped.osphost.fi",
             "piped.palveluntarjoaja.eu",
             "piped.pfcd.me",
+            "piped.privacy.com.de",
             "piped.privacydev.net",
             "piped.projectsegfau.lt",
             "piped.qdi.fi",
+            "piped.simpleprivacy.fr",
             "piped.smnz.de",
             "piped.tokhmi.xyz",
-            "piped.us.projectsegfau.lt",
             "piped.video",
             "piped.yt",
             "watch.leptons.xyz",
-            "watch.whatever.social"
+            "watch.whatever.social",
+            "yt.dc09.ru"
         ],
         "onion": [
+            "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
+        ]
     },
     "invidious": {
         "name": "Invidious",
@@ -462,6 +469,7 @@
             "inv.zzls.xyz",
             "invidious.0011.lt",
             "invidious.baczek.me",
+            "invidious.flokinet.to",
             "invidious.lunar.icu",
             "invidious.privacydev.net",
             "invidious.projectsegfau.lt",
@@ -477,7 +485,6 @@
             "y.com.sb",
             "yewtu.be",
             "yt.artemislena.eu",
-            "yt.floss.media",
             "yt.oelrichsgarcia.de"
         ],
         "onion": [
@@ -922,9 +929,9 @@
             "dev.gh.akisblack.dev",
             "gh.akisblack.dev",
             "gh.bloatcat.tk",
+            "gh.fascinated.cc",
             "gh.whateveritworks.org",
             "gothub.dev.projectsegfau.lt",
-            "gothub.lunar.icu",
             "gothub.no-logs.com",
             "gothub.projectsegfau.lt"
         ]
@@ -1041,7 +1048,6 @@
             "bin.nji9.de",
             "bin.pifferi.info",
             "bin.privacy.com.de",
-            "bin.privateweb.top",
             "bin.sasach.work",
             "bin.sielc.com.ar",
             "bin.siick.fr",
@@ -1114,6 +1120,7 @@
             "paste.hostify.cz",
             "paste.hostux.net",
             "paste.i2pd.xyz",
+            "paste.justman10000.de",
             "paste.libre-service.eu",
             "paste.linux-help.org",
             "paste.lmburns.com",
@@ -1218,6 +1225,7 @@
         ],
         "onion": [
             "b5om2n6pjkfuulpicn2ztz2k5hmt5a2mgv3sfhekoqde5ffx43nrpoid.onion",
+            "bin.eu2rf5bmsuprjw2ek3v2vofsj426igyrj33mfo6vv4arbwd2en2mezqd.onion",
             "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
             "paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion",
             "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",

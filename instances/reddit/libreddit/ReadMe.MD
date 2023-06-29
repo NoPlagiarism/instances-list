@@ -10,6 +10,7 @@
 - [libreddit.freedit.eu](https://libreddit.freedit.eu)
 - [libreddit.garudalinux.org](https://libreddit.garudalinux.org)
 - [libreddit.hu](https://libreddit.hu)
+- [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
 - [libreddit.kutay.dev](https://libreddit.kutay.dev)
 - [libreddit.kylrth.com](https://libreddit.kylrth.com)
 - [libreddit.lunar.icu](https://libreddit.lunar.icu)
@@ -48,7 +49,6 @@
 - [reddit.smnz.de](https://reddit.smnz.de)
 - [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
-- [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)

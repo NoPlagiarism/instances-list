@@ -9,6 +9,7 @@
 - [inv.zzls.xyz](https://inv.zzls.xyz)
 - [invidious.0011.lt](https://invidious.0011.lt)
 - [invidious.baczek.me](https://invidious.baczek.me)
+- [invidious.flokinet.to](https://invidious.flokinet.to)
 - [invidious.lunar.icu](https://invidious.lunar.icu)
 - [invidious.privacydev.net](https://invidious.privacydev.net)
 - [invidious.projectsegfau.lt](https://invidious.projectsegfau.lt)
@@ -24,7 +25,6 @@
 - [y.com.sb](https://y.com.sb)
 - [yewtu.be](https://yewtu.be)
 - [yt.artemislena.eu](https://yt.artemislena.eu)
-- [yt.floss.media](https://yt.floss.media)
 - [yt.oelrichsgarcia.de](https://yt.oelrichsgarcia.de)
 # Onion
 - [c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion](http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion)

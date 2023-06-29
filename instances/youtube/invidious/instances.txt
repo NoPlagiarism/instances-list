@@ -6,6 +6,7 @@ inv.tux.pizza
 inv.zzls.xyz
 invidious.0011.lt
 invidious.baczek.me
+invidious.flokinet.to
 invidious.lunar.icu
 invidious.privacydev.net
 invidious.projectsegfau.lt
@@ -21,5 +22,4 @@ vid.puffyan.us
 y.com.sb
 yewtu.be
 yt.artemislena.eu
-yt.floss.media
 yt.oelrichsgarcia.de

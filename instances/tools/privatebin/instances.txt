@@ -31,7 +31,6 @@ bin.nixnet.services
 bin.nji9.de
 bin.pifferi.info
 bin.privacy.com.de
-bin.privateweb.top
 bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
@@ -104,6 +103,7 @@ paste.hackliberty.org
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
+paste.justman10000.de
 paste.libre-service.eu
 paste.linux-help.org
 paste.lmburns.com

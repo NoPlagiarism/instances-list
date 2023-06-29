@@ -7,6 +7,7 @@ libreddit.domain.glass
 libreddit.freedit.eu
 libreddit.garudalinux.org
 libreddit.hu
+libreddit.kavin.rocks
 libreddit.kutay.dev
 libreddit.kylrth.com
 libreddit.lunar.icu
@@ -45,4 +46,3 @@ reddit.simo.sh
 reddit.smnz.de
 reddit.utsav2.dev
 safereddit.com
-snoo.habedieeh.re
