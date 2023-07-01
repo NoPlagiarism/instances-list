@@ -394,7 +394,7 @@ class GetDomainsFromHeaders(BaseDomainsProvider):
         try:
             resp = httpx.get("https://" + domain, headers=HEADERS)
             _domain = get_domain_from_url(resp.headers[self.inst.header])
-            if LOG_DOMAIN_FROM_HEADERS:
+            if LOG_DOMAIN_FROM_HEADERS and _domain:
                 logger.info(f"-----\nDomain from header found:\nheader: {self.inst.header}\noriginal: {domain}\nfound: {_domain}\n-----")
         except KeyError:
             return None
@@ -410,7 +410,7 @@ class GetDomainsFromHeaders(BaseDomainsProvider):
             async with httpx.AsyncClient(headers=HEADERS) as client:
                 resp = await client.get("https://" + domain)
             _domain = get_domain_from_url(resp.headers[self.inst.header])
-            if LOG_DOMAIN_FROM_HEADERS:
+            if LOG_DOMAIN_FROM_HEADERS and _domain:
                 logger.info(f"-----\nDomain from header found:\nheader: {self.inst.header}\noriginal: {domain}\nfound: {_domain}\n-----")
         except KeyError:
             return None
