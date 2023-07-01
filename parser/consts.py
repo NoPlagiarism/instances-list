@@ -33,6 +33,8 @@ class Retries:
 
 INST_FOLDER = "instances"
 
+LOG_DOMAIN_FROM_HEADERS = get_bool_from_env("FIL_LOG_DOMAIN_FROM_HEADERS", True)
+
 
 ENABLE_ASYNC = get_bool_from_env("FIL_ENABLE_ASYNC", True)
 ENABLE_PATH_IN_DOMAINS = False
