@@ -34,7 +34,6 @@ bin.privacy.com.de
 bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
-bin.snopyta.org
 bin.theravenhub.com
 bin.thies-block.de
 bin.tiekoetter.com
@@ -104,6 +103,7 @@ paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
 paste.justman10000.de
+paste.ladislav.pro
 paste.libre-service.eu
 paste.linux-help.org
 paste.lmburns.com
@@ -161,7 +161,6 @@ privatebin.at
 privatebin.bamberg.today
 privatebin.deblan.org
 privatebin.devol.it
-privatebin.diyarciftci.xyz
 privatebin.fly.dev
 privatebin.freinetz.ch
 privatebin.io

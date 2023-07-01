@@ -23,9 +23,9 @@
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pufe.org](https://libreddit.pufe.org)
 - [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
+- [libreddit.spike.codes](https://libreddit.spike.codes)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tiekoetter.com](https://libreddit.tiekoetter.com)
-- [libreddit.totaldarkness.net](https://libreddit.totaldarkness.net)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.4201337.xyz](https://lr.4201337.xyz)
 - [lr.aeong.one](https://lr.aeong.one)
@@ -49,6 +49,7 @@
 - [reddit.smnz.de](https://reddit.smnz.de)
 - [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
+- [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)

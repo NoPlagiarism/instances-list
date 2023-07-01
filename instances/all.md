@@ -349,9 +349,9 @@
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pufe.org](https://libreddit.pufe.org)
 - [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
+- [libreddit.spike.codes](https://libreddit.spike.codes)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tiekoetter.com](https://libreddit.tiekoetter.com)
-- [libreddit.totaldarkness.net](https://libreddit.totaldarkness.net)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.4201337.xyz](https://lr.4201337.xyz)
 - [lr.aeong.one](https://lr.aeong.one)
@@ -375,6 +375,7 @@
 - [reddit.smnz.de](https://reddit.smnz.de)
 - [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
+- [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -409,36 +410,11 @@
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
 ### Clearnet
-- [il.ax](https://il.ax)
-- [pd.vern.cc](https://pd.vern.cc)
-- [piped.adminforge.de](https://piped.adminforge.de)
-- [piped.colinslegacy.com](https://piped.colinslegacy.com)
-- [piped.hostux.net](https://piped.hostux.net)
-- [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
-- [piped.jotoma.de](https://piped.jotoma.de)
-- [piped.lunar.icu](https://piped.lunar.icu)
-- [piped.mha.fi](https://piped.mha.fi)
-- [piped.osphost.fi](https://piped.osphost.fi)
-- [piped.palveluntarjoaja.eu](https://piped.palveluntarjoaja.eu)
-- [piped.pfcd.me](https://piped.pfcd.me)
-- [piped.privacy.com.de](https://piped.privacy.com.de)
-- [piped.privacydev.net](https://piped.privacydev.net)
-- [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
-- [piped.qdi.fi](https://piped.qdi.fi)
-- [piped.simpleprivacy.fr](https://piped.simpleprivacy.fr)
-- [piped.smnz.de](https://piped.smnz.de)
-- [piped.tokhmi.xyz](https://piped.tokhmi.xyz)
-- [piped.video](https://piped.video)
-- [piped.yt](https://piped.yt)
-- [watch.leptons.xyz](https://watch.leptons.xyz)
-- [watch.whatever.social](https://watch.whatever.social)
-- [yt.dc09.ru](https://yt.dc09.ru)
+
 ### Onion
-- [pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
-- [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+
 ### I2P
-- [vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p](http://vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p)
+
 
 ## [Invidious](https://github.com/iv-org/invidious#readme)
 
@@ -593,6 +569,7 @@
 ### Onion
 - [5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion](http://5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion)
 - [lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
+- [lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 
 ## [nitter](https://github.com/zedeus/nitter#readme)
@@ -952,7 +929,6 @@
 - [bin.sasach.work](https://bin.sasach.work)
 - [bin.sielc.com.ar](https://bin.sielc.com.ar)
 - [bin.siick.fr](https://bin.siick.fr)
-- [bin.snopyta.org](https://bin.snopyta.org)
 - [bin.theravenhub.com](https://bin.theravenhub.com)
 - [bin.thies-block.de](https://bin.thies-block.de)
 - [bin.tiekoetter.com](https://bin.tiekoetter.com)
@@ -1022,6 +998,7 @@
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.i2pd.xyz](https://paste.i2pd.xyz)
 - [paste.justman10000.de](https://paste.justman10000.de)
+- [paste.ladislav.pro](https://paste.ladislav.pro)
 - [paste.libre-service.eu](https://paste.libre-service.eu)
 - [paste.linux-help.org](https://paste.linux-help.org)
 - [paste.lmburns.com](https://paste.lmburns.com)
@@ -1079,7 +1056,6 @@
 - [privatebin.bamberg.today](https://privatebin.bamberg.today)
 - [privatebin.deblan.org](https://privatebin.deblan.org)
 - [privatebin.devol.it](https://privatebin.devol.it)
-- [privatebin.diyarciftci.xyz](https://privatebin.diyarciftci.xyz)
 - [privatebin.fly.dev](https://privatebin.fly.dev)
 - [privatebin.freinetz.ch](https://privatebin.freinetz.ch)
 - [privatebin.io](https://privatebin.io)

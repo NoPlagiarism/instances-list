@@ -353,9 +353,9 @@
             "libreddit.projectsegfau.lt",
             "libreddit.pufe.org",
             "libreddit.pussthecat.org",
+            "libreddit.spike.codes",
             "libreddit.strongthany.cc",
             "libreddit.tiekoetter.com",
-            "libreddit.totaldarkness.net",
             "libreddit.tux.pizza",
             "lr.4201337.xyz",
             "lr.aeong.one",
@@ -378,7 +378,8 @@
             "reddit.simo.sh",
             "reddit.smnz.de",
             "reddit.utsav2.dev",
-            "safereddit.com"
+            "safereddit.com",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -421,40 +422,9 @@
         "name": "Piped",
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
-        "instances": [
-            "il.ax",
-            "pd.vern.cc",
-            "piped.adminforge.de",
-            "piped.colinslegacy.com",
-            "piped.hostux.net",
-            "piped.in.projectsegfau.lt",
-            "piped.jotoma.de",
-            "piped.lunar.icu",
-            "piped.mha.fi",
-            "piped.osphost.fi",
-            "piped.palveluntarjoaja.eu",
-            "piped.pfcd.me",
-            "piped.privacy.com.de",
-            "piped.privacydev.net",
-            "piped.projectsegfau.lt",
-            "piped.qdi.fi",
-            "piped.simpleprivacy.fr",
-            "piped.smnz.de",
-            "piped.tokhmi.xyz",
-            "piped.video",
-            "piped.yt",
-            "watch.leptons.xyz",
-            "watch.whatever.social",
-            "yt.dc09.ru"
-        ],
-        "onion": [
-            "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
-        ],
-        "i2p": [
-            "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
-        ]
+        "instances": [],
+        "onion": [],
+        "i2p": []
     },
     "invidious": {
         "name": "Invidious",
@@ -636,6 +606,7 @@
         "onion": [
             "5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion",
             "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "librarian.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion"
         ]
     },
@@ -1051,7 +1022,6 @@
             "bin.sasach.work",
             "bin.sielc.com.ar",
             "bin.siick.fr",
-            "bin.snopyta.org",
             "bin.theravenhub.com",
             "bin.thies-block.de",
             "bin.tiekoetter.com",
@@ -1121,6 +1091,7 @@
             "paste.hostux.net",
             "paste.i2pd.xyz",
             "paste.justman10000.de",
+            "paste.ladislav.pro",
             "paste.libre-service.eu",
             "paste.linux-help.org",
             "paste.lmburns.com",
@@ -1178,7 +1149,6 @@
             "privatebin.bamberg.today",
             "privatebin.deblan.org",
             "privatebin.devol.it",
-            "privatebin.diyarciftci.xyz",
             "privatebin.fly.dev",
             "privatebin.freinetz.ch",
             "privatebin.io",

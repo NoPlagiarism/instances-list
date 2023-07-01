@@ -20,9 +20,9 @@ libreddit.privacydev.net
 libreddit.projectsegfau.lt
 libreddit.pufe.org
 libreddit.pussthecat.org
+libreddit.spike.codes
 libreddit.strongthany.cc
 libreddit.tiekoetter.com
-libreddit.totaldarkness.net
 libreddit.tux.pizza
 lr.4201337.xyz
 lr.aeong.one
@@ -46,3 +46,4 @@ reddit.simo.sh
 reddit.smnz.de
 reddit.utsav2.dev
 safereddit.com
+snoo.habedieeh.re
