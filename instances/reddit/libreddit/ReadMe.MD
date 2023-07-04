@@ -23,7 +23,6 @@
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pufe.org](https://libreddit.pufe.org)
 - [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
-- [libreddit.spike.codes](https://libreddit.spike.codes)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tiekoetter.com](https://libreddit.tiekoetter.com)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)

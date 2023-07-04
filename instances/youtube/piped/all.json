@@ -1,5 +1,17 @@
 {
-    "instances": [],
+    "instances": [
+        "piped.frontendfriendly.xyz",
+        "piped.in.projectsegfau.lt",
+        "piped.osphost.fi",
+        "piped.palveluntarjoaja.eu",
+        "piped.privacy.com.de",
+        "piped.projectsegfau.lt",
+        "piped.qdi.fi",
+        "piped.simpleprivacy.fr",
+        "piped.smnz.de",
+        "watch.leptons.xyz",
+        "yt.dc09.ru"
+    ],
     "onion": [],
     "i2p": []
 }

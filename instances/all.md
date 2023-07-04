@@ -349,7 +349,6 @@
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pufe.org](https://libreddit.pufe.org)
 - [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
-- [libreddit.spike.codes](https://libreddit.spike.codes)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tiekoetter.com](https://libreddit.tiekoetter.com)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
@@ -410,7 +409,17 @@
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
 ### Clearnet
-
+- [piped.frontendfriendly.xyz](https://piped.frontendfriendly.xyz)
+- [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
+- [piped.osphost.fi](https://piped.osphost.fi)
+- [piped.palveluntarjoaja.eu](https://piped.palveluntarjoaja.eu)
+- [piped.privacy.com.de](https://piped.privacy.com.de)
+- [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
+- [piped.qdi.fi](https://piped.qdi.fi)
+- [piped.simpleprivacy.fr](https://piped.simpleprivacy.fr)
+- [piped.smnz.de](https://piped.smnz.de)
+- [watch.leptons.xyz](https://watch.leptons.xyz)
+- [yt.dc09.ru](https://yt.dc09.ru)
 ### Onion
 
 ### I2P
@@ -926,6 +935,7 @@
 - [bin.nji9.de](https://bin.nji9.de)
 - [bin.pifferi.info](https://bin.pifferi.info)
 - [bin.privacy.com.de](https://bin.privacy.com.de)
+- [bin.privateweb.top](https://bin.privateweb.top)
 - [bin.sasach.work](https://bin.sasach.work)
 - [bin.sielc.com.ar](https://bin.sielc.com.ar)
 - [bin.siick.fr](https://bin.siick.fr)
@@ -997,7 +1007,6 @@
 - [paste.hostify.cz](https://paste.hostify.cz)
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.i2pd.xyz](https://paste.i2pd.xyz)
-- [paste.justman10000.de](https://paste.justman10000.de)
 - [paste.ladislav.pro](https://paste.ladislav.pro)
 - [paste.libre-service.eu](https://paste.libre-service.eu)
 - [paste.linux-help.org](https://paste.linux-help.org)
@@ -1101,7 +1110,6 @@
 - [zerobin.zertrin.org](https://zerobin.zertrin.org)
 ### Onion
 - [b5om2n6pjkfuulpicn2ztz2k5hmt5a2mgv3sfhekoqde5ffx43nrpoid.onion](http://b5om2n6pjkfuulpicn2ztz2k5hmt5a2mgv3sfhekoqde5ffx43nrpoid.onion)
-- [bin.eu2rf5bmsuprjw2ek3v2vofsj426igyrj33mfo6vv4arbwd2en2mezqd.onion](http://bin.eu2rf5bmsuprjw2ek3v2vofsj426igyrj33mfo6vv4arbwd2en2mezqd.onion)
 - [n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion](http://n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion)
 - [paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion](http://paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion)
 - [qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion](http://qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion)
