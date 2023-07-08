@@ -30,6 +30,7 @@
 - [AnonymousOverflow](#anonymousoverflow)
 - [SimpleAmazon](#simpleamazon)
 - [PrivateBin](#privatebin)
+- [CloudTube](#cloudtube)
 
 ## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
@@ -1116,3 +1117,10 @@
 - [z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion](http://z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion)
 ### I2P
 - [oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p](http://oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p)
+
+## [CloudTube](https://sr.ht/~cadence/tube/)
+
+### Clearnet
+- [cloudtube.jdelcampo.eu](https://cloudtube.jdelcampo.eu)
+- [tube.cadence.moe](https://tube.cadence.moe)
+- [tube.mint.lgbt](https://tube.mint.lgbt)

@@ -1214,5 +1214,15 @@
         "i2p": [
             "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
         ]
+    },
+    "cloudtube": {
+        "name": "CloudTube",
+        "url": "https://sr.ht/~cadence/tube/",
+        "path": "youtube/cloudtube",
+        "instances": [
+            "cloudtube.jdelcampo.eu",
+            "tube.cadence.moe",
+            "tube.mint.lgbt"
+        ]
     }
 }
