@@ -10,6 +10,7 @@
 - [search.sethforprivacy.com](https://search.sethforprivacy.com)
 - [wg.vern.cc](https://wg.vern.cc)
 - [wgl.frail.duckdns.org](https://wgl.frail.duckdns.org)
+- [whoogle-search--replitcomreside.repl.co](https://whoogle-search--replitcomreside.repl.co)
 - [whoogle.dcs0.hu](https://whoogle.dcs0.hu)
 - [whoogle.ftw.lol](https://whoogle.ftw.lol)
 - [whoogle.hostux.net](https://whoogle.hostux.net)

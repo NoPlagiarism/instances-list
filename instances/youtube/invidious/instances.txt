@@ -2,10 +2,10 @@ inv.bp.projectsegfau.lt
 inv.citw.lgbt
 inv.in.projectsegfau.lt
 inv.makerlab.tech
+inv.pistasjis.net
 inv.tux.pizza
 inv.zzls.xyz
 invidious.0011.lt
-invidious.baczek.me
 invidious.flokinet.to
 invidious.lunar.icu
 invidious.privacydev.net
@@ -15,11 +15,9 @@ invidious.slipfox.xyz
 invidious.tiekoetter.com
 iv.ggtyler.dev
 iv.melmac.space
-not-ytb.blocus.ch
 onion.tube
 vid.priv.au
 vid.puffyan.us
-y.com.sb
 yewtu.be
 yt.artemislena.eu
 yt.oelrichsgarcia.de

@@ -1,17 +1,28 @@
 {
     "instances": [
-        "piped.frontendfriendly.xyz",
-        "piped.in.projectsegfau.lt",
+        "pd.vern.cc",
+        "piped.adminforge.de",
+        "piped.lunar.icu",
         "piped.osphost.fi",
         "piped.palveluntarjoaja.eu",
         "piped.privacy.com.de",
+        "piped.privacydev.net",
         "piped.projectsegfau.lt",
         "piped.qdi.fi",
         "piped.simpleprivacy.fr",
         "piped.smnz.de",
-        "watch.leptons.xyz",
+        "piped.tokhmi.xyz",
+        "piped.us.projectsegfau.lt",
+        "piped.video",
+        "watch.whatever.social",
         "yt.dc09.ru"
     ],
-    "onion": [],
-    "i2p": []
+    "onion": [
+        "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+        "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+        "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
+    ],
+    "i2p": [
+        "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
+    ]
 }

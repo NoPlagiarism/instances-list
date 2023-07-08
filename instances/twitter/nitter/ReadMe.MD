@@ -88,6 +88,7 @@
 - [nitter.unixfox.eu](https://nitter.unixfox.eu)
 - [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)
 - [nitter.weiler.rocks](https://nitter.weiler.rocks)
+- [nitter.x86-64-unknown-linux-gnu.zip](https://nitter.x86-64-unknown-linux-gnu.zip)
 - [notabird.site](https://notabird.site)
 - [nt.vern.cc](https://nt.vern.cc)
 - [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org)
