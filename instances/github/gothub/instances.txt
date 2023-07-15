@@ -1,6 +1,5 @@
-dev.gh.akisblack.dev
-gh.akisblack.dev
 gh.bloatcat.tk
+gh.owo.si
 gh.whateveritworks.org
 gothub.dev.projectsegfau.lt
 gothub.lunar.icu

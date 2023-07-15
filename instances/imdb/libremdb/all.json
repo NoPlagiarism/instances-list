@@ -3,8 +3,8 @@
         "binge.whatever.social",
         "binge.whateveritworks.org",
         "ld.vern.cc",
-        "libremdb.esmailelbob.xyz",
         "libremdb.fascinated.cc",
+        "libremdb.frontendfriendly.xyz",
         "libremdb.iket.me",
         "libremdb.jeikobu.net",
         "libremdb.nerdyfam.tech",
@@ -13,8 +13,7 @@
         "lmdb.hostux.net"
     ],
     "onion": [
-        "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-        "libremdb.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion"
+        "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
     ],
     "i2p": [
         "vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p"
