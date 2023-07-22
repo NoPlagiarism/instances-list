@@ -50,7 +50,6 @@ copypaste.onl
 cpaste.org
 cryptostorm.is
 ctrlv.chalec.org
-dbase.uk.nf
 eatmyshorts.ch
 encryp.ch
 extrait.facil.services
@@ -81,7 +80,6 @@ paste.3server.de
 paste.4s3ti.net
 paste.aryu.de
 paste.biocrafting.net
-paste.bz
 paste.ceppo.xyz
 paste.cezeri.tech
 paste.chapril.org
@@ -103,10 +101,8 @@ paste.hackliberty.org
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
-paste.ladislav.pro
 paste.libre-service.eu
 paste.linux-help.org
-paste.lmburns.com
 paste.momobako.com
 paste.nice42q.de
 paste.nolog.cz

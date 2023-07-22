@@ -8,7 +8,6 @@ ooglester.com
 opnxng.com
 paulgo.io
 priv.au
-s.frlt.one
 s.trung.fun
 search.0xgingi.com
 search.bowlman.org
@@ -22,7 +21,6 @@ search.fascinated.cc
 search.gcomm.ch
 search.im-in.space
 search.in.projectsegfau.lt
-search.inetol.net
 search.kiwitalk.de
 search.laksith.dev
 search.leptons.xyz
@@ -45,6 +43,7 @@ search.stinpriza.org
 search.trom.tf
 search.us.projectsegfau.lt
 search.whateveritworks.org
+search.xcloud.live
 search.zzls.xyz
 searx.baczek.me
 searx.be
