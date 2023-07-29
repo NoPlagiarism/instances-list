@@ -11,6 +11,7 @@
 - [apps.ti-nuage.fr](https://apps.ti-nuage.fr)
 - [b.opnxng.com](https://b.opnxng.com)
 - [bin.0xfc.de](https://bin.0xfc.de)
+- [bin.68degrees.no](https://bin.68degrees.no)
 - [bin.acquia.com](https://bin.acquia.com)
 - [bin.bloatcat.tk](https://bin.bloatcat.tk)
 - [bin.bus-hit.me](https://bin.bus-hit.me)

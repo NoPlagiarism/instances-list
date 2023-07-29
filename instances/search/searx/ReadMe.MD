@@ -25,6 +25,7 @@
 - [search.im-in.space](https://search.im-in.space)
 - [search.in.projectsegfau.lt](https://search.in.projectsegfau.lt)
 - [search.kiwitalk.de](https://search.kiwitalk.de)
+- [search.kokomo.cloud](https://search.kokomo.cloud)
 - [search.laksith.dev](https://search.laksith.dev)
 - [search.leptons.xyz](https://search.leptons.xyz)
 - [search.lightinthedark.space](https://search.lightinthedark.space)

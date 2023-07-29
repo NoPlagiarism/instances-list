@@ -8,6 +8,7 @@
 - [ri.zzls.xyz](https://ri.zzls.xyz)
 - [rim.odyssey346.dev](https://rim.odyssey346.dev)
 - [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
+- [rimgo.catsarch.com](https://rimgo.catsarch.com)
 - [rimgo.eu.projectsegfau.lt](https://rimgo.eu.projectsegfau.lt)
 - [rimgo.fascinated.cc](https://rimgo.fascinated.cc)
 - [rimgo.hostux.net](https://rimgo.hostux.net)

@@ -22,6 +22,7 @@ search.gcomm.ch
 search.im-in.space
 search.in.projectsegfau.lt
 search.kiwitalk.de
+search.kokomo.cloud
 search.laksith.dev
 search.leptons.xyz
 search.lightinthedark.space
