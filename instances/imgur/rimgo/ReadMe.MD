@@ -11,6 +11,7 @@
 - [rimgo.catsarch.com](https://rimgo.catsarch.com)
 - [rimgo.eu.projectsegfau.lt](https://rimgo.eu.projectsegfau.lt)
 - [rimgo.fascinated.cc](https://rimgo.fascinated.cc)
+- [rimgo.frontendfriendly.xyz](https://rimgo.frontendfriendly.xyz)
 - [rimgo.hostux.net](https://rimgo.hostux.net)
 - [rimgo.in.projectsegfau.lt](https://rimgo.in.projectsegfau.lt)
 - [rimgo.kling.gg](https://rimgo.kling.gg)

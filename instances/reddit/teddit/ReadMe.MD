@@ -7,7 +7,6 @@
 - [reddit.lol](https://reddit.lol)
 - [snoo.ioens.is](https://snoo.ioens.is)
 - [td.vern.cc](https://td.vern.cc)
-- [tedd.it](https://tedd.it)
 - [teddit.adminforge.de](https://teddit.adminforge.de)
 - [teddit.artemislena.eu](https://teddit.artemislena.eu)
 - [teddit.bus-hit.me](https://teddit.bus-hit.me)
@@ -26,7 +25,6 @@
 - [teddit.sethforprivacy.com](https://teddit.sethforprivacy.com)
 - [teddit.tinfoil-hat.net](https://teddit.tinfoil-hat.net)
 - [teddit.tokhmi.xyz](https://teddit.tokhmi.xyz)
-- [teddit.totaldarkness.net](https://teddit.totaldarkness.net)
 - [teddit.xbdm.fun](https://teddit.xbdm.fun)
 - [teddit.zaggy.nl](https://teddit.zaggy.nl)
 # Onion

@@ -2,6 +2,7 @@ drop.chapril.org
 files.psu.ru
 fileupload.ggc-project.de
 s.opnxng.com
+send.adminforge.de
 send.angelic.icu
 send.artemislena.eu
 send.aurorabilisim.com

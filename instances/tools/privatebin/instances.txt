@@ -33,6 +33,7 @@ bin.nji9.de
 bin.pifferi.info
 bin.privacy.com.de
 bin.privateweb.top
+bin.purplebored.pl
 bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
@@ -56,7 +57,6 @@ encryp.ch
 extrait.facil.services
 gilles.wittezaele.fr
 gitgd.com
-haste.gnous.eu
 hpc.uni.lu
 ircwebnet.com
 kallemarc.de
@@ -102,7 +102,6 @@ paste.hackliberty.org
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
-paste.libre-service.eu
 paste.linux-help.org
 paste.momobako.com
 paste.nice42q.de
