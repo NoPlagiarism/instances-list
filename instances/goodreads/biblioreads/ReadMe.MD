@@ -3,8 +3,8 @@
 # Clearnet
 - [biblioreads.eu.org](https://biblioreads.eu.org)
 - [biblioreads.lunar.icu](https://biblioreads.lunar.icu)
-- [biblioreads.ml](https://biblioreads.ml)
 - [biblioreads.mooo.com](https://biblioreads.mooo.com)
+- [biblioreads.vercel.app](https://biblioreads.vercel.app)
 - [bl.vern.cc](https://bl.vern.cc)
 - [read.whateveritworks.org](https://read.whateveritworks.org)
 # Onion

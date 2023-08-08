@@ -1,7 +1,6 @@
 baresearch.org
 copp.gg
 etsi.me
-myprivatesrx.us
 northboot.xyz
 offtheradar.info
 ooglester.com
@@ -67,6 +66,7 @@ searx.netzspielplatz.de
 searx.nixnet.services
 searx.oakleycord.dev
 searx.ox2.fr
+searx.perennialte.ch
 searx.prvcy.eu
 searx.roflcopter.fr
 searx.ru
@@ -77,9 +77,11 @@ searx.tiekoetter.com
 searx.tuxcloud.net
 searx.work
 searx.zapashcanon.fr
+searxng.ch
 searxng.diadz.de
 searxng.nicfab.eu
 searxng.no-logs.com
+searxng.online
 searxng.se
 searxng.xcxc.eu
 spot.murena.io

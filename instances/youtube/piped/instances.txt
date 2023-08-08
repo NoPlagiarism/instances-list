@@ -1,8 +1,8 @@
-pd.vern.cc
 piped.adminforge.de
 piped.frontendfriendly.xyz
 piped.garudalinux.org
 piped.hostux.net
+piped.in.projectsegfau.lt
 piped.lunar.icu
 piped.osphost.fi
 piped.palveluntarjoaja.eu

@@ -1,6 +1,5 @@
 bird.habedieeh.re
 bird.trom.tf
-birdsite.xanny.family
 canada.unofficialbird.com
 india.unofficialbird.com
 jote.lile.cl
@@ -17,7 +16,6 @@ nitter.catsarch.com
 nitter.cz
 nitter.d420.de
 nitter.dafriser.be
-nitter.domain.glass
 nitter.esmailelbob.xyz
 nitter.eu.projectsegfau.lt
 nitter.fdn.fr
@@ -43,7 +41,9 @@ nitter.nohost.network
 nitter.oksocial.net
 nitter.one
 nitter.onthescent.xyz
+nitter.perennialte.ch
 nitter.platypush.tech
+nitter.poast.org
 nitter.privacy.com.de
 nitter.privacydev.net
 nitter.private.coffee

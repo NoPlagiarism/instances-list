@@ -116,7 +116,6 @@ paste.quest
 paste.rosset.net
 paste.rys.pw
 paste.scurvynet.com
-paste.shinken.studio
 paste.stratum0.org
 paste.systemli.org
 paste.tecff.de
@@ -140,7 +139,6 @@ pastewith.me
 pb.blackvoid.club
 pb.envs.net
 pb.fly.dev
-pb.johns-casa.de
 pb.pc-sam.net
 pb.skifab.se
 pbin.zzls.xyz
@@ -169,7 +167,6 @@ privatebin.sequanux.org
 privatebin.wsmm.de
 privatebin.xi.ht
 privatepastebin.com
-puny.space
 pvbin.chatasik.com
 sebsauvage.net
 secret.atticstudios.be

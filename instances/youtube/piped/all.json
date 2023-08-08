@@ -1,10 +1,10 @@
 {
     "instances": [
-        "pd.vern.cc",
         "piped.adminforge.de",
         "piped.frontendfriendly.xyz",
         "piped.garudalinux.org",
         "piped.hostux.net",
+        "piped.in.projectsegfau.lt",
         "piped.lunar.icu",
         "piped.osphost.fi",
         "piped.palveluntarjoaja.eu",
@@ -22,11 +22,8 @@
         "yt.dc09.ru"
     ],
     "onion": [
-        "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
         "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
-    "i2p": [
-        "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
-    ]
+    "i2p": []
 }
