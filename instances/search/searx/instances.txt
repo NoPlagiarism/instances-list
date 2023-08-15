@@ -8,7 +8,6 @@ opnxng.com
 paulgo.io
 priv.au
 s.trung.fun
-search.0xgingi.com
 search.bowlman.org
 search.bus-hit.me
 search.citw.lgbt
@@ -72,11 +71,13 @@ searx.roflcopter.fr
 searx.ru
 searx.sev.monster
 searx.si
+searx.techsaviours.org
 searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
 searx.work
 searx.zapashcanon.fr
+searx.zhenyapav.com
 searxng.ch
 searxng.diadz.de
 searxng.nicfab.eu

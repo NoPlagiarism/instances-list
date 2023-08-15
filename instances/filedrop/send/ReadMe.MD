@@ -19,6 +19,7 @@
 - [send.mni.li](https://send.mni.li)
 - [send.monks.tools](https://send.monks.tools)
 - [send.portailpro.net](https://send.portailpro.net)
+- [send.turingpoint.de](https://send.turingpoint.de)
 - [send.vis.ee](https://send.vis.ee)
 - [send.whateveritworks.org](https://send.whateveritworks.org)
 - [send.zcyph.cc](https://send.zcyph.cc)

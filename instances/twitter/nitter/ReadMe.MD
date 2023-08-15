@@ -19,6 +19,7 @@
 - [nitter.cz](https://nitter.cz)
 - [nitter.d420.de](https://nitter.d420.de)
 - [nitter.dafriser.be](https://nitter.dafriser.be)
+- [nitter.datura.network](https://nitter.datura.network)
 - [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)
 - [nitter.eu.projectsegfau.lt](https://nitter.eu.projectsegfau.lt)
 - [nitter.fdn.fr](https://nitter.fdn.fr)

@@ -7,7 +7,6 @@ rim.odyssey346.dev
 rimgo.bus-hit.me
 rimgo.catsarch.com
 rimgo.eu.projectsegfau.lt
-rimgo.fascinated.cc
 rimgo.frontendfriendly.xyz
 rimgo.hostux.net
 rimgo.in.projectsegfau.lt

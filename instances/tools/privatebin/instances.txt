@@ -5,7 +5,6 @@
 amir.ch
 andoc.yateam.cc
 anonbin.io
-apps.ti-nuage.fr
 b.opnxng.com
 bin.0xfc.de
 bin.68degrees.no
@@ -51,7 +50,6 @@ coller.vulpecula.fr
 copypaste.onl
 cpaste.org
 cryptostorm.is
-ctrlv.chalec.org
 eatmyshorts.ch
 encryp.ch
 extrait.facil.services
@@ -97,6 +95,7 @@ paste.elyday.net
 paste.encrypt.co.il
 paste.evolix.org
 paste.fizi.ca
+paste.gamesdrive.net
 paste.ggc-project.de
 paste.hackliberty.org
 paste.hostify.cz
@@ -116,6 +115,7 @@ paste.quest
 paste.rosset.net
 paste.rys.pw
 paste.scurvynet.com
+paste.skynetcloud.site
 paste.stratum0.org
 paste.systemli.org
 paste.tecff.de
@@ -159,6 +159,7 @@ privatebin.jirlagun.com
 privatebin.johnnybegood.fr
 privatebin.lyndendoor.com
 privatebin.net
+privatebin.perennialte.ch
 privatebin.privacy.com.de
 privatebin.rinuploads.org
 privatebin.rockhost.se

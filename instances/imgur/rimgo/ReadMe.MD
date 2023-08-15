@@ -10,7 +10,6 @@
 - [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
 - [rimgo.catsarch.com](https://rimgo.catsarch.com)
 - [rimgo.eu.projectsegfau.lt](https://rimgo.eu.projectsegfau.lt)
-- [rimgo.fascinated.cc](https://rimgo.fascinated.cc)
 - [rimgo.frontendfriendly.xyz](https://rimgo.frontendfriendly.xyz)
 - [rimgo.hostux.net](https://rimgo.hostux.net)
 - [rimgo.in.projectsegfau.lt](https://rimgo.in.projectsegfau.lt)
