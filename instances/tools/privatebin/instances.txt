@@ -79,6 +79,7 @@ paste.3server.de
 paste.4s3ti.net
 paste.aryu.de
 paste.biocrafting.net
+paste.bz
 paste.ceppo.xyz
 paste.cezeri.tech
 paste.chapril.org
@@ -189,6 +190,7 @@ zb.zerosgaming.de
 zerobin-legacy.dssr.ch
 zerobin.farcy.me
 zerobin.hbcom.info
+zerobin.mirtouf.fr
 zerobin.org
 zerobin.thican.net
 zerobin.weblib.re

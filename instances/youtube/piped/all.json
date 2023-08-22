@@ -2,20 +2,10 @@
     "instances": [
         "piped.adminforge.de",
         "piped.frontendfriendly.xyz",
-        "piped.garudalinux.org",
-        "piped.hostux.net",
-        "piped.lunar.icu",
-        "piped.mha.fi",
-        "piped.osphost.fi",
-        "piped.privacy.com.de",
         "piped.privacydev.net",
         "piped.qdi.fi",
-        "piped.simpleprivacy.fr",
         "piped.smnz.de",
-        "piped.video",
-        "piped.yt",
-        "watch.whatever.social",
-        "yt.dc09.ru"
+        "piped.video"
     ],
     "onion": [
         "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
