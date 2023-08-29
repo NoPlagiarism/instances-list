@@ -3,6 +3,7 @@ breeze.hostux.net
 breeze.nohost.network
 breeze.whateveritworks.org
 breezewiki.com
+breezewiki.frontendfriendly.xyz
 breezewiki.pussthecat.org
 bw.artemislena.eu
 bw.hamstro.dev

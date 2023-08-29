@@ -17,6 +17,7 @@
 - [teddit.ggc-project.de](https://teddit.ggc-project.de)
 - [teddit.hostux.net](https://teddit.hostux.net)
 - [teddit.httpjames.space](https://teddit.httpjames.space)
+- [teddit.laserdisc.tokyo](https://teddit.laserdisc.tokyo)
 - [teddit.no-logs.com](https://teddit.no-logs.com)
 - [teddit.privacytools.io](https://teddit.privacytools.io)
 - [teddit.projectsegfau.lt](https://teddit.projectsegfau.lt)

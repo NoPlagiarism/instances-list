@@ -4,7 +4,6 @@
 0bin.xyz
 amir.ch
 andoc.yateam.cc
-anonbin.io
 b.opnxng.com
 bin.0xfc.de
 bin.68degrees.no
@@ -31,7 +30,6 @@ bin.nixnet.services
 bin.nji9.de
 bin.pifferi.info
 bin.privacy.com.de
-bin.privateweb.top
 bin.purplebored.pl
 bin.sasach.work
 bin.sielc.com.ar
@@ -83,11 +81,9 @@ paste.bz
 paste.ceppo.xyz
 paste.cezeri.tech
 paste.chapril.org
-paste.chrispycreme.com
 paste.copper.dedyn.io
 paste.cppmm.net.ru
 paste.d-ku.de
-paste.d4v.is
 paste.dasnetzundich.de
 paste.dismail.de
 paste.drfrankenstein.co.uk
@@ -145,6 +141,7 @@ pb.skifab.se
 pbin.zzls.xyz
 postit.hadoly.fr
 private.opendoor.fr
+private.rmconsulting.com
 privatebin.anko.systems
 privatebin.ar21.de
 privatebin.arch-linux.cz

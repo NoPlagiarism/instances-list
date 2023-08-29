@@ -3,7 +3,6 @@ bird.trom.tf
 canada.unofficialbird.com
 india.unofficialbird.com
 jote.lile.cl
-n.opnxng.com
 n.sneed.network
 nederland.unofficialbird.com
 nitter.1d4.us
@@ -51,7 +50,6 @@ nitter.private.coffee
 nitter.projectsegfau.lt
 nitter.qwik.space
 nitter.rawbit.ninja
-nitter.riverside.rocks
 nitter.salastil.com
 nitter.services.woodland.cafe
 nitter.sethforprivacy.com
