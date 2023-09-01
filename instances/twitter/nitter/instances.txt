@@ -63,6 +63,7 @@ nitter.unixfox.eu
 nitter.us.projectsegfau.lt
 nitter.weiler.rocks
 nitter.x86-64-unknown-linux-gnu.zip
+nt.ggtyler.dev
 nt.vern.cc
 singapore.unofficialbird.com
 t.com.sb
