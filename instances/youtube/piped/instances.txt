@@ -1,7 +1,7 @@
-pi.ggtyler.dev
 piped.adminforge.de
 piped.drgns.space
 piped.frontendfriendly.xyz
+piped.garudalinux.org
 piped.in.projectsegfau.lt
 piped.looleh.xyz
 piped.lunar.icu
@@ -9,6 +9,7 @@ piped.privacydev.net
 piped.projectsegfau.lt
 piped.simpleprivacy.fr
 piped.smnz.de
+piped.syncpundit.io
 piped.us.projectsegfau.lt
 piped.video
 piped.yt

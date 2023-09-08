@@ -10,7 +10,6 @@ nitter.adminforge.de
 nitter.altgr.xyz
 nitter.at
 nitter.bird.froth.zone
-nitter.caioalonso.com
 nitter.catsarch.com
 nitter.cz
 nitter.d420.de
@@ -22,6 +21,7 @@ nitter.fdn.fr
 nitter.fediflix.org
 nitter.freedit.eu
 nitter.hostux.net
+nitter.hyperreal.coffee
 nitter.in.projectsegfau.lt
 nitter.inpt.fr
 nitter.io.lol

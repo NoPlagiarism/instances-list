@@ -5,7 +5,6 @@
 - [que.wilbvr.me](https://que.wilbvr.me)
 - [questions.whateveritworks.org](https://questions.whateveritworks.org)
 - [quetre.blackdrgn.nl](https://quetre.blackdrgn.nl)
-- [quetre.fascinated.cc](https://quetre.fascinated.cc)
 - [quetre.frontendfriendly.xyz](https://quetre.frontendfriendly.xyz)
 - [quetre.iket.me](https://quetre.iket.me)
 - [quetre.lunar.icu](https://quetre.lunar.icu)

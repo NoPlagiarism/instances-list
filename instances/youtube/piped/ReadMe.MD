@@ -1,10 +1,10 @@
 # [Piped](https://github.com/TeamPiped/Piped#readme)
 
 # Clearnet
-- [pi.ggtyler.dev](https://pi.ggtyler.dev)
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.drgns.space](https://piped.drgns.space)
 - [piped.frontendfriendly.xyz](https://piped.frontendfriendly.xyz)
+- [piped.garudalinux.org](https://piped.garudalinux.org)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
 - [piped.looleh.xyz](https://piped.looleh.xyz)
 - [piped.lunar.icu](https://piped.lunar.icu)
@@ -12,6 +12,7 @@
 - [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.simpleprivacy.fr](https://piped.simpleprivacy.fr)
 - [piped.smnz.de](https://piped.smnz.de)
+- [piped.syncpundit.io](https://piped.syncpundit.io)
 - [piped.us.projectsegfau.lt](https://piped.us.projectsegfau.lt)
 - [piped.video](https://piped.video)
 - [piped.yt](https://piped.yt)
