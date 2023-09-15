@@ -33,6 +33,7 @@ bin.privacy.com.de
 bin.purplebored.pl
 bin.sasach.work
 bin.siick.fr
+bin.supersite.cloud
 bin.thies-block.de
 bin.tiekoetter.com
 bin.uhl.cloud
@@ -58,6 +59,7 @@ kallemarc.de
 ktbky.kaaass.net
 logs.notifiarr.com
 notebin.de
+notes.de.cool
 onetime.vits.co.uk
 opportunis.me
 ots.ip-projects.de
@@ -90,6 +92,7 @@ paste.elyday.net
 paste.encrypt.co.il
 paste.evolix.org
 paste.fizi.ca
+paste.fluffy.tools
 paste.gamesdrive.net
 paste.ggc-project.de
 paste.hackliberty.org
@@ -183,6 +186,7 @@ www.engangspassord.no
 www.gitgd.com
 www.nervengas.com
 xcosx.de
+z.fishbowl.com
 zb.zerosgaming.de
 zerobin-legacy.dssr.ch
 zerobin.farcy.me

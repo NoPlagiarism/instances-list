@@ -1,9 +1,11 @@
 # [SearXNG](https://github.com/searxng/searxng#readme)
 
 # Clearnet
+- [331221.xyz](https://331221.xyz)
 - [baresearch.org](https://baresearch.org)
 - [copp.gg](https://copp.gg)
 - [etsi.me](https://etsi.me)
+- [fgiggle.com](https://fgiggle.com)
 - [freesearch.club](https://freesearch.club)
 - [northboot.xyz](https://northboot.xyz)
 - [offtheradar.info](https://offtheradar.info)
@@ -76,7 +78,6 @@
 - [searxng.nicfab.eu](https://searxng.nicfab.eu)
 - [searxng.no-logs.com](https://searxng.no-logs.com)
 - [searxng.online](https://searxng.online)
-- [searxng.se](https://searxng.se)
 - [searxng.xcxc.eu](https://searxng.xcxc.eu)
 - [spot.murena.io](https://spot.murena.io)
 - [stalk.antelope.day](https://stalk.antelope.day)

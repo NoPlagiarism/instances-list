@@ -1,14 +1,12 @@
 {
     "instances": [
+        "pi.ggtyler.dev",
         "piped.adminforge.de",
         "piped.drgns.space",
         "piped.frontendfriendly.xyz",
         "piped.garudalinux.org",
-        "piped.in.projectsegfau.lt",
         "piped.looleh.xyz",
         "piped.lunar.icu",
-        "piped.privacydev.net",
-        "piped.projectsegfau.lt",
         "piped.simpleprivacy.fr",
         "piped.smnz.de",
         "piped.syncpundit.io",
@@ -20,7 +18,6 @@
         "yt.dc09.ru"
     ],
     "onion": [
-        "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
     "i2p": []

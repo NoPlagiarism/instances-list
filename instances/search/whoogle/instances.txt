@@ -17,3 +17,4 @@ whoogle.hostux.net
 whoogle.lunar.icu
 whoogle.no-logs.com
 whoogle.privacydev.net
+whoogle.yepserver.xyz

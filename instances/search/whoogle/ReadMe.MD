@@ -20,6 +20,7 @@
 - [whoogle.lunar.icu](https://whoogle.lunar.icu)
 - [whoogle.no-logs.com](https://whoogle.no-logs.com)
 - [whoogle.privacydev.net](https://whoogle.privacydev.net)
+- [whoogle.yepserver.xyz](https://whoogle.yepserver.xyz)
 # Onion
 - [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](http://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)
 - [whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion](http://whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion)

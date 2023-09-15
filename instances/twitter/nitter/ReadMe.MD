@@ -37,7 +37,6 @@
 - [nitter.mint.lgbt](https://nitter.mint.lgbt)
 - [nitter.moomoo.me](https://nitter.moomoo.me)
 - [nitter.net](https://nitter.net)
-- [nitter.nicfab.eu](https://nitter.nicfab.eu)
 - [nitter.nl](https://nitter.nl)
 - [nitter.no-logs.com](https://nitter.no-logs.com)
 - [nitter.nohost.network](https://nitter.nohost.network)
