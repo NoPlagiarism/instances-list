@@ -13,7 +13,9 @@ rimgo.in.projectsegfau.lt
 rimgo.kling.gg
 rimgo.lunar.icu
 rimgo.nohost.network
+rimgo.projectsegfau.lt
 rimgo.pussthecat.org
+rimgo.quantenzitrone.eu
 rimgo.totaldarkness.net
 rimgo.us.projectsegfau.lt
 rimgo.vern.cc

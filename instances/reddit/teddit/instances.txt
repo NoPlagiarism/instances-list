@@ -6,7 +6,6 @@ snoo.ioens.is
 t.sneed.network
 td.vern.cc
 teddit.adminforge.de
-teddit.artemislena.eu
 teddit.bus-hit.me
 teddit.domain.glass
 teddit.encrypted-data.xyz

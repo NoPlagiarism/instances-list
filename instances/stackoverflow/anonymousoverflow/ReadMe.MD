@@ -2,7 +2,9 @@
 
 # Clearnet
 - [anonoverflow.frontendfriendly.xyz](https://anonoverflow.frontendfriendly.xyz)
+- [anonoverflow.hyperreal.coffee](https://anonoverflow.hyperreal.coffee)
 - [ao.bloatcat.tk](https://ao.bloatcat.tk)
+- [ao.ftw.lol](https://ao.ftw.lol)
 - [ao.vern.cc](https://ao.vern.cc)
 - [code.whatever.social](https://code.whatever.social)
 - [overflow.adminforge.de](https://overflow.adminforge.de)
