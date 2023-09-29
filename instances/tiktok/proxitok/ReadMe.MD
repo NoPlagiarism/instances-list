@@ -1,9 +1,12 @@
 # [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
 # Clearnet
+- [cringe.datura.network](https://cringe.datura.network)
+- [cringe.seitan-ayoub.lol](https://cringe.seitan-ayoub.lol)
 - [cringe.whatever.social](https://cringe.whatever.social)
 - [cringe.whateveritworks.org](https://cringe.whateveritworks.org)
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
+- [proxitok.kyun.li](https://proxitok.kyun.li)
 - [proxitok.lunar.icu](https://proxitok.lunar.icu)
 - [proxitok.pabloferreiro.es](https://proxitok.pabloferreiro.es)
 - [proxitok.privacy.com.de](https://proxitok.privacy.com.de)
@@ -17,6 +20,8 @@
 # Onion
 - [habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
 - [proxitok.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://proxitok.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
+- [proxitok.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://proxitok.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+- [pt.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion](http://pt.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion)
 - [tok.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://tok.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [tt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://tt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 # I2P

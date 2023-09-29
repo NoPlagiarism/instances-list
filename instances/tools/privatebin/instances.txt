@@ -9,6 +9,7 @@ bin.0xfc.de
 bin.68degrees.no
 bin.acquia.com
 bin.bloatcat.tk
+bin.bus-hit.me
 bin.byreqz.de
 bin.disroot.org
 bin.eiphax.tech
@@ -27,8 +28,8 @@ bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
 bin.privacy.com.de
-bin.privateweb.top
 bin.purplebored.pl
+bin.rtb.gg
 bin.sasach.work
 bin.siick.fr
 bin.supersite.cloud
@@ -58,6 +59,7 @@ ktbky.kaaass.net
 logs.notifiarr.com
 notebin.de
 notes.de.cool
+oldpb.purplebored.pl
 onetime.vits.co.uk
 opportunis.me
 ots.ip-projects.de
@@ -158,7 +160,6 @@ privatebin.jirlagun.com
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
 privatebin.luckvintage.com
-privatebin.lyndendoor.com
 privatebin.net
 privatebin.paradox.ai
 privatebin.perennialte.ch

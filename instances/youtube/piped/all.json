@@ -1,23 +1,16 @@
 {
     "instances": [
-        "pi.ggtyler.dev",
+        "efy.piped.pages.dev",
         "piped.adminforge.de",
+        "piped.drgns.space",
         "piped.garudalinux.org",
-        "piped.looleh.xyz",
-        "piped.lunar.icu",
-        "piped.privacydev.net",
-        "piped.seitan-ayoub.lol",
         "piped.simpleprivacy.fr",
         "piped.smnz.de",
-        "piped.syncpundit.io",
-        "piped.yt",
-        "watch.leptons.xyz",
-        "watch.pluto.lat",
-        "watch.whatever.social",
-        "yt.dc09.ru"
+        "piped.video",
+        "piped.yt"
     ],
     "onion": [
-        "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion"
+        "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
     "i2p": []
 }
