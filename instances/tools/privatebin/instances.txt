@@ -78,7 +78,6 @@ paste.3server.de
 paste.4s3ti.net
 paste.aryu.de
 paste.biocrafting.net
-paste.bz
 paste.ceppo.xyz
 paste.cezeri.tech
 paste.chapril.org

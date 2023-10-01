@@ -81,7 +81,6 @@
 - [paste.4s3ti.net](https://paste.4s3ti.net)
 - [paste.aryu.de](https://paste.aryu.de)
 - [paste.biocrafting.net](https://paste.biocrafting.net)
-- [paste.bz](https://paste.bz)
 - [paste.ceppo.xyz](https://paste.ceppo.xyz)
 - [paste.cezeri.tech](https://paste.cezeri.tech)
 - [paste.chapril.org](https://paste.chapril.org)

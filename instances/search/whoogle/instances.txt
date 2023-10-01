@@ -3,6 +3,7 @@ s.tokhmi.xyz
 search.albony.xyz
 search.dr460nf1r3.org
 search.garudalinux.org
+search.neadond.space
 search.notrustverify.ch
 search.rubberverse.xyz
 search.sethforprivacy.com
