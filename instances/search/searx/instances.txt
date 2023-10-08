@@ -5,6 +5,7 @@ etsi.me
 fgiggle.com
 freesearch.club
 northboot.xyz
+nyc1.sx.ggtyler.dev
 offtheradar.info
 ooglester.com
 opnxng.com
@@ -37,7 +38,6 @@ search.rhscz.eu
 search.rowie.at
 search.sapti.me
 search.smnz.de
-search.trom.tf
 search.whateveritworks.org
 search.zzls.xyz
 searx.baczek.me
@@ -55,6 +55,7 @@ searx.juancord.xyz
 searx.kutay.dev
 searx.mha.fi
 searx.namejeff.xyz
+searx.neocities.org
 searx.netzspielplatz.de
 searx.oakleycord.dev
 searx.ox2.fr

@@ -1,11 +1,11 @@
 piped.adminforge.de
-piped.cfe.re
 piped.drgns.space
-piped.garudalinux.org
-piped.lunar.icu
-piped.seitan-ayoub.lol
+piped.frontendfriendly.xyz
+piped.in.projectsegfau.lt
+piped.osphost.fi
+piped.projectsegfau.lt
 piped.simpleprivacy.fr
 piped.smnz.de
+piped.us.projectsegfau.lt
 piped.video
-piped.yt
 yt.dc09.ru

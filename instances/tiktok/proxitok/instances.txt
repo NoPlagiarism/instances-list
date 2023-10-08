@@ -9,8 +9,10 @@ proxitok.pabloferreiro.es
 proxitok.privacy.com.de
 proxitok.privacydev.net
 proxitok.pussthecat.org
+proxitok.tinfoil-hat.net
 tik.hostux.net
 tok.adminforge.de
 tok.artemislena.eu
 tok.habedieeh.re
+tt.opnxng.com
 tt.vern.cc

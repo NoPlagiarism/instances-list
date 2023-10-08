@@ -3,7 +3,6 @@
 00b.eu
 0bin.xyz
 amir.ch
-andoc.yateam.cc
 b.opnxng.com
 bin.0xfc.de
 bin.68degrees.no
@@ -18,6 +17,7 @@ bin.garudalinux.org
 bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
+bin.itefix.no
 bin.iya.at
 bin.libreon.fr
 bin.m0c.cc
@@ -36,7 +36,6 @@ bin.supersite.cloud
 bin.thies-block.de
 bin.tiekoetter.com
 bin.uhl.cloud
-bin.urla.no
 bin.vdx.sh
 bin.veracry.pt
 bin.whateveritworks.org
@@ -96,6 +95,7 @@ paste.fizi.ca
 paste.fluffy.tools
 paste.gamesdrive.net
 paste.ggc-project.de
+paste.greep.fr
 paste.hackliberty.org
 paste.hostify.cz
 paste.hostux.net
@@ -116,6 +116,7 @@ paste.scurvynet.com
 paste.skynetcloud.site
 paste.spaceint.fr
 paste.stratum0.org
+paste.sy.gy
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
@@ -143,7 +144,6 @@ pb.skifab.se
 pbin.zzls.xyz
 postit.hadoly.fr
 private.opendoor.fr
-private.rmconsulting.com
 privatebin.anko.systems
 privatebin.ar21.de
 privatebin.arch-linux.cz
@@ -154,6 +154,7 @@ privatebin.deblan.org
 privatebin.devol.it
 privatebin.fly.dev
 privatebin.freinetz.ch
+privatebin.imagisphe.re
 privatebin.io
 privatebin.jirlagun.com
 privatebin.johnnybegood.fr
@@ -165,7 +166,6 @@ privatebin.perennialte.ch
 privatebin.piquark6046.dev
 privatebin.privacy.com.de
 privatebin.rinuploads.org
-privatebin.rockhost.se
 privatebin.seattlematrix.org
 privatebin.sequanux.org
 privatebin.wsmm.de
@@ -193,6 +193,4 @@ zerobin-legacy.dssr.ch
 zerobin.farcy.me
 zerobin.mirtouf.fr
 zerobin.org
-zerobin.thican.net
-zerobin.weblib.re
 zerobin.zertrin.org
