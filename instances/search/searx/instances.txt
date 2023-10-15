@@ -3,6 +3,7 @@ baresearch.org
 copp.gg
 etsi.me
 fgiggle.com
+find.m3wz.su
 freesearch.club
 northboot.xyz
 nyc1.sx.ggtyler.dev
@@ -19,7 +20,6 @@ search.cronobox.one
 search.demoniak.ch
 search.disroot.org
 search.dojoro.de
-search.fascinated.cc
 search.fawkesguy.com
 search.gcomm.ch
 search.hbubli.cc
@@ -47,7 +47,6 @@ searx.catfluori.de
 searx.cthd.icu
 searx.daetalytica.io
 searx.divided-by-zero.eu
-searx.doofpot.nl
 searx.ericaftereric.top
 searx.fmac.xyz
 searx.headpat.exchange
@@ -55,8 +54,6 @@ searx.juancord.xyz
 searx.kutay.dev
 searx.mha.fi
 searx.namejeff.xyz
-searx.neocities.org
-searx.netzspielplatz.de
 searx.oakleycord.dev
 searx.ox2.fr
 searx.perennialte.ch
@@ -70,11 +67,9 @@ searx.tuxcloud.net
 searx.work
 searx.zhenyapav.com
 searxng.ch
-searxng.nicfab.eu
 searxng.no-logs.com
 searxng.online
 searxng.xcxc.eu
-spot.murena.io
 suche.tromdienste.de
 sx.catgirl.cloud
 www.gruble.de

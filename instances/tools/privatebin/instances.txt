@@ -23,7 +23,6 @@ bin.libreon.fr
 bin.m0c.cc
 bin.mezzo.moe
 bin.mha.fi
-bin.moritz-fromm.de
 bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
@@ -77,6 +76,7 @@ paste.3server.de
 paste.4s3ti.net
 paste.aryu.de
 paste.biocrafting.net
+paste.bz
 paste.ceppo.xyz
 paste.cezeri.tech
 paste.chapril.org
@@ -93,9 +93,9 @@ paste.encrypt.co.il
 paste.evolix.org
 paste.fizi.ca
 paste.fluffy.tools
+paste.frylo.net
 paste.gamesdrive.net
 paste.ggc-project.de
-paste.greep.fr
 paste.hackliberty.org
 paste.hostify.cz
 paste.hostux.net
@@ -138,10 +138,10 @@ pastefg.hermietkreeft.site
 pb.blackvoid.club
 pb.envs.net
 pb.fly.dev
+pb.greep.fr
 pb.jaska.cc
 pb.pc-sam.net
 pb.skifab.se
-pbin.zzls.xyz
 postit.hadoly.fr
 private.opendoor.fr
 privatebin.anko.systems
@@ -192,5 +192,4 @@ zb.zerosgaming.de
 zerobin-legacy.dssr.ch
 zerobin.farcy.me
 zerobin.mirtouf.fr
-zerobin.org
 zerobin.zertrin.org

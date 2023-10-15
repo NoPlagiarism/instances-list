@@ -6,7 +6,6 @@
 - [search.albony.xyz](https://search.albony.xyz)
 - [search.dr460nf1r3.org](https://search.dr460nf1r3.org)
 - [search.garudalinux.org](https://search.garudalinux.org)
-- [search.neadond.space](https://search.neadond.space)
 - [search.notrustverify.ch](https://search.notrustverify.ch)
 - [search.rubberverse.xyz](https://search.rubberverse.xyz)
 - [search.sethforprivacy.com](https://search.sethforprivacy.com)
