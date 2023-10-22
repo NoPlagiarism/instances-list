@@ -127,6 +127,7 @@ paste.tuxcloud.net
 paste.unit193.net
 paste.voxhost.fr
 paste.waays.fr
+paste.webdigg.org
 paste.ztn.sh
 pastebin.24unix.net
 pastebin.aquilenet.fr
@@ -164,6 +165,7 @@ privatebin.net
 privatebin.paradox.ai
 privatebin.perennialte.ch
 privatebin.piquark6046.dev
+privatebin.polido.pt
 privatebin.privacy.com.de
 privatebin.rinuploads.org
 privatebin.seattlematrix.org

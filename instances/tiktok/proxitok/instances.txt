@@ -11,6 +11,7 @@ proxitok.privacydev.net
 proxitok.pussthecat.org
 proxitok.tinfoil-hat.net
 tik.hostux.net
+tiktok.wpme.pl
 tok.adminforge.de
 tok.artemislena.eu
 tok.habedieeh.re

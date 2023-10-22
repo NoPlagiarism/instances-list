@@ -14,6 +14,7 @@
 - [proxitok.pussthecat.org](https://proxitok.pussthecat.org)
 - [proxitok.tinfoil-hat.net](https://proxitok.tinfoil-hat.net)
 - [tik.hostux.net](https://tik.hostux.net)
+- [tiktok.wpme.pl](https://tiktok.wpme.pl)
 - [tok.adminforge.de](https://tok.adminforge.de)
 - [tok.artemislena.eu](https://tok.artemislena.eu)
 - [tok.habedieeh.re](https://tok.habedieeh.re)
