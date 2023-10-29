@@ -12,6 +12,7 @@ nitter-status
 nitter.1d4.us
 nitter.adminforge.de
 nitter.altgr.xyz
+nitter.at
 nitter.bird.froth.zone
 nitter.catsarch.com
 nitter.cz
@@ -49,6 +50,7 @@ nitter.rawbit.ninja
 nitter.salastil.com
 nitter.simpleprivacy.fr
 nitter.soopy.moe
+nitter.tiekoetter.com
 nitter.tinfoil-hat.net
 nitter.tux.pizza
 nitter.twei.space

@@ -3,7 +3,6 @@
 # Clearnet
 - [0.0g.gg](https://0.0g.gg)
 - [0.jaegers.net](https://0.jaegers.net)
-- [00b.eu](https://00b.eu)
 - [0bin.xyz](https://0bin.xyz)
 - [amir.ch](https://amir.ch)
 - [b.opnxng.com](https://b.opnxng.com)
@@ -30,6 +29,7 @@
 - [bin.nixnet.services](https://bin.nixnet.services)
 - [bin.nji9.de](https://bin.nji9.de)
 - [bin.privacy.com.de](https://bin.privacy.com.de)
+- [bin.privateweb.top](https://bin.privateweb.top)
 - [bin.purplebored.pl](https://bin.purplebored.pl)
 - [bin.rtb.gg](https://bin.rtb.gg)
 - [bin.sasach.work](https://bin.sasach.work)
@@ -187,6 +187,7 @@
 - [t25b.com](https://t25b.com)
 - [teamware.eu](https://teamware.eu)
 - [textbin.quick-space.de](https://textbin.quick-space.de)
+- [vip.ci](https://vip.ci)
 - [wtf.roflcopter.fr](https://wtf.roflcopter.fr)
 - [www.engangspassord.no](https://www.engangspassord.no)
 - [www.gitgd.com](https://www.gitgd.com)

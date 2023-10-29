@@ -2,6 +2,7 @@ hp.ggtyler.dev
 hyperpipe.drgns.space
 hyperpipe.esmailelbob.xyz
 hyperpipe.frontendfriendly.xyz
+hyperpipe.lunar.icu
 hyperpipe.projectsegfau.lt
 hyperpipe.surge.sh
 listen.whatever.social

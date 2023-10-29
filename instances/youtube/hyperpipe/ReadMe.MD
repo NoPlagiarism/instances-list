@@ -5,6 +5,7 @@
 - [hyperpipe.drgns.space](https://hyperpipe.drgns.space)
 - [hyperpipe.esmailelbob.xyz](https://hyperpipe.esmailelbob.xyz)
 - [hyperpipe.frontendfriendly.xyz](https://hyperpipe.frontendfriendly.xyz)
+- [hyperpipe.lunar.icu](https://hyperpipe.lunar.icu)
 - [hyperpipe.projectsegfau.lt](https://hyperpipe.projectsegfau.lt)
 - [hyperpipe.surge.sh](https://hyperpipe.surge.sh)
 - [listen.whatever.social](https://listen.whatever.social)

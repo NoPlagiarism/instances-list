@@ -1,6 +1,5 @@
 0.0g.gg
 0.jaegers.net
-00b.eu
 0bin.xyz
 amir.ch
 b.opnxng.com
@@ -27,6 +26,7 @@ bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
 bin.privacy.com.de
+bin.privateweb.top
 bin.purplebored.pl
 bin.rtb.gg
 bin.sasach.work
@@ -184,6 +184,7 @@ snip.dssr.ch
 t25b.com
 teamware.eu
 textbin.quick-space.de
+vip.ci
 wtf.roflcopter.fr
 www.engangspassord.no
 www.gitgd.com
