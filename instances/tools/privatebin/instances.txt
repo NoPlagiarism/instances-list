@@ -37,7 +37,6 @@ bin.tiekoetter.com
 bin.uhl.cloud
 bin.vdx.sh
 bin.veracry.pt
-bin.whateveritworks.org
 bonus01.hwb0307.com
 cles.le-filament.com
 coller.vulpecula.fr
@@ -153,7 +152,6 @@ privatebin.bamberg.today
 privatebin.cobiotx.io
 privatebin.deblan.org
 privatebin.devol.it
-privatebin.fly.dev
 privatebin.freinetz.ch
 privatebin.imagisphe.re
 privatebin.io
