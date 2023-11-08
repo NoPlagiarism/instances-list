@@ -1,15 +1,18 @@
 {
     "instances": [
+        "pi.ggtyler.dev",
         "piped.adminforge.de",
-        "piped.astartes.nl",
         "piped.drgns.space",
         "piped.game.yt",
-        "piped.smnz.de",
-        "piped.video",
-        "piped.yt"
+        "piped.garudalinux.org",
+        "piped.in.projectsegfau.lt",
+        "piped.osphost.fi",
+        "piped.privacydev.net",
+        "piped.seitan-ayoub.lol",
+        "piped.smnz.de"
     ],
     "onion": [
-        "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
+        "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion"
     ],
     "i2p": []
 }

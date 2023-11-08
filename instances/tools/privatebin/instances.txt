@@ -75,7 +75,6 @@ paste.3server.de
 paste.4s3ti.net
 paste.aryu.de
 paste.biocrafting.net
-paste.bz
 paste.ceppo.xyz
 paste.cezeri.tech
 paste.chapril.org
@@ -99,7 +98,6 @@ paste.hackliberty.org
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
-paste.linux-help.org
 paste.momobako.com
 paste.nolog.cz
 paste.nomagic.uk
@@ -113,7 +111,6 @@ paste.rosset.net
 paste.rys.pw
 paste.scurvynet.com
 paste.skynetcloud.site
-paste.spaceint.fr
 paste.stratum0.org
 paste.sy.gy
 paste.systemli.org
@@ -139,7 +136,6 @@ pb.blackvoid.club
 pb.envs.net
 pb.fly.dev
 pb.greep.fr
-pb.jaska.cc
 pb.pc-sam.net
 pb.skifab.se
 postit.hadoly.fr

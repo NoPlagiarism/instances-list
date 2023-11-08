@@ -27,6 +27,7 @@
 - [search.hbubli.cc](https://search.hbubli.cc)
 - [search.im-in.space](https://search.im-in.space)
 - [search.in.projectsegfau.lt](https://search.in.projectsegfau.lt)
+- [search.inetol.net](https://search.inetol.net)
 - [search.laksith.dev](https://search.laksith.dev)
 - [search.leptons.xyz](https://search.leptons.xyz)
 - [search.lvkaszus.pl](https://search.lvkaszus.pl)

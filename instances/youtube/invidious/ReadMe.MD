@@ -11,7 +11,6 @@
 - [invidious.drgns.space](https://invidious.drgns.space)
 - [invidious.einfachzocken.eu](https://invidious.einfachzocken.eu)
 - [invidious.fdn.fr](https://invidious.fdn.fr)
-- [invidious.flokinet.to](https://invidious.flokinet.to)
 - [invidious.io.lol](https://invidious.io.lol)
 - [invidious.lunar.icu](https://invidious.lunar.icu)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)

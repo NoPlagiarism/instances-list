@@ -8,7 +8,6 @@ invidious.asir.dev
 invidious.drgns.space
 invidious.einfachzocken.eu
 invidious.fdn.fr
-invidious.flokinet.to
 invidious.io.lol
 invidious.lunar.icu
 invidious.nerdvpn.de

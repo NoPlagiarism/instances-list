@@ -24,6 +24,7 @@ search.gcomm.ch
 search.hbubli.cc
 search.im-in.space
 search.in.projectsegfau.lt
+search.inetol.net
 search.laksith.dev
 search.leptons.xyz
 search.lvkaszus.pl
