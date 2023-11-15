@@ -13,7 +13,6 @@ opnxng.com
 paulgo.io
 priv.au
 s.trung.fun
-search.bowlman.org
 search.bus-hit.me
 search.citw.lgbt
 search.demoniak.ch
@@ -42,7 +41,6 @@ search.whateveritworks.org
 search.zzls.xyz
 searx.baczek.me
 searx.be
-searx.bissisoft.com
 searx.catfluori.de
 searx.cthd.icu
 searx.daetalytica.io
