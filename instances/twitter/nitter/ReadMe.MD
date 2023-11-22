@@ -33,6 +33,7 @@
 - [nitter.inpt.fr](https://nitter.inpt.fr)
 - [nitter.io.lol](https://nitter.io.lol)
 - [nitter.it](https://nitter.it)
+- [nitter.jakefrosty.com](https://nitter.jakefrosty.com)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
 - [nitter.kling.gg](https://nitter.kling.gg)
 - [nitter.ktachibana.party](https://nitter.ktachibana.party)
