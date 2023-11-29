@@ -52,7 +52,6 @@ gitgd.com
 hoyfamily.tech
 hpc.uni.lu
 ircwebnet.com
-kallemarc.de
 ktbky.kaaass.net
 logs.notifiarr.com
 notebin.de
@@ -76,6 +75,7 @@ paste.3server.de
 paste.4s3ti.net
 paste.aryu.de
 paste.biocrafting.net
+paste.bz
 paste.ceppo.xyz
 paste.cezeri.tech
 paste.chapril.org
@@ -155,7 +155,6 @@ privatebin.io
 privatebin.jirlagun.com
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
-privatebin.limpidit.com
 privatebin.luckvintage.com
 privatebin.net
 privatebin.paradox.ai

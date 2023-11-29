@@ -318,23 +318,15 @@
         "path": "reddit/libreddit",
         "instances": [
             "l.opnxng.com",
-            "libreddit.domain.glass",
             "libreddit.freedit.eu",
-            "libreddit.kavin.rocks",
-            "libreddit.kylrth.com",
             "libreddit.northboot.xyz",
-            "libreddit.oxymagnesium.com",
             "libreddit.pussthecat.org",
             "libreddit.spike.codes",
             "libreddit.strongthany.cc",
-            "lr.aeong.one",
-            "lr.artemislena.eu",
-            "lr.slipfox.xyz",
-            "lr.vern.cc",
+            "reddit.invak.id",
             "reddit.simo.sh",
             "reddit.utsav2.dev",
-            "safereddit.com",
-            "snoo.habedieeh.re"
+            "safereddit.com"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -367,7 +359,6 @@
             "wl.vern.cc"
         ],
         "onion": [
-            "7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion",
             "mznsas7mxciel3kbzoum5yj7cz65zrzhzvfrfm5pt4lbwyrfddbsb7ad.onion",
             "wikiless.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
@@ -384,18 +375,12 @@
         "instances": [
             "pi.ggtyler.dev",
             "piped.adminforge.de",
-            "piped.game.yt",
             "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
-            "piped.privacydev.net",
-            "piped.projectsegfau.lt",
-            "piped.seitan-ayoub.lol",
-            "piped.smnz.de",
-            "piped.us.projectsegfau.lt",
+            "piped.r4fo.com",
             "piped.video"
         ],
         "onion": [
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -890,16 +875,19 @@
         "instances": [
             "anonoverflow.frontendfriendly.xyz",
             "anonoverflow.hyperreal.coffee",
+            "anonymousoverflow.privacyfucking.rocks",
             "ao.bloatcat.tk",
             "ao.ftw.lol",
             "ao.vern.cc",
             "code.whatever.social",
+            "exchange.seitan-ayoub.lol",
             "overflow.adminforge.de",
             "overflow.datura.network",
             "overflow.fascinated.cc",
             "overflow.hostux.net",
             "overflow.lunar.icu",
             "overflow.projectsegfau.lt",
+            "overflow.r4fo.com",
             "overflow.smnz.de",
             "overflow.sudovanilla.com"
         ],
@@ -990,7 +978,6 @@
             "hoyfamily.tech",
             "hpc.uni.lu",
             "ircwebnet.com",
-            "kallemarc.de",
             "ktbky.kaaass.net",
             "logs.notifiarr.com",
             "notebin.de",
@@ -1014,6 +1001,7 @@
             "paste.4s3ti.net",
             "paste.aryu.de",
             "paste.biocrafting.net",
+            "paste.bz",
             "paste.ceppo.xyz",
             "paste.cezeri.tech",
             "paste.chapril.org",
@@ -1093,7 +1081,6 @@
             "privatebin.jirlagun.com",
             "privatebin.johnnybegood.fr",
             "privatebin.kosebamse.com",
-            "privatebin.limpidit.com",
             "privatebin.luckvintage.com",
             "privatebin.net",
             "privatebin.paradox.ai",
