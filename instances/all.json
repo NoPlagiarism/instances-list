@@ -318,15 +318,21 @@
         "path": "reddit/libreddit",
         "instances": [
             "l.opnxng.com",
+            "libreddit.bus-hit.me",
+            "libreddit.domain.glass",
             "libreddit.freedit.eu",
+            "libreddit.kavin.rocks",
+            "libreddit.kutay.dev",
+            "libreddit.lunar.icu",
             "libreddit.northboot.xyz",
-            "libreddit.pussthecat.org",
-            "libreddit.spike.codes",
-            "libreddit.strongthany.cc",
+            "libreddit.privacydev.net",
+            "libreddit.tux.pizza",
+            "lr.aeong.one",
+            "lr.artemislena.eu",
+            "r.darklab.sh",
             "reddit.invak.id",
-            "reddit.simo.sh",
-            "reddit.utsav2.dev",
-            "safereddit.com"
+            "safereddit.com",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -375,12 +381,15 @@
         "instances": [
             "pi.ggtyler.dev",
             "piped.adminforge.de",
-            "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
+            "piped.privacydev.net",
             "piped.r4fo.com",
+            "piped.seitan-ayoub.lol",
+            "piped.smnz.de",
             "piped.video"
         ],
         "onion": [
+            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []

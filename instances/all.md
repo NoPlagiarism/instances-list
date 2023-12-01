@@ -317,15 +317,21 @@
 
 ### Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
+- [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
+- [libreddit.domain.glass](https://libreddit.domain.glass)
 - [libreddit.freedit.eu](https://libreddit.freedit.eu)
+- [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
+- [libreddit.kutay.dev](https://libreddit.kutay.dev)
+- [libreddit.lunar.icu](https://libreddit.lunar.icu)
 - [libreddit.northboot.xyz](https://libreddit.northboot.xyz)
-- [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
-- [libreddit.spike.codes](https://libreddit.spike.codes)
-- [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
+- [libreddit.privacydev.net](https://libreddit.privacydev.net)
+- [libreddit.tux.pizza](https://libreddit.tux.pizza)
+- [lr.aeong.one](https://lr.aeong.one)
+- [lr.artemislena.eu](https://lr.artemislena.eu)
+- [r.darklab.sh](https://r.darklab.sh)
 - [reddit.invak.id](https://reddit.invak.id)
-- [reddit.simo.sh](https://reddit.simo.sh)
-- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
+- [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -365,11 +371,14 @@
 ### Clearnet
 - [pi.ggtyler.dev](https://pi.ggtyler.dev)
 - [piped.adminforge.de](https://piped.adminforge.de)
-- [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
 - [piped.lunar.icu](https://piped.lunar.icu)
+- [piped.privacydev.net](https://piped.privacydev.net)
 - [piped.r4fo.com](https://piped.r4fo.com)
+- [piped.seitan-ayoub.lol](https://piped.seitan-ayoub.lol)
+- [piped.smnz.de](https://piped.smnz.de)
 - [piped.video](https://piped.video)
 ### Onion
+- [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 ### I2P
 
