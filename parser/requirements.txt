@@ -1,2 +1,2 @@
-httpx==0.23.1
-loguru==0.6.0
+httpx==0.25.2
+loguru==0.7.2
