@@ -7,7 +7,6 @@
 - [search.dr460nf1r3.org](https://search.dr460nf1r3.org)
 - [search.garudalinux.org](https://search.garudalinux.org)
 - [search.notrustverify.ch](https://search.notrustverify.ch)
-- [search.rubberverse.xyz](https://search.rubberverse.xyz)
 - [search.sethforprivacy.com](https://search.sethforprivacy.com)
 - [wg.vern.cc](https://wg.vern.cc)
 - [wgl.frail.duckdns.org](https://wgl.frail.duckdns.org)

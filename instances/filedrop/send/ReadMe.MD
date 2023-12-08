@@ -6,7 +6,6 @@
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
 - [s.opnxng.com](https://s.opnxng.com)
 - [send.adminforge.de](https://send.adminforge.de)
-- [send.angelic.icu](https://send.angelic.icu)
 - [send.artemislena.eu](https://send.artemislena.eu)
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)
 - [send.boblorange.net](https://send.boblorange.net)

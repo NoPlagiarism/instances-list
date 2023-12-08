@@ -2,12 +2,10 @@
 baresearch.org
 copp.gg
 etsi.me
-fgiggle.com
 find.m3wz.su
 freesearch.club
 northboot.xyz
 nyc1.sx.ggtyler.dev
-offtheradar.info
 ooglester.com
 opnxng.com
 paulgo.io
@@ -15,7 +13,6 @@ priv.au
 s.mble.dk
 s.trung.fun
 search.bus-hit.me
-search.citw.lgbt
 search.demoniak.ch
 search.disroot.org
 search.dojoro.de
@@ -50,7 +47,7 @@ searx.fmac.xyz
 searx.headpat.exchange
 searx.juancord.xyz
 searx.kutay.dev
-searx.mha.fi
+searx.lunar.icu
 searx.namejeff.xyz
 searx.nobulart.com
 searx.oakleycord.dev
@@ -60,7 +57,6 @@ searx.prvcy.eu
 searx.sev.monster
 searx.si
 searx.techsaviours.org
-searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
 searx.work
@@ -72,5 +68,6 @@ searxng.xcxc.eu
 sex.finaltek.net
 suche.tromdienste.de
 sx.catgirl.cloud
+sx.t-1.org
 www.gruble.de
 xo.wtf

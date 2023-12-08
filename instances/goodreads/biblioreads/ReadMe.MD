@@ -7,6 +7,7 @@
 - [biblioreads.privacyfucking.rocks](https://biblioreads.privacyfucking.rocks)
 - [biblioreads.vercel.app](https://biblioreads.vercel.app)
 - [bl.vern.cc](https://bl.vern.cc)
+- [read.freedit.eu](https://read.freedit.eu)
 - [read.seitan-ayoub.lol](https://read.seitan-ayoub.lol)
 - [read.whateveritworks.org](https://read.whateveritworks.org)
 # Onion

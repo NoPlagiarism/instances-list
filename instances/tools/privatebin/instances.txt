@@ -33,7 +33,6 @@ bin.rtb.gg
 bin.sasach.work
 bin.siick.fr
 bin.supersite.cloud
-bin.thies-block.de
 bin.tiekoetter.com
 bin.uhl.cloud
 bin.vdx.sh
@@ -105,7 +104,6 @@ paste.onl
 paste.ononoki.org
 paste.ottertelecom.com
 paste.picasoft.net
-paste.piratux.com
 paste.quest
 paste.rosset.net
 paste.rys.pw
@@ -132,6 +130,7 @@ pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
 pastefg.hermietkreeft.site
+pastes.trihard.space
 pb.blackvoid.club
 pb.envs.net
 pb.fly.dev

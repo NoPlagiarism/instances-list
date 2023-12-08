@@ -4,6 +4,7 @@
 - [libmedium.batsense.net](https://libmedium.batsense.net)
 - [md.vern.cc](https://md.vern.cc)
 - [medium.hostux.net](https://medium.hostux.net)
+- [read.sudovanilla.comn](https://read.sudovanilla.comn)
 # Onion
 - [md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 # I2P
