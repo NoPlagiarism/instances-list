@@ -12,7 +12,6 @@
             "proxitok.kyun.li",
             "proxitok.lunar.icu",
             "proxitok.pabloferreiro.es",
-            "proxitok.privacy.com.de",
             "proxitok.privacydev.net",
             "proxitok.pussthecat.org",
             "proxitok.tinfoil-hat.net",
@@ -78,16 +77,7 @@
         "name": "LingvaTranslate",
         "url": "https://github.com/TheDavidDelta/lingva-translate#lingva-translate",
         "path": "translate/lingvatranslate",
-        "instances": [
-            "lingva.garudalinux.org",
-            "lingva.lunar.icu",
-            "lingva.ml",
-            "translate.dr460nf1r3.org",
-            "translate.igna.wtf",
-            "translate.jae.fi",
-            "translate.plausibility.cloud",
-            "translate.projectsegfau.lt"
-        ]
+        "instances": []
     },
     "whoogle": {
         "name": "Whoogle",
@@ -95,6 +85,7 @@
         "path": "search/whoogle",
         "instances": [
             "gowogle.voring.me",
+            "nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion",
             "s.tokhmi.xyz",
             "search.albony.xyz",
             "search.dr460nf1r3.org",
@@ -102,19 +93,23 @@
             "search.notrustverify.ch",
             "search.sethforprivacy.com",
             "wg.vern.cc",
-            "wgl.frail.duckdns.org",
+            "whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion",
             "whoogle-search--replitcomreside.repl.co",
             "whoogle.datura.network",
             "whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
             "whoogle.dcs0.hu",
             "whoogle.ftw.lol",
+            "whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "whoogle.hostux.net",
+            "whoogle.hxvy0.gq",
             "whoogle.lunar.icu",
             "whoogle.no-logs.com",
             "whoogle.privacydev.net",
+            "whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "whoogle.yepserver.xyz"
         ],
         "onion": [
+            "nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion",
             "whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion",
             "whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
             "whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
@@ -221,39 +216,9 @@
         "name": "LibreX",
         "url": "https://github.com/hnhx/librex#readme",
         "path": "search/librex",
-        "instances": [
-            "librex.bloatcat.tk",
-            "librex.me",
-            "librex.myroware.eu",
-            "librex.nohost.network",
-            "librex.ratakor.com",
-            "librex.retro-hax.net",
-            "librex.zzls.xyz",
-            "lx.benike.monster",
-            "lx.vern.cc",
-            "s.dyox.in",
-            "search.ahwx.org",
-            "search.davidovski.xyz",
-            "search.funami.tech",
-            "search.madreyk.xyz",
-            "search.pabloferreiro.es",
-            "search.spaceint.fr",
-            "search.tildevarsh.in"
-        ],
-        "onion": [
-            "6d4nqt2rndvmhogpwrbqfvj2ur6e6nm2r6dzi7ny4wj6ai3j5hnvbhyd.onion",
-            "cosrpybbddzdfjquer3zfmb2h5avtacnctnbu4gucwocdb42s63gcqqd.onion",
-            "ddhigxwjz7elcl2erm7qzzukda4qmovoy4cepcueahggpwrpu24mi6qd.onion",
-            "librex.revvybrr6pvbx4n3j4475h4ghw4elqr4t5xo2vtd3gfpu2nrsnhh57id.onion",
-            "librex.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion",
-            "lx.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
-        ],
-        "i2p": [
-            "revekebotog64xrrammtsmjwtwlg3vqyzwdurzt2pu6botg4bejq.b32.i2p",
-            "s.dyoxin.i2p",
-            "vernziqfqvweijfaacmwazohgpdo2bt2ib2jlupt2pwwu27bhgxq.b32.i2p",
-            "zzlsaymhcfla7vibo3a223bybeecu3bd5z6rmw2u4y76maqeu76q.b32.i2p"
-        ]
+        "instances": [],
+        "onion": [],
+        "i2p": []
     },
     "teddit": {
         "name": "teddit",
@@ -277,12 +242,10 @@
             "teddit.hostux.net",
             "teddit.httpjames.space",
             "teddit.laserdisc.tokyo",
-            "teddit.no-logs.com",
             "teddit.privacytools.io",
             "teddit.projectsegfau.lt",
             "teddit.pussthecat.org",
             "teddit.rawbit.ninja",
-            "teddit.sethforprivacy.com",
             "teddit.tinfoil-hat.net",
             "teddit.tokhmi.xyz",
             "teddit.xbdm.fun",
@@ -292,7 +255,6 @@
             "dawtyi5e2cfyfmoht4izmczi42aa2zwh6wi34zwvc6rzf2acpxhrcrad.onion",
             "ibarajztopxnuhabfu7fg6gbudynxofbnmvis3ltj6lfx47b6fhrd5qd.onion",
             "jnuonmf2n36sfdmyksqqqyab3w63cq4kx24olyjleh5z6zzfvyt7uqqd.onion",
-            "qtpvyiaqhmwccxwzsqubd23xhmmrt75tdyw35kp43w4hvamsgl3x27ad.onion",
             "snoo.ioensistjs7wd746zluwixvojbbkxhr37lepdvwtdfeav673o64iflqd.onion",
             "t.sneed4fmhevap3ci4xhf4wgkf72lwk275lcgomnfgwniwmqvaxyluuid.onion",
             "td.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
@@ -514,34 +476,26 @@
             "quetre.privacydev.net",
             "quetre.projectsegfau.lt",
             "quetre.pussthecat.org",
-            "quetre.tokhmi.xyz",
             "quora.femboy.hu",
             "quora.vern.cc"
         ],
         "onion": [
-            "ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
-            "qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "quetre.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion"
         ],
-        "i2p": [
-            "qr.vern.i2p"
-        ]
+        "i2p": []
     },
     "rimgo": {
         "name": "rimgo",
         "url": "https://codeberg.org/video-prize-ranch/rimgo#rimgo",
         "path": "imgur/rimgo",
-        "instances": [],
+        "instances": [
+            "imgur.artemislena.eu",
+            "rimgo.bus-hit.me",
+            "rimgo.pussthecat.org",
+            "rimgo.totaldarkness.net"
+        ],
         "onion": [
-            "i.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
-            "imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "rim.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion",
-            "rimgo.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-            "rimgo.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion",
-            "rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "rimgo.zzlsghu6mvvwyy75mvga6gaf4znbp3erk5xwfzedb4gg6qqh2j6rlvid.onion",
-            "tdp6uqjtmok723suum5ms3jbquht6d7dssug4cgcxhfniatb25gcipad.onion"
+            "imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion"
         ],
         "i2p": [
             "ovzamsts5czfx3jasbbhbccyyl2z7qmdngtlqxdh4oi7abhdz3ia.b32.i2p",
@@ -576,9 +530,6 @@
         "url": "https://github.com/zedeus/nitter#readme",
         "path": "twitter/nitter",
         "instances": [
-            "Farside",
-            "Twiiit",
-            "Twitit",
             "bird.habedieeh.re",
             "canada.unofficialbird.com",
             "india.unofficialbird.com",
@@ -587,26 +538,19 @@
             "n.populas.no",
             "n.sneed.network",
             "nederland.unofficialbird.com",
-            "nitter-status",
-            "nitter.1d4.us",
             "nitter.adminforge.de",
             "nitter.altgr.xyz",
             "nitter.at",
-            "nitter.bird.froth.zone",
             "nitter.catsarch.com",
             "nitter.cz",
             "nitter.d420.de",
             "nitter.dafriser.be",
             "nitter.datura.network",
             "nitter.esmailelbob.xyz",
-            "nitter.eu.projectsegfau.lt",
-            "nitter.fdn.fr",
             "nitter.fediflix.org",
             "nitter.freedit.eu",
             "nitter.hostux.net",
-            "nitter.in.projectsegfau.lt",
             "nitter.inpt.fr",
-            "nitter.io.lol",
             "nitter.it",
             "nitter.jakefrosty.com",
             "nitter.kavin.rocks",
@@ -621,13 +565,11 @@
             "nitter.nohost.network",
             "nitter.oksocial.net",
             "nitter.perennialte.ch",
-            "nitter.poast.org",
             "nitter.privacydev.net",
             "nitter.private.coffee",
             "nitter.projectsegfau.lt",
             "nitter.qwik.space",
             "nitter.rawbit.ninja",
-            "nitter.salastil.com",
             "nitter.simpleprivacy.fr",
             "nitter.soopy.moe",
             "nitter.tiekoetter.com",
@@ -636,12 +578,9 @@
             "nitter.twei.space",
             "nitter.uni-sonia.com",
             "nitter.unixfox.eu",
-            "nitter.us.projectsegfau.lt",
             "nitter.woodland.cafe",
-            "nitter.x86-64-unknown-linux-gnu.zip",
             "nt.ggtyler.dev",
             "singapore.unofficialbird.com",
-            "t.com.sb",
             "tweet.lambda.dance",
             "uk.unofficialbird.com",
             "unofficialbird.com"
@@ -822,9 +761,7 @@
             "read.seitan-ayoub.lol",
             "read.whateveritworks.org"
         ],
-        "onion": [
-            "bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
-        ],
+        "onion": [],
         "i2p": [
             "vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p"
         ]
@@ -874,9 +811,7 @@
         "onion": [
             "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
-        "i2p": [
-            "vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p"
-        ]
+        "i2p": []
     },
     "anonymousoverflow": {
         "name": "AnonymousOverflow",
@@ -886,19 +821,13 @@
             "anonoverflow.frontendfriendly.xyz",
             "anonoverflow.hyperreal.coffee",
             "anonymousoverflow.privacyfucking.rocks",
-            "ao.bloatcat.tk",
             "ao.ftw.lol",
-            "ao.vern.cc",
             "code.whatever.social",
             "exchange.seitan-ayoub.lol",
-            "overflow.adminforge.de",
             "overflow.datura.network",
-            "overflow.fascinated.cc",
             "overflow.hostux.net",
             "overflow.lunar.icu",
-            "overflow.projectsegfau.lt",
             "overflow.r4fo.com",
-            "overflow.smnz.de",
             "overflow.sudovanilla.com"
         ],
         "onion": [
@@ -907,10 +836,7 @@
             "overflow.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
             "overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
         ],
-        "i2p": [
-            "ay7akchgdh76r4lc62hzd52z6xqoh67loototsetvqxo5o7ngo5q.b32.i2p",
-            "vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p"
-        ]
+        "i2p": []
     },
     "simpleamazon": {
         "name": "SimpleAmazon",

@@ -9,7 +9,6 @@
 - [proxitok.kyun.li](https://proxitok.kyun.li)
 - [proxitok.lunar.icu](https://proxitok.lunar.icu)
 - [proxitok.pabloferreiro.es](https://proxitok.pabloferreiro.es)
-- [proxitok.privacy.com.de](https://proxitok.privacy.com.de)
 - [proxitok.privacydev.net](https://proxitok.privacydev.net)
 - [proxitok.pussthecat.org](https://proxitok.pussthecat.org)
 - [proxitok.tinfoil-hat.net](https://proxitok.tinfoil-hat.net)

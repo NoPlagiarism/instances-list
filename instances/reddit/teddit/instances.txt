@@ -15,12 +15,10 @@ teddit.ggc-project.de
 teddit.hostux.net
 teddit.httpjames.space
 teddit.laserdisc.tokyo
-teddit.no-logs.com
 teddit.privacytools.io
 teddit.projectsegfau.lt
 teddit.pussthecat.org
 teddit.rawbit.ninja
-teddit.sethforprivacy.com
 teddit.tinfoil-hat.net
 teddit.tokhmi.xyz
 teddit.xbdm.fun

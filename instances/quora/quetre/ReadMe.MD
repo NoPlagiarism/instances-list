@@ -12,13 +12,9 @@
 - [quetre.privacydev.net](https://quetre.privacydev.net)
 - [quetre.projectsegfau.lt](https://quetre.projectsegfau.lt)
 - [quetre.pussthecat.org](https://quetre.pussthecat.org)
-- [quetre.tokhmi.xyz](https://quetre.tokhmi.xyz)
 - [quora.femboy.hu](https://quora.femboy.hu)
 - [quora.vern.cc](https://quora.vern.cc)
 # Onion
-- [ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
-- [qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [quetre.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://quetre.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion](http://quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion)
 # I2P
-- [qr.vern.i2p](http://qr.vern.i2p)
+

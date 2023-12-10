@@ -11,6 +11,6 @@
 - [read.seitan-ayoub.lol](https://read.seitan-ayoub.lol)
 - [read.whateveritworks.org](https://read.whateveritworks.org)
 # Onion
-- [bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://bl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+
 # I2P
 - [vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p](http://vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p)

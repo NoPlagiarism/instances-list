@@ -6,7 +6,6 @@ proxitok.esmailelbob.xyz
 proxitok.kyun.li
 proxitok.lunar.icu
 proxitok.pabloferreiro.es
-proxitok.privacy.com.de
 proxitok.privacydev.net
 proxitok.pussthecat.org
 proxitok.tinfoil-hat.net
