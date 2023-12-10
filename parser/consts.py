@@ -34,7 +34,7 @@ class Retries:
 class Regex:
     # https://stackoverflow.com/questions/7930751/regexp-for-subdomain
     # TODO: Find fine regex that works
-    DOMAIN_BASE_REGEX = r"[\w\d-\.]"
+    DOMAIN_BASE_REGEX = r"[\w\d\-\.]"
     DOMAIN = DOMAIN_BASE_REGEX
     DOMAIN_ONION = DOMAIN_BASE_REGEX + r"\.onion"
     DOMAIN_I2P = DOMAIN_BASE_REGEX + r"\.i2p"
