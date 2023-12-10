@@ -33,15 +33,11 @@ class Retries:
 
 class Regex:
     # https://stackoverflow.com/questions/7930751/regexp-for-subdomain
-    # TODO: Bug found. Failed on wgl.frail.duckdns.org
-    DOMAIN_BASE_REGEX = r"(?:[a-zA-Z0-9](?:[-a-zA-Z0-9]{0,61}[a-zA-Z0-9])?\.)?(?:[a-zA-Z0-9]{1,2}(?:[-a-zA-Z0-9]{0,252}[a-zA-Z0-9])?)"
-    # (?:[a-zA-Z0-9](?:[-a-zA-Z0-9]{0,61}[a-zA-Z0-9])?\.)?(?:[a-zA-Z0-9]{1,2}(?:[-a-zA-Z0-9]{0,252}[a-zA-Z0-9])?)\.(?:[a-zA-Z]{2,63})
-    DOMAIN = DOMAIN_BASE_REGEX + r"\.(?:[a-zA-Z]{2,63})"
-    # (?:[a-zA-Z0-9](?:[-a-zA-Z0-9]{0,61}[a-zA-Z0-9])?\.)?(?:[a-zA-Z0-9]{1,2}(?:[-a-zA-Z0-9]{0,252}[a-zA-Z0-9])?)\.onion
+    # TODO: Find fine regex that works
+    DOMAIN_BASE_REGEX = r"[\w\d\-\.]"
+    DOMAIN = DOMAIN_BASE_REGEX
     DOMAIN_ONION = DOMAIN_BASE_REGEX + r"\.onion"
-    # (?:[a-zA-Z0-9](?:[-a-zA-Z0-9]{0,61}[a-zA-Z0-9])?\.)?(?:[a-zA-Z0-9]{1,2}(?:[-a-zA-Z0-9]{0,252}[a-zA-Z0-9])?)\.i2p
     DOMAIN_I2P = DOMAIN_BASE_REGEX + r"\.i2p"
-    # (?:[a-zA-Z0-9](?:[-a-zA-Z0-9]{0,61}[a-zA-Z0-9])?\.)?(?:[a-zA-Z0-9]{1,2}(?:[-a-zA-Z0-9]{0,252}[a-zA-Z0-9])?)\.loki
     DOMAIN_LOKI = DOMAIN_BASE_REGEX + r"\.loki"
 
 
