@@ -42,7 +42,6 @@ cles.le-filament.com
 coller.vulpecula.fr
 copypaste.onl
 cpaste.org
-cryptostorm.is
 eatmyshorts.ch
 encryp.ch
 extrait.facil.services
@@ -76,7 +75,6 @@ paste.aryu.de
 paste.biocrafting.net
 paste.bz
 paste.ceppo.xyz
-paste.cezeri.tech
 paste.chapril.org
 paste.copper.dedyn.io
 paste.cppmm.net.ru
@@ -130,7 +128,6 @@ pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
 pastefg.hermietkreeft.site
-pastes.trihard.space
 pb.blackvoid.club
 pb.envs.net
 pb.fly.dev
