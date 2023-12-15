@@ -1,8 +1,11 @@
+il.ax
 pi.ggtyler.dev
 piped.adminforge.de
-piped.lunar.icu
-piped.privacydev.net
+piped.astartes.nl
+piped.frontendfriendly.xyz
+piped.projectsegfau.lt
 piped.r4fo.com
 piped.seitan-ayoub.lol
 piped.smnz.de
+piped.us.projectsegfau.lt
 piped.video

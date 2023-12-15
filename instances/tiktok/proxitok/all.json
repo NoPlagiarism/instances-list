@@ -1,33 +1,5 @@
 {
-    "instances": [
-        "cringe.datura.network",
-        "cringe.seitan-ayoub.lol",
-        "cringe.whatever.social",
-        "cringe.whateveritworks.org",
-        "proxitok.esmailelbob.xyz",
-        "proxitok.kyun.li",
-        "proxitok.lunar.icu",
-        "proxitok.pabloferreiro.es",
-        "proxitok.privacydev.net",
-        "proxitok.pussthecat.org",
-        "proxitok.tinfoil-hat.net",
-        "tik.hostux.net",
-        "tiktok.wpme.pl",
-        "tok.adminforge.de",
-        "tok.artemislena.eu",
-        "tok.habedieeh.re",
-        "tt.opnxng.com",
-        "tt.vern.cc"
-    ],
-    "onion": [
-        "habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
-        "proxitok.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-        "proxitok.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-        "pt.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion",
-        "tok.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-        "tt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
-    ],
-    "i2p": [
-        "vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p"
-    ]
+    "instances": [],
+    "onion": [],
+    "i2p": []
 }

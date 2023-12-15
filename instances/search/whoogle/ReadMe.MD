@@ -1,34 +1,8 @@
 # [Whoogle](https://github.com/benbusby/whoogle-search#readme)
 
 # Clearnet
-- [gowogle.voring.me](https://gowogle.voring.me)
-- [nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion](https://nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion)
-- [s.tokhmi.xyz](https://s.tokhmi.xyz)
-- [search.albony.xyz](https://search.albony.xyz)
-- [search.dr460nf1r3.org](https://search.dr460nf1r3.org)
-- [search.garudalinux.org](https://search.garudalinux.org)
-- [search.notrustverify.ch](https://search.notrustverify.ch)
-- [search.sethforprivacy.com](https://search.sethforprivacy.com)
-- [wg.vern.cc](https://wg.vern.cc)
-- [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](https://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)
-- [whoogle-search--replitcomreside.repl.co](https://whoogle-search--replitcomreside.repl.co)
-- [whoogle.datura.network](https://whoogle.datura.network)
-- [whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion](https://whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion)
-- [whoogle.dcs0.hu](https://whoogle.dcs0.hu)
-- [whoogle.ftw.lol](https://whoogle.ftw.lol)
-- [whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](https://whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
-- [whoogle.hostux.net](https://whoogle.hostux.net)
-- [whoogle.hxvy0.gq](https://whoogle.hxvy0.gq)
-- [whoogle.lunar.icu](https://whoogle.lunar.icu)
-- [whoogle.no-logs.com](https://whoogle.no-logs.com)
-- [whoogle.privacydev.net](https://whoogle.privacydev.net)
-- [whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](https://whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [whoogle.yepserver.xyz](https://whoogle.yepserver.xyz)
+
 # Onion
-- [nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion](http://nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion)
-- [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](http://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)
-- [whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion](http://whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion)
-- [whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
-- [whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+
 # I2P
-- [verneks7rfjptpz5fpii7n7nrxilsidi2qxepeuuf66c3tsf4nhq.b32.i2p](http://verneks7rfjptpz5fpii7n7nrxilsidi2qxepeuuf66c3tsf4nhq.b32.i2p)
+
