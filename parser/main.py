@@ -619,6 +619,8 @@ INSTANCE_GROUPS = [
                        instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/cloudtube/clearnet.txt"), )),
     InstancesGroupData(name="4get", home_url="https://git.lolcat.ca/lolcat/4get", relative_filepath_without_ext="search/4get",
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://4get.ca/ami4get", json_handle=lambda raw: [get_domain_from_url(x.lower()) for x in raw['instances']]),)),
+    InstancesGroupData(name="piped-proxy", home_url="https://github.com/TeamPiped/piped-proxy", relative_filepath_without_ext="youtube/piped-proxy",
+                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://piped-instances.kavin.rocks/", json_handle=lambda raw: [get_domain_from_url(x["image_proxy_url"]) for x in raw]), )),
 ]
 
 
