@@ -2,7 +2,6 @@
 
 # Clearnet
 - [anontube.lvkaszus.pl](https://anontube.lvkaszus.pl)
-- [inv.citw.lgbt](https://inv.citw.lgbt)
 - [inv.in.projectsegfau.lt](https://inv.in.projectsegfau.lt)
 - [inv.tux.pizza](https://inv.tux.pizza)
 - [inv.us.projectsegfau.lt](https://inv.us.projectsegfau.lt)

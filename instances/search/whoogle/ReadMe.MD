@@ -10,6 +10,7 @@
 - [search.notrustverify.ch](https://search.notrustverify.ch)
 - [search.sethforprivacy.com](https://search.sethforprivacy.com)
 - [wg.vern.cc](https://wg.vern.cc)
+- [wgl.frail.duckdns.org](https://wgl.frail.duckdns.org)
 - [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](https://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)
 - [whoogle-search--replitcomreside.repl.co](https://whoogle-search--replitcomreside.repl.co)
 - [whoogle.datura.network](https://whoogle.datura.network)
