@@ -33,9 +33,9 @@ class Retries:
 
 class Regex:
     # https://stackoverflow.com/questions/7930751/regexp-for-subdomain
-    # TODO: Find fine regex that works
-    DOMAIN_BASE_REGEX = r"[\w\d\-\.]"
-    DOMAIN = DOMAIN_BASE_REGEX
+    # TODO: make less stupid regex
+    DOMAIN_BASE_REGEX = r"[\d\w\-\_\.]+"
+    DOMAIN = DOMAIN_BASE_REGEX + r"\.[a-zA-Z]+"
     DOMAIN_ONION = DOMAIN_BASE_REGEX + r"\.onion"
     DOMAIN_I2P = DOMAIN_BASE_REGEX + r"\.i2p"
     DOMAIN_LOKI = DOMAIN_BASE_REGEX + r"\.loki"
