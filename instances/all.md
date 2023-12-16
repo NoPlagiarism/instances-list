@@ -31,6 +31,7 @@
 - [SimpleAmazon](#simpleamazon)
 - [PrivateBin](#privatebin)
 - [CloudTube](#cloudtube)
+- [4get](#4get)
 
 ## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
@@ -972,3 +973,23 @@
 - [cloudtube.jdelcampo.eu](https://cloudtube.jdelcampo.eu)
 - [tube.cadence.moe](https://tube.cadence.moe)
 - [tube.mint.lgbt](https://tube.mint.lgbt)
+
+## [4get](https://git.lolcat.ca/lolcat/4get)
+
+### Clearnet
+- [https://4g.ggtyler.dev](https://https://4g.ggtyler.dev)
+- [https://4g.opnxng.com](https://https://4g.opnxng.com)
+- [https://4get.ca](https://https://4get.ca)
+- [https://4get.dcs0.hu](https://https://4get.dcs0.hu)
+- [https://4get.etenie.pl](https://https://4get.etenie.pl)
+- [https://4get.hbubli.cc](https://https://4get.hbubli.cc)
+- [https://4get.konakona.moe](https://https://4get.konakona.moe)
+- [https://4get.lunar.icu](https://https://4get.lunar.icu)
+- [https://4get.lvkaszus.pl](https://https://4get.lvkaszus.pl)
+- [https://4get.perennialte.ch](https://https://4get.perennialte.ch)
+- [https://4get.plunked.party](https://https://4get.plunked.party)
+- [https://4get.seitan-ayoub.lol](https://https://4get.seitan-ayoub.lol)
+- [https://4get.sijh.net](https://https://4get.sijh.net)
+- [https://4get.silly.computer](https://https://4get.silly.computer)
+- [https://4get.zzls.xyz](https://https://4get.zzls.xyz)
+- [https://4getus.zzls.xyz](https://https://4getus.zzls.xyz)
