@@ -1,5 +1,21 @@
 {
-    "instances": [],
-    "onion": [],
+    "instances": [
+        "ask.habedieeh.re",
+        "que.wilbvr.me",
+        "questions.whateveritworks.org",
+        "quetre.blackdrgn.nl",
+        "quetre.frontendfriendly.xyz",
+        "quetre.iket.me",
+        "quetre.lunar.icu",
+        "quetre.odyssey346.dev",
+        "quetre.privacydev.net",
+        "quetre.projectsegfau.lt",
+        "quetre.pussthecat.org",
+        "quora.femboy.hu",
+        "quora.vern.cc"
+    ],
+    "onion": [
+        "quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion"
+    ],
     "i2p": []
 }

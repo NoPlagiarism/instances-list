@@ -1,5 +1,17 @@
 {
-    "instances": [],
+    "instances": [
+        "biblioreads.eu.org",
+        "biblioreads.lunar.icu",
+        "biblioreads.mooo.com",
+        "biblioreads.privacyfucking.rocks",
+        "biblioreads.vercel.app",
+        "bl.vern.cc",
+        "read.freedit.eu",
+        "read.seitan-ayoub.lol",
+        "read.whateveritworks.org"
+    ],
     "onion": [],
-    "i2p": []
+    "i2p": [
+        "vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p"
+    ]
 }

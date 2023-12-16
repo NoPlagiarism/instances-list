@@ -3,9 +3,37 @@
         "name": "ProxiTok",
         "url": "https://github.com/pablouser1/ProxiTok",
         "path": "tiktok/proxitok",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "cringe.datura.network",
+            "cringe.seitan-ayoub.lol",
+            "cringe.whatever.social",
+            "cringe.whateveritworks.org",
+            "proxitok.esmailelbob.xyz",
+            "proxitok.kyun.li",
+            "proxitok.lunar.icu",
+            "proxitok.pabloferreiro.es",
+            "proxitok.privacydev.net",
+            "proxitok.pussthecat.org",
+            "proxitok.tinfoil-hat.net",
+            "tik.hostux.net",
+            "tiktok.wpme.pl",
+            "tok.adminforge.de",
+            "tok.artemislena.eu",
+            "tok.habedieeh.re",
+            "tt.opnxng.com",
+            "tt.vern.cc"
+        ],
+        "onion": [
+            "habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
+            "proxitok.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
+            "proxitok.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "pt.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion",
+            "tok.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+            "tt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
+        "i2p": [
+            "vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p"
+        ]
     },
     "simplytranslate": {
         "name": "SimplyTranslate",
@@ -55,9 +83,41 @@
         "name": "Whoogle",
         "url": "https://github.com/benbusby/whoogle-search#readme",
         "path": "search/whoogle",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "gowogle.voring.me",
+            "nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion",
+            "s.tokhmi.xyz",
+            "search.albony.xyz",
+            "search.dr460nf1r3.org",
+            "search.garudalinux.org",
+            "search.notrustverify.ch",
+            "search.sethforprivacy.com",
+            "wg.vern.cc",
+            "whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion",
+            "whoogle-search--replitcomreside.repl.co",
+            "whoogle.datura.network",
+            "whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
+            "whoogle.dcs0.hu",
+            "whoogle.ftw.lol",
+            "whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "whoogle.hostux.net",
+            "whoogle.hxvy0.gq",
+            "whoogle.lunar.icu",
+            "whoogle.no-logs.com",
+            "whoogle.privacydev.net",
+            "whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "whoogle.yepserver.xyz"
+        ],
+        "onion": [
+            "nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion",
+            "whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion",
+            "whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
+            "whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
+        "i2p": [
+            "verneks7rfjptpz5fpii7n7nrxilsidi2qxepeuuf66c3tsf4nhq.b32.i2p"
+        ]
     },
     "searxng": {
         "name": "SearXNG",
@@ -164,26 +224,82 @@
         "name": "teddit",
         "url": "https://codeberg.org/teddit/teddit",
         "path": "reddit/teddit",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "i.opnxng.com",
+            "incogsnoo.com",
+            "rdt.trom.tf",
+            "reddit.lol",
+            "snoo.ioens.is",
+            "t.sneed.network",
+            "td.vern.cc",
+            "teddit.adminforge.de",
+            "teddit.bus-hit.me",
+            "teddit.domain.glass",
+            "teddit.encrypted-data.xyz",
+            "teddit.froth.zone",
+            "teddit.garudalinux.org",
+            "teddit.ggc-project.de",
+            "teddit.hostux.net",
+            "teddit.httpjames.space",
+            "teddit.laserdisc.tokyo",
+            "teddit.privacytools.io",
+            "teddit.projectsegfau.lt",
+            "teddit.pussthecat.org",
+            "teddit.rawbit.ninja",
+            "teddit.tinfoil-hat.net",
+            "teddit.tokhmi.xyz",
+            "teddit.xbdm.fun",
+            "teddit.zaggy.nl"
+        ],
+        "onion": [
+            "dawtyi5e2cfyfmoht4izmczi42aa2zwh6wi34zwvc6rzf2acpxhrcrad.onion",
+            "ibarajztopxnuhabfu7fg6gbudynxofbnmvis3ltj6lfx47b6fhrd5qd.onion",
+            "jnuonmf2n36sfdmyksqqqyab3w63cq4kx24olyjleh5z6zzfvyt7uqqd.onion",
+            "snoo.ioensistjs7wd746zluwixvojbbkxhr37lepdvwtdfeav673o64iflqd.onion",
+            "t.sneed4fmhevap3ci4xhf4wgkf72lwk275lcgomnfgwniwmqvaxyluuid.onion",
+            "td.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "teddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "teddit.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion",
+            "tedditfyn6idalzso5wam5qd3kdtxoljjhbrbbx34q2xkcisvshuytad.onion",
+            "yqu4yj5lju7bmlwpzpmltb5gsu6cw7nnbcxxx4iqemwa56nxjiggf4qd.onion"
+        ],
+        "i2p": [
+            "teddit.i2p",
+            "verncco2oaxjikammz4pi7umzp673cme6zuemx7yeeewspwrw3va.b32.i2p",
+            "vzeiwzi7ogwl3ijrfek4fbtwhvamxcpyqoc3s4vcgnhlp54s5clq.b32.i2p",
+            "xugoqcf2pftm76vbznx4xuhrzyb5b6zwpizpnw2hysexjdn5l2tq.b32.i2p"
+        ]
     },
     "libreddit": {
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
+            "l.opnxng.com",
+            "libreddit.bus-hit.me",
+            "libreddit.domain.glass",
             "libreddit.freedit.eu",
+            "libreddit.kavin.rocks",
+            "libreddit.kutay.dev",
             "libreddit.kylrth.com",
             "libreddit.lunar.icu",
             "libreddit.northboot.xyz",
+            "libreddit.oxymagnesium.com",
+            "libreddit.privacydev.net",
             "libreddit.projectsegfau.lt",
+            "libreddit.pussthecat.org",
             "libreddit.strongthany.cc",
+            "libreddit.tiekoetter.com",
             "libreddit.tux.pizza",
+            "lr.aeong.one",
             "lr.artemislena.eu",
+            "r.darklab.sh",
             "reddit.invak.id",
+            "reddit.rtrace.io",
             "reddit.simo.sh",
-            "safereddit.com"
+            "reddit.utsav2.dev",
+            "safereddit.com",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -225,19 +341,17 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "il.ax",
             "pi.ggtyler.dev",
             "piped.adminforge.de",
-            "piped.astartes.nl",
-            "piped.frontendfriendly.xyz",
-            "piped.projectsegfau.lt",
+            "piped.lunar.icu",
+            "piped.privacydev.net",
             "piped.r4fo.com",
             "piped.seitan-ayoub.lol",
             "piped.smnz.de",
-            "piped.us.projectsegfau.lt",
             "piped.video"
         ],
         "onion": [
+            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -328,25 +442,68 @@
         "name": "Scribe",
         "url": "https://sr.ht/~edwardloveall/Scribe/",
         "path": "medium/scribe",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "m.opnxng.com",
+            "scribe.bus-hit.me",
+            "scribe.citizen4.eu",
+            "scribe.froth.zone",
+            "scribe.nixnet.services",
+            "scribe.privacydev.net",
+            "scribe.rawbit.ninja",
+            "scribe.rip"
+        ],
+        "onion": [
+            "scribe.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "w7uhv5lxhgck72hhimdglmusc54t4m6bionlmd5mvyddq3bs53mohqid.onion"
+        ],
+        "i2p": [
+            "vern3whzyfmjclq6snhlupma6nrmojghwp37tydfgqotj7sc6izq.b32.i2p"
+        ]
     },
     "quetre": {
         "name": "Quetre",
         "url": "https://github.com/zyachel/quetre#readme",
         "path": "quora/quetre",
-        "instances": [],
-        "onion": [],
+        "instances": [
+            "ask.habedieeh.re",
+            "que.wilbvr.me",
+            "questions.whateveritworks.org",
+            "quetre.blackdrgn.nl",
+            "quetre.frontendfriendly.xyz",
+            "quetre.iket.me",
+            "quetre.lunar.icu",
+            "quetre.odyssey346.dev",
+            "quetre.privacydev.net",
+            "quetre.projectsegfau.lt",
+            "quetre.pussthecat.org",
+            "quora.femboy.hu",
+            "quora.vern.cc"
+        ],
+        "onion": [
+            "quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion"
+        ],
         "i2p": []
     },
     "rimgo": {
         "name": "rimgo",
         "url": "https://codeberg.org/video-prize-ranch/rimgo#rimgo",
         "path": "imgur/rimgo",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "imgur.artemislena.eu",
+            "rimgo.bus-hit.me",
+            "rimgo.pussthecat.org",
+            "rimgo.totaldarkness.net"
+        ],
+        "onion": [
+            "imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion"
+        ],
+        "i2p": [
+            "ovzamsts5czfx3jasbbhbccyyl2z7qmdngtlqxdh4oi7abhdz3ia.b32.i2p",
+            "p57356k2xwhxrg2lxrjajcftkrptv4zejeeblzfgkcvpzuetkz2a.b32.i2p",
+            "rimgo.i2p",
+            "rimgo.zzls.i2p",
+            "rimgov7l2tqyrm5txrtvhtnfyrzkc5d7ipafofavchbnnyog4r3q.b32.i2p"
+        ]
     },
     "librarian (discontinued)": {
         "name": "librarian (discontinued)",
@@ -372,16 +529,145 @@
         "name": "nitter",
         "url": "https://github.com/zedeus/nitter#readme",
         "path": "twitter/nitter",
-        "instances": [],
-        "onion": [],
-        "i2p": [],
-        "loki": []
+        "instances": [
+            "bird.habedieeh.re",
+            "canada.unofficialbird.com",
+            "india.unofficialbird.com",
+            "n.biendeo.com",
+            "n.opnxng.com",
+            "n.populas.no",
+            "n.sneed.network",
+            "nederland.unofficialbird.com",
+            "nitter.adminforge.de",
+            "nitter.altgr.xyz",
+            "nitter.at",
+            "nitter.catsarch.com",
+            "nitter.cz",
+            "nitter.d420.de",
+            "nitter.dafriser.be",
+            "nitter.datura.network",
+            "nitter.esmailelbob.xyz",
+            "nitter.fediflix.org",
+            "nitter.freedit.eu",
+            "nitter.hostux.net",
+            "nitter.inpt.fr",
+            "nitter.it",
+            "nitter.jakefrosty.com",
+            "nitter.kavin.rocks",
+            "nitter.kling.gg",
+            "nitter.ktachibana.party",
+            "nitter.kylrth.com",
+            "nitter.lunar.icu",
+            "nitter.mint.lgbt",
+            "nitter.moomoo.me",
+            "nitter.net",
+            "nitter.no-logs.com",
+            "nitter.nohost.network",
+            "nitter.oksocial.net",
+            "nitter.perennialte.ch",
+            "nitter.privacydev.net",
+            "nitter.private.coffee",
+            "nitter.projectsegfau.lt",
+            "nitter.qwik.space",
+            "nitter.rawbit.ninja",
+            "nitter.simpleprivacy.fr",
+            "nitter.soopy.moe",
+            "nitter.tiekoetter.com",
+            "nitter.tinfoil-hat.net",
+            "nitter.tux.pizza",
+            "nitter.twei.space",
+            "nitter.uni-sonia.com",
+            "nitter.unixfox.eu",
+            "nitter.woodland.cafe",
+            "nt.ggtyler.dev",
+            "singapore.unofficialbird.com",
+            "tweet.lambda.dance",
+            "uk.unofficialbird.com",
+            "unofficialbird.com"
+        ],
+        "onion": [
+            "26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion",
+            "4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion",
+            "a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion",
+            "aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion",
+            "bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
+            "ckzuw5misyahmg7j5t5xwwuj3bwy62jfolxyux4brfflramzsvvd3syd.onion",
+            "codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion",
+            "ec5nvbycpfa5k6ro77blxgkyrzbkv7uy6r5cngcbkadtjj2733nm3uyd.onion",
+            "erpnncl5nhyji3c32dcfmztujtl3xaddqb457jsbkulq24zqq7ifdgad.onion",
+            "fbdi323aj3t6hdx4jtkuwxrnafzskquciowu2yu3jizfssaq35aow6ad.onion",
+            "i23nv6w3juvzlw32xzoxcqzktegd4i4fu3nmnc2ewv4ggiu4ledwklad.onion",
+            "ibsboeui2im5o7dxnik3s5yghufumgy5abevtij5nbizequfpu4qi4ad.onion",
+            "iwgu3cv7ywf3gssed5iqtavmrlszgsxazkmwwnt4h2kdait75thdyrqd.onion",
+            "jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion",
+            "jebqj47jgxleaiosfcxfibx2xdahjettuydlxbg64azd4khsxv6kawid.onion",
+            "n.sneed4fmhevap3ci4xhf4wgkf72lwk275lcgomnfgwniwmqvaxyluuid.onion",
+            "nitraeju2mipeziu2wtcrqsxg7h62v5y4eqgwi75uprynkj74gevvuqd.onion",
+            "nitter.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion",
+            "nitter.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
+            "nitter.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
+            "nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion",
+            "nitter.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion",
+            "nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "nitter.privpw3tndpkw6pnp3g727zfgfdzbu3k6a7chv226s3xymv2p4eiuqyd.onion",
+            "nitter.v6vgyqpa7yefkorazmg5d5fimstmvm2vtbirt6676mt7qmllrcnwycqd.onion",
+            "nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion",
+            "nitterqdyumlovt7tjqpdjrluitgmtpa53qq3idlpgoe4kxo7gs3xvad.onion",
+            "npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion",
+            "nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "nttr2iupbb6fazdpr2rgbooon2tzbbsvvkagkgkwohhodjzj43stxhad.onion",
+            "qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion",
+            "r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion",
+            "twitter.ap3jtgssd7qn4vfoa62gi2ijddoblslbeuw5dan3xt7myvqpura5i4qd.onion",
+            "twitter.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion",
+            "twitter.prnoid54e44a4bduq5due64jkk7wcnkxcp5kv3juncm7veptjcqudgyd.onion",
+            "vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion",
+            "wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion"
+        ],
+        "i2p": [
+            "4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p",
+            "axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p",
+            "gseczlzmiv23p5vhsktyd7whquq2uy3c5fgkmdohh453qp3daoua.b32.i2p",
+            "pjsfs4ukb6prmfx3qx3a5ef2cpcupkvcrxdh72kqn2rxc2cw4nka.b32.i2p",
+            "pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p",
+            "tm4rwkeysv3zz3q5yacyr4rlmca2c4etkdobfvuqzt6vsfsu4weq.b32.i2p",
+            "u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p",
+            "vernzdedoxuflrrxc4vbatbkpjh4k22ecgiqgimdiif62onhagva.b32.i2p"
+        ],
+        "loki": [
+            "nitter.priv.loki"
+        ]
     },
     "send": {
         "name": "send",
         "url": "https://github.com/timvisee/send#readme",
         "path": "filedrop/send",
-        "instances": []
+        "instances": [
+            "drop.chapril.org",
+            "files.psu.ru",
+            "fileupload.ggc-project.de",
+            "s.opnxng.com",
+            "send.adminforge.de",
+            "send.artemislena.eu",
+            "send.aurorabilisim.com",
+            "send.boblorange.net",
+            "send.cyberjake.xyz",
+            "send.datahoarder.dev",
+            "send.datenpost.app",
+            "send.ephemeral.land",
+            "send.jeugdhulp.be",
+            "send.kokomo.cloud",
+            "send.mni.li",
+            "send.monks.tools",
+            "send.nsh.social",
+            "send.portailpro.net",
+            "send.turingpoint.de",
+            "send.vis.ee",
+            "send.whateveritworks.org",
+            "send.zcyph.cc",
+            "transfer.acted.org"
+        ]
     },
     "breezewiki": {
         "name": "BreezeWiki",
@@ -411,9 +697,18 @@
         "name": "libmedium",
         "url": "https://git.batsense.net/realaravinth/libmedium",
         "path": "medium/libmedium",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "libmedium.batsense.net",
+            "md.vern.cc",
+            "medium.hostux.net",
+            "read.sudovanilla.comn"
+        ],
+        "onion": [
+            "md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
+        "i2p": [
+            "vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p"
+        ]
     },
     "simpleertube": {
         "name": "SimpleerTube",
@@ -437,17 +732,39 @@
         "name": "dumb",
         "url": "https://github.com/rramiachraf/dumb",
         "path": "genius/dumb",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "dm.vern.cc",
+            "dumb.lunar.icu",
+            "dumb.privacydev.net",
+            "sing.whatever.social"
+        ],
+        "onion": [
+            "dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "dumb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion"
+        ],
+        "i2p": [
+            "vernxpcpqi2y4uhu7to4rnjmyjjgzh3x3qxyzpmkhykefchkmleq.b32.i2p"
+        ]
     },
     "biblioreads": {
         "name": "BiblioReads",
         "url": "https://github.com/nesaku/BiblioReads",
         "path": "goodreads/biblioreads",
-        "instances": [],
+        "instances": [
+            "biblioreads.eu.org",
+            "biblioreads.lunar.icu",
+            "biblioreads.mooo.com",
+            "biblioreads.privacyfucking.rocks",
+            "biblioreads.vercel.app",
+            "bl.vern.cc",
+            "read.freedit.eu",
+            "read.seitan-ayoub.lol",
+            "read.whateveritworks.org"
+        ],
         "onion": [],
-        "i2p": []
+        "i2p": [
+            "vernapl3lpo3huqdx3pjzxqgdgavxjlmdskbvejh2gfqgmjuyvxq.b32.i2p"
+        ]
     },
     "gothub": {
         "name": "GotHub",
@@ -478,16 +795,47 @@
         "name": "libremdb",
         "url": "https://github.com/zyachel/libremdb",
         "path": "imdb/libremdb",
-        "instances": [],
-        "onion": [],
+        "instances": [
+            "binge.whatever.social",
+            "binge.whateveritworks.org",
+            "ld.vern.cc",
+            "libremdb.frontendfriendly.xyz",
+            "libremdb.iket.me",
+            "libremdb.jeikobu.net",
+            "libremdb.lunar.icu",
+            "libremdb.nerdyfam.tech",
+            "libremdb.pussthecat.org",
+            "libremdb.tux.pizza",
+            "lmdb.hostux.net"
+        ],
+        "onion": [
+            "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
         "i2p": []
     },
     "anonymousoverflow": {
         "name": "AnonymousOverflow",
         "url": "https://github.com/httpjamesm/AnonymousOverflow#readme",
         "path": "stackoverflow/anonymousoverflow",
-        "instances": [],
-        "onion": [],
+        "instances": [
+            "anonoverflow.frontendfriendly.xyz",
+            "anonoverflow.hyperreal.coffee",
+            "anonymousoverflow.privacyfucking.rocks",
+            "ao.ftw.lol",
+            "code.whatever.social",
+            "exchange.seitan-ayoub.lol",
+            "overflow.datura.network",
+            "overflow.hostux.net",
+            "overflow.lunar.icu",
+            "overflow.r4fo.com",
+            "overflow.sudovanilla.com"
+        ],
+        "onion": [
+            "ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion",
+            "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "overflow.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
+            "overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
+        ],
         "i2p": []
     },
     "simpleamazon": {
@@ -520,7 +868,7 @@
             "bin.0xfc.de",
             "bin.68degrees.no",
             "bin.acquia.com",
-            "bin.bloat.cat",
+            "bin.bloatcat.tk",
             "bin.bus-hit.me",
             "bin.byreqz.de",
             "bin.disroot.org",
@@ -539,6 +887,7 @@
             "bin.mycozy.space",
             "bin.nixnet.services",
             "bin.nji9.de",
+            "bin.privacy.com.de",
             "bin.privateweb.ch",
             "bin.privateweb.top",
             "bin.purplebored.pl",
@@ -548,6 +897,7 @@
             "bin.supersite.cloud",
             "bin.tiekoetter.com",
             "bin.uhl.cloud",
+            "bin.vdx.sh",
             "bin.veracry.pt",
             "bonus01.hwb0307.com",
             "cles.le-filament.com",
@@ -585,6 +935,7 @@
             "paste.4s3ti.net",
             "paste.aryu.de",
             "paste.biocrafting.net",
+            "paste.bz",
             "paste.ceppo.xyz",
             "paste.chapril.org",
             "paste.copper.dedyn.io",
@@ -599,7 +950,6 @@
             "paste.elyday.net",
             "paste.evolix.org",
             "paste.fizi.ca",
-            "paste.fluffy.tools",
             "paste.frylo.net",
             "paste.gamesdrive.net",
             "paste.ggc-project.de",
@@ -663,12 +1013,12 @@
             "privatebin.jirlagun.com",
             "privatebin.johnnybegood.fr",
             "privatebin.kosebamse.com",
-            "privatebin.limpidit.com",
             "privatebin.luckvintage.com",
             "privatebin.net",
             "privatebin.paradox.ai",
             "privatebin.perennialte.ch",
             "privatebin.piquark6046.dev",
+            "privatebin.privacy.com.de",
             "privatebin.rinuploads.org",
             "privatebin.seattlematrix.org",
             "privatebin.sequanux.org",
