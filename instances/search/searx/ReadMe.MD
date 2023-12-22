@@ -26,7 +26,6 @@
 - [search.mdosch.de](https://search.mdosch.de)
 - [search.modalogi.com](https://search.modalogi.com)
 - [search.ononoki.org](https://search.ononoki.org)
-- [search.ovh](https://search.ovh)
 - [search.projectsegfau.lt](https://search.projectsegfau.lt)
 - [search.rabbit-company.com](https://search.rabbit-company.com)
 - [search.rhscz.eu](https://search.rhscz.eu)

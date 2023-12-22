@@ -1,13 +1,14 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
+- [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.freedit.eu](https://libreddit.freedit.eu)
 - [libreddit.kylrth.com](https://libreddit.kylrth.com)
 - [libreddit.lunar.icu](https://libreddit.lunar.icu)
 - [libreddit.northboot.xyz](https://libreddit.northboot.xyz)
+- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
-- [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.artemislena.eu](https://lr.artemislena.eu)
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.simo.sh](https://reddit.simo.sh)

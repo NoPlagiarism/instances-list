@@ -23,7 +23,6 @@ search.lvkaszus.pl
 search.mdosch.de
 search.modalogi.com
 search.ononoki.org
-search.ovh
 search.projectsegfau.lt
 search.rabbit-company.com
 search.rhscz.eu

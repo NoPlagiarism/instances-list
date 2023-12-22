@@ -163,7 +163,9 @@
 - [privatebin.wsmm.de](https://privatebin.wsmm.de)
 - [privatebin.xi.ht](https://privatebin.xi.ht)
 - [privatepastebin.com](https://privatepastebin.com)
+- [pstbn.io](https://pstbn.io)
 - [pvbin.chatasik.com](https://pvbin.chatasik.com)
+- [qqh.ysicing.net](https://qqh.ysicing.net)
 - [sebsauvage.net](https://sebsauvage.net)
 - [secrets.cebador.fr](https://secrets.cebador.fr)
 - [secrets.secumail.de](https://secrets.secumail.de)
@@ -185,6 +187,7 @@
 - [zerobin-legacy.dssr.ch](https://zerobin-legacy.dssr.ch)
 - [zerobin.farcy.me](https://zerobin.farcy.me)
 - [zerobin.mirtouf.fr](https://zerobin.mirtouf.fr)
+- [zerobin.org](https://zerobin.org)
 - [zerobin.zertrin.org](https://zerobin.zertrin.org)
 # Onion
 - [5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion](http://5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion)
