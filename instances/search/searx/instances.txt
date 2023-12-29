@@ -17,6 +17,7 @@ search.hbubli.cc
 search.im-in.space
 search.in.projectsegfau.lt
 search.inetol.net
+search.itstechtime.com
 search.laksith.dev
 search.leptons.xyz
 search.lvkaszus.pl
@@ -54,6 +55,7 @@ searx.tuxcloud.net
 searx.work
 searx.zhenyapav.com
 searxng.ch
+searxng.site
 sex.finaltek.net
 sx.catgirl.cloud
 sx.t-1.org

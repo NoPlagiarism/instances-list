@@ -74,7 +74,6 @@ paste.biocrafting.net
 paste.ceppo.xyz
 paste.chapril.org
 paste.copper.dedyn.io
-paste.cppmm.net.ru
 paste.d-ku.de
 paste.dasnetzundich.de
 paste.devsite.pl
@@ -124,6 +123,8 @@ pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
+pastebin.tv
+pastebin.us
 pastefg.hermietkreeft.site
 pb.blackvoid.club
 pb.envs.net
@@ -170,11 +171,11 @@ secrets.true.nl
 secure.superior.nl
 sendpass.ru
 snip.dssr.ch
-t25b.com
 teamware.eu
 textbin.quick-space.de
 vip.ci
 wtf.roflcopter.fr
+www.blueridgedebate.com
 www.engangspassord.no
 www.gitgd.com
 www.nervengas.com

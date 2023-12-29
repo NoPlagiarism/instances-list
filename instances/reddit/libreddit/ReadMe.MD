@@ -2,16 +2,18 @@
 
 # Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
+- [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.freedit.eu](https://libreddit.freedit.eu)
-- [libreddit.kylrth.com](https://libreddit.kylrth.com)
 - [libreddit.lunar.icu](https://libreddit.lunar.icu)
 - [libreddit.northboot.xyz](https://libreddit.northboot.xyz)
+- [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)
 - [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [lr.artemislena.eu](https://lr.artemislena.eu)
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.simo.sh](https://reddit.simo.sh)
+- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
