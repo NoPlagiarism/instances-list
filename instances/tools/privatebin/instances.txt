@@ -38,7 +38,6 @@ bin.veracry.pt
 bonus01.hwb0307.com
 cles.le-filament.com
 coller.vulpecula.fr
-copypaste.onl
 cpaste.org
 eatmyshorts.ch
 encryp.ch
@@ -94,7 +93,6 @@ paste.i2pd.xyz
 paste.momobako.com
 paste.nolog.cz
 paste.nomagic.uk
-paste.onl
 paste.ononoki.org
 paste.ottertelecom.com
 paste.picasoft.net
@@ -163,7 +161,6 @@ privatebin.xi.ht
 privatepastebin.com
 pstbn.io
 pvbin.chatasik.com
-qqh.ysicing.net
 sebsauvage.net
 secrets.cebador.fr
 secrets.secumail.de

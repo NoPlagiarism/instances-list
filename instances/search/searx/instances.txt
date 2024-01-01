@@ -30,6 +30,7 @@ search.rhscz.eu
 search.rowie.at
 search.sapti.me
 search.smnz.de
+search.upinmars.com
 search.zzls.xyz
 searx.ankha.ac
 searx.baczek.me
@@ -38,6 +39,7 @@ searx.catfluori.de
 searx.cthd.icu
 searx.daetalytica.io
 searx.fmac.xyz
+searx.fmhy.net
 searx.headpat.exchange
 searx.juancord.xyz
 searx.kutay.dev

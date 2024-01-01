@@ -1,10 +1,10 @@
 pi.ggtyler.dev
 piped.adminforge.de
 piped.astartes.nl
-piped.drgns.space
-piped.lunar.icu
+piped.nezumi.party
 piped.privacydev.net
+piped.projectsegfau.lt
 piped.r4fo.com
 piped.seitan-ayoub.lol
 piped.smnz.de
-piped.video
+piped.us.projectsegfau.lt
