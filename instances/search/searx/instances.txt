@@ -18,11 +18,9 @@ search.im-in.space
 search.in.projectsegfau.lt
 search.inetol.net
 search.itstechtime.com
-search.laksith.dev
 search.leptons.xyz
 search.lvkaszus.pl
 search.mdosch.de
-search.modalogi.com
 search.ononoki.org
 search.projectsegfau.lt
 search.rabbit-company.com
@@ -52,7 +50,6 @@ searx.perennialte.ch
 searx.sev.monster
 searx.si
 searx.techsaviours.org
-searx.tiekoetter.com
 searx.tuxcloud.net
 searx.work
 searx.zhenyapav.com

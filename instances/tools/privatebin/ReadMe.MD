@@ -3,7 +3,6 @@
 # Clearnet
 - [0.0g.gg](https://0.0g.gg)
 - [0.jaegers.net](https://0.jaegers.net)
-- [0bin.xyz](https://0bin.xyz)
 - [amir.ch](https://amir.ch)
 - [b.opnxng.com](https://b.opnxng.com)
 - [bin.0xfc.de](https://bin.0xfc.de)
@@ -16,6 +15,7 @@
 - [bin.eiphax.tech](https://bin.eiphax.tech)
 - [bin.garbaye.fr](https://bin.garbaye.fr)
 - [bin.garudalinux.org](https://bin.garudalinux.org)
+- [bin.hbubli.cc](https://bin.hbubli.cc)
 - [bin.idrix.fr](https://bin.idrix.fr)
 - [bin.infini.fr](https://bin.infini.fr)
 - [bin.infra.Mee6.cloud](https://bin.infra.Mee6.cloud)
@@ -123,6 +123,7 @@
 - [pastebin.grey.pw](https://pastebin.grey.pw)
 - [pastebin.hot-chilli.net](https://pastebin.hot-chilli.net)
 - [pastebin.kamos.fr](https://pastebin.kamos.fr)
+- [pastebin.lapacz.de](https://pastebin.lapacz.de)
 - [pastebin.linqhost.nl](https://pastebin.linqhost.nl)
 - [pastebin.tv](https://pastebin.tv)
 - [pastebin.us](https://pastebin.us)

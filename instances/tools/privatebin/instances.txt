@@ -1,6 +1,5 @@
 0.0g.gg
 0.jaegers.net
-0bin.xyz
 amir.ch
 b.opnxng.com
 bin.0xfc.de
@@ -13,6 +12,7 @@ bin.disroot.org
 bin.eiphax.tech
 bin.garbaye.fr
 bin.garudalinux.org
+bin.hbubli.cc
 bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
@@ -120,6 +120,7 @@ pastebin.aquilenet.fr
 pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
+pastebin.lapacz.de
 pastebin.linqhost.nl
 pastebin.tv
 pastebin.us

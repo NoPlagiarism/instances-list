@@ -13,6 +13,7 @@
 - [4get.lvkaszus.pl](https://4get.lvkaszus.pl)
 - [4get.perennialte.ch](https://4get.perennialte.ch)
 - [4get.plunked.party](https://4get.plunked.party)
+- [4get.psily.garden](https://4get.psily.garden)
 - [4get.seitan-ayoub.lol](https://4get.seitan-ayoub.lol)
 - [4get.sijh.net](https://4get.sijh.net)
 - [4get.silly.computer](https://4get.silly.computer)

@@ -4,6 +4,7 @@
 - [binge.whatever.social](https://binge.whatever.social)
 - [binge.whateveritworks.org](https://binge.whateveritworks.org)
 - [ld.vern.cc](https://ld.vern.cc)
+- [libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](https://libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [libremdb.frontendfriendly.xyz](https://libremdb.frontendfriendly.xyz)
 - [libremdb.iket.me](https://libremdb.iket.me)
 - [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
