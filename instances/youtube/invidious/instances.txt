@@ -1,10 +1,11 @@
 inv.n8pjl.ca
+inv.nadeko.net
 inv.tux.pizza
 inv.us.projectsegfau.lt
-inv.zzls.xyz
 invidious.drgns.space
 invidious.einfachzocken.eu
 invidious.fdn.fr
+invidious.flokinet.to
 invidious.lunar.icu
 invidious.nerdvpn.de
 invidious.perennialte.ch
@@ -17,7 +18,6 @@ iv.datura.network
 iv.ggtyler.dev
 iv.melmac.space
 iv.nboeck.de
-vid.priv.au
 vid.puffyan.us
 yewtu.be
 youtube.owacon.moe

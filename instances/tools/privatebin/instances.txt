@@ -161,7 +161,6 @@ privatebin.wsmm.de
 privatebin.xi.ht
 privatepastebin.com
 pstbn.io
-pvbin.chatasik.com
 sebsauvage.net
 secrets.cebador.fr
 secrets.secumail.de
@@ -177,6 +176,7 @@ www.blueridgedebate.com
 www.engangspassord.no
 www.gitgd.com
 www.nervengas.com
+www.vlh.dk
 xcosx.de
 z.fishbowl.com
 zb.zerosgaming.de

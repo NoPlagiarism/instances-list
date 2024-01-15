@@ -1,3 +1,4 @@
+biblioreads.ducks.party
 biblioreads.eu.org
 biblioreads.lunar.icu
 biblioreads.mooo.com

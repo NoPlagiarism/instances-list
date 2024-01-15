@@ -1,6 +1,7 @@
 # [BiblioReads](https://github.com/nesaku/BiblioReads)
 
 # Clearnet
+- [biblioreads.ducks.party](https://biblioreads.ducks.party)
 - [biblioreads.eu.org](https://biblioreads.eu.org)
 - [biblioreads.lunar.icu](https://biblioreads.lunar.icu)
 - [biblioreads.mooo.com](https://biblioreads.mooo.com)

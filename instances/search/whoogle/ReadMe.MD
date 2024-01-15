@@ -7,6 +7,7 @@
 - [search.albony.xyz](https://search.albony.xyz)
 - [search.dr460nf1r3.org](https://search.dr460nf1r3.org)
 - [search.garudalinux.org](https://search.garudalinux.org)
+- [search.nezumi.party](https://search.nezumi.party)
 - [search.notrustverify.ch](https://search.notrustverify.ch)
 - [search.sethforprivacy.com](https://search.sethforprivacy.com)
 - [wg.vern.cc](https://wg.vern.cc)
