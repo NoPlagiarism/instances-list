@@ -28,6 +28,7 @@ nitter.kavin.rocks
 nitter.kling.gg
 nitter.ktachibana.party
 nitter.kylrth.com
+nitter.lanterne-rouge.info
 nitter.lunar.icu
 nitter.manasiwibi.com
 nitter.mint.lgbt

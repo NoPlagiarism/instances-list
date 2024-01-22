@@ -1,6 +1,9 @@
+pd.vern.cc
 pi.ggtyler.dev
+piped.12a.app
 piped.adminforge.de
-piped.astartes.nl
+piped.drgns.space
+piped.garudalinux.org
 piped.in.projectsegfau.lt
 piped.lunar.icu
 piped.privacydev.net
@@ -11,3 +14,4 @@ piped.smnz.de
 piped.syncpundit.io
 piped.us.projectsegfau.lt
 piped.video
+watch.leptons.xyz

@@ -5,6 +5,7 @@ b.opnxng.com
 bin.0xfc.de
 bin.68degrees.no
 bin.acquia.com
+bin.b1t.rip
 bin.bloat.cat
 bin.bus-hit.me
 bin.byreqz.de
@@ -79,7 +80,6 @@ paste.devsite.pl
 paste.dismail.de
 paste.drfrankenstein.co.uk
 paste.dvotx.org
-paste.eccologic.net
 paste.elyday.net
 paste.evolix.org
 paste.fizi.ca
@@ -134,6 +134,7 @@ pb.pc-sam.net
 pb.skifab.se
 postit.hadoly.fr
 private.opendoor.fr
+private.rmconsulting.com
 privatebin.anko.systems
 privatebin.ar21.de
 privatebin.arch-linux.cz
@@ -148,7 +149,6 @@ privatebin.io
 privatebin.jirlagun.com
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
-privatebin.limpidit.com
 privatebin.luckvintage.com
 privatebin.net
 privatebin.paradox.ai

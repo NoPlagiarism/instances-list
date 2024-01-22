@@ -7,6 +7,7 @@
 - [scribe.froth.zone](https://scribe.froth.zone)
 - [scribe.nixnet.services](https://scribe.nixnet.services)
 - [scribe.privacydev.net](https://scribe.privacydev.net)
+- [scribe.r4fo.com](https://scribe.r4fo.com)
 - [scribe.rawbit.ninja](https://scribe.rawbit.ninja)
 - [scribe.rip](https://scribe.rip)
 # Onion

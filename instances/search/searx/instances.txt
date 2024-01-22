@@ -10,6 +10,7 @@ paulgo.io
 priv.au
 s.mble.dk
 s.trung.fun
+search.broker
 search.bus-hit.me
 search.demoniak.ch
 search.gcomm.ch
@@ -21,10 +22,8 @@ search.itstechtime.com
 search.leptons.xyz
 search.lvkaszus.pl
 search.mdosch.de
-search.nadeko.net
 search.ononoki.org
 search.projectsegfau.lt
-search.rabbit-company.com
 search.rhscz.eu
 search.rowie.at
 search.sapti.me
@@ -46,6 +45,7 @@ searx.nobulart.com
 searx.oakleycord.dev
 searx.ox2.fr
 searx.perennialte.ch
+searx.rhscz.eu
 searx.sev.monster
 searx.si
 searx.techsaviours.org
@@ -56,6 +56,5 @@ searxng.ch
 searxng.site
 sex.finaltek.net
 sx.catgirl.cloud
-sx.t-1.org
 www.gruble.de
 xo.wtf

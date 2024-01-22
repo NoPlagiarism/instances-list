@@ -2,8 +2,10 @@
 
 # Clearnet
 - [dm.vern.cc](https://dm.vern.cc)
+- [dumb.ducks.party](https://dumb.ducks.party)
 - [dumb.lunar.icu](https://dumb.lunar.icu)
 - [dumb.privacydev.net](https://dumb.privacydev.net)
+- [dumb.privacyfucking.rocks](https://dumb.privacyfucking.rocks)
 - [sing.whatever.social](https://sing.whatever.social)
 # Onion
 - [dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)

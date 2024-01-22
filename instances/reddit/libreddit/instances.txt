@@ -10,9 +10,7 @@ libreddit.privacydev.net
 libreddit.projectsegfau.lt
 libreddit.pussthecat.org
 libreddit.strongthany.cc
-libreddit.tux.pizza
 lr.artemislena.eu
-lr.vern.cc
 reddit.invak.id
 reddit.simo.sh
 safereddit.com

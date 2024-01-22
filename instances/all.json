@@ -140,6 +140,7 @@
             "priv.au",
             "s.mble.dk",
             "s.trung.fun",
+            "search.broker",
             "search.bus-hit.me",
             "search.demoniak.ch",
             "search.gcomm.ch",
@@ -151,10 +152,8 @@
             "search.leptons.xyz",
             "search.lvkaszus.pl",
             "search.mdosch.de",
-            "search.nadeko.net",
             "search.ononoki.org",
             "search.projectsegfau.lt",
-            "search.rabbit-company.com",
             "search.rhscz.eu",
             "search.rowie.at",
             "search.sapti.me",
@@ -176,6 +175,7 @@
             "searx.oakleycord.dev",
             "searx.ox2.fr",
             "searx.perennialte.ch",
+            "searx.rhscz.eu",
             "searx.sev.monster",
             "searx.si",
             "searx.techsaviours.org",
@@ -186,14 +186,12 @@
             "searxng.site",
             "sex.finaltek.net",
             "sx.catgirl.cloud",
-            "sx.t-1.org",
             "www.gruble.de",
             "xo.wtf"
         ],
         "onion": [
             "4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion",
             "privateoz3u5utrimal2edr56j3r5caakektxxgixigdkycuxigvquid.onion",
-            "search.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion",
             "search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "searchpie7fejn4wctzm6fgm6oz5vnziltfzzuec6b4qmkr3wrqaoqqd.onion",
             "searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion",
@@ -279,9 +277,7 @@
             "libreddit.projectsegfau.lt",
             "libreddit.pussthecat.org",
             "libreddit.strongthany.cc",
-            "libreddit.tux.pizza",
             "lr.artemislena.eu",
-            "lr.vern.cc",
             "reddit.invak.id",
             "reddit.simo.sh",
             "safereddit.com",
@@ -327,9 +323,12 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
+            "pd.vern.cc",
             "pi.ggtyler.dev",
+            "piped.12a.app",
             "piped.adminforge.de",
-            "piped.astartes.nl",
+            "piped.drgns.space",
+            "piped.garudalinux.org",
             "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
             "piped.privacydev.net",
@@ -339,14 +338,18 @@
             "piped.smnz.de",
             "piped.syncpundit.io",
             "piped.us.projectsegfau.lt",
-            "piped.video"
+            "piped.video",
+            "watch.leptons.xyz"
         ],
         "onion": [
+            "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
+        ]
     },
     "invidious": {
         "name": "Invidious",
@@ -434,6 +437,7 @@
             "scribe.froth.zone",
             "scribe.nixnet.services",
             "scribe.privacydev.net",
+            "scribe.r4fo.com",
             "scribe.rawbit.ninja",
             "scribe.rip"
         ],
@@ -545,6 +549,7 @@
             "nitter.kling.gg",
             "nitter.ktachibana.party",
             "nitter.kylrth.com",
+            "nitter.lanterne-rouge.info",
             "nitter.lunar.icu",
             "nitter.manasiwibi.com",
             "nitter.mint.lgbt",
@@ -726,8 +731,10 @@
         "path": "genius/dumb",
         "instances": [
             "dm.vern.cc",
+            "dumb.ducks.party",
             "dumb.lunar.icu",
             "dumb.privacydev.net",
+            "dumb.privacyfucking.rocks",
             "sing.whatever.social"
         ],
         "onion": [
@@ -868,6 +875,7 @@
             "bin.0xfc.de",
             "bin.68degrees.no",
             "bin.acquia.com",
+            "bin.b1t.rip",
             "bin.bloat.cat",
             "bin.bus-hit.me",
             "bin.byreqz.de",
@@ -942,7 +950,6 @@
             "paste.dismail.de",
             "paste.drfrankenstein.co.uk",
             "paste.dvotx.org",
-            "paste.eccologic.net",
             "paste.elyday.net",
             "paste.evolix.org",
             "paste.fizi.ca",
@@ -997,6 +1004,7 @@
             "pb.skifab.se",
             "postit.hadoly.fr",
             "private.opendoor.fr",
+            "private.rmconsulting.com",
             "privatebin.anko.systems",
             "privatebin.ar21.de",
             "privatebin.arch-linux.cz",
@@ -1011,7 +1019,6 @@
             "privatebin.jirlagun.com",
             "privatebin.johnnybegood.fr",
             "privatebin.kosebamse.com",
-            "privatebin.limpidit.com",
             "privatebin.luckvintage.com",
             "privatebin.net",
             "privatebin.paradox.ai",

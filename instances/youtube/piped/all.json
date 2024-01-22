@@ -1,8 +1,11 @@
 {
     "instances": [
+        "pd.vern.cc",
         "pi.ggtyler.dev",
+        "piped.12a.app",
         "piped.adminforge.de",
-        "piped.astartes.nl",
+        "piped.drgns.space",
+        "piped.garudalinux.org",
         "piped.in.projectsegfau.lt",
         "piped.lunar.icu",
         "piped.privacydev.net",
@@ -12,12 +15,16 @@
         "piped.smnz.de",
         "piped.syncpundit.io",
         "piped.us.projectsegfau.lt",
-        "piped.video"
+        "piped.video",
+        "watch.leptons.xyz"
     ],
     "onion": [
+        "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
         "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
         "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
-    "i2p": []
+    "i2p": [
+        "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
+    ]
 }

@@ -31,6 +31,7 @@
 - [nitter.kling.gg](https://nitter.kling.gg)
 - [nitter.ktachibana.party](https://nitter.ktachibana.party)
 - [nitter.kylrth.com](https://nitter.kylrth.com)
+- [nitter.lanterne-rouge.info](https://nitter.lanterne-rouge.info)
 - [nitter.lunar.icu](https://nitter.lunar.icu)
 - [nitter.manasiwibi.com](https://nitter.manasiwibi.com)
 - [nitter.mint.lgbt](https://nitter.mint.lgbt)
