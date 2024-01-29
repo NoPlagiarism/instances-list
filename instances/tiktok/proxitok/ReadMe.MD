@@ -5,6 +5,7 @@
 - [cringe.seitan-ayoub.lol](https://cringe.seitan-ayoub.lol)
 - [cringe.whatever.social](https://cringe.whatever.social)
 - [cringe.whateveritworks.org](https://cringe.whateveritworks.org)
+- [proxitok.belloworld.it](https://proxitok.belloworld.it)
 - [proxitok.esmailelbob.xyz](https://proxitok.esmailelbob.xyz)
 - [proxitok.kyun.li](https://proxitok.kyun.li)
 - [proxitok.lunar.icu](https://proxitok.lunar.icu)

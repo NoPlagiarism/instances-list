@@ -1,13 +1,10 @@
 {
     "instances": [
         "bird.habedieeh.re",
-        "canada.unofficialbird.com",
-        "india.unofficialbird.com",
         "n.biendeo.com",
         "n.opnxng.com",
         "n.populas.no",
         "n.sneed.network",
-        "nederland.unofficialbird.com",
         "nitter.adminforge.de",
         "nitter.altgr.xyz",
         "nitter.at",
@@ -51,15 +48,11 @@
         "nitter.tinfoil-hat.net",
         "nitter.tux.pizza",
         "nitter.twei.space",
-        "nitter.uni-sonia.com",
         "nitter.unixfox.eu",
         "nitter.us.projectsegfau.lt",
         "nitter.woodland.cafe",
         "nt.ggtyler.dev",
-        "singapore.unofficialbird.com",
-        "tweet.lambda.dance",
-        "uk.unofficialbird.com",
-        "unofficialbird.com"
+        "tweet.lambda.dance"
     ],
     "onion": [
         "26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion",

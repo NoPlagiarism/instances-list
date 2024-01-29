@@ -8,6 +8,7 @@
             "cringe.seitan-ayoub.lol",
             "cringe.whatever.social",
             "cringe.whateveritworks.org",
+            "proxitok.belloworld.it",
             "proxitok.esmailelbob.xyz",
             "proxitok.kyun.li",
             "proxitok.lunar.icu",
@@ -152,6 +153,7 @@
             "search.leptons.xyz",
             "search.lvkaszus.pl",
             "search.mdosch.de",
+            "search.nadeko.net",
             "search.ononoki.org",
             "search.projectsegfau.lt",
             "search.rhscz.eu",
@@ -159,12 +161,14 @@
             "search.sapti.me",
             "search.smnz.de",
             "search.upinmars.com",
+            "searx.aleteoryx.me",
             "searx.ankha.ac",
             "searx.baczek.me",
             "searx.be",
             "searx.catfluori.de",
             "searx.cthd.icu",
             "searx.daetalytica.io",
+            "searx.ee",
             "searx.fmhy.net",
             "searx.headpat.exchange",
             "searx.juancord.xyz",
@@ -192,6 +196,7 @@
         "onion": [
             "4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion",
             "privateoz3u5utrimal2edr56j3r5caakektxxgixigdkycuxigvquid.onion",
+            "search.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion",
             "search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "searchpie7fejn4wctzm6fgm6oz5vnziltfzzuec6b4qmkr3wrqaoqqd.onion",
             "searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion",
@@ -269,7 +274,6 @@
             "l.opnxng.com",
             "libreddit.bus-hit.me",
             "libreddit.kavin.rocks",
-            "libreddit.kylrth.com",
             "libreddit.lunar.icu",
             "libreddit.northboot.xyz",
             "libreddit.oxymagnesium.com",
@@ -277,7 +281,9 @@
             "libreddit.projectsegfau.lt",
             "libreddit.pussthecat.org",
             "libreddit.strongthany.cc",
+            "libreddit.tux.pizza",
             "lr.artemislena.eu",
+            "lr.vern.cc",
             "reddit.invak.id",
             "reddit.simo.sh",
             "safereddit.com",
@@ -323,33 +329,28 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "pd.vern.cc",
             "pi.ggtyler.dev",
             "piped.12a.app",
             "piped.adminforge.de",
-            "piped.drgns.space",
+            "piped.astartes.nl",
             "piped.garudalinux.org",
             "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
-            "piped.privacydev.net",
+            "piped.ngn.tf",
             "piped.projectsegfau.lt",
             "piped.r4fo.com",
             "piped.seitan-ayoub.lol",
             "piped.smnz.de",
             "piped.syncpundit.io",
-            "piped.us.projectsegfau.lt",
             "piped.video",
-            "watch.leptons.xyz"
+            "watch.leptons.xyz",
+            "yt.owo.si"
         ],
         "onion": [
-            "pd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
-        "i2p": [
-            "vern2dwmqcksmq3oe5kynqc6gy4btviaimqhr55kg6zedjckwnoq.b32.i2p"
-        ]
+        "i2p": []
     },
     "invidious": {
         "name": "Invidious",
@@ -510,7 +511,6 @@
         ],
         "onion": [
             "5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion",
-            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
     },
@@ -520,13 +520,10 @@
         "path": "twitter/nitter",
         "instances": [
             "bird.habedieeh.re",
-            "canada.unofficialbird.com",
-            "india.unofficialbird.com",
             "n.biendeo.com",
             "n.opnxng.com",
             "n.populas.no",
             "n.sneed.network",
-            "nederland.unofficialbird.com",
             "nitter.adminforge.de",
             "nitter.altgr.xyz",
             "nitter.at",
@@ -570,15 +567,11 @@
             "nitter.tinfoil-hat.net",
             "nitter.tux.pizza",
             "nitter.twei.space",
-            "nitter.uni-sonia.com",
             "nitter.unixfox.eu",
             "nitter.us.projectsegfau.lt",
             "nitter.woodland.cafe",
             "nt.ggtyler.dev",
-            "singapore.unofficialbird.com",
-            "tweet.lambda.dance",
-            "uk.unofficialbird.com",
-            "unofficialbird.com"
+            "tweet.lambda.dance"
         ],
         "onion": [
             "26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion",
@@ -872,6 +865,7 @@
             "0.jaegers.net",
             "amir.ch",
             "b.opnxng.com",
+            "bin.0ax.cc",
             "bin.0xfc.de",
             "bin.68degrees.no",
             "bin.acquia.com",
@@ -971,6 +965,7 @@
             "paste.rys.pw",
             "paste.scurvynet.com",
             "paste.skynetcloud.site",
+            "paste.spigot.pl",
             "paste.stratum0.org",
             "paste.sy.gy",
             "paste.systemli.org",
@@ -1027,6 +1022,7 @@
             "privatebin.rinuploads.org",
             "privatebin.seattlematrix.org",
             "privatebin.sequanux.org",
+            "privatebin.vlh.dk",
             "privatebin.wsmm.de",
             "privatebin.xi.ht",
             "privatepastebin.com",

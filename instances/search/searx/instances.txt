@@ -22,6 +22,7 @@ search.itstechtime.com
 search.leptons.xyz
 search.lvkaszus.pl
 search.mdosch.de
+search.nadeko.net
 search.ononoki.org
 search.projectsegfau.lt
 search.rhscz.eu
@@ -29,12 +30,14 @@ search.rowie.at
 search.sapti.me
 search.smnz.de
 search.upinmars.com
+searx.aleteoryx.me
 searx.ankha.ac
 searx.baczek.me
 searx.be
 searx.catfluori.de
 searx.cthd.icu
 searx.daetalytica.io
+searx.ee
 searx.fmhy.net
 searx.headpat.exchange
 searx.juancord.xyz
