@@ -10,6 +10,8 @@
 - [breezewiki.com](https://breezewiki.com)
 - [breezewiki.frontendfriendly.xyz](https://breezewiki.frontendfriendly.xyz)
 - [breezewiki.hyperreal.coffee](https://breezewiki.hyperreal.coffee)
+- [breezewiki.nadeko.net](https://breezewiki.nadeko.net)
+- [breezewiki.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion](https://breezewiki.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion)
 - [breezewiki.pussthecat.org](https://breezewiki.pussthecat.org)
 - [breezewiki.woodland.cafe](https://breezewiki.woodland.cafe)
 - [bw.artemislena.eu](https://bw.artemislena.eu)

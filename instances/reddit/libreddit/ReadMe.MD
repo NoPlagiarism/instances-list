@@ -9,7 +9,6 @@
 - [libreddit.northboot.xyz](https://libreddit.northboot.xyz)
 - [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)
 - [libreddit.privacydev.net](https://libreddit.privacydev.net)
-- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)

@@ -4,6 +4,7 @@ amir.ch
 b.opnxng.com
 bin.0ax.cc
 bin.0xfc.de
+bin.4st.li
 bin.68degrees.no
 bin.acquia.com
 bin.b1t.rip
@@ -30,6 +31,7 @@ bin.nji9.de
 bin.privateweb.ch
 bin.privateweb.top
 bin.purplebored.pl
+bin.r3tr0ananas.pro
 bin.rtb.gg
 bin.sasach.work
 bin.siick.fr
@@ -69,7 +71,6 @@ passwords.gestionalda.com
 pastbin.cc
 paste.07f.de
 paste.3server.de
-paste.4s3ti.net
 paste.aryu.de
 paste.biocrafting.net
 paste.ceppo.xyz
