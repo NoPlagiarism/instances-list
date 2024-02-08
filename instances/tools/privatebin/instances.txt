@@ -3,7 +3,6 @@
 amir.ch
 b.opnxng.com
 bin.0ax.cc
-bin.0xfc.de
 bin.4st.li
 bin.68degrees.no
 bin.acquia.com
@@ -22,10 +21,10 @@ bin.infra.Mee6.cloud
 bin.itefix.no
 bin.iya.at
 bin.libreon.fr
-bin.m0c.cc
 bin.mezzo.moe
 bin.mha.fi
 bin.mycozy.space
+bin.ngn.tf
 bin.nixnet.services
 bin.nji9.de
 bin.privateweb.ch
@@ -125,9 +124,8 @@ pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.lapacz.de
 pastebin.linqhost.nl
-pastebin.tv
-pastebin.us
 pastefg.hermietkreeft.site
+pb.ari.lt
 pb.blackvoid.club
 pb.envs.net
 pb.fly.dev

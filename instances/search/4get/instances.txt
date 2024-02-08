@@ -1,6 +1,7 @@
 4g.ggtyler.dev
 4g.opnxng.com
 4get.ca
+4get.datura.network
 4get.dcs0.hu
 4get.etenie.pl
 4get.hbubli.cc
@@ -14,5 +15,7 @@
 4get.seitan-ayoub.lol
 4get.sijh.net
 4get.silly.computer
+4get.snine.nl
 4get.zzls.xyz
 4getus.zzls.xyz
+search.milivojevic.in.rs

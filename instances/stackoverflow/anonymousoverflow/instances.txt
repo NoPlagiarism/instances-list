@@ -8,6 +8,7 @@ code.whatever.social
 exchange.seitan-ayoub.lol
 overflow.adminforge.de
 overflow.datura.network
+overflow.ducks.party
 overflow.fascinated.cc
 overflow.hostux.net
 overflow.lunar.icu

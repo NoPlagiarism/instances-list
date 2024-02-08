@@ -7,6 +7,7 @@
 - [s.opnxng.com](https://s.opnxng.com)
 - [send.adminforge.de](https://send.adminforge.de)
 - [send.artemislena.eu](https://send.artemislena.eu)
+- [send.aslaets.be](https://send.aslaets.be)
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)
 - [send.boblorange.net](https://send.boblorange.net)
 - [send.cyberjake.xyz](https://send.cyberjake.xyz)

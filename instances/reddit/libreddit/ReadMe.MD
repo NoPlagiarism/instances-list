@@ -9,6 +9,7 @@
 - [libreddit.northboot.xyz](https://libreddit.northboot.xyz)
 - [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)
 - [libreddit.privacydev.net](https://libreddit.privacydev.net)
+- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.pussthecat.org](https://libreddit.pussthecat.org)
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
@@ -16,7 +17,6 @@
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.simo.sh](https://reddit.simo.sh)
-- [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)

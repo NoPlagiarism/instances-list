@@ -5,7 +5,6 @@
         "amir.ch",
         "b.opnxng.com",
         "bin.0ax.cc",
-        "bin.0xfc.de",
         "bin.4st.li",
         "bin.68degrees.no",
         "bin.acquia.com",
@@ -24,10 +23,10 @@
         "bin.itefix.no",
         "bin.iya.at",
         "bin.libreon.fr",
-        "bin.m0c.cc",
         "bin.mezzo.moe",
         "bin.mha.fi",
         "bin.mycozy.space",
+        "bin.ngn.tf",
         "bin.nixnet.services",
         "bin.nji9.de",
         "bin.privateweb.ch",
@@ -127,9 +126,8 @@
         "pastebin.kamos.fr",
         "pastebin.lapacz.de",
         "pastebin.linqhost.nl",
-        "pastebin.tv",
-        "pastebin.us",
         "pastefg.hermietkreeft.site",
+        "pb.ari.lt",
         "pb.blackvoid.club",
         "pb.envs.net",
         "pb.fly.dev",
@@ -196,10 +194,7 @@
         "5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion",
         "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
         "paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion",
-        "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
         "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
     ],
-    "i2p": [
-        "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
-    ]
+    "i2p": []
 }

@@ -11,6 +11,7 @@
 - [exchange.seitan-ayoub.lol](https://exchange.seitan-ayoub.lol)
 - [overflow.adminforge.de](https://overflow.adminforge.de)
 - [overflow.datura.network](https://overflow.datura.network)
+- [overflow.ducks.party](https://overflow.ducks.party)
 - [overflow.fascinated.cc](https://overflow.fascinated.cc)
 - [overflow.hostux.net](https://overflow.hostux.net)
 - [overflow.lunar.icu](https://overflow.lunar.icu)

@@ -278,6 +278,7 @@
             "libreddit.northboot.xyz",
             "libreddit.oxymagnesium.com",
             "libreddit.privacydev.net",
+            "libreddit.projectsegfau.lt",
             "libreddit.pussthecat.org",
             "libreddit.strongthany.cc",
             "libreddit.tux.pizza",
@@ -285,7 +286,6 @@
             "lr.vern.cc",
             "reddit.invak.id",
             "reddit.simo.sh",
-            "safereddit.com",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -334,15 +334,13 @@
             "piped.drgns.space",
             "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
-            "piped.privacydev.net",
             "piped.projectsegfau.lt",
             "piped.r4fo.com",
-            "piped.seitan-ayoub.lol",
             "piped.smnz.de",
+            "piped.syncpundit.io",
             "piped.video"
         ],
         "onion": [
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
@@ -361,6 +359,7 @@
             "invidious.einfachzocken.eu",
             "invidious.fdn.fr",
             "invidious.flokinet.to",
+            "invidious.jing.rocks",
             "invidious.lunar.icu",
             "invidious.nerdvpn.de",
             "invidious.perennialte.ch",
@@ -381,19 +380,12 @@
             "yt.drgnz.club"
         ],
         "onion": [
-            "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
-            "euxxcnhsynwmfidvhjf6uzptsmh4dipkmgdmcmxxuo7tunp3ad2jrwyd.onion",
             "grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
             "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
             "inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "iv.odysfvr23q5wgt7i456o5t3trw2cw5dgn56vbjfbq2m7xsc5vqbqpcyd.onion",
             "jemgkaq2xibfu37hm2xojsxoi7djtwb25w6krhl63lhn52xfzgeyc2ad.onion",
-            "kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion",
-            "ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion",
-            "osbivz6guyeahrwp2lnwyjk2xos342h4ocsxyqrlaopqjuhwn2djiiyd.onion",
-            "u2cvlit75owumwpy4dj2hsmvkq7nvrclkpht7xgyye2pyoxhpmclkrad.onion",
-            "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion"
+            "ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion"
         ],
         "i2p": [
             "http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p",
@@ -408,6 +400,7 @@
         "instances": [
             "hp.ggtyler.dev",
             "hp.iqbalrifai.eu.org",
+            "hp.ngn.tf",
             "hyperpipe.drgns.space",
             "hyperpipe.esmailelbob.xyz",
             "hyperpipe.frontendfriendly.xyz",
@@ -507,6 +500,7 @@
         ],
         "onion": [
             "5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion",
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
     },
@@ -636,6 +630,7 @@
             "s.opnxng.com",
             "send.adminforge.de",
             "send.artemislena.eu",
+            "send.aslaets.be",
             "send.aurorabilisim.com",
             "send.boblorange.net",
             "send.cyberjake.xyz",
@@ -821,6 +816,7 @@
             "exchange.seitan-ayoub.lol",
             "overflow.adminforge.de",
             "overflow.datura.network",
+            "overflow.ducks.party",
             "overflow.fascinated.cc",
             "overflow.hostux.net",
             "overflow.lunar.icu",
@@ -864,7 +860,6 @@
             "amir.ch",
             "b.opnxng.com",
             "bin.0ax.cc",
-            "bin.0xfc.de",
             "bin.4st.li",
             "bin.68degrees.no",
             "bin.acquia.com",
@@ -883,10 +878,10 @@
             "bin.itefix.no",
             "bin.iya.at",
             "bin.libreon.fr",
-            "bin.m0c.cc",
             "bin.mezzo.moe",
             "bin.mha.fi",
             "bin.mycozy.space",
+            "bin.ngn.tf",
             "bin.nixnet.services",
             "bin.nji9.de",
             "bin.privateweb.ch",
@@ -986,9 +981,8 @@
             "pastebin.kamos.fr",
             "pastebin.lapacz.de",
             "pastebin.linqhost.nl",
-            "pastebin.tv",
-            "pastebin.us",
             "pastefg.hermietkreeft.site",
+            "pb.ari.lt",
             "pb.blackvoid.club",
             "pb.envs.net",
             "pb.fly.dev",
@@ -1055,12 +1049,9 @@
             "5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion",
             "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
             "paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion",
-            "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
             "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
         ],
-        "i2p": [
-            "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
-        ]
+        "i2p": []
     },
     "cloudtube": {
         "name": "CloudTube",
@@ -1080,6 +1071,7 @@
             "4g.ggtyler.dev",
             "4g.opnxng.com",
             "4get.ca",
+            "4get.datura.network",
             "4get.dcs0.hu",
             "4get.etenie.pl",
             "4get.hbubli.cc",
@@ -1093,8 +1085,10 @@
             "4get.seitan-ayoub.lol",
             "4get.sijh.net",
             "4get.silly.computer",
+            "4get.snine.nl",
             "4get.zzls.xyz",
-            "4getus.zzls.xyz"
+            "4getus.zzls.xyz",
+            "search.milivojevic.in.rs"
         ]
     }
 }
