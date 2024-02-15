@@ -3,9 +3,11 @@
 # Clearnet
 - [0.0g.gg](https://0.0g.gg)
 - [0.jaegers.net](https://0.jaegers.net)
+- [0bin.virtuaverse.xyz](https://0bin.virtuaverse.xyz)
 - [amir.ch](https://amir.ch)
 - [b.opnxng.com](https://b.opnxng.com)
 - [bin.0ax.cc](https://bin.0ax.cc)
+- [bin.0xfc.de](https://bin.0xfc.de)
 - [bin.4st.li](https://bin.4st.li)
 - [bin.68degrees.no](https://bin.68degrees.no)
 - [bin.acquia.com](https://bin.acquia.com)
@@ -101,7 +103,6 @@
 - [paste.ottertelecom.com](https://paste.ottertelecom.com)
 - [paste.picasoft.net](https://paste.picasoft.net)
 - [paste.quest](https://paste.quest)
-- [paste.rosset.net](https://paste.rosset.net)
 - [paste.rys.pw](https://paste.rys.pw)
 - [paste.scurvynet.com](https://paste.scurvynet.com)
 - [paste.skynetcloud.site](https://paste.skynetcloud.site)
@@ -175,6 +176,7 @@
 - [snip.dssr.ch](https://snip.dssr.ch)
 - [teamware.eu](https://teamware.eu)
 - [textbin.quick-space.de](https://textbin.quick-space.de)
+- [typeamessage.com](https://typeamessage.com)
 - [vip.ci](https://vip.ci)
 - [wtf.roflcopter.fr](https://wtf.roflcopter.fr)
 - [www.blueridgedebate.com](https://www.blueridgedebate.com)
@@ -189,11 +191,13 @@
 - [zerobin.farcy.me](https://zerobin.farcy.me)
 - [zerobin.mirtouf.fr](https://zerobin.mirtouf.fr)
 - [zerobin.org](https://zerobin.org)
+- [zerobin.thican.net](https://zerobin.thican.net)
 - [zerobin.zertrin.org](https://zerobin.zertrin.org)
 # Onion
 - [5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion](http://5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion)
 - [n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion](http://n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion)
 - [paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion](http://paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion)
+- [qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion](http://qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion)
 - [z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion](http://z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion)
 # I2P
-
+- [oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p](http://oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p)

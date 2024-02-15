@@ -35,6 +35,7 @@
 - [search.upinmars.com](https://search.upinmars.com)
 - [searx.aleteoryx.me](https://searx.aleteoryx.me)
 - [searx.ankha.ac](https://searx.ankha.ac)
+- [searx.ari.lt](https://searx.ari.lt)
 - [searx.baczek.me](https://searx.baczek.me)
 - [searx.be](https://searx.be)
 - [searx.catfluori.de](https://searx.catfluori.de)
@@ -62,6 +63,8 @@
 - [searxng.site](https://searxng.site)
 - [sex.finaltek.net](https://sex.finaltek.net)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
+- [sx.thatxtreme.dev](https://sx.thatxtreme.dev)
+- [twinkpad.pl](https://twinkpad.pl)
 - [www.gruble.de](https://www.gruble.de)
 - [xo.wtf](https://xo.wtf)
 # Onion
@@ -73,5 +76,6 @@
 - [searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion](http://searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion)
 - [searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion](http://searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion)
 - [tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion](http://tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion)
+- [xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion](http://xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion)
 # I2P
 

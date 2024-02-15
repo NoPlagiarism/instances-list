@@ -163,6 +163,7 @@
             "search.upinmars.com",
             "searx.aleteoryx.me",
             "searx.ankha.ac",
+            "searx.ari.lt",
             "searx.baczek.me",
             "searx.be",
             "searx.catfluori.de",
@@ -190,6 +191,8 @@
             "searxng.site",
             "sex.finaltek.net",
             "sx.catgirl.cloud",
+            "sx.thatxtreme.dev",
+            "twinkpad.pl",
             "www.gruble.de",
             "xo.wtf"
         ],
@@ -201,7 +204,8 @@
             "searchpie7fejn4wctzm6fgm6oz5vnziltfzzuec6b4qmkr3wrqaoqqd.onion",
             "searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion",
             "searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion",
-            "tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion"
+            "tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion",
+            "xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion"
         ],
         "i2p": []
     },
@@ -273,7 +277,6 @@
             "discuss.whatever.social",
             "l.opnxng.com",
             "libreddit.bus-hit.me",
-            "libreddit.kavin.rocks",
             "libreddit.lunar.icu",
             "libreddit.northboot.xyz",
             "libreddit.oxymagnesium.com",
@@ -282,10 +285,12 @@
             "libreddit.pussthecat.org",
             "libreddit.strongthany.cc",
             "libreddit.tux.pizza",
+            "lr.aeong.one",
             "lr.artemislena.eu",
             "lr.vern.cc",
             "reddit.invak.id",
             "reddit.simo.sh",
+            "safereddit.com",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -330,15 +335,15 @@
         "instances": [
             "pi.ggtyler.dev",
             "piped.adminforge.de",
-            "piped.astartes.nl",
             "piped.drgns.space",
             "piped.in.projectsegfau.lt",
-            "piped.lunar.icu",
+            "piped.ngn.tf",
             "piped.projectsegfau.lt",
             "piped.r4fo.com",
+            "piped.seitan-ayoub.lol",
             "piped.smnz.de",
-            "piped.syncpundit.io",
-            "piped.video"
+            "piped.video",
+            "watch.leptons.xyz"
         ],
         "onion": [
             "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
@@ -857,9 +862,11 @@
         "instances": [
             "0.0g.gg",
             "0.jaegers.net",
+            "0bin.virtuaverse.xyz",
             "amir.ch",
             "b.opnxng.com",
             "bin.0ax.cc",
+            "bin.0xfc.de",
             "bin.4st.li",
             "bin.68degrees.no",
             "bin.acquia.com",
@@ -955,7 +962,6 @@
             "paste.ottertelecom.com",
             "paste.picasoft.net",
             "paste.quest",
-            "paste.rosset.net",
             "paste.rys.pw",
             "paste.scurvynet.com",
             "paste.skynetcloud.site",
@@ -1029,6 +1035,7 @@
             "snip.dssr.ch",
             "teamware.eu",
             "textbin.quick-space.de",
+            "typeamessage.com",
             "vip.ci",
             "wtf.roflcopter.fr",
             "www.blueridgedebate.com",
@@ -1043,15 +1050,19 @@
             "zerobin.farcy.me",
             "zerobin.mirtouf.fr",
             "zerobin.org",
+            "zerobin.thican.net",
             "zerobin.zertrin.org"
         ],
         "onion": [
             "5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion",
             "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
             "paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion",
+            "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
             "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
+        ]
     },
     "cloudtube": {
         "name": "CloudTube",

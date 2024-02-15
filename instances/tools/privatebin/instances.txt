@@ -1,8 +1,10 @@
 0.0g.gg
 0.jaegers.net
+0bin.virtuaverse.xyz
 amir.ch
 b.opnxng.com
 bin.0ax.cc
+bin.0xfc.de
 bin.4st.li
 bin.68degrees.no
 bin.acquia.com
@@ -98,7 +100,6 @@ paste.ononoki.org
 paste.ottertelecom.com
 paste.picasoft.net
 paste.quest
-paste.rosset.net
 paste.rys.pw
 paste.scurvynet.com
 paste.skynetcloud.site
@@ -172,6 +173,7 @@ sendpass.ru
 snip.dssr.ch
 teamware.eu
 textbin.quick-space.de
+typeamessage.com
 vip.ci
 wtf.roflcopter.fr
 www.blueridgedebate.com
@@ -186,4 +188,5 @@ zerobin-legacy.dssr.ch
 zerobin.farcy.me
 zerobin.mirtouf.fr
 zerobin.org
+zerobin.thican.net
 zerobin.zertrin.org
