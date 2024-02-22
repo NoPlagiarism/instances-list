@@ -274,9 +274,9 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "discuss.whatever.social",
             "l.opnxng.com",
             "libreddit.bus-hit.me",
+            "libreddit.eu.org",
             "libreddit.lunar.icu",
             "libreddit.northboot.xyz",
             "libreddit.oxymagnesium.com",
@@ -290,7 +290,7 @@
             "lr.vern.cc",
             "reddit.invak.id",
             "reddit.simo.sh",
-            "safereddit.com",
+            "reddit.utsav2.dev",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -337,13 +337,14 @@
             "piped.adminforge.de",
             "piped.drgns.space",
             "piped.in.projectsegfau.lt",
+            "piped.lunar.icu",
             "piped.ngn.tf",
-            "piped.projectsegfau.lt",
             "piped.r4fo.com",
             "piped.seitan-ayoub.lol",
             "piped.smnz.de",
+            "piped.syncpundit.io",
             "piped.video",
-            "watch.leptons.xyz"
+            "yt.owo.si"
         ],
         "onion": [
             "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
@@ -372,7 +373,6 @@
             "invidious.private.coffee",
             "invidious.projectsegfau.lt",
             "invidious.protokolla.fi",
-            "invidious.slipfox.xyz",
             "iv.datura.network",
             "iv.ggtyler.dev",
             "iv.melmac.space",
@@ -407,6 +407,7 @@
             "hp.iqbalrifai.eu.org",
             "hp.ngn.tf",
             "hyperpipe.drgns.space",
+            "hyperpipe.ducks.party",
             "hyperpipe.esmailelbob.xyz",
             "hyperpipe.frontendfriendly.xyz",
             "hyperpipe.lunar.icu",
@@ -529,11 +530,9 @@
             "nitter.dafriser.be",
             "nitter.datura.network",
             "nitter.esmailelbob.xyz",
-            "nitter.eu.projectsegfau.lt",
             "nitter.fediflix.org",
             "nitter.freedit.eu",
             "nitter.hostux.net",
-            "nitter.in.projectsegfau.lt",
             "nitter.inpt.fr",
             "nitter.it",
             "nitter.jakefrosty.com",
@@ -553,7 +552,6 @@
             "nitter.perennialte.ch",
             "nitter.privacydev.net",
             "nitter.private.coffee",
-            "nitter.projectsegfau.lt",
             "nitter.qwik.space",
             "nitter.rawbit.ninja",
             "nitter.simpleprivacy.fr",
@@ -563,7 +561,6 @@
             "nitter.tux.pizza",
             "nitter.twei.space",
             "nitter.unixfox.eu",
-            "nitter.us.projectsegfau.lt",
             "nitter.woodland.cafe",
             "nt.ggtyler.dev",
             "tweet.lambda.dance"
@@ -786,24 +783,8 @@
         "name": "libremdb",
         "url": "https://github.com/zyachel/libremdb",
         "path": "imdb/libremdb",
-        "instances": [
-            "binge.whatever.social",
-            "binge.whateveritworks.org",
-            "ld.vern.cc",
-            "libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "libremdb.frontendfriendly.xyz",
-            "libremdb.iket.me",
-            "libremdb.jeikobu.net",
-            "libremdb.lunar.icu",
-            "libremdb.nerdyfam.tech",
-            "libremdb.pussthecat.org",
-            "libremdb.tux.pizza",
-            "lmdb.hostux.net"
-        ],
-        "onion": [
-            "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion"
-        ],
+        "instances": [],
+        "onion": [],
         "i2p": []
     },
     "anonymousoverflow": {
@@ -862,8 +843,6 @@
         "instances": [
             "0.0g.gg",
             "0.jaegers.net",
-            "0bin.virtuaverse.xyz",
-            "amir.ch",
             "b.opnxng.com",
             "bin.0ax.cc",
             "bin.0xfc.de",
@@ -882,7 +861,6 @@
             "bin.idrix.fr",
             "bin.infini.fr",
             "bin.infra.Mee6.cloud",
-            "bin.itefix.no",
             "bin.iya.at",
             "bin.libreon.fr",
             "bin.mezzo.moe",
@@ -1028,6 +1006,7 @@
             "pstbn.io",
             "sebsauvage.net",
             "secrets.cebador.fr",
+            "secrets.l25.cloud",
             "secrets.secumail.de",
             "secrets.true.nl",
             "secure.superior.nl",
@@ -1080,7 +1059,6 @@
         "path": "search/4get",
         "instances": [
             "4g.ggtyler.dev",
-            "4g.opnxng.com",
             "4get.ca",
             "4get.datura.network",
             "4get.dcs0.hu",

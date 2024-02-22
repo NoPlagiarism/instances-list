@@ -282,9 +282,9 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
-- [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
+- [libreddit.eu.org](https://libreddit.eu.org)
 - [libreddit.lunar.icu](https://libreddit.lunar.icu)
 - [libreddit.northboot.xyz](https://libreddit.northboot.xyz)
 - [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)
@@ -298,7 +298,7 @@
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.simo.sh](https://reddit.simo.sh)
-- [safereddit.com](https://safereddit.com)
+- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
@@ -336,13 +336,14 @@
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.drgns.space](https://piped.drgns.space)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
+- [piped.lunar.icu](https://piped.lunar.icu)
 - [piped.ngn.tf](https://piped.ngn.tf)
-- [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.r4fo.com](https://piped.r4fo.com)
 - [piped.seitan-ayoub.lol](https://piped.seitan-ayoub.lol)
 - [piped.smnz.de](https://piped.smnz.de)
+- [piped.syncpundit.io](https://piped.syncpundit.io)
 - [piped.video](https://piped.video)
-- [watch.leptons.xyz](https://watch.leptons.xyz)
+- [yt.owo.si](https://yt.owo.si)
 ### Onion
 - [piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
@@ -368,7 +369,6 @@
 - [invidious.private.coffee](https://invidious.private.coffee)
 - [invidious.projectsegfau.lt](https://invidious.projectsegfau.lt)
 - [invidious.protokolla.fi](https://invidious.protokolla.fi)
-- [invidious.slipfox.xyz](https://invidious.slipfox.xyz)
 - [iv.datura.network](https://iv.datura.network)
 - [iv.ggtyler.dev](https://iv.ggtyler.dev)
 - [iv.melmac.space](https://iv.melmac.space)
@@ -398,6 +398,7 @@
 - [hp.iqbalrifai.eu.org](https://hp.iqbalrifai.eu.org)
 - [hp.ngn.tf](https://hp.ngn.tf)
 - [hyperpipe.drgns.space](https://hyperpipe.drgns.space)
+- [hyperpipe.ducks.party](https://hyperpipe.ducks.party)
 - [hyperpipe.esmailelbob.xyz](https://hyperpipe.esmailelbob.xyz)
 - [hyperpipe.frontendfriendly.xyz](https://hyperpipe.frontendfriendly.xyz)
 - [hyperpipe.lunar.icu](https://hyperpipe.lunar.icu)
@@ -499,11 +500,9 @@
 - [nitter.dafriser.be](https://nitter.dafriser.be)
 - [nitter.datura.network](https://nitter.datura.network)
 - [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)
-- [nitter.eu.projectsegfau.lt](https://nitter.eu.projectsegfau.lt)
 - [nitter.fediflix.org](https://nitter.fediflix.org)
 - [nitter.freedit.eu](https://nitter.freedit.eu)
 - [nitter.hostux.net](https://nitter.hostux.net)
-- [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)
 - [nitter.inpt.fr](https://nitter.inpt.fr)
 - [nitter.it](https://nitter.it)
 - [nitter.jakefrosty.com](https://nitter.jakefrosty.com)
@@ -523,7 +522,6 @@
 - [nitter.perennialte.ch](https://nitter.perennialte.ch)
 - [nitter.privacydev.net](https://nitter.privacydev.net)
 - [nitter.private.coffee](https://nitter.private.coffee)
-- [nitter.projectsegfau.lt](https://nitter.projectsegfau.lt)
 - [nitter.qwik.space](https://nitter.qwik.space)
 - [nitter.rawbit.ninja](https://nitter.rawbit.ninja)
 - [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr)
@@ -533,7 +531,6 @@
 - [nitter.tux.pizza](https://nitter.tux.pizza)
 - [nitter.twei.space](https://nitter.twei.space)
 - [nitter.unixfox.eu](https://nitter.unixfox.eu)
-- [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)
 - [nitter.woodland.cafe](https://nitter.woodland.cafe)
 - [nt.ggtyler.dev](https://nt.ggtyler.dev)
 - [tweet.lambda.dance](https://tweet.lambda.dance)
@@ -721,21 +718,9 @@
 ## [libremdb](https://github.com/zyachel/libremdb)
 
 ### Clearnet
-- [binge.whatever.social](https://binge.whatever.social)
-- [binge.whateveritworks.org](https://binge.whateveritworks.org)
-- [ld.vern.cc](https://ld.vern.cc)
-- [libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](https://libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
-- [libremdb.frontendfriendly.xyz](https://libremdb.frontendfriendly.xyz)
-- [libremdb.iket.me](https://libremdb.iket.me)
-- [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
-- [libremdb.lunar.icu](https://libremdb.lunar.icu)
-- [libremdb.nerdyfam.tech](https://libremdb.nerdyfam.tech)
-- [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
-- [libremdb.tux.pizza](https://libremdb.tux.pizza)
-- [lmdb.hostux.net](https://lmdb.hostux.net)
+
 ### Onion
-- [ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+
 ### I2P
 
 
@@ -785,8 +770,6 @@
 ### Clearnet
 - [0.0g.gg](https://0.0g.gg)
 - [0.jaegers.net](https://0.jaegers.net)
-- [0bin.virtuaverse.xyz](https://0bin.virtuaverse.xyz)
-- [amir.ch](https://amir.ch)
 - [b.opnxng.com](https://b.opnxng.com)
 - [bin.0ax.cc](https://bin.0ax.cc)
 - [bin.0xfc.de](https://bin.0xfc.de)
@@ -805,7 +788,6 @@
 - [bin.idrix.fr](https://bin.idrix.fr)
 - [bin.infini.fr](https://bin.infini.fr)
 - [bin.infra.Mee6.cloud](https://bin.infra.Mee6.cloud)
-- [bin.itefix.no](https://bin.itefix.no)
 - [bin.iya.at](https://bin.iya.at)
 - [bin.libreon.fr](https://bin.libreon.fr)
 - [bin.mezzo.moe](https://bin.mezzo.moe)
@@ -951,6 +933,7 @@
 - [pstbn.io](https://pstbn.io)
 - [sebsauvage.net](https://sebsauvage.net)
 - [secrets.cebador.fr](https://secrets.cebador.fr)
+- [secrets.l25.cloud](https://secrets.l25.cloud)
 - [secrets.secumail.de](https://secrets.secumail.de)
 - [secrets.true.nl](https://secrets.true.nl)
 - [secure.superior.nl](https://secure.superior.nl)
@@ -995,7 +978,6 @@
 
 ### Clearnet
 - [4g.ggtyler.dev](https://4g.ggtyler.dev)
-- [4g.opnxng.com](https://4g.opnxng.com)
 - [4get.ca](https://4get.ca)
 - [4get.datura.network](https://4get.datura.network)
 - [4get.dcs0.hu](https://4get.dcs0.hu)

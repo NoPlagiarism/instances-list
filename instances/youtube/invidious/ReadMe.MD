@@ -17,7 +17,6 @@
 - [invidious.private.coffee](https://invidious.private.coffee)
 - [invidious.projectsegfau.lt](https://invidious.projectsegfau.lt)
 - [invidious.protokolla.fi](https://invidious.protokolla.fi)
-- [invidious.slipfox.xyz](https://invidious.slipfox.xyz)
 - [iv.datura.network](https://iv.datura.network)
 - [iv.ggtyler.dev](https://iv.ggtyler.dev)
 - [iv.melmac.space](https://iv.melmac.space)

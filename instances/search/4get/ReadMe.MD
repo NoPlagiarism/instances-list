@@ -2,7 +2,6 @@
 
 # Clearnet
 - [4g.ggtyler.dev](https://4g.ggtyler.dev)
-- [4g.opnxng.com](https://4g.opnxng.com)
 - [4get.ca](https://4get.ca)
 - [4get.datura.network](https://4get.datura.network)
 - [4get.dcs0.hu](https://4get.dcs0.hu)

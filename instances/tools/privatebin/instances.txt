@@ -1,7 +1,5 @@
 0.0g.gg
 0.jaegers.net
-0bin.virtuaverse.xyz
-amir.ch
 b.opnxng.com
 bin.0ax.cc
 bin.0xfc.de
@@ -20,7 +18,6 @@ bin.hbubli.cc
 bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
-bin.itefix.no
 bin.iya.at
 bin.libreon.fr
 bin.mezzo.moe
@@ -166,6 +163,7 @@ privatepastebin.com
 pstbn.io
 sebsauvage.net
 secrets.cebador.fr
+secrets.l25.cloud
 secrets.secumail.de
 secrets.true.nl
 secure.superior.nl

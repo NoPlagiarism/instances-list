@@ -1,6 +1,6 @@
-discuss.whatever.social
 l.opnxng.com
 libreddit.bus-hit.me
+libreddit.eu.org
 libreddit.lunar.icu
 libreddit.northboot.xyz
 libreddit.oxymagnesium.com
@@ -14,5 +14,5 @@ lr.artemislena.eu
 lr.vern.cc
 reddit.invak.id
 reddit.simo.sh
-safereddit.com
+reddit.utsav2.dev
 snoo.habedieeh.re
