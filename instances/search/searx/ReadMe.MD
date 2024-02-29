@@ -27,6 +27,7 @@
 - [search.mdosch.de](https://search.mdosch.de)
 - [search.nadeko.net](https://search.nadeko.net)
 - [search.ononoki.org](https://search.ononoki.org)
+- [search.privacyredirect.com](https://search.privacyredirect.com)
 - [search.projectsegfau.lt](https://search.projectsegfau.lt)
 - [search.rhscz.eu](https://search.rhscz.eu)
 - [search.rowie.at](https://search.rowie.at)

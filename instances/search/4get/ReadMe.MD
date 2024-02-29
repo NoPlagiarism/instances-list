@@ -11,6 +11,7 @@
 - [4get.konakona.moe](https://4get.konakona.moe)
 - [4get.lunar.icu](https://4get.lunar.icu)
 - [4get.lvkaszus.pl](https://4get.lvkaszus.pl)
+- [4get.neco.lol](https://4get.neco.lol)
 - [4get.perennialte.ch](https://4get.perennialte.ch)
 - [4get.plunked.party](https://4get.plunked.party)
 - [4get.psily.garden](https://4get.psily.garden)

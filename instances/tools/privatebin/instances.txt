@@ -1,5 +1,6 @@
 0.0g.gg
 0.jaegers.net
+0bin.virtuaverse.xyz
 b.opnxng.com
 bin.0ax.cc
 bin.0xfc.de
@@ -91,6 +92,7 @@ paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
 paste.momobako.com
+paste.mrghostlyorb.dev
 paste.nolog.cz
 paste.nomagic.uk
 paste.ononoki.org
@@ -98,7 +100,6 @@ paste.ottertelecom.com
 paste.picasoft.net
 paste.quest
 paste.rys.pw
-paste.scurvynet.com
 paste.skynetcloud.site
 paste.spigot.pl
 paste.stratum0.org
@@ -120,7 +121,6 @@ pastebin.aquilenet.fr
 pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
-pastebin.lapacz.de
 pastebin.linqhost.nl
 pastefg.hermietkreeft.site
 pb.ari.lt
@@ -145,7 +145,6 @@ privatebin.devol.it
 privatebin.freinetz.ch
 privatebin.imagisphe.re
 privatebin.io
-privatebin.jirlagun.com
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
 privatebin.luckvintage.com
@@ -162,6 +161,7 @@ privatebin.xi.ht
 privatepastebin.com
 pstbn.io
 sebsauvage.net
+secret.timeweb.ru
 secrets.cebador.fr
 secrets.l25.cloud
 secrets.secumail.de
@@ -171,6 +171,7 @@ sendpass.ru
 snip.dssr.ch
 teamware.eu
 textbin.quick-space.de
+texte.antopie.org
 typeamessage.com
 vip.ci
 wtf.roflcopter.fr

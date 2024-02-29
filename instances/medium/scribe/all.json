@@ -4,14 +4,18 @@
         "scribe.bus-hit.me",
         "scribe.citizen4.eu",
         "scribe.froth.zone",
+        "scribe.manasiwibi.com",
         "scribe.nixnet.services",
         "scribe.privacydev.net",
+        "scribe.privacyredirect.com",
         "scribe.r4fo.com",
         "scribe.rawbit.ninja",
         "scribe.rip"
     ],
     "onion": [
         "scribe.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+        "scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
+        "umxccfmp4gyfllsdlzkrnhpd3lxlf4necjolrz22yzcrgwflbrzgtiad.onion",
         "w7uhv5lxhgck72hhimdglmusc54t4m6bionlmd5mvyddq3bs53mohqid.onion"
     ],
     "i2p": [

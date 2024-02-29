@@ -1,6 +1,7 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
+- [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.eu.org](https://libreddit.eu.org)
@@ -13,7 +14,6 @@
 - [libreddit.strongthany.cc](https://libreddit.strongthany.cc)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.aeong.one](https://lr.aeong.one)
-- [lr.artemislena.eu](https://lr.artemislena.eu)
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.simo.sh](https://reddit.simo.sh)
