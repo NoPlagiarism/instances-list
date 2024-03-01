@@ -143,15 +143,14 @@
             "s.trung.fun",
             "search.broker",
             "search.bus-hit.me",
+            "search.datura.network",
             "search.demoniak.ch",
             "search.gcomm.ch",
             "search.hbubli.cc",
             "search.im-in.space",
             "search.in.projectsegfau.lt",
             "search.inetol.net",
-            "search.itstechtime.com",
             "search.leptons.xyz",
-            "search.lvkaszus.pl",
             "search.mdosch.de",
             "search.nadeko.net",
             "search.ononoki.org",
@@ -161,6 +160,7 @@
             "search.rowie.at",
             "search.sapti.me",
             "search.smnz.de",
+            "search.starless.one",
             "search.upinmars.com",
             "searx.aleteoryx.me",
             "searx.ankha.ac",
@@ -171,7 +171,6 @@
             "searx.cthd.icu",
             "searx.daetalytica.io",
             "searx.ee",
-            "searx.fmhy.net",
             "searx.headpat.exchange",
             "searx.juancord.xyz",
             "searx.kutay.dev",
@@ -188,6 +187,8 @@
             "searx.tuxcloud.net",
             "searx.work",
             "searx.zhenyapav.com",
+            "searxng.brihx.fr",
+            "searxng.ca",
             "searxng.ch",
             "searxng.site",
             "sex.finaltek.net",
@@ -200,6 +201,7 @@
         "onion": [
             "4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion",
             "privateoz3u5utrimal2edr56j3r5caakektxxgixigdkycuxigvquid.onion",
+            "search.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
             "search.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion",
             "search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "searchpie7fejn4wctzm6fgm6oz5vnziltfzzuec6b4qmkr3wrqaoqqd.onion",
@@ -292,6 +294,7 @@
             "reddit.invak.id",
             "reddit.simo.sh",
             "reddit.utsav2.dev",
+            "safereddit.com",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -335,23 +338,20 @@
         "path": "youtube/piped",
         "instances": [
             "pi.ggtyler.dev",
+            "piped.12a.app",
             "piped.adminforge.de",
             "piped.astartes.nl",
             "piped.drgns.space",
-            "piped.in.projectsegfau.lt",
+            "piped.ducks.party",
+            "piped.garudalinux.org",
             "piped.lunar.icu",
             "piped.ngn.tf",
-            "piped.privacydev.net",
-            "piped.projectsegfau.lt",
             "piped.r4fo.com",
             "piped.smnz.de",
-            "piped.us.projectsegfau.lt",
-            "piped.video",
-            "watch.leptons.xyz",
-            "yt.owo.si"
+            "piped.syncpundit.io",
+            "piped.video"
         ],
         "onion": [
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
@@ -514,7 +514,6 @@
             "watch.whateveritworks.org"
         ],
         "onion": [
-            "5znbzx2xcymhddzekfjib3isgqq4ilcyxa2bsq6vqmnvbtgu4f776lqd.onion",
             "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
@@ -859,7 +858,6 @@
             "bin.4st.li",
             "bin.68degrees.no",
             "bin.acquia.com",
-            "bin.b1t.rip",
             "bin.bloat.cat",
             "bin.bus-hit.me",
             "bin.byreqz.de",
@@ -1028,7 +1026,6 @@
             "vip.ci",
             "wtf.roflcopter.fr",
             "www.blueridgedebate.com",
-            "www.engangspassord.no",
             "www.gitgd.com",
             "www.nervengas.com",
             "www.vlh.dk",

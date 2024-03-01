@@ -7,7 +7,6 @@ bin.0xfc.de
 bin.4st.li
 bin.68degrees.no
 bin.acquia.com
-bin.b1t.rip
 bin.bloat.cat
 bin.bus-hit.me
 bin.byreqz.de
@@ -176,7 +175,6 @@ typeamessage.com
 vip.ci
 wtf.roflcopter.fr
 www.blueridgedebate.com
-www.engangspassord.no
 www.gitgd.com
 www.nervengas.com
 www.vlh.dk
