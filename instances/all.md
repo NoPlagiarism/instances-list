@@ -32,6 +32,7 @@
 - [PrivateBin](#privatebin)
 - [CloudTube](#cloudtube)
 - [4get](#4get)
+- [piped-proxy](#piped-proxy)
 
 ## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
@@ -726,11 +727,30 @@
 ## [libremdb](https://github.com/zyachel/libremdb)
 
 ### Clearnet
-
+- [binge.whatever.social](https://binge.whatever.social)
+- [binge.whateveritworks.org](https://binge.whateveritworks.org)
+- [d.opnxng.com](https://d.opnxng.com)
+- [ld.vern.cc](https://ld.vern.cc)
+- [libremdb.catsarch.com](https://libremdb.catsarch.com)
+- [libremdb.ducks.party](https://libremdb.ducks.party)
+- [libremdb.frontendfriendly.xyz](https://libremdb.frontendfriendly.xyz)
+- [libremdb.iket.me](https://libremdb.iket.me)
+- [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
+- [libremdb.lunar.icu](https://libremdb.lunar.icu)
+- [libremdb.nerdyfam.tech](https://libremdb.nerdyfam.tech)
+- [libremdb.privacydev.net](https://libremdb.privacydev.net)
+- [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
+- [libremdb.r4fo.com](https://libremdb.r4fo.com)
+- [libremdb.tux.pizza](https://libremdb.tux.pizza)
+- [lmdb.hostux.net](https://lmdb.hostux.net)
+- [mdb.sudovanilla.com](https://mdb.sudovanilla.com)
 ### Onion
-
+- [ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+- [libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+- [libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
-
+- [vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p](http://vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p)
 
 ## [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow#readme)
 
@@ -1006,3 +1026,17 @@
 - [4get.zzls.xyz](https://4get.zzls.xyz)
 - [4getus.zzls.xyz](https://4getus.zzls.xyz)
 - [search.milivojevic.in.rs](https://search.milivojevic.in.rs)
+
+## [piped-proxy](https://github.com/TeamPiped/piped-proxy)
+
+### Clearnet
+- [piped-proxy.garudalinux.org](https://piped-proxy.garudalinux.org)
+- [piped-proxy.lunar.icu](https://piped-proxy.lunar.icu)
+- [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
+- [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
+- [pipedproxy.12a.app](https://pipedproxy.12a.app)
+- [pipedproxy.astartes.nl](https://pipedproxy.astartes.nl)
+- [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
+- [pipedproxy.in.projectsegfau.lt](https://pipedproxy.in.projectsegfau.lt)
+- [piproxy.ggtyler.dev](https://piproxy.ggtyler.dev)
+- [proxy.piped.privacydev.net](https://proxy.piped.privacydev.net)

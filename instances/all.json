@@ -791,9 +791,34 @@
         "name": "libremdb",
         "url": "https://github.com/zyachel/libremdb",
         "path": "imdb/libremdb",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "binge.whatever.social",
+            "binge.whateveritworks.org",
+            "d.opnxng.com",
+            "ld.vern.cc",
+            "libremdb.catsarch.com",
+            "libremdb.ducks.party",
+            "libremdb.frontendfriendly.xyz",
+            "libremdb.iket.me",
+            "libremdb.jeikobu.net",
+            "libremdb.lunar.icu",
+            "libremdb.nerdyfam.tech",
+            "libremdb.privacydev.net",
+            "libremdb.pussthecat.org",
+            "libremdb.r4fo.com",
+            "libremdb.tux.pizza",
+            "lmdb.hostux.net",
+            "mdb.sudovanilla.com"
+        ],
+        "onion": [
+            "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
+        ],
+        "i2p": [
+            "vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p"
+        ]
     },
     "anonymousoverflow": {
         "name": "AnonymousOverflow",
@@ -1087,6 +1112,23 @@
             "4get.zzls.xyz",
             "4getus.zzls.xyz",
             "search.milivojevic.in.rs"
+        ]
+    },
+    "piped-proxy": {
+        "name": "piped-proxy",
+        "url": "https://github.com/TeamPiped/piped-proxy",
+        "path": "youtube/piped-proxy",
+        "instances": [
+            "piped-proxy.garudalinux.org",
+            "piped-proxy.lunar.icu",
+            "pipedimageproxy.smnz.de",
+            "pipedimg.adminforge.de",
+            "pipedproxy.12a.app",
+            "pipedproxy.astartes.nl",
+            "pipedproxy.drgns.space",
+            "pipedproxy.in.projectsegfau.lt",
+            "piproxy.ggtyler.dev",
+            "proxy.piped.privacydev.net"
         ]
     }
 }
