@@ -94,7 +94,6 @@
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.i2pd.xyz](https://paste.i2pd.xyz)
 - [paste.momobako.com](https://paste.momobako.com)
-- [paste.mrghostlyorb.dev](https://paste.mrghostlyorb.dev)
 - [paste.nolog.cz](https://paste.nolog.cz)
 - [paste.nomagic.uk](https://paste.nomagic.uk)
 - [paste.ononoki.org](https://paste.ononoki.org)

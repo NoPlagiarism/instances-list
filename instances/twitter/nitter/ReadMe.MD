@@ -24,7 +24,6 @@
 - [nitter.jakefrosty.com](https://nitter.jakefrosty.com)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
 - [nitter.kling.gg](https://nitter.kling.gg)
-- [nitter.ktachibana.party](https://nitter.ktachibana.party)
 - [nitter.kylrth.com](https://nitter.kylrth.com)
 - [nitter.lanterne-rouge.info](https://nitter.lanterne-rouge.info)
 - [nitter.lunar.icu](https://nitter.lunar.icu)

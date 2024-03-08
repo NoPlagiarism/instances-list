@@ -2,6 +2,7 @@ discuss.whatever.social
 l.opnxng.com
 libreddit.bus-hit.me
 libreddit.eu.org
+libreddit.kavin.rocks
 libreddit.lunar.icu
 libreddit.northboot.xyz
 libreddit.oxymagnesium.com
@@ -14,6 +15,7 @@ lr.aeong.one
 lr.vern.cc
 reddit.invak.id
 reddit.simo.sh
+reddit.smnz.de
 reddit.utsav2.dev
 safereddit.com
 snoo.habedieeh.re

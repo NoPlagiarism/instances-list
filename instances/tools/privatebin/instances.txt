@@ -91,7 +91,6 @@ paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
 paste.momobako.com
-paste.mrghostlyorb.dev
 paste.nolog.cz
 paste.nomagic.uk
 paste.ononoki.org

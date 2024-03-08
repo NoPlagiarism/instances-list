@@ -10,6 +10,7 @@
 - [search.nezumi.party](https://search.nezumi.party)
 - [search.notrustverify.ch](https://search.notrustverify.ch)
 - [search.sethforprivacy.com](https://search.sethforprivacy.com)
+- [search.snine.nl](https://search.snine.nl)
 - [wg.vern.cc](https://wg.vern.cc)
 - [wgl.frail.duckdns.org](https://wgl.frail.duckdns.org)
 - [whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion](https://whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion)
