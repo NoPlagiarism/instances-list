@@ -23,7 +23,6 @@
 - [iv.nboeck.de](https://iv.nboeck.de)
 - [vid.puffyan.us](https://vid.puffyan.us)
 - [yewtu.be](https://yewtu.be)
-- [youtube.owacon.moe](https://youtube.owacon.moe)
 - [yt.artemislena.eu](https://yt.artemislena.eu)
 - [yt.cdaut.de](https://yt.cdaut.de)
 - [yt.drgnz.club](https://yt.drgnz.club)

@@ -295,10 +295,7 @@
             "lr.vern.cc",
             "reddit.invak.id",
             "reddit.simo.sh",
-            "reddit.smnz.de",
-            "reddit.utsav2.dev",
-            "safereddit.com",
-            "snoo.habedieeh.re"
+            "safereddit.com"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -327,7 +324,6 @@
         ],
         "onion": [
             "7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion",
-            "wikiless.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
@@ -343,13 +339,17 @@
             "pi.ggtyler.dev",
             "piped.adminforge.de",
             "piped.astartes.nl",
+            "piped.darkness.services",
             "piped.drgns.space",
-            "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
+            "piped.ngn.tf",
             "piped.privacydev.net",
+            "piped.projectsegfau.lt",
             "piped.r4fo.com",
             "piped.smnz.de",
-            "piped.video"
+            "piped.us.projectsegfau.lt",
+            "piped.video",
+            "watch.leptons.xyz"
         ],
         "onion": [
             "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
@@ -385,7 +385,6 @@
             "iv.nboeck.de",
             "vid.puffyan.us",
             "yewtu.be",
-            "youtube.owacon.moe",
             "yt.artemislena.eu",
             "yt.cdaut.de",
             "yt.drgnz.club"
@@ -557,7 +556,6 @@
             "nitter.no-logs.com",
             "nitter.nohost.network",
             "nitter.oksocial.net",
-            "nitter.perennialte.ch",
             "nitter.privacydev.net",
             "nitter.private.coffee",
             "nitter.qwik.space",
@@ -652,7 +650,6 @@
             "send.mni.li",
             "send.monks.tools",
             "send.nsh.social",
-            "send.portailpro.net",
             "send.turingpoint.de",
             "send.vis.ee",
             "send.whateveritworks.org",
@@ -831,6 +828,7 @@
             "anonymousoverflow.privacyfucking.rocks",
             "ao.bloatcat.tk",
             "ao.ftw.lol",
+            "ao.ngn.tf",
             "ao.vern.cc",
             "code.whatever.social",
             "exchange.seitan-ayoub.lol",
@@ -930,6 +928,7 @@
             "logs.notifiarr.com",
             "notebin.de",
             "notes.de.cool",
+            "noteshare.net",
             "oldpb.purplebored.pl",
             "onetime.vits.co.uk",
             "opportunis.me",
@@ -948,7 +947,6 @@
             "paste.3server.de",
             "paste.aryu.de",
             "paste.biocrafting.net",
-            "paste.ceppo.xyz",
             "paste.chapril.org",
             "paste.copper.dedyn.io",
             "paste.d-ku.de",
@@ -960,7 +958,6 @@
             "paste.elyday.net",
             "paste.evolix.org",
             "paste.fizi.ca",
-            "paste.frylo.net",
             "paste.gamesdrive.net",
             "paste.ggc-project.de",
             "paste.hackliberty.org",
@@ -1043,6 +1040,7 @@
             "secrets.true.nl",
             "secure.superior.nl",
             "sendpass.ru",
+            "sic.spacedock.dev",
             "snip.dssr.ch",
             "teamware.eu",
             "textbin.quick-space.de",
@@ -1123,12 +1121,16 @@
             "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
+            "pipedproxy.astartes.nl",
+            "pipedproxy.coldforge.xyz",
+            "pipedproxy.darkness.services",
             "pipedproxy.drgns.space",
-            "pipedproxy.in.projectsegfau.lt",
-            "pipedproxy.kavin.rocks",
+            "pipedproxy.leptons.xyz",
+            "pipedproxy.ngn.tf",
             "pipedproxy.r4fo.com",
             "piproxy.ggtyler.dev",
-            "proxy.piped.privacydev.net"
+            "proxy.piped.privacydev.net",
+            "proxy.piped.projectsegfau.lt"
         ]
     }
 }

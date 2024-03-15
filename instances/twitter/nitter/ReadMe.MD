@@ -34,7 +34,6 @@
 - [nitter.no-logs.com](https://nitter.no-logs.com)
 - [nitter.nohost.network](https://nitter.nohost.network)
 - [nitter.oksocial.net](https://nitter.oksocial.net)
-- [nitter.perennialte.ch](https://nitter.perennialte.ch)
 - [nitter.privacydev.net](https://nitter.privacydev.net)
 - [nitter.private.coffee](https://nitter.private.coffee)
 - [nitter.qwik.space](https://nitter.qwik.space)

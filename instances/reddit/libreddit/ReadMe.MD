@@ -18,10 +18,7 @@
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.simo.sh](https://reddit.simo.sh)
-- [reddit.smnz.de](https://reddit.smnz.de)
-- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
-- [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)

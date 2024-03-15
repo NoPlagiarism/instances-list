@@ -53,6 +53,7 @@ ktbky.kaaass.net
 logs.notifiarr.com
 notebin.de
 notes.de.cool
+noteshare.net
 oldpb.purplebored.pl
 onetime.vits.co.uk
 opportunis.me
@@ -71,7 +72,6 @@ paste.07f.de
 paste.3server.de
 paste.aryu.de
 paste.biocrafting.net
-paste.ceppo.xyz
 paste.chapril.org
 paste.copper.dedyn.io
 paste.d-ku.de
@@ -83,7 +83,6 @@ paste.dvotx.org
 paste.elyday.net
 paste.evolix.org
 paste.fizi.ca
-paste.frylo.net
 paste.gamesdrive.net
 paste.ggc-project.de
 paste.hackliberty.org
@@ -166,6 +165,7 @@ secrets.secumail.de
 secrets.true.nl
 secure.superior.nl
 sendpass.ru
+sic.spacedock.dev
 snip.dssr.ch
 teamware.eu
 textbin.quick-space.de
