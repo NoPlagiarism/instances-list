@@ -1,5 +1,6 @@
 inv.n8pjl.ca
 inv.nadeko.net
+inv.oikei.net
 inv.tux.pizza
 inv.us.projectsegfau.lt
 invidious.drgns.space
@@ -18,6 +19,7 @@ iv.datura.network
 iv.ggtyler.dev
 iv.melmac.space
 iv.nboeck.de
+vid.lilay.dev
 vid.puffyan.us
 yewtu.be
 yt.artemislena.eu

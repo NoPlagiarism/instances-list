@@ -1,6 +1,7 @@
 # [piped-proxy](https://github.com/TeamPiped/piped-proxy)
 
 # Clearnet
+- [piped-proxy.ducks.party](https://piped-proxy.ducks.party)
 - [piped-proxy.lunar.icu](https://piped-proxy.lunar.icu)
 - [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
 - [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
@@ -9,9 +10,9 @@
 - [pipedproxy.coldforge.xyz](https://pipedproxy.coldforge.xyz)
 - [pipedproxy.darkness.services](https://pipedproxy.darkness.services)
 - [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
-- [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
+- [pipedproxy.kavin.rocks](https://pipedproxy.kavin.rocks)
 - [pipedproxy.ngn.tf](https://pipedproxy.ngn.tf)
 - [pipedproxy.r4fo.com](https://pipedproxy.r4fo.com)
-- [piproxy.ggtyler.dev](https://piproxy.ggtyler.dev)
+- [pipedproxy.syncpundit.io](https://pipedproxy.syncpundit.io)
 - [proxy.piped.privacydev.net](https://proxy.piped.privacydev.net)
 - [proxy.piped.projectsegfau.lt](https://proxy.piped.projectsegfau.lt)

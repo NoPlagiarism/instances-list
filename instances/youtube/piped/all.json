@@ -1,8 +1,8 @@
 {
     "instances": [
-        "pi.ggtyler.dev",
         "piped.adminforge.de",
         "piped.astartes.nl",
+        "piped.coldforge.xyz",
         "piped.darkness.services",
         "piped.drgns.space",
         "piped.lunar.icu",
@@ -11,9 +11,9 @@
         "piped.projectsegfau.lt",
         "piped.r4fo.com",
         "piped.smnz.de",
+        "piped.syncpundit.io",
         "piped.us.projectsegfau.lt",
-        "piped.video",
-        "watch.leptons.xyz"
+        "piped.video"
     ],
     "onion": [
         "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",

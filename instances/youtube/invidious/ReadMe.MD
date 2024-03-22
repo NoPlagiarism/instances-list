@@ -3,6 +3,7 @@
 # Clearnet
 - [inv.n8pjl.ca](https://inv.n8pjl.ca)
 - [inv.nadeko.net](https://inv.nadeko.net)
+- [inv.oikei.net](https://inv.oikei.net)
 - [inv.tux.pizza](https://inv.tux.pizza)
 - [inv.us.projectsegfau.lt](https://inv.us.projectsegfau.lt)
 - [invidious.drgns.space](https://invidious.drgns.space)
@@ -21,6 +22,7 @@
 - [iv.ggtyler.dev](https://iv.ggtyler.dev)
 - [iv.melmac.space](https://iv.melmac.space)
 - [iv.nboeck.de](https://iv.nboeck.de)
+- [vid.lilay.dev](https://vid.lilay.dev)
 - [vid.puffyan.us](https://vid.puffyan.us)
 - [yewtu.be](https://yewtu.be)
 - [yt.artemislena.eu](https://yt.artemislena.eu)
@@ -31,7 +33,7 @@
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
 - [inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 - [invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
-- [jemgkaq2xibfu37hm2xojsxoi7djtwb25w6krhl63lhn52xfzgeyc2ad.onion](http://jemgkaq2xibfu37hm2xojsxoi7djtwb25w6krhl63lhn52xfzgeyc2ad.onion)
+- [nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion](http://nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion)
 - [ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion](http://ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion)
 # I2P
 - [http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p](http://http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p)
