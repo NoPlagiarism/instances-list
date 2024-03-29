@@ -1,7 +1,7 @@
 anonoverflow.frontendfriendly.xyz
 anonoverflow.hyperreal.coffee
 anonymousoverflow.privacyfucking.rocks
-ao.bloatcat.tk
+ao.bloat.cat
 ao.ftw.lol
 ao.ngn.tf
 ao.vern.cc
@@ -16,4 +16,5 @@ overflow.lunar.icu
 overflow.projectsegfau.lt
 overflow.r4fo.com
 overflow.smnz.de
+overflow.snine.nl
 overflow.sudovanilla.com

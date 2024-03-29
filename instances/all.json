@@ -146,6 +146,7 @@
             "search.colbster937.dev",
             "search.datura.network",
             "search.demoniak.ch",
+            "search.einfachzocken.eu",
             "search.gcomm.ch",
             "search.hbubli.cc",
             "search.im-in.space",
@@ -154,6 +155,7 @@
             "search.leptons.xyz",
             "search.mdosch.de",
             "search.nadeko.net",
+            "search.ngn.tf",
             "search.ononoki.org",
             "search.privacyredirect.com",
             "search.projectsegfau.lt",
@@ -169,6 +171,7 @@
             "searx.be",
             "searx.catfluori.de",
             "searx.daetalytica.io",
+            "searx.dresden.network",
             "searx.ee",
             "searx.foss.family",
             "searx.headpat.exchange",
@@ -194,7 +197,9 @@
             "sex.finaltek.net",
             "sx.catgirl.cloud",
             "sx.thatxtreme.dev",
+            "sxng.violets-purgatory.dev",
             "twinkpad.pl",
+            "vanderwilhelm.me",
             "www.gruble.de",
             "xo.wtf"
         ],
@@ -292,7 +297,7 @@
             "lr.vern.cc",
             "reddit.invak.id",
             "reddit.simo.sh",
-            "reddit.smnz.de",
+            "reddit.utsav2.dev",
             "safereddit.com",
             "snoo.habedieeh.re"
         ],
@@ -335,24 +340,23 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
+            "pi.ggtyler.dev",
+            "piped.12a.app",
             "piped.adminforge.de",
             "piped.astartes.nl",
             "piped.coldforge.xyz",
             "piped.darkness.services",
             "piped.drgns.space",
             "piped.lunar.icu",
-            "piped.ngn.tf",
             "piped.privacydev.net",
             "piped.projectsegfau.lt",
             "piped.r4fo.com",
             "piped.smnz.de",
-            "piped.syncpundit.io",
-            "piped.us.projectsegfau.lt",
-            "piped.video"
+            "piped.video",
+            "yt.cdsp.cz"
         ],
         "onion": [
             "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -376,6 +380,7 @@
             "invidious.nerdvpn.de",
             "invidious.perennialte.ch",
             "invidious.privacydev.net",
+            "invidious.privacyredirect.com",
             "invidious.private.coffee",
             "invidious.projectsegfau.lt",
             "invidious.protokolla.fi",
@@ -749,6 +754,7 @@
             "biblioreads.lunar.icu",
             "biblioreads.mooo.com",
             "biblioreads.privacyfucking.rocks",
+            "biblioreads.privacyredirect.com",
             "biblioreads.snine.nl",
             "biblioreads.vercel.app",
             "bl.vern.cc",
@@ -807,6 +813,7 @@
             "libremdb.r4fo.com",
             "libremdb.tux.pizza",
             "lmdb.hostux.net",
+            "lmdb.ngn.tf",
             "mdb.sudovanilla.com"
         ],
         "onion": [
@@ -827,7 +834,7 @@
             "anonoverflow.frontendfriendly.xyz",
             "anonoverflow.hyperreal.coffee",
             "anonymousoverflow.privacyfucking.rocks",
-            "ao.bloatcat.tk",
+            "ao.bloat.cat",
             "ao.ftw.lol",
             "ao.ngn.tf",
             "ao.vern.cc",
@@ -842,13 +849,15 @@
             "overflow.projectsegfau.lt",
             "overflow.r4fo.com",
             "overflow.smnz.de",
+            "overflow.snine.nl",
             "overflow.sudovanilla.com"
         ],
         "onion": [
             "ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion",
             "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "overflow.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
-            "overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
+            "overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "overflow.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": []
     },
@@ -935,6 +944,7 @@
             "onetime.vits.co.uk",
             "opportunis.me",
             "ots.ip-projects.de",
+            "ots.kocsar.at",
             "p.darklab.sh",
             "p.dousse.eu",
             "p.kapsi.fi",
@@ -951,7 +961,6 @@
             "paste.chapril.org",
             "paste.copper.dedyn.io",
             "paste.d-ku.de",
-            "paste.dasnetzundich.de",
             "paste.devsite.pl",
             "paste.dismail.de",
             "paste.drfrankenstein.co.uk",
@@ -961,10 +970,10 @@
             "paste.fizi.ca",
             "paste.gamesdrive.net",
             "paste.ggc-project.de",
-            "paste.hackliberty.org",
             "paste.hostify.cz",
             "paste.hostux.net",
             "paste.i2pd.xyz",
+            "paste.lilliepad.xyz",
             "paste.momobako.com",
             "paste.nolog.cz",
             "paste.nomagic.uk",
@@ -1034,7 +1043,6 @@
             "privatebin.xi.ht",
             "privatepastebin.com",
             "pstbn.io",
-            "qqh.ysicing.net",
             "sebsauvage.net",
             "secret.timeweb.ru",
             "secrets.cebador.fr",
@@ -1068,8 +1076,7 @@
             "5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion",
             "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
             "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
-            "texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion",
-            "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
+            "texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion"
         ],
         "i2p": [
             "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
@@ -1118,11 +1125,11 @@
         "url": "https://github.com/TeamPiped/piped-proxy",
         "path": "youtube/piped-proxy",
         "instances": [
-            "piped-proxy.ducks.party",
-            "piped-proxy.lunar.icu",
+            "piped-proxy.codespace.cz",
             "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
+            "pipedproxy.12a.app",
             "pipedproxy.astartes.nl",
             "pipedproxy.coldforge.xyz",
             "pipedproxy.darkness.services",
@@ -1130,7 +1137,7 @@
             "pipedproxy.kavin.rocks",
             "pipedproxy.ngn.tf",
             "pipedproxy.r4fo.com",
-            "pipedproxy.syncpundit.io",
+            "piproxy.ggtyler.dev",
             "proxy.piped.privacydev.net",
             "proxy.piped.projectsegfau.lt"
         ]

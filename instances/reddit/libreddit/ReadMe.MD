@@ -17,7 +17,7 @@
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.invak.id](https://reddit.invak.id)
 - [reddit.simo.sh](https://reddit.simo.sh)
-- [reddit.smnz.de](https://reddit.smnz.de)
+- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion

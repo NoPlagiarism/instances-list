@@ -15,6 +15,7 @@
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.perennialte.ch](https://invidious.perennialte.ch)
 - [invidious.privacydev.net](https://invidious.privacydev.net)
+- [invidious.privacyredirect.com](https://invidious.privacyredirect.com)
 - [invidious.private.coffee](https://invidious.private.coffee)
 - [invidious.projectsegfau.lt](https://invidious.projectsegfau.lt)
 - [invidious.protokolla.fi](https://invidious.protokolla.fi)

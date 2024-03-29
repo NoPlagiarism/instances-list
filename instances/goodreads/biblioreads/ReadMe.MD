@@ -6,6 +6,7 @@
 - [biblioreads.lunar.icu](https://biblioreads.lunar.icu)
 - [biblioreads.mooo.com](https://biblioreads.mooo.com)
 - [biblioreads.privacyfucking.rocks](https://biblioreads.privacyfucking.rocks)
+- [biblioreads.privacyredirect.com](https://biblioreads.privacyredirect.com)
 - [biblioreads.snine.nl](https://biblioreads.snine.nl)
 - [biblioreads.vercel.app](https://biblioreads.vercel.app)
 - [bl.vern.cc](https://bl.vern.cc)

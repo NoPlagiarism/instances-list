@@ -1,10 +1,10 @@
 {
     "instances": [
-        "piped-proxy.ducks.party",
-        "piped-proxy.lunar.icu",
+        "piped-proxy.codespace.cz",
         "pipedimageproxy.smnz.de",
         "pipedimg.adminforge.de",
         "pipedproxy-ams-2.kavin.rocks",
+        "pipedproxy.12a.app",
         "pipedproxy.astartes.nl",
         "pipedproxy.coldforge.xyz",
         "pipedproxy.darkness.services",
@@ -12,7 +12,7 @@
         "pipedproxy.kavin.rocks",
         "pipedproxy.ngn.tf",
         "pipedproxy.r4fo.com",
-        "pipedproxy.syncpundit.io",
+        "piproxy.ggtyler.dev",
         "proxy.piped.privacydev.net",
         "proxy.piped.projectsegfau.lt"
     ]
