@@ -296,8 +296,8 @@
             "libreddit.tux.pizza",
             "lr.vern.cc",
             "reddit.invak.id",
+            "reddit.rtrace.io",
             "reddit.simo.sh",
-            "reddit.utsav2.dev",
             "safereddit.com",
             "snoo.habedieeh.re"
         ],
@@ -341,7 +341,6 @@
         "path": "youtube/piped",
         "instances": [
             "pi.ggtyler.dev",
-            "piped.12a.app",
             "piped.adminforge.de",
             "piped.astartes.nl",
             "piped.coldforge.xyz",
@@ -352,11 +351,11 @@
             "piped.projectsegfau.lt",
             "piped.r4fo.com",
             "piped.smnz.de",
-            "piped.video",
-            "yt.cdsp.cz"
+            "piped.video"
         ],
         "onion": [
             "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -1063,7 +1062,6 @@
             "www.gitgd.com",
             "www.nervengas.com",
             "www.vlh.dk",
-            "xcosx.de",
             "zb.zerosgaming.de",
             "zerobin-legacy.dssr.ch",
             "zerobin.farcy.me",
@@ -1126,10 +1124,10 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
+            "piped-proxy.lunar.icu",
             "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
-            "pipedproxy.12a.app",
             "pipedproxy.astartes.nl",
             "pipedproxy.coldforge.xyz",
             "pipedproxy.darkness.services",

@@ -2,10 +2,10 @@
 
 # Clearnet
 - [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
+- [piped-proxy.lunar.icu](https://piped-proxy.lunar.icu)
 - [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
 - [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
 - [pipedproxy-ams-2.kavin.rocks](https://pipedproxy-ams-2.kavin.rocks)
-- [pipedproxy.12a.app](https://pipedproxy.12a.app)
 - [pipedproxy.astartes.nl](https://pipedproxy.astartes.nl)
 - [pipedproxy.coldforge.xyz](https://pipedproxy.coldforge.xyz)
 - [pipedproxy.darkness.services](https://pipedproxy.darkness.services)

@@ -16,8 +16,8 @@
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.invak.id](https://reddit.invak.id)
+- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [reddit.simo.sh](https://reddit.simo.sh)
-- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion

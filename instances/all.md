@@ -305,8 +305,8 @@
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.invak.id](https://reddit.invak.id)
+- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [reddit.simo.sh](https://reddit.simo.sh)
-- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
@@ -341,7 +341,6 @@
 
 ### Clearnet
 - [pi.ggtyler.dev](https://pi.ggtyler.dev)
-- [piped.12a.app](https://piped.12a.app)
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.astartes.nl](https://piped.astartes.nl)
 - [piped.coldforge.xyz](https://piped.coldforge.xyz)
@@ -353,9 +352,9 @@
 - [piped.r4fo.com](https://piped.r4fo.com)
 - [piped.smnz.de](https://piped.smnz.de)
 - [piped.video](https://piped.video)
-- [yt.cdsp.cz](https://yt.cdsp.cz)
 ### Onion
 - [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+- [piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 ### I2P
 
@@ -985,7 +984,6 @@
 - [www.gitgd.com](https://www.gitgd.com)
 - [www.nervengas.com](https://www.nervengas.com)
 - [www.vlh.dk](https://www.vlh.dk)
-- [xcosx.de](https://xcosx.de)
 - [zb.zerosgaming.de](https://zb.zerosgaming.de)
 - [zerobin-legacy.dssr.ch](https://zerobin-legacy.dssr.ch)
 - [zerobin.farcy.me](https://zerobin.farcy.me)
@@ -1037,10 +1035,10 @@
 
 ### Clearnet
 - [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
+- [piped-proxy.lunar.icu](https://piped-proxy.lunar.icu)
 - [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
 - [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
 - [pipedproxy-ams-2.kavin.rocks](https://pipedproxy-ams-2.kavin.rocks)
-- [pipedproxy.12a.app](https://pipedproxy.12a.app)
 - [pipedproxy.astartes.nl](https://pipedproxy.astartes.nl)
 - [pipedproxy.coldforge.xyz](https://pipedproxy.coldforge.xyz)
 - [pipedproxy.darkness.services](https://pipedproxy.darkness.services)

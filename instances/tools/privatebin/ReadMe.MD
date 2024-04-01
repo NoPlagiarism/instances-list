@@ -181,7 +181,6 @@
 - [www.gitgd.com](https://www.gitgd.com)
 - [www.nervengas.com](https://www.nervengas.com)
 - [www.vlh.dk](https://www.vlh.dk)
-- [xcosx.de](https://xcosx.de)
 - [zb.zerosgaming.de](https://zb.zerosgaming.de)
 - [zerobin-legacy.dssr.ch](https://zerobin-legacy.dssr.ch)
 - [zerobin.farcy.me](https://zerobin.farcy.me)
