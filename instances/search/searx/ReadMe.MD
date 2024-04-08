@@ -15,6 +15,7 @@
 - [s.trung.fun](https://s.trung.fun)
 - [search.bus-hit.me](https://search.bus-hit.me)
 - [search.colbster937.dev](https://search.colbster937.dev)
+- [search.darkness.services](https://search.darkness.services)
 - [search.datura.network](https://search.datura.network)
 - [search.demoniak.ch](https://search.demoniak.ch)
 - [search.einfachzocken.eu](https://search.einfachzocken.eu)
@@ -75,6 +76,7 @@
 - [xo.wtf](https://xo.wtf)
 # Onion
 - [4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion](http://4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion)
+- [lbmegc3rjnekmdxuisynqdc7y3m2tgyq7gj257ooddaobxqjw36bdayd.onion](http://lbmegc3rjnekmdxuisynqdc7y3m2tgyq7gj257ooddaobxqjw36bdayd.onion)
 - [search.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion](http://search.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion)
 - [search.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion](http://search.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion)
 - [search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)

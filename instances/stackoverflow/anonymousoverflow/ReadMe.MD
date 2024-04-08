@@ -4,6 +4,7 @@
 - [anonoverflow.frontendfriendly.xyz](https://anonoverflow.frontendfriendly.xyz)
 - [anonoverflow.hyperreal.coffee](https://anonoverflow.hyperreal.coffee)
 - [anonymousoverflow.privacyfucking.rocks](https://anonymousoverflow.privacyfucking.rocks)
+- [anonymousoverflow.privacyredirect.com](https://anonymousoverflow.privacyredirect.com)
 - [ao.bloat.cat](https://ao.bloat.cat)
 - [ao.ftw.lol](https://ao.ftw.lol)
 - [ao.ngn.tf](https://ao.ngn.tf)
@@ -21,6 +22,7 @@
 - [overflow.smnz.de](https://overflow.smnz.de)
 - [overflow.snine.nl](https://overflow.snine.nl)
 - [overflow.sudovanilla.com](https://overflow.sudovanilla.com)
+- [soflow.nerdvpn.de](https://soflow.nerdvpn.de)
 # Onion
 - [ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion](http://ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion)
 - [ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)

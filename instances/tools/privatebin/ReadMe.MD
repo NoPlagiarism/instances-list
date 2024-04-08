@@ -97,6 +97,7 @@
 - [paste.nomagic.uk](https://paste.nomagic.uk)
 - [paste.ononoki.org](https://paste.ononoki.org)
 - [paste.ottertelecom.com](https://paste.ottertelecom.com)
+- [paste.perennialte.ch](https://paste.perennialte.ch)
 - [paste.picasoft.net](https://paste.picasoft.net)
 - [paste.quest](https://paste.quest)
 - [paste.rys.pw](https://paste.rys.pw)

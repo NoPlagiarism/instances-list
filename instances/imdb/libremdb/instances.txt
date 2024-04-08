@@ -13,6 +13,7 @@ libremdb.privacydev.net
 libremdb.pussthecat.org
 libremdb.r4fo.com
 libremdb.tux.pizza
+lmdb.bloat.cat
 lmdb.hostux.net
 lmdb.ngn.tf
 mdb.sudovanilla.com

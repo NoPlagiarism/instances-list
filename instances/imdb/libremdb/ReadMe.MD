@@ -16,6 +16,7 @@
 - [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
 - [libremdb.r4fo.com](https://libremdb.r4fo.com)
 - [libremdb.tux.pizza](https://libremdb.tux.pizza)
+- [lmdb.bloat.cat](https://lmdb.bloat.cat)
 - [lmdb.hostux.net](https://lmdb.hostux.net)
 - [lmdb.ngn.tf](https://lmdb.ngn.tf)
 - [mdb.sudovanilla.com](https://mdb.sudovanilla.com)
