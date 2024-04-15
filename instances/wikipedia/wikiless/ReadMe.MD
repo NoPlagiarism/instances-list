@@ -14,7 +14,6 @@
 - [wikiless.whateveritworks.org](https://wikiless.whateveritworks.org)
 - [wl.vern.cc](https://wl.vern.cc)
 # Onion
-- [7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion](http://7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion)
 - [wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion](http://ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion)
 # I2P

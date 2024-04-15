@@ -10,6 +10,7 @@
 - [send.aslaets.be](https://send.aslaets.be)
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)
 - [send.boblorange.net](https://send.boblorange.net)
+- [send.codespace.cz](https://send.codespace.cz)
 - [send.cyberjake.xyz](https://send.cyberjake.xyz)
 - [send.datahoarder.dev](https://send.datahoarder.dev)
 - [send.datenpost.app](https://send.datenpost.app)
