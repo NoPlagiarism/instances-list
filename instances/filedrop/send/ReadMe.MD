@@ -25,3 +25,4 @@
 - [send.whateveritworks.org](https://send.whateveritworks.org)
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)
+- [upload.nolog.cz](https://upload.nolog.cz)

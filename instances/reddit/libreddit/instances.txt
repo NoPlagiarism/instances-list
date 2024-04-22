@@ -4,13 +4,13 @@ libreddit.bus-hit.me
 libreddit.eu.org
 libreddit.kavin.rocks
 libreddit.lunar.icu
+libreddit.nl
 libreddit.northboot.xyz
 libreddit.oxymagnesium.com
 libreddit.privacydev.net
 libreddit.projectsegfau.lt
 libreddit.strongthany.cc
 libreddit.tux.pizza
-lr.vern.cc
 reddit.invak.id
 reddit.simo.sh
 reddit.smnz.de

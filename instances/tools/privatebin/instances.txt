@@ -13,6 +13,7 @@ bin.bus-hit.me
 bin.byreqz.de
 bin.disroot.org
 bin.eiphax.tech
+bin.fkingprojects.org
 bin.garbaye.fr
 bin.garudalinux.org
 bin.hbubli.cc
@@ -28,7 +29,6 @@ bin.ngn.tf
 bin.nixnet.services
 bin.nji9.de
 bin.privateweb.ch
-bin.privateweb.top
 bin.purplebored.pl
 bin.r3tr0ananas.pro
 bin.rtb.gg
@@ -133,6 +133,7 @@ pb.greep.fr
 pb.pc-sam.net
 pb.rausgerufen.de
 pb.skifab.se
+pbinka.duckdns.org
 postit.hadoly.fr
 private.opendoor.fr
 private.rmconsulting.com

@@ -6,6 +6,7 @@
 - [d.opnxng.com](https://d.opnxng.com)
 - [ld.vern.cc](https://ld.vern.cc)
 - [libremdb.catsarch.com](https://libremdb.catsarch.com)
+- [libremdb.darkness.services](https://libremdb.darkness.services)
 - [libremdb.ducks.party](https://libremdb.ducks.party)
 - [libremdb.frontendfriendly.xyz](https://libremdb.frontendfriendly.xyz)
 - [libremdb.iket.me](https://libremdb.iket.me)
