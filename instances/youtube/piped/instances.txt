@@ -6,10 +6,8 @@ piped.darkness.services
 piped.drgns.space
 piped.in.projectsegfau.lt
 piped.lunar.icu
-piped.ngn.tf
-piped.privacydev.net
+piped.phoenixthrush.com
 piped.projectsegfau.lt
-piped.r4fo.com
 piped.reallyaweso.me
 piped.smnz.de
 piped.us.projectsegfau.lt

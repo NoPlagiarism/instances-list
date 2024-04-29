@@ -10,8 +10,9 @@ pipedproxy.drgns.space
 pipedproxy.in.projectsegfau.lt
 pipedproxy.kavin.rocks
 pipedproxy.leptons.xyz
-pipedproxy.ngn.tf
+pipedproxy.phoenixthrush.com
 pipedproxy.r4fo.com
 pipedproxy.reallyaweso.me
 piproxy.ggtyler.dev
+proxy.piped.privacydev.net
 proxy.piped.projectsegfau.lt

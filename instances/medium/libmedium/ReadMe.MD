@@ -2,6 +2,7 @@
 
 # Clearnet
 - [libmedium.batsense.net](https://libmedium.batsense.net)
+- [libmedium.ducks.party](https://libmedium.ducks.party)
 - [md.vern.cc](https://md.vern.cc)
 - [medium.hostux.net](https://medium.hostux.net)
 - [read.sudovanilla.com](https://read.sudovanilla.com)

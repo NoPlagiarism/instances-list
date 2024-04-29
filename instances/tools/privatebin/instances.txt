@@ -28,6 +28,7 @@ bin.mycozy.space
 bin.ngn.tf
 bin.nixnet.services
 bin.nji9.de
+bin.oldgate.org
 bin.privateweb.ch
 bin.purplebored.pl
 bin.r3tr0ananas.pro
@@ -121,6 +122,7 @@ pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
+pastebin.rauschmair.de
 pastefg.hermietkreeft.site
 pastejar.com
 pb.ari.lt
@@ -130,7 +132,6 @@ pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
-pb.pc-sam.net
 pb.rausgerufen.de
 pb.skifab.se
 pbinka.duckdns.org
@@ -157,7 +158,6 @@ privatebin.piquark6046.dev
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org
-privatebin.vlh.dk
 privatebin.wsmm.de
 privatebin.xi.ht
 privatepastebin.com

@@ -1,7 +1,6 @@
 # [Invidious](https://github.com/iv-org/invidious#readme)
 
 # Clearnet
-- [inv.n8pjl.ca](https://inv.n8pjl.ca)
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [inv.oikei.net](https://inv.oikei.net)
 - [inv.tux.pizza](https://inv.tux.pizza)
