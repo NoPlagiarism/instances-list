@@ -23,6 +23,7 @@ search.im-in.space
 search.in.projectsegfau.lt
 search.incogniweb.net
 search.inetol.net
+search.ldne.xyz
 search.leptons.xyz
 search.mdosch.de
 search.nadeko.net
@@ -37,6 +38,7 @@ search.rowie.at
 search.sapti.me
 search.smnz.de
 search.starless.one
+search.us.projectsegfau.lt
 searx.aleteoryx.me
 searx.ankha.ac
 searx.ari.lt
@@ -46,6 +48,7 @@ searx.catfluori.de
 searx.colbster937.dev
 searx.daetalytica.io
 searx.dresden.network
+searx.electroncash.de
 searx.foss.family
 searx.headpat.exchange
 searx.hu
@@ -58,7 +61,6 @@ searx.ox2.fr
 searx.perennialte.ch
 searx.rhscz.eu
 searx.sev.monster
-searx.si
 searx.techsaviours.org
 searx.tuxcloud.net
 searx.work
@@ -66,13 +68,13 @@ searx.zhenyapav.com
 searxng.brihx.fr
 searxng.ca
 searxng.ch
+searxng.cryptocalcu.top
 searxng.online
 searxng.site
 sex.finaltek.net
 sx.catgirl.cloud
 sx.thatxtreme.dev
 sxng.violets-purgatory.dev
-twinkpad.pl
 vanderwilhelm.me
 www.gruble.de
 xo.wtf
