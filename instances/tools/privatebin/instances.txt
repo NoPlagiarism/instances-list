@@ -34,9 +34,9 @@ bin.purplebored.pl
 bin.rtb.gg
 bin.sasach.work
 bin.siick.fr
-bin.supersite.cloud
 bin.tiekoetter.com
 bin.uhl.cloud
+bin.vdx.sh
 bin.veracry.pt
 bonus01.hwb0307.com
 cles.le-filament.com
@@ -88,7 +88,6 @@ paste.ggc-project.de
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
-paste.justman10000.de
 paste.lilliepad.xyz
 paste.momobako.com
 paste.nolog.cz
@@ -131,7 +130,6 @@ pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
-pb.rausgerufen.de
 pb.skifab.se
 pbinka.duckdns.org
 postit.hadoly.fr
@@ -169,7 +167,6 @@ secrets.secumail.de
 secrets.true.nl
 secure.superior.nl
 sendpass.ru
-sic.spacedock.dev
 snip.dssr.ch
 teamware.eu
 textbin.quick-space.de

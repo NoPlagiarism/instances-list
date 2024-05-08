@@ -21,7 +21,6 @@
 - [nitter.hostux.net](https://nitter.hostux.net)
 - [nitter.inpt.fr](https://nitter.inpt.fr)
 - [nitter.it](https://nitter.it)
-- [nitter.jakefrosty.com](https://nitter.jakefrosty.com)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
 - [nitter.kling.gg](https://nitter.kling.gg)
 - [nitter.kylrth.com](https://nitter.kylrth.com)

@@ -9,7 +9,6 @@ send.aurorabilisim.com
 send.boblorange.net
 send.codespace.cz
 send.cyberjake.xyz
-send.datahoarder.dev
 send.datenpost.app
 send.ephemeral.land
 send.jeugdhulp.be

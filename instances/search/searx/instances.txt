@@ -37,7 +37,6 @@ search.rhscz.eu
 search.rowie.at
 search.sapti.me
 search.smnz.de
-search.starless.one
 search.us.projectsegfau.lt
 searx.aleteoryx.me
 searx.ankha.ac
@@ -48,9 +47,7 @@ searx.catfluori.de
 searx.colbster937.dev
 searx.daetalytica.io
 searx.dresden.network
-searx.electroncash.de
 searx.foss.family
-searx.headpat.exchange
 searx.hu
 searx.juancord.xyz
 searx.lunar.icu
