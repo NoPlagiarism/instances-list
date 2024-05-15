@@ -2,7 +2,6 @@
 
 # Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
-- [inv.oikei.net](https://inv.oikei.net)
 - [inv.tux.pizza](https://inv.tux.pizza)
 - [inv.us.projectsegfau.lt](https://inv.us.projectsegfau.lt)
 - [invidious.drgns.space](https://invidious.drgns.space)

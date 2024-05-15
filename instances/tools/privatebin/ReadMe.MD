@@ -14,6 +14,7 @@
 - [bin.bloat.cat](https://bin.bloat.cat)
 - [bin.bus-hit.me](https://bin.bus-hit.me)
 - [bin.byreqz.de](https://bin.byreqz.de)
+- [bin.choke.dev](https://bin.choke.dev)
 - [bin.disroot.org](https://bin.disroot.org)
 - [bin.eiphax.tech](https://bin.eiphax.tech)
 - [bin.fkingprojects.org](https://bin.fkingprojects.org)
@@ -91,6 +92,7 @@
 - [paste.hostify.cz](https://paste.hostify.cz)
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.i2pd.xyz](https://paste.i2pd.xyz)
+- [paste.lilay.dev](https://paste.lilay.dev)
 - [paste.lilliepad.xyz](https://paste.lilliepad.xyz)
 - [paste.momobako.com](https://paste.momobako.com)
 - [paste.nolog.cz](https://paste.nolog.cz)
@@ -191,7 +193,6 @@
 # Onion
 - [5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion](http://5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion)
 - [n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion](http://n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion)
-- [qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion](http://qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion)
 - [texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion](http://texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion)
 # I2P
-- [oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p](http://oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p)
+

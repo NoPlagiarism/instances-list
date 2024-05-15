@@ -18,7 +18,6 @@
 - [send.kokomo.cloud](https://send.kokomo.cloud)
 - [send.mni.li](https://send.mni.li)
 - [send.monks.tools](https://send.monks.tools)
-- [send.nsh.social](https://send.nsh.social)
 - [send.turingpoint.de](https://send.turingpoint.de)
 - [send.vis.ee](https://send.vis.ee)
 - [send.whateveritworks.org](https://send.whateveritworks.org)

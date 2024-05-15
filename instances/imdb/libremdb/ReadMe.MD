@@ -13,6 +13,7 @@
 - [libremdb.jeikobu.net](https://libremdb.jeikobu.net)
 - [libremdb.lunar.icu](https://libremdb.lunar.icu)
 - [libremdb.nerdyfam.tech](https://libremdb.nerdyfam.tech)
+- [libremdb.nirn.quest](https://libremdb.nirn.quest)
 - [libremdb.privacydev.net](https://libremdb.privacydev.net)
 - [libremdb.pussthecat.org](https://libremdb.pussthecat.org)
 - [libremdb.r4fo.com](https://libremdb.r4fo.com)
@@ -20,7 +21,6 @@
 - [lmdb.bloat.cat](https://lmdb.bloat.cat)
 - [lmdb.hostux.net](https://lmdb.hostux.net)
 - [lmdb.ngn.tf](https://lmdb.ngn.tf)
-- [mdb.sudovanilla.com](https://mdb.sudovanilla.com)
 # Onion
 - [ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)

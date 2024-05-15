@@ -15,6 +15,7 @@
 - [s.mble.dk](https://s.mble.dk)
 - [s.trung.fun](https://s.trung.fun)
 - [search.bus-hit.me](https://search.bus-hit.me)
+- [search.charliewhiskey.net](https://search.charliewhiskey.net)
 - [search.citw.lgbt](https://search.citw.lgbt)
 - [search.darkness.services](https://search.darkness.services)
 - [search.datura.network](https://search.datura.network)
@@ -25,6 +26,7 @@
 - [search.im-in.space](https://search.im-in.space)
 - [search.in.projectsegfau.lt](https://search.in.projectsegfau.lt)
 - [search.incogniweb.net](https://search.incogniweb.net)
+- [search.indst.eu](https://search.indst.eu)
 - [search.inetol.net](https://search.inetol.net)
 - [search.ldne.xyz](https://search.ldne.xyz)
 - [search.leptons.xyz](https://search.leptons.xyz)
@@ -72,6 +74,7 @@
 - [searxng.online](https://searxng.online)
 - [searxng.site](https://searxng.site)
 - [sex.finaltek.net](https://sex.finaltek.net)
+- [skyrimhater.com](https://skyrimhater.com)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
 - [sx.thatxtreme.dev](https://sx.thatxtreme.dev)
 - [sxng.violets-purgatory.dev](https://sxng.violets-purgatory.dev)
@@ -89,6 +92,7 @@
 - [searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion](http://searchvrzxoqa4k76duqh4wtzpr553hfl53qpytclxf7zci53lwklfyd.onion)
 - [searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion](http://searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion)
 - [tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion](http://tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion)
+- [whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion](http://whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion)
 - [xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion](http://xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion)
 # I2P
 

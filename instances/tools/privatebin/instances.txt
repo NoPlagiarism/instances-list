@@ -11,6 +11,7 @@ bin.arq.pl
 bin.bloat.cat
 bin.bus-hit.me
 bin.byreqz.de
+bin.choke.dev
 bin.disroot.org
 bin.eiphax.tech
 bin.fkingprojects.org
@@ -88,6 +89,7 @@ paste.ggc-project.de
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
+paste.lilay.dev
 paste.lilliepad.xyz
 paste.momobako.com
 paste.nolog.cz

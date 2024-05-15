@@ -10,6 +10,7 @@ libremdb.iket.me
 libremdb.jeikobu.net
 libremdb.lunar.icu
 libremdb.nerdyfam.tech
+libremdb.nirn.quest
 libremdb.privacydev.net
 libremdb.pussthecat.org
 libremdb.r4fo.com
@@ -17,4 +18,3 @@ libremdb.tux.pizza
 lmdb.bloat.cat
 lmdb.hostux.net
 lmdb.ngn.tf
-mdb.sudovanilla.com

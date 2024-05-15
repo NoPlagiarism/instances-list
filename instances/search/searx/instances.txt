@@ -12,6 +12,7 @@ priv.au
 s.mble.dk
 s.trung.fun
 search.bus-hit.me
+search.charliewhiskey.net
 search.citw.lgbt
 search.darkness.services
 search.datura.network
@@ -22,6 +23,7 @@ search.hbubli.cc
 search.im-in.space
 search.in.projectsegfau.lt
 search.incogniweb.net
+search.indst.eu
 search.inetol.net
 search.ldne.xyz
 search.leptons.xyz
@@ -69,6 +71,7 @@ searxng.cryptocalcu.top
 searxng.online
 searxng.site
 sex.finaltek.net
+skyrimhater.com
 sx.catgirl.cloud
 sx.thatxtreme.dev
 sxng.violets-purgatory.dev

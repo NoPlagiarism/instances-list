@@ -1,16 +1,12 @@
 {
     "instances": [
         "piped-proxy.codespace.cz",
-        "piped-proxy.garudalinux.org",
         "piped-proxy.lunar.icu",
         "pipedimageproxy.smnz.de",
         "pipedimg.adminforge.de",
-        "pipedproxy-ams-2.kavin.rocks",
         "pipedproxy.astartes.nl",
-        "pipedproxy.coldforge.xyz",
-        "pipedproxy.darkness.services",
         "pipedproxy.drgns.space",
-        "pipedproxy.kavin.rocks",
+        "pipedproxy.in.projectsegfau.lt",
         "pipedproxy.ngn.tf",
         "pipedproxy.phoenixthrush.com",
         "pipedproxy.r4fo.com",
@@ -19,6 +15,7 @@
         "proxy.piped.privacydev.net",
         "proxy.piped.private.coffee",
         "proxy.piped.projectsegfau.lt",
-        "proxy.piped.yt"
+        "schaunproxy.ehwurscht.at",
+        "ytproxy.piped.minionflo.net"
     ]
 }
