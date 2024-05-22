@@ -11,6 +11,7 @@
 - [ao.vern.cc](https://ao.vern.cc)
 - [code.whatever.social](https://code.whatever.social)
 - [exchange.seitan-ayoub.lol](https://exchange.seitan-ayoub.lol)
+- [o.sudovanilla.org](https://o.sudovanilla.org)
 - [overflow.adminforge.de](https://overflow.adminforge.de)
 - [overflow.datura.network](https://overflow.datura.network)
 - [overflow.ducks.party](https://overflow.ducks.party)
@@ -21,7 +22,7 @@
 - [overflow.r4fo.com](https://overflow.r4fo.com)
 - [overflow.smnz.de](https://overflow.smnz.de)
 - [overflow.snine.nl](https://overflow.snine.nl)
-- [overflow.sudovanilla.com](https://overflow.sudovanilla.com)
+- [overflow.sudovanilla.org](https://overflow.sudovanilla.org)
 - [soflow.nerdvpn.de](https://soflow.nerdvpn.de)
 # Onion
 - [ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion](http://ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion)

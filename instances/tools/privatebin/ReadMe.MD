@@ -92,9 +92,11 @@
 - [paste.hostify.cz](https://paste.hostify.cz)
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.i2pd.xyz](https://paste.i2pd.xyz)
+- [paste.justman10000.de](https://paste.justman10000.de)
 - [paste.lilay.dev](https://paste.lilay.dev)
 - [paste.lilliepad.xyz](https://paste.lilliepad.xyz)
 - [paste.momobako.com](https://paste.momobako.com)
+- [paste.nerdvpn.de](https://paste.nerdvpn.de)
 - [paste.nolog.cz](https://paste.nolog.cz)
 - [paste.nomagic.uk](https://paste.nomagic.uk)
 - [paste.ononoki.org](https://paste.ononoki.org)
@@ -103,6 +105,7 @@
 - [paste.picasoft.net](https://paste.picasoft.net)
 - [paste.quest](https://paste.quest)
 - [paste.rys.pw](https://paste.rys.pw)
+- [paste.sdad.pro](https://paste.sdad.pro)
 - [paste.skynetcloud.site](https://paste.skynetcloud.site)
 - [paste.spigot.pl](https://paste.spigot.pl)
 - [paste.stratum0.org](https://paste.stratum0.org)
@@ -118,7 +121,7 @@
 - [paste.voxhost.fr](https://paste.voxhost.fr)
 - [paste.waays.fr](https://paste.waays.fr)
 - [paste.webdigg.org](https://paste.webdigg.org)
-- [paste.ztn.sh](https://paste.ztn.sh)
+- [paste.worf.win](https://paste.worf.win)
 - [pastebin.24unix.net](https://pastebin.24unix.net)
 - [pastebin.aquilenet.fr](https://pastebin.aquilenet.fr)
 - [pastebin.grey.pw](https://pastebin.grey.pw)
@@ -193,6 +196,7 @@
 # Onion
 - [5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion](http://5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion)
 - [n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion](http://n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion)
+- [qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion](http://qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion)
 - [texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion](http://texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion)
 # I2P
-
+- [oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p](http://oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p)

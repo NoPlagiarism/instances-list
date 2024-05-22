@@ -91,9 +91,11 @@
         "paste.hostify.cz",
         "paste.hostux.net",
         "paste.i2pd.xyz",
+        "paste.justman10000.de",
         "paste.lilay.dev",
         "paste.lilliepad.xyz",
         "paste.momobako.com",
+        "paste.nerdvpn.de",
         "paste.nolog.cz",
         "paste.nomagic.uk",
         "paste.ononoki.org",
@@ -102,6 +104,7 @@
         "paste.picasoft.net",
         "paste.quest",
         "paste.rys.pw",
+        "paste.sdad.pro",
         "paste.skynetcloud.site",
         "paste.spigot.pl",
         "paste.stratum0.org",
@@ -117,7 +120,7 @@
         "paste.voxhost.fr",
         "paste.waays.fr",
         "paste.webdigg.org",
-        "paste.ztn.sh",
+        "paste.worf.win",
         "pastebin.24unix.net",
         "pastebin.aquilenet.fr",
         "pastebin.grey.pw",
@@ -193,7 +196,10 @@
     "onion": [
         "5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion",
         "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
+        "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
         "texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion"
     ],
-    "i2p": []
+    "i2p": [
+        "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
+    ]
 }

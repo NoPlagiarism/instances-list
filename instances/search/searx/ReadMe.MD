@@ -20,6 +20,7 @@
 - [search.darkness.services](https://search.darkness.services)
 - [search.datura.network](https://search.datura.network)
 - [search.demoniak.ch](https://search.demoniak.ch)
+- [search.dotone.nl](https://search.dotone.nl)
 - [search.einfachzocken.eu](https://search.einfachzocken.eu)
 - [search.gcomm.ch](https://search.gcomm.ch)
 - [search.hbubli.cc](https://search.hbubli.cc)
