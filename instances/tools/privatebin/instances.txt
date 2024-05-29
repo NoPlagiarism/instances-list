@@ -1,6 +1,7 @@
 0.0g.gg
 0.jaegers.net
 0bin.virtuaverse.xyz
+anonpaste.uk
 b.opnxng.com
 bin.0ax.cc
 bin.0xfc.de
@@ -39,6 +40,7 @@ bin.tiekoetter.com
 bin.uhl.cloud
 bin.vdx.sh
 bin.veracry.pt
+bin.waifu.rip
 bonus01.hwb0307.com
 cles.le-filament.com
 coller.vulpecula.fr
@@ -82,6 +84,7 @@ paste.dismail.de
 paste.drfrankenstein.co.uk
 paste.dvotx.org
 paste.elyday.net
+paste.encrypt.co.il
 paste.evolix.org
 paste.fizi.ca
 paste.gamesdrive.net
@@ -128,7 +131,6 @@ pastebin.linqhost.nl
 pastebin.rauschmair.de
 pastefg.hermietkreeft.site
 pastejar.com
-pb.ari.lt
 pb.blackvoid.club
 pb.envs.net
 pb.flossboxin.org.in
@@ -176,8 +178,6 @@ snip.dssr.ch
 teamware.eu
 textbin.quick-space.de
 texte.antopie.org
-typeamessage.com
-vip.ci
 wtf.roflcopter.fr
 www.blueridgedebate.com
 www.gitgd.com

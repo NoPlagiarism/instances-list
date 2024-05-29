@@ -2,7 +2,6 @@ baresearch.org
 copp.gg
 etsi.me
 fairsuch.net
-freesearch.club
 northboot.xyz
 nyc1.sx.ggtyler.dev
 ooglester.com
@@ -26,7 +25,6 @@ search.in.projectsegfau.lt
 search.incogniweb.net
 search.indst.eu
 search.inetol.net
-search.ldne.xyz
 search.leptons.xyz
 search.mdosch.de
 search.nadeko.net
@@ -68,7 +66,6 @@ searx.zhenyapav.com
 searxng.brihx.fr
 searxng.ca
 searxng.ch
-searxng.cryptocalcu.top
 searxng.online
 searxng.site
 sex.finaltek.net

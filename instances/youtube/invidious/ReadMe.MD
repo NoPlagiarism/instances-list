@@ -5,6 +5,7 @@
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [inv.tux.pizza](https://inv.tux.pizza)
 - [inv.us.projectsegfau.lt](https://inv.us.projectsegfau.lt)
+- [invidious.darkness.services](https://invidious.darkness.services)
 - [invidious.drgns.space](https://invidious.drgns.space)
 - [invidious.einfachzocken.eu](https://invidious.einfachzocken.eu)
 - [invidious.fdn.fr](https://invidious.fdn.fr)

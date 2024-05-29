@@ -6,6 +6,7 @@
 - [4get.ch](https://4get.ch)
 - [4get.datura.network](https://4get.datura.network)
 - [4get.dcs0.hu](https://4get.dcs0.hu)
+- [4get.edmateo.site](https://4get.edmateo.site)
 - [4get.etenie.pl](https://4get.etenie.pl)
 - [4get.hbubli.cc](https://4get.hbubli.cc)
 - [4get.kizuki.lol](https://4get.kizuki.lol)
