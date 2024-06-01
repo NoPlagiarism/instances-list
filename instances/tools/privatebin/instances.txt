@@ -1,4 +1,5 @@
 0.0g.gg
+0.anonpaste.uk
 0.jaegers.net
 0bin.virtuaverse.xyz
 anonpaste.uk
@@ -12,12 +13,12 @@ bin.arq.pl
 bin.bloat.cat
 bin.bus-hit.me
 bin.byreqz.de
-bin.choke.dev
 bin.disroot.org
 bin.eiphax.tech
 bin.fkingprojects.org
 bin.garbaye.fr
 bin.garudalinux.org
+bin.habedieeh.re
 bin.hbubli.cc
 bin.idrix.fr
 bin.infini.fr
@@ -55,6 +56,7 @@ hpc.uni.lu
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
+n0t.io
 notebin.de
 notes.de.cool
 noteshare.net
@@ -129,6 +131,7 @@ pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
 pastebin.rauschmair.de
+pastebin.uk
 pastefg.hermietkreeft.site
 pastejar.com
 pb.blackvoid.club
@@ -178,6 +181,7 @@ snip.dssr.ch
 teamware.eu
 textbin.quick-space.de
 texte.antopie.org
+vip.ci
 wtf.roflcopter.fr
 www.blueridgedebate.com
 www.gitgd.com

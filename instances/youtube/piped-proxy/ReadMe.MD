@@ -2,7 +2,6 @@
 
 # Clearnet
 - [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
-- [piped-proxy.ducks.party](https://piped-proxy.ducks.party)
 - [piped-proxy.lunar.icu](https://piped-proxy.lunar.icu)
 - [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
 - [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
@@ -13,10 +12,12 @@
 - [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
 - [pipedproxy.in.projectsegfau.lt](https://pipedproxy.in.projectsegfau.lt)
 - [pipedproxy.kavin.rocks](https://pipedproxy.kavin.rocks)
+- [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
 - [pipedproxy.ngn.tf](https://pipedproxy.ngn.tf)
 - [pipedproxy.nosebs.ru](https://pipedproxy.nosebs.ru)
+- [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
 - [pipedproxy.r4fo.com](https://pipedproxy.r4fo.com)
-- [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
+- [pipedproxy.syncpundit.io](https://pipedproxy.syncpundit.io)
 - [piproxy.ggtyler.dev](https://piproxy.ggtyler.dev)
 - [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
 - [proxy.piped.projectsegfau.lt](https://proxy.piped.projectsegfau.lt)

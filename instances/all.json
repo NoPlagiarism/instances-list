@@ -293,16 +293,15 @@
             "discuss.whatever.social",
             "l.opnxng.com",
             "libreddit.bus-hit.me",
-            "libreddit.freedit.eu",
             "libreddit.kavin.rocks",
             "libreddit.nl",
             "libreddit.oxymagnesium.com",
             "libreddit.privacydev.net",
             "libreddit.projectsegfau.lt",
             "libreddit.tux.pizza",
-            "lr.vern.cc",
+            "reddit.rtrace.io",
             "reddit.simo.sh",
-            "reddit.utsav2.dev",
+            "reddit.smnz.de",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -332,9 +331,12 @@
         ],
         "onion": [
             "7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion",
+            "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p"
+        ]
     },
     "piped": {
         "name": "Piped",
@@ -347,25 +349,21 @@
             "piped.darkness.services",
             "piped.dedyn.io",
             "piped.drgns.space",
-            "piped.ducks.party",
             "piped.in.projectsegfau.lt",
             "piped.lunar.icu",
             "piped.ngn.tf",
             "piped.nosebs.ru",
-            "piped.phoenixthrush.com",
-            "piped.privacydev.net",
             "piped.private.coffee",
             "piped.projectsegfau.lt",
-            "piped.reallyaweso.me",
+            "piped.syncpundit.io",
             "piped.us.projectsegfau.lt",
             "piped.video",
             "piped.yt",
             "schaun.ehwurscht.at",
+            "watch.leptons.xyz",
             "yt.cdsp.cz"
         ],
         "onion": [
-            "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion",
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -395,12 +393,14 @@
             "invidious.private.coffee",
             "invidious.protokolla.fi",
             "invidious.reallyaweso.me",
+            "invidious.yourdevice.ch",
             "iv.datura.network",
             "iv.ggtyler.dev",
             "iv.melmac.space",
             "iv.nboeck.de",
             "vid.lilay.dev",
             "vid.puffyan.us",
+            "vid.selbsthilfegruppe.wtf",
             "yewtu.be",
             "yt.artemislena.eu",
             "yt.cdaut.de",
@@ -531,7 +531,8 @@
             "watch.whateveritworks.org"
         ],
         "onion": [
-            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
     },
     "nitter": {
@@ -867,6 +868,7 @@
         "path": "tools/privatebin",
         "instances": [
             "0.0g.gg",
+            "0.anonpaste.uk",
             "0.jaegers.net",
             "0bin.virtuaverse.xyz",
             "anonpaste.uk",
@@ -880,12 +882,12 @@
             "bin.bloat.cat",
             "bin.bus-hit.me",
             "bin.byreqz.de",
-            "bin.choke.dev",
             "bin.disroot.org",
             "bin.eiphax.tech",
             "bin.fkingprojects.org",
             "bin.garbaye.fr",
             "bin.garudalinux.org",
+            "bin.habedieeh.re",
             "bin.hbubli.cc",
             "bin.idrix.fr",
             "bin.infini.fr",
@@ -923,6 +925,7 @@
             "ircwebnet.com",
             "ktbky.kaaass.net",
             "logs.notifiarr.com",
+            "n0t.io",
             "notebin.de",
             "notes.de.cool",
             "noteshare.net",
@@ -997,6 +1000,7 @@
             "pastebin.kamos.fr",
             "pastebin.linqhost.nl",
             "pastebin.rauschmair.de",
+            "pastebin.uk",
             "pastefg.hermietkreeft.site",
             "pastejar.com",
             "pb.blackvoid.club",
@@ -1046,6 +1050,7 @@
             "teamware.eu",
             "textbin.quick-space.de",
             "texte.antopie.org",
+            "vip.ci",
             "wtf.roflcopter.fr",
             "www.blueridgedebate.com",
             "www.gitgd.com",
@@ -1061,6 +1066,7 @@
         ],
         "onion": [
             "5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion",
+            "bin.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
             "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
@@ -1117,7 +1123,6 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
-            "piped-proxy.ducks.party",
             "piped-proxy.lunar.icu",
             "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
@@ -1128,10 +1133,12 @@
             "pipedproxy.drgns.space",
             "pipedproxy.in.projectsegfau.lt",
             "pipedproxy.kavin.rocks",
+            "pipedproxy.leptons.xyz",
             "pipedproxy.ngn.tf",
             "pipedproxy.nosebs.ru",
+            "pipedproxy.phoenixthrush.com",
             "pipedproxy.r4fo.com",
-            "pipedproxy.reallyaweso.me",
+            "pipedproxy.syncpundit.io",
             "piproxy.ggtyler.dev",
             "proxy.piped.private.coffee",
             "proxy.piped.projectsegfau.lt",
