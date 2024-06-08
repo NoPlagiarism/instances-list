@@ -23,9 +23,7 @@ iv.datura.network
 iv.ggtyler.dev
 iv.melmac.space
 iv.nboeck.de
-vid.lilay.dev
 vid.puffyan.us
-vid.selbsthilfegruppe.wtf
 yewtu.be
 yt.artemislena.eu
 yt.cdaut.de

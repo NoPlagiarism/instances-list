@@ -2,4 +2,4 @@ libmedium.batsense.net
 libmedium.ducks.party
 md.vern.cc
 medium.hostux.net
-read.sudovanilla.com
+r.sudovanilla.org

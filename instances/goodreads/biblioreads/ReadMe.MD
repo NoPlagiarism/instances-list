@@ -13,6 +13,7 @@
 - [read.freedit.eu](https://read.freedit.eu)
 - [read.seitan-ayoub.lol](https://read.seitan-ayoub.lol)
 - [read.whateveritworks.org](https://read.whateveritworks.org)
+- [reads.nezumi.party](https://reads.nezumi.party)
 # Onion
 
 # I2P

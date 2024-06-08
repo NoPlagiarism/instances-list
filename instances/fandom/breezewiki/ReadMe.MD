@@ -6,6 +6,7 @@
 - [breeze.mint.lgbt](https://breeze.mint.lgbt)
 - [breeze.nohost.network](https://breeze.nohost.network)
 - [breeze.whateveritworks.org](https://breeze.whateveritworks.org)
+- [breezewiki.4o1x5.dev](https://breezewiki.4o1x5.dev)
 - [breezewiki.catsarch.com](https://breezewiki.catsarch.com)
 - [breezewiki.com](https://breezewiki.com)
 - [breezewiki.frontendfriendly.xyz](https://breezewiki.frontendfriendly.xyz)

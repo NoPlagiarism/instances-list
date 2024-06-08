@@ -3,6 +3,7 @@ breeze.hostux.net
 breeze.mint.lgbt
 breeze.nohost.network
 breeze.whateveritworks.org
+breezewiki.4o1x5.dev
 breezewiki.catsarch.com
 breezewiki.com
 breezewiki.frontendfriendly.xyz

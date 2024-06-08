@@ -5,7 +5,7 @@
 - [libmedium.ducks.party](https://libmedium.ducks.party)
 - [md.vern.cc](https://md.vern.cc)
 - [medium.hostux.net](https://medium.hostux.net)
-- [read.sudovanilla.com](https://read.sudovanilla.com)
+- [r.sudovanilla.org](https://r.sudovanilla.org)
 # Onion
 - [md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 # I2P

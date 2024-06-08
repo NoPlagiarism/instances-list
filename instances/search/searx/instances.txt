@@ -33,7 +33,6 @@ search.ngn.tf
 search.ononoki.org
 search.privacyredirect.com
 search.projectsegfau.lt
-search.reallyaweso.me
 search.rhscz.eu
 search.rowie.at
 search.sapti.me
@@ -60,6 +59,7 @@ searx.perennialte.ch
 searx.rhscz.eu
 searx.sev.monster
 searx.techsaviours.org
+searx.tiekoetter.com
 searx.tuxcloud.net
 searx.work
 searx.zhenyapav.com
@@ -68,7 +68,6 @@ searxng.ca
 searxng.ch
 searxng.online
 searxng.site
-sex.finaltek.net
 skyrimhater.com
 sx.catgirl.cloud
 sx.thatxtreme.dev

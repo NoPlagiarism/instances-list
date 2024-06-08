@@ -1,6 +1,7 @@
 0.0g.gg
 0.anonpaste.uk
 0.jaegers.net
+0.lacorte.ninja
 0bin.virtuaverse.xyz
 anonpaste.uk
 b.opnxng.com
@@ -9,6 +10,7 @@ bin.0xfc.de
 bin.4st.li
 bin.68degrees.no
 bin.acquia.com
+bin.anarc.host
 bin.arq.pl
 bin.bloat.cat
 bin.bus-hit.me
@@ -87,6 +89,7 @@ paste.drfrankenstein.co.uk
 paste.dvotx.org
 paste.elyday.net
 paste.encrypt.co.il
+paste.evarioo.de
 paste.evolix.org
 paste.fizi.ca
 paste.gamesdrive.net
