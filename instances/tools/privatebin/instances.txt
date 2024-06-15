@@ -3,6 +3,7 @@
 0.jaegers.net
 0.lacorte.ninja
 0bin.virtuaverse.xyz
+anonpaste.org
 anonpaste.uk
 b.opnxng.com
 bin.0ax.cc
@@ -27,6 +28,7 @@ bin.infini.fr
 bin.infra.Mee6.cloud
 bin.iya.at
 bin.libreon.fr
+bin.linkwaveconnect.com.br
 bin.mezzo.moe
 bin.mha.fi
 bin.mycozy.space
@@ -76,10 +78,10 @@ p.rrbone.net
 p.vinci-concessions.com
 pas.te.it
 passwords.gestionalda.com
-pastbin.cc
 paste.3server.de
 paste.aryu.de
 paste.biocrafting.net
+paste.canine.tools
 paste.chapril.org
 paste.copper.dedyn.io
 paste.d-ku.de
@@ -152,7 +154,6 @@ privatebin.ar21.de
 privatebin.arch-linux.cz
 privatebin.arq.pl
 privatebin.at
-privatebin.bamberg.today
 privatebin.cobiotx.io
 privatebin.deblan.org
 privatebin.devol.it
@@ -173,6 +174,7 @@ privatebin.xi.ht
 privatepastebin.com
 pstbn.io
 sebsauvage.net
+secret.hummel-web.at
 secret.timeweb.ru
 secrets.cebador.fr
 secrets.l25.cloud

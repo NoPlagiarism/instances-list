@@ -25,6 +25,7 @@ search.in.projectsegfau.lt
 search.incogniweb.net
 search.indst.eu
 search.inetol.net
+search.ldne.xyz
 search.leptons.xyz
 search.mdosch.de
 search.nadeko.net
@@ -53,6 +54,7 @@ searx.juancord.xyz
 searx.lunar.icu
 searx.namejeff.xyz
 searx.nobulart.com
+searx.numeriquement.fr
 searx.oakleycord.dev
 searx.ox2.fr
 searx.perennialte.ch
@@ -66,7 +68,9 @@ searx.zhenyapav.com
 searxng.brihx.fr
 searxng.ca
 searxng.ch
+searxng.hweeren.com
 searxng.online
+searxng.shreven.org
 searxng.site
 skyrimhater.com
 sx.catgirl.cloud
