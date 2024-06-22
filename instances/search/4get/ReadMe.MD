@@ -26,3 +26,4 @@
 - [4get.zzls.xyz](https://4get.zzls.xyz)
 - [4getus.zzls.xyz](https://4getus.zzls.xyz)
 - [search.milivojevic.in.rs](https://search.milivojevic.in.rs)
+- [search.mint.lgbt](https://search.mint.lgbt)

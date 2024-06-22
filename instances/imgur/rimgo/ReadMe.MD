@@ -13,3 +13,4 @@
 - [rimgo.i2p](http://rimgo.i2p)
 - [rimgo.zzls.i2p](http://rimgo.zzls.i2p)
 - [rimgov7l2tqyrm5txrtvhtnfyrzkc5d7ipafofavchbnnyog4r3q.b32.i2p](http://rimgov7l2tqyrm5txrtvhtnfyrzkc5d7ipafofavchbnnyog4r3q.b32.i2p)
+- [wzfvt5txnmsfsbl24qjnm2enptnlghdsrfp3z5m2msfnok4h4juq.b32.i2p](http://wzfvt5txnmsfsbl24qjnm2enptnlghdsrfp3z5m2msfnok4h4juq.b32.i2p)

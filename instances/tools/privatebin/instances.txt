@@ -1,7 +1,6 @@
 0.0g.gg
 0.anonpaste.uk
 0.jaegers.net
-0.lacorte.ninja
 0bin.virtuaverse.xyz
 anonpaste.org
 anonpaste.uk
@@ -135,7 +134,6 @@ pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
-pastebin.rauschmair.de
 pastebin.uk
 pastefg.hermietkreeft.site
 pastejar.com
@@ -169,6 +167,7 @@ privatebin.piquark6046.dev
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org
+privatebin.stormdragons.net
 privatebin.wsmm.de
 privatebin.xi.ht
 privatepastebin.com

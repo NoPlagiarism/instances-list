@@ -4,6 +4,7 @@
 - [hp.ggtyler.dev](https://hp.ggtyler.dev)
 - [hp.iqbalrifai.eu.org](https://hp.iqbalrifai.eu.org)
 - [hp.ngn.tf](https://hp.ngn.tf)
+- [hyperpipe.darkness.services](https://hyperpipe.darkness.services)
 - [hyperpipe.drgns.space](https://hyperpipe.drgns.space)
 - [hyperpipe.ducks.party](https://hyperpipe.ducks.party)
 - [hyperpipe.esmailelbob.xyz](https://hyperpipe.esmailelbob.xyz)
