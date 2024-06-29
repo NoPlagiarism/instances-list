@@ -2,6 +2,7 @@
 
 # Clearnet
 - [4g.ggtyler.dev](https://4g.ggtyler.dev)
+- [4get.aishiteiru.moe](https://4get.aishiteiru.moe)
 - [4get.ca](https://4get.ca)
 - [4get.ch](https://4get.ch)
 - [4get.datura.network](https://4get.datura.network)

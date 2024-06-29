@@ -48,6 +48,7 @@ searx.catfluori.de
 searx.colbster937.dev
 searx.daetalytica.io
 searx.dresden.network
+searx.electroncash.de
 searx.foss.family
 searx.hu
 searx.juancord.xyz
@@ -59,6 +60,7 @@ searx.oakleycord.dev
 searx.ox2.fr
 searx.perennialte.ch
 searx.rhscz.eu
+searx.ro
 searx.sev.monster
 searx.techsaviours.org
 searx.tiekoetter.com
@@ -66,7 +68,6 @@ searx.tuxcloud.net
 searx.work
 searx.zhenyapav.com
 searxng.brihx.fr
-searxng.ca
 searxng.ch
 searxng.hweeren.com
 searxng.online

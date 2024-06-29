@@ -10,7 +10,6 @@ bin.0xfc.de
 bin.4st.li
 bin.68degrees.no
 bin.acquia.com
-bin.anarc.host
 bin.arq.pl
 bin.bloat.cat
 bin.bus-hit.me
@@ -80,6 +79,7 @@ passwords.gestionalda.com
 paste.3server.de
 paste.aryu.de
 paste.biocrafting.net
+paste.burble.com
 paste.canine.tools
 paste.chapril.org
 paste.copper.dedyn.io
@@ -98,7 +98,6 @@ paste.ggc-project.de
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
-paste.justman10000.de
 paste.lilay.dev
 paste.lilliepad.xyz
 paste.momobako.com
@@ -145,6 +144,7 @@ pb.fsociety.social
 pb.greep.fr
 pb.skifab.se
 pbinka.duckdns.org
+photistic.org
 postit.hadoly.fr
 private.opendoor.fr
 private.rmconsulting.com
