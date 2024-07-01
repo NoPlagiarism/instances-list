@@ -5,6 +5,7 @@ breeze.nohost.network
 breeze.whateveritworks.org
 breezewiki.4o1x5.dev
 breezewiki.catsarch.com
+breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion
 breezewiki.com
 breezewiki.frontendfriendly.xyz
 breezewiki.hyperreal.coffee
@@ -12,6 +13,8 @@ breezewiki.nadeko.net
 breezewiki.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion
 breezewiki.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion
 breezewiki.pussthecat.org
+breezewiki.r4fo.com
+breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion
 breezewiki.woodland.cafe
 bw.artemislena.eu
 bw.hamstro.dev
