@@ -2,7 +2,6 @@
 0.anonpaste.uk
 0.jaegers.net
 0bin.virtuaverse.xyz
-anonpaste.org
 anonpaste.uk
 b.opnxng.com
 bin.0ax.cc
@@ -90,7 +89,6 @@ paste.drfrankenstein.co.uk
 paste.dvotx.org
 paste.elyday.net
 paste.encrypt.co.il
-paste.evarioo.de
 paste.evolix.org
 paste.fizi.ca
 paste.gamesdrive.net
@@ -127,13 +125,13 @@ paste.voxhost.fr
 paste.waays.fr
 paste.webdigg.org
 paste.worf.win
+pastebin.0bin.xyz
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
-pastebin.uk
 pastefg.hermietkreeft.site
 pastejar.com
 pb.blackvoid.club
@@ -163,10 +161,8 @@ privatebin.kosebamse.com
 privatebin.luckvintage.com
 privatebin.net
 privatebin.paradox.ai
-privatebin.piquark6046.dev
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
-privatebin.sequanux.org
 privatebin.stormdragons.net
 privatebin.wsmm.de
 privatebin.xi.ht

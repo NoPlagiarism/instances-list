@@ -1,16 +1,16 @@
 # [Piped](https://github.com/TeamPiped/Piped#readme)
 
 # Clearnet
+- [pi.ggtyler.dev](https://pi.ggtyler.dev)
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.astartes.nl](https://piped.astartes.nl)
-- [piped.coldforge.xyz](https://piped.coldforge.xyz)
-- [piped.darkness.services](https://piped.darkness.services)
 - [piped.drgns.space](https://piped.drgns.space)
-- [piped.ducks.party](https://piped.ducks.party)
+- [piped.frontendfriendly.xyz](https://piped.frontendfriendly.xyz)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
 - [piped.ngn.tf](https://piped.ngn.tf)
 - [piped.nosebs.ru](https://piped.nosebs.ru)
 - [piped.phoenixthrush.com](https://piped.phoenixthrush.com)
+- [piped.privacydev.net](https://piped.privacydev.net)
 - [piped.private.coffee](https://piped.private.coffee)
 - [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.r4fo.com](https://piped.r4fo.com)
@@ -22,7 +22,6 @@
 - [schaun.ehwurscht.at](https://schaun.ehwurscht.at)
 - [yt.cdsp.cz](https://yt.cdsp.cz)
 # Onion
-- [piped.darknessrdor43qkl2ngwitj72zdavfz2cead4t5ed72bybgauww5lyd.onion](http://piped.darknessrdor43qkl2ngwitj72zdavfz2cead4t5ed72bybgauww5lyd.onion)
 - [piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 # I2P
