@@ -1,0 +1,38 @@
+{
+    "instances": [
+        "l.opnxng.com",
+        "libreddit.bus-hit.me",
+        "libreddit.privacydev.net",
+        "libreddit.projectsegfau.lt",
+        "lr.ggtyler.dev",
+        "lr.n8pjl.ca",
+        "red.arancia.click",
+        "red.artemislena.eu",
+        "red.ngn.tf",
+        "reddit.nerdvpn.de",
+        "redlib.baczek.me",
+        "redlib.catsarch.com",
+        "redlib.ducks.party",
+        "redlib.freedit.eu",
+        "redlib.frontendfriendly.xyz",
+        "redlib.incogniweb.net",
+        "redlib.nirn.quest",
+        "redlib.nohost.network",
+        "redlib.perennialte.ch",
+        "redlib.privacy.com.de",
+        "redlib.privacyredirect.com",
+        "redlib.private.coffee",
+        "redlib.seasi.dev",
+        "redlib.tux.pizza",
+        "redlib.vimmer.dev",
+        "rl.bloat.cat",
+        "rl.rootdo.com",
+        "safereddit.com"
+    ],
+    "onion": [
+        "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
+        "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+        "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+    ],
+    "i2p": []
+}

@@ -16,7 +16,6 @@ search.charliewhiskey.net
 search.citw.lgbt
 search.darkness.services
 search.datura.network
-search.demoniak.ch
 search.dotone.nl
 search.einfachzocken.eu
 search.gcomm.ch
@@ -42,7 +41,6 @@ search.tommy-tran.com
 search.us.projectsegfau.lt
 searx.aleteoryx.me
 searx.ankha.ac
-searx.baczek.me
 searx.be
 searx.catfluori.de
 searx.colbster937.dev
