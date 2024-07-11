@@ -524,22 +524,40 @@
 
 ### Clearnet
 - [ask.habedieeh.re](https://ask.habedieeh.re)
+- [ask.sudovanilla.org](https://ask.sudovanilla.org)
+- [q.opnxng.com](https://q.opnxng.com)
+- [qr.vern.cc](https://qr.vern.cc)
 - [que.wilbvr.me](https://que.wilbvr.me)
 - [questions.whateveritworks.org](https://questions.whateveritworks.org)
 - [quetre.blackdrgn.nl](https://quetre.blackdrgn.nl)
+- [quetre.catsarch.com](https://quetre.catsarch.com)
+- [quetre.drgns.space](https://quetre.drgns.space)
+- [quetre.ducks.party](https://quetre.ducks.party)
 - [quetre.frontendfriendly.xyz](https://quetre.frontendfriendly.xyz)
+- [quetre.ftw.lol](https://quetre.ftw.lol)
 - [quetre.iket.me](https://quetre.iket.me)
 - [quetre.lunar.icu](https://quetre.lunar.icu)
+- [quetre.nadeko.net](https://quetre.nadeko.net)
 - [quetre.odyssey346.dev](https://quetre.odyssey346.dev)
 - [quetre.privacydev.net](https://quetre.privacydev.net)
+- [quetre.private.coffee](https://quetre.private.coffee)
 - [quetre.projectsegfau.lt](https://quetre.projectsegfau.lt)
 - [quetre.pussthecat.org](https://quetre.pussthecat.org)
+- [quetre.r4fo.com](https://quetre.r4fo.com)
+- [quetre.tokhmi.xyz](https://quetre.tokhmi.xyz)
 - [quora.femboy.hu](https://quora.femboy.hu)
-- [quora.vern.cc](https://quora.vern.cc)
+- [quora.seitan-ayoub.lol](https://quora.seitan-ayoub.lol)
 ### Onion
+- [ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
+- [qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+- [quetre.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://quetre.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [quetre.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion](http://quetre.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion)
+- [quetre.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://quetre.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+- [quetre.nadekobxalvyqrhvp3m2atfgdmzp5vcwdmu3wo4htecwjkodancfmgid.onion](http://quetre.nadekobxalvyqrhvp3m2atfgdmzp5vcwdmu3wo4htecwjkodancfmgid.onion)
 - [quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion](http://quora.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion)
 ### I2P
-
+- [5vtstw6besbeadtll62wy3prwq7o6nxxle2euhtoskmcrcpaa43q.b32.i2p](http://5vtstw6besbeadtll62wy3prwq7o6nxxle2euhtoskmcrcpaa43q.b32.i2p)
+- [vernnflenvsqccuanaun7yydnmturi4jkyxlyzhn6ultpje66c3q.b32.i2p](http://vernnflenvsqccuanaun7yydnmturi4jkyxlyzhn6ultpje66c3q.b32.i2p)
 
 ## [rimgo](https://codeberg.org/video-prize-ranch/rimgo#rimgo)
 
