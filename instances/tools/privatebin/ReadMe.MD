@@ -37,6 +37,7 @@
 - [bin.oldgate.org](https://bin.oldgate.org)
 - [bin.privateweb.ch](https://bin.privateweb.ch)
 - [bin.purplebored.pl](https://bin.purplebored.pl)
+- [bin.reallyaweso.me](https://bin.reallyaweso.me)
 - [bin.rtb.gg](https://bin.rtb.gg)
 - [bin.sasach.work](https://bin.sasach.work)
 - [bin.siick.fr](https://bin.siick.fr)

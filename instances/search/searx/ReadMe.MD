@@ -63,7 +63,6 @@
 - [searx.rhscz.eu](https://searx.rhscz.eu)
 - [searx.ro](https://searx.ro)
 - [searx.sev.monster](https://searx.sev.monster)
-- [searx.techsaviours.org](https://searx.techsaviours.org)
 - [searx.tiekoetter.com](https://searx.tiekoetter.com)
 - [searx.tuxcloud.net](https://searx.tuxcloud.net)
 - [searx.work](https://searx.work)

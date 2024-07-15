@@ -192,7 +192,6 @@
             "searx.rhscz.eu",
             "searx.ro",
             "searx.sev.monster",
-            "searx.techsaviours.org",
             "searx.tiekoetter.com",
             "searx.tuxcloud.net",
             "searx.work",
@@ -335,10 +334,12 @@
             "libreddit.nl",
             "libreddit.oxymagnesium.com",
             "libreddit.privacydev.net",
+            "libreddit.projectsegfau.lt",
             "libreddit.tux.pizza",
             "lr.vern.cc",
             "r.darklab.sh",
             "reddit.rtrace.io",
+            "reddit.simo.sh",
             "reddit.utsav2.dev"
         ],
         "onion": [
@@ -359,6 +360,7 @@
             "libreddit.projectsegfau.lt",
             "lr.ggtyler.dev",
             "lr.n8pjl.ca",
+            "r.darrennathanael.com",
             "red.arancia.click",
             "red.artemislena.eu",
             "red.ngn.tf",
@@ -369,6 +371,7 @@
             "redlib.freedit.eu",
             "redlib.frontendfriendly.xyz",
             "redlib.incogniweb.net",
+            "redlib.nadeko.net",
             "redlib.nirn.quest",
             "redlib.nohost.network",
             "redlib.perennialte.ch",
@@ -408,32 +411,26 @@
             "wl.vern.cc"
         ],
         "onion": [
-            "7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion",
-            "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
-        "i2p": [
-            "vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p"
-        ]
+        "i2p": []
     },
     "piped": {
         "name": "Piped",
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "pi.ggtyler.dev",
             "piped.adminforge.de",
+            "piped.andreafortuna.org",
             "piped.astartes.nl",
+            "piped.dedyn.io",
             "piped.drgns.space",
             "piped.frontendfriendly.xyz",
             "piped.in.projectsegfau.lt",
             "piped.ngn.tf",
-            "piped.nosebs.ru",
-            "piped.phoenixthrush.com",
             "piped.privacydev.net",
             "piped.private.coffee",
             "piped.projectsegfau.lt",
-            "piped.r4fo.com",
             "piped.reallyaweso.me",
             "piped.smnz.de",
             "piped.us.projectsegfau.lt",
@@ -443,8 +440,6 @@
             "yt.cdsp.cz"
         ],
         "onion": [
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "piped.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -746,12 +741,14 @@
             "breezewiki.4o1x5.dev",
             "breezewiki.catsarch.com",
             "breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion",
             "breezewiki.com",
             "breezewiki.frontendfriendly.xyz",
             "breezewiki.hyperreal.coffee",
             "breezewiki.nadeko.net",
             "breezewiki.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion",
             "breezewiki.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "breezewiki.private.coffee",
             "breezewiki.pussthecat.org",
             "breezewiki.r4fo.com",
             "breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
@@ -760,6 +757,7 @@
             "bw.hamstro.dev",
             "bw.projectsegfau.lt",
             "bw.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion",
+            "fandom.reallyaweso.me",
             "nerd.whatever.social",
             "z.opnxng.com"
         ]
@@ -973,6 +971,7 @@
             "bin.oldgate.org",
             "bin.privateweb.ch",
             "bin.purplebored.pl",
+            "bin.reallyaweso.me",
             "bin.rtb.gg",
             "bin.sasach.work",
             "bin.siick.fr",
@@ -1198,22 +1197,22 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
-            "piped-proxy.ducks.party",
-            "piped-proxy.lunar.icu",
             "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
+            "pipedproxy.andreafortuna.org",
+            "pipedproxy.astartes.nl",
             "pipedproxy.darkness.services",
+            "pipedproxy.dedyn.io",
             "pipedproxy.drgns.space",
-            "pipedproxy.in.projectsegfau.lt",
+            "pipedproxy.frontendfriendly.xyz",
             "pipedproxy.kavin.rocks",
             "pipedproxy.ngn.tf",
-            "pipedproxy.nosebs.ru",
             "pipedproxy.phoenixthrush.com",
             "pipedproxy.reallyaweso.me",
             "pipedproxy.us.projectsegfau.lt",
+            "proxy.piped.privacydev.net",
             "proxy.piped.private.coffee",
-            "proxy.piped.projectsegfau.lt",
             "proxy.piped.yt",
             "schaunproxy.ehwurscht.at"
         ]

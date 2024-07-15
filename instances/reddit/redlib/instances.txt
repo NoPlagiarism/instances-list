@@ -4,6 +4,7 @@ libreddit.privacydev.net
 libreddit.projectsegfau.lt
 lr.ggtyler.dev
 lr.n8pjl.ca
+r.darrennathanael.com
 red.arancia.click
 red.artemislena.eu
 red.ngn.tf
@@ -14,6 +15,7 @@ redlib.ducks.party
 redlib.freedit.eu
 redlib.frontendfriendly.xyz
 redlib.incogniweb.net
+redlib.nadeko.net
 redlib.nirn.quest
 redlib.nohost.network
 redlib.perennialte.ch

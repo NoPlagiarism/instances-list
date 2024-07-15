@@ -34,6 +34,7 @@ bin.nji9.de
 bin.oldgate.org
 bin.privateweb.ch
 bin.purplebored.pl
+bin.reallyaweso.me
 bin.rtb.gg
 bin.sasach.work
 bin.siick.fr
