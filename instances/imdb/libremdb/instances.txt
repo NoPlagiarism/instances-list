@@ -6,11 +6,11 @@ libremdb.catsarch.com
 libremdb.darkness.services
 libremdb.ducks.party
 libremdb.frontendfriendly.xyz
+libremdb.hyperreal.coffee
 libremdb.iket.me
 libremdb.jeikobu.net
 libremdb.lunar.icu
 libremdb.nerdyfam.tech
-libremdb.nirn.quest
 libremdb.privacydev.net
 libremdb.pussthecat.org
 libremdb.r4fo.com

@@ -6,7 +6,6 @@ anonpaste.uk
 b.opnxng.com
 bin.0ax.cc
 bin.0xfc.de
-bin.4st.li
 bin.68degrees.no
 bin.acquia.com
 bin.arq.pl
@@ -99,6 +98,7 @@ paste.hostux.net
 paste.i2pd.xyz
 paste.lilay.dev
 paste.lilliepad.xyz
+paste.miike7.com
 paste.molytov.xyz
 paste.momobako.com
 paste.nerdvpn.de
@@ -143,6 +143,7 @@ pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
+pb.rausgerufen.de
 pb.skifab.se
 pbinka.duckdns.org
 photistic.org

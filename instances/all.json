@@ -331,16 +331,16 @@
             "l.opnxng.com",
             "libreddit.bus-hit.me",
             "libreddit.kavin.rocks",
+            "libreddit.lunar.icu",
             "libreddit.nl",
             "libreddit.oxymagnesium.com",
-            "libreddit.privacydev.net",
-            "libreddit.projectsegfau.lt",
             "libreddit.tux.pizza",
             "lr.vern.cc",
             "r.darklab.sh",
             "reddit.rtrace.io",
             "reddit.simo.sh",
-            "reddit.utsav2.dev"
+            "reddit.utsav2.dev",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -374,22 +374,17 @@
             "redlib.nadeko.net",
             "redlib.nirn.quest",
             "redlib.nohost.network",
-            "redlib.perennialte.ch",
             "redlib.privacy.com.de",
             "redlib.privacyredirect.com",
             "redlib.private.coffee",
+            "redlib.reallyaweso.me",
             "redlib.seasi.dev",
             "redlib.tux.pizza",
             "redlib.vimmer.dev",
             "rl.bloat.cat",
-            "rl.rootdo.com",
-            "safereddit.com"
+            "rl.rootdo.com"
         ],
-        "onion": [
-            "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "wikiless": {
@@ -411,9 +406,13 @@
             "wl.vern.cc"
         ],
         "onion": [
+            "7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion",
+            "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p"
+        ]
     },
     "piped": {
         "name": "Piped",
@@ -421,25 +420,23 @@
         "path": "youtube/piped",
         "instances": [
             "piped.adminforge.de",
-            "piped.andreafortuna.org",
             "piped.astartes.nl",
-            "piped.dedyn.io",
+            "piped.darkness.services",
             "piped.drgns.space",
-            "piped.frontendfriendly.xyz",
             "piped.in.projectsegfau.lt",
             "piped.ngn.tf",
+            "piped.phoenixthrush.com",
             "piped.privacydev.net",
             "piped.private.coffee",
-            "piped.projectsegfau.lt",
             "piped.reallyaweso.me",
             "piped.smnz.de",
-            "piped.us.projectsegfau.lt",
             "piped.video",
             "piped.yt",
             "schaun.ehwurscht.at",
             "yt.cdsp.cz"
         ],
         "onion": [
+            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -547,6 +544,7 @@
             "ask.sudovanilla.org",
             "q.opnxng.com",
             "qr.vern.cc",
+            "qr.zorby.top",
             "que.wilbvr.me",
             "questions.whateveritworks.org",
             "quetre.blackdrgn.nl",
@@ -570,6 +568,7 @@
         ],
         "onion": [
             "ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
+            "iuryhavpcvc5unkojuobya6efmromgyatc3dspw5arulgqxch4bylcqd.onion",
             "qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "quetre.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "quetre.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion",
@@ -579,6 +578,7 @@
         ],
         "i2p": [
             "5vtstw6besbeadtll62wy3prwq7o6nxxle2euhtoskmcrcpaa43q.b32.i2p",
+            "fytmh2fqkg2q4dwtu4eqe6qi24hvivjtkhciv7e3gch35wkh4dpq.b32.i2p",
             "vernnflenvsqccuanaun7yydnmturi4jkyxlyzhn6ultpje66c3q.b32.i2p"
         ]
     },
@@ -619,7 +619,6 @@
             "watch.whateveritworks.org"
         ],
         "onion": [
-            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
     },
@@ -881,11 +880,11 @@
             "libremdb.darkness.services",
             "libremdb.ducks.party",
             "libremdb.frontendfriendly.xyz",
+            "libremdb.hyperreal.coffee",
             "libremdb.iket.me",
             "libremdb.jeikobu.net",
             "libremdb.lunar.icu",
             "libremdb.nerdyfam.tech",
-            "libremdb.nirn.quest",
             "libremdb.privacydev.net",
             "libremdb.pussthecat.org",
             "libremdb.r4fo.com",
@@ -943,7 +942,6 @@
             "b.opnxng.com",
             "bin.0ax.cc",
             "bin.0xfc.de",
-            "bin.4st.li",
             "bin.68degrees.no",
             "bin.acquia.com",
             "bin.arq.pl",
@@ -1036,6 +1034,7 @@
             "paste.i2pd.xyz",
             "paste.lilay.dev",
             "paste.lilliepad.xyz",
+            "paste.miike7.com",
             "paste.molytov.xyz",
             "paste.momobako.com",
             "paste.nerdvpn.de",
@@ -1080,6 +1079,7 @@
             "pb.fly.dev",
             "pb.fsociety.social",
             "pb.greep.fr",
+            "pb.rausgerufen.de",
             "pb.skifab.se",
             "pbinka.duckdns.org",
             "photistic.org",
@@ -1141,7 +1141,8 @@
             "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
-            "texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion"
+            "texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion",
+            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
         ],
         "i2p": [
             "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
@@ -1200,20 +1201,16 @@
             "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
-            "pipedproxy.andreafortuna.org",
             "pipedproxy.astartes.nl",
             "pipedproxy.darkness.services",
-            "pipedproxy.dedyn.io",
             "pipedproxy.drgns.space",
-            "pipedproxy.frontendfriendly.xyz",
+            "pipedproxy.in.projectsegfau.lt",
             "pipedproxy.kavin.rocks",
             "pipedproxy.ngn.tf",
             "pipedproxy.phoenixthrush.com",
             "pipedproxy.reallyaweso.me",
-            "pipedproxy.us.projectsegfau.lt",
             "proxy.piped.privacydev.net",
             "proxy.piped.private.coffee",
-            "proxy.piped.yt",
             "schaunproxy.ehwurscht.at"
         ]
     }

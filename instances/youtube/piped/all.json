@@ -1,25 +1,23 @@
 {
     "instances": [
         "piped.adminforge.de",
-        "piped.andreafortuna.org",
         "piped.astartes.nl",
-        "piped.dedyn.io",
+        "piped.darkness.services",
         "piped.drgns.space",
-        "piped.frontendfriendly.xyz",
         "piped.in.projectsegfau.lt",
         "piped.ngn.tf",
+        "piped.phoenixthrush.com",
         "piped.privacydev.net",
         "piped.private.coffee",
-        "piped.projectsegfau.lt",
         "piped.reallyaweso.me",
         "piped.smnz.de",
-        "piped.us.projectsegfau.lt",
         "piped.video",
         "piped.yt",
         "schaun.ehwurscht.at",
         "yt.cdsp.cz"
     ],
     "onion": [
+        "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
     "i2p": []

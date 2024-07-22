@@ -18,13 +18,12 @@ redlib.incogniweb.net
 redlib.nadeko.net
 redlib.nirn.quest
 redlib.nohost.network
-redlib.perennialte.ch
 redlib.privacy.com.de
 redlib.privacyredirect.com
 redlib.private.coffee
+redlib.reallyaweso.me
 redlib.seasi.dev
 redlib.tux.pizza
 redlib.vimmer.dev
 rl.bloat.cat
 rl.rootdo.com
-safereddit.com

@@ -21,19 +21,16 @@
 - [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.nirn.quest](https://redlib.nirn.quest)
 - [redlib.nohost.network](https://redlib.nohost.network)
-- [redlib.perennialte.ch](https://redlib.perennialte.ch)
 - [redlib.privacy.com.de](https://redlib.privacy.com.de)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.private.coffee](https://redlib.private.coffee)
+- [redlib.reallyaweso.me](https://redlib.reallyaweso.me)
 - [redlib.seasi.dev](https://redlib.seasi.dev)
 - [redlib.tux.pizza](https://redlib.tux.pizza)
 - [redlib.vimmer.dev](https://redlib.vimmer.dev)
 - [rl.bloat.cat](https://rl.bloat.cat)
 - [rl.rootdo.com](https://rl.rootdo.com)
-- [safereddit.com](https://safereddit.com)
 # Onion
-- [nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion](http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion)
-- [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
-- [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+
 # I2P
 
