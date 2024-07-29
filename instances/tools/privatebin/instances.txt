@@ -14,7 +14,6 @@ bin.bus-hit.me
 bin.byreqz.de
 bin.disroot.org
 bin.eiphax.tech
-bin.fkingprojects.org
 bin.garbaye.fr
 bin.garudalinux.org
 bin.habedieeh.re
@@ -63,6 +62,7 @@ notes.de.cool
 noteshare.net
 oldpb.purplebored.pl
 onetime.vits.co.uk
+onetimesecret.trans-ix.nl
 opportunis.me
 ots.ip-projects.de
 ots.kocsar.at
@@ -93,6 +93,7 @@ paste.evolix.org
 paste.fizi.ca
 paste.gamesdrive.net
 paste.ggc-project.de
+paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
@@ -176,6 +177,7 @@ sebsauvage.net
 secret.hummel-web.at
 secret.timeweb.ru
 secrets.cebador.fr
+secrets.janjaapvandijk.nl
 secrets.l25.cloud
 secrets.secumail.de
 secrets.true.nl

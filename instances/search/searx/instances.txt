@@ -2,6 +2,7 @@ baresearch.org
 copp.gg
 etsi.me
 fairsuch.net
+nogoo.me
 northboot.xyz
 nyc1.sx.ggtyler.dev
 ooglester.com
@@ -51,6 +52,7 @@ searx.foss.family
 searx.hu
 searx.juancord.xyz
 searx.lunar.icu
+searx.mv-software.de
 searx.namejeff.xyz
 searx.nobulart.com
 searx.numeriquement.fr
@@ -71,6 +73,7 @@ searxng.online
 searxng.shreven.org
 searxng.site
 skyrimhater.com
+sx.ca.zorby.top
 sx.catgirl.cloud
 sx.thatxtreme.dev
 sx.zorby.top

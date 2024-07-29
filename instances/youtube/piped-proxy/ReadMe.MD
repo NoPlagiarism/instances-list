@@ -13,6 +13,7 @@
 - [pipedproxy.ngn.tf](https://pipedproxy.ngn.tf)
 - [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
 - [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
-- [proxy.piped.privacydev.net](https://proxy.piped.privacydev.net)
 - [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
+- [proxy.piped.projectsegfau.lt](https://proxy.piped.projectsegfau.lt)
+- [proxy.piped.yt](https://proxy.piped.yt)
 - [schaunproxy.ehwurscht.at](https://schaunproxy.ehwurscht.at)
