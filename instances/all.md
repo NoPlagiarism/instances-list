@@ -171,7 +171,6 @@
 - [search.gcomm.ch](https://search.gcomm.ch)
 - [search.hbubli.cc](https://search.hbubli.cc)
 - [search.im-in.space](https://search.im-in.space)
-- [search.in.projectsegfau.lt](https://search.in.projectsegfau.lt)
 - [search.incogniweb.net](https://search.incogniweb.net)
 - [search.indst.eu](https://search.indst.eu)
 - [search.inetol.net](https://search.inetol.net)
@@ -188,7 +187,6 @@
 - [search.sapti.me](https://search.sapti.me)
 - [search.smnz.de](https://search.smnz.de)
 - [search.tommy-tran.com](https://search.tommy-tran.com)
-- [search.us.projectsegfau.lt](https://search.us.projectsegfau.lt)
 - [searx.aleteoryx.me](https://searx.aleteoryx.me)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.be](https://searx.be)
@@ -202,6 +200,7 @@
 - [searx.juancord.xyz](https://searx.juancord.xyz)
 - [searx.lunar.icu](https://searx.lunar.icu)
 - [searx.mv-software.de](https://searx.mv-software.de)
+- [searx.mxchange.org](https://searx.mxchange.org)
 - [searx.namejeff.xyz](https://searx.namejeff.xyz)
 - [searx.nobulart.com](https://searx.nobulart.com)
 - [searx.numeriquement.fr](https://searx.numeriquement.fr)
@@ -211,6 +210,7 @@
 - [searx.rhscz.eu](https://searx.rhscz.eu)
 - [searx.ro](https://searx.ro)
 - [searx.sev.monster](https://searx.sev.monster)
+- [searx.thefloatinglab.world](https://searx.thefloatinglab.world)
 - [searx.tiekoetter.com](https://searx.tiekoetter.com)
 - [searx.tuxcloud.net](https://searx.tuxcloud.net)
 - [searx.work](https://searx.work)
@@ -226,8 +226,6 @@
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
 - [sx.thatxtreme.dev](https://sx.thatxtreme.dev)
 - [sx.zorby.top](https://sx.zorby.top)
-- [sxng.violets-purgatory.dev](https://sxng.violets-purgatory.dev)
-- [vanderwilhelm.me](https://vanderwilhelm.me)
 - [www.gruble.de](https://www.gruble.de)
 - [xo.wtf](https://xo.wtf)
 ### Onion
@@ -348,6 +346,8 @@
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [reddit.simo.sh](https://reddit.simo.sh)
 - [reddit.utsav2.dev](https://reddit.utsav2.dev)
+- [safereddit.com](https://safereddit.com)
+- [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -416,11 +416,15 @@
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
 ### Clearnet
+- [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.astartes.nl](https://piped.astartes.nl)
 - [piped.darkness.services](https://piped.darkness.services)
 - [piped.drgns.space](https://piped.drgns.space)
+- [piped.ducks.party](https://piped.ducks.party)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
 - [piped.ngn.tf](https://piped.ngn.tf)
+- [piped.phoenixthrush.com](https://piped.phoenixthrush.com)
+- [piped.privacydev.net](https://piped.privacydev.net)
 - [piped.private.coffee](https://piped.private.coffee)
 - [piped.projectsegfau.lt](https://piped.projectsegfau.lt)
 - [piped.reallyaweso.me](https://piped.reallyaweso.me)
@@ -428,7 +432,10 @@
 - [piped.video](https://piped.video)
 - [piped.yt](https://piped.yt)
 - [schaun.ehwurscht.at](https://schaun.ehwurscht.at)
+- [yt.cdsp.cz](https://yt.cdsp.cz)
 ### Onion
+- [gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion](http://gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion)
+- [piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 ### I2P
 
@@ -883,7 +890,6 @@
 - [bin.nixnet.services](https://bin.nixnet.services)
 - [bin.nji9.de](https://bin.nji9.de)
 - [bin.oldgate.org](https://bin.oldgate.org)
-- [bin.privateweb.ch](https://bin.privateweb.ch)
 - [bin.purplebored.pl](https://bin.purplebored.pl)
 - [bin.reallyaweso.me](https://bin.reallyaweso.me)
 - [bin.rtb.gg](https://bin.rtb.gg)
@@ -1106,6 +1112,7 @@
 
 ### Clearnet
 - [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
+- [piped-proxy.ducks.party](https://piped-proxy.ducks.party)
 - [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
 - [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
 - [pipedproxy-ams-2.kavin.rocks](https://pipedproxy-ams-2.kavin.rocks)
@@ -1117,7 +1124,7 @@
 - [pipedproxy.ngn.tf](https://pipedproxy.ngn.tf)
 - [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
 - [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
-- [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
+- [proxy.piped.privacydev.net](https://proxy.piped.privacydev.net)
 - [proxy.piped.projectsegfau.lt](https://proxy.piped.projectsegfau.lt)
 - [proxy.piped.yt](https://proxy.piped.yt)
 - [schaunproxy.ehwurscht.at](https://schaunproxy.ehwurscht.at)

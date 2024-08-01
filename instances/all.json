@@ -154,7 +154,6 @@
             "search.gcomm.ch",
             "search.hbubli.cc",
             "search.im-in.space",
-            "search.in.projectsegfau.lt",
             "search.incogniweb.net",
             "search.indst.eu",
             "search.inetol.net",
@@ -171,7 +170,6 @@
             "search.sapti.me",
             "search.smnz.de",
             "search.tommy-tran.com",
-            "search.us.projectsegfau.lt",
             "searx.aleteoryx.me",
             "searx.ankha.ac",
             "searx.be",
@@ -185,6 +183,7 @@
             "searx.juancord.xyz",
             "searx.lunar.icu",
             "searx.mv-software.de",
+            "searx.mxchange.org",
             "searx.namejeff.xyz",
             "searx.nobulart.com",
             "searx.numeriquement.fr",
@@ -194,6 +193,7 @@
             "searx.rhscz.eu",
             "searx.ro",
             "searx.sev.monster",
+            "searx.thefloatinglab.world",
             "searx.tiekoetter.com",
             "searx.tuxcloud.net",
             "searx.work",
@@ -209,8 +209,6 @@
             "sx.catgirl.cloud",
             "sx.thatxtreme.dev",
             "sx.zorby.top",
-            "sxng.violets-purgatory.dev",
-            "vanderwilhelm.me",
             "www.gruble.de",
             "xo.wtf"
         ],
@@ -343,7 +341,9 @@
             "r.darklab.sh",
             "reddit.rtrace.io",
             "reddit.simo.sh",
-            "reddit.utsav2.dev"
+            "reddit.utsav2.dev",
+            "safereddit.com",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -422,20 +422,27 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
+            "piped.adminforge.de",
             "piped.astartes.nl",
             "piped.darkness.services",
             "piped.drgns.space",
+            "piped.ducks.party",
             "piped.in.projectsegfau.lt",
             "piped.ngn.tf",
+            "piped.phoenixthrush.com",
+            "piped.privacydev.net",
             "piped.private.coffee",
             "piped.projectsegfau.lt",
             "piped.reallyaweso.me",
             "piped.smnz.de",
             "piped.video",
             "piped.yt",
-            "schaun.ehwurscht.at"
+            "schaun.ehwurscht.at",
+            "yt.cdsp.cz"
         ],
         "onion": [
+            "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion",
+            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -965,7 +972,6 @@
             "bin.nixnet.services",
             "bin.nji9.de",
             "bin.oldgate.org",
-            "bin.privateweb.ch",
             "bin.purplebored.pl",
             "bin.reallyaweso.me",
             "bin.rtb.gg",
@@ -1199,6 +1205,7 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
+            "piped-proxy.ducks.party",
             "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
@@ -1210,7 +1217,7 @@
             "pipedproxy.ngn.tf",
             "pipedproxy.phoenixthrush.com",
             "pipedproxy.reallyaweso.me",
-            "proxy.piped.private.coffee",
+            "proxy.piped.privacydev.net",
             "proxy.piped.projectsegfau.lt",
             "proxy.piped.yt",
             "schaunproxy.ehwurscht.at"

@@ -22,7 +22,6 @@ search.einfachzocken.eu
 search.gcomm.ch
 search.hbubli.cc
 search.im-in.space
-search.in.projectsegfau.lt
 search.incogniweb.net
 search.indst.eu
 search.inetol.net
@@ -39,7 +38,6 @@ search.rowie.at
 search.sapti.me
 search.smnz.de
 search.tommy-tran.com
-search.us.projectsegfau.lt
 searx.aleteoryx.me
 searx.ankha.ac
 searx.be
@@ -53,6 +51,7 @@ searx.hu
 searx.juancord.xyz
 searx.lunar.icu
 searx.mv-software.de
+searx.mxchange.org
 searx.namejeff.xyz
 searx.nobulart.com
 searx.numeriquement.fr
@@ -62,6 +61,7 @@ searx.perennialte.ch
 searx.rhscz.eu
 searx.ro
 searx.sev.monster
+searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
 searx.work
@@ -77,7 +77,5 @@ sx.ca.zorby.top
 sx.catgirl.cloud
 sx.thatxtreme.dev
 sx.zorby.top
-sxng.violets-purgatory.dev
-vanderwilhelm.me
 www.gruble.de
 xo.wtf

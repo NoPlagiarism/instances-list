@@ -1,8 +1,12 @@
+piped.adminforge.de
 piped.astartes.nl
 piped.darkness.services
 piped.drgns.space
+piped.ducks.party
 piped.in.projectsegfau.lt
 piped.ngn.tf
+piped.phoenixthrush.com
+piped.privacydev.net
 piped.private.coffee
 piped.projectsegfau.lt
 piped.reallyaweso.me
@@ -10,3 +14,4 @@ piped.smnz.de
 piped.video
 piped.yt
 schaun.ehwurscht.at
+yt.cdsp.cz

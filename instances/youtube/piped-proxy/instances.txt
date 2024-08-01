@@ -1,4 +1,5 @@
 piped-proxy.codespace.cz
+piped-proxy.ducks.party
 pipedimageproxy.smnz.de
 pipedimg.adminforge.de
 pipedproxy-ams-2.kavin.rocks
@@ -10,7 +11,7 @@ pipedproxy.kavin.rocks
 pipedproxy.ngn.tf
 pipedproxy.phoenixthrush.com
 pipedproxy.reallyaweso.me
-proxy.piped.private.coffee
+proxy.piped.privacydev.net
 proxy.piped.projectsegfau.lt
 proxy.piped.yt
 schaunproxy.ehwurscht.at
