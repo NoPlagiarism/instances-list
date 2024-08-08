@@ -1,4 +1,3 @@
-0.0g.gg
 0.anonpaste.uk
 0.jaegers.net
 0bin.virtuaverse.xyz
@@ -9,7 +8,6 @@ bin.0xfc.de
 bin.68degrees.no
 bin.acquia.com
 bin.arq.pl
-bin.bloat.cat
 bin.bus-hit.me
 bin.byreqz.de
 bin.disroot.org
@@ -65,8 +63,8 @@ onetimesecret.trans-ix.nl
 opportunis.me
 ots.ip-projects.de
 ots.kocsar.at
-p.darklab.sh
 p.dousse.eu
+p.hessfr.fr
 p.kapsi.fi
 p.kll.li
 p.lukgth.cloud
@@ -97,8 +95,7 @@ paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
 paste.lilay.dev
-paste.lilliepad.xyz
-paste.miike7.com
+paste.mogbox.net
 paste.molytov.xyz
 paste.momobako.com
 paste.nerdvpn.de
@@ -145,7 +142,6 @@ pb.fsociety.social
 pb.greep.fr
 pb.rausgerufen.de
 pb.skifab.se
-pbinka.duckdns.org
 photistic.org
 postit.hadoly.fr
 private.opendoor.fr
@@ -170,6 +166,7 @@ privatebin.seattlematrix.org
 privatebin.stormdragons.net
 privatebin.wsmm.de
 privatebin.xi.ht
+privatebin.yuricunha.com
 privatepastebin.com
 pstbn.io
 sebsauvage.net
@@ -194,7 +191,6 @@ www.nervengas.com
 www.vlh.dk
 zb.zerosgaming.de
 zerobin-legacy.dssr.ch
-zerobin.farcy.me
 zerobin.mirtouf.fr
 zerobin.org
 zerobin.thican.net

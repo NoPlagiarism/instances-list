@@ -2,7 +2,6 @@
 
 # Clearnet
 - [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
-- [piped-proxy.ducks.party](https://piped-proxy.ducks.party)
 - [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
 - [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
 - [pipedproxy-ams-2.kavin.rocks](https://pipedproxy-ams-2.kavin.rocks)
@@ -11,10 +10,11 @@
 - [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
 - [pipedproxy.in.projectsegfau.lt](https://pipedproxy.in.projectsegfau.lt)
 - [pipedproxy.kavin.rocks](https://pipedproxy.kavin.rocks)
+- [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
 - [pipedproxy.ngn.tf](https://pipedproxy.ngn.tf)
 - [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
+- [pipedproxy.r4fo.com](https://pipedproxy.r4fo.com)
 - [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
-- [proxy.piped.privacydev.net](https://proxy.piped.privacydev.net)
-- [proxy.piped.projectsegfau.lt](https://proxy.piped.projectsegfau.lt)
+- [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
 - [proxy.piped.yt](https://proxy.piped.yt)
 - [schaunproxy.ehwurscht.at](https://schaunproxy.ehwurscht.at)

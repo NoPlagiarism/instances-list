@@ -1,6 +1,8 @@
 binge.whatever.social
 binge.whateveritworks.org
 d.opnxng.com
+imdb.nerdvpn.de
+ld.ca.zorby.top
 ld.vern.cc
 libremdb.catsarch.com
 libremdb.darkness.services

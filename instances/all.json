@@ -336,6 +336,7 @@
             "libreddit.nl",
             "libreddit.oxymagnesium.com",
             "libreddit.privacydev.net",
+            "libreddit.projectsegfau.lt",
             "libreddit.tux.pizza",
             "lr.vern.cc",
             "r.darklab.sh",
@@ -424,6 +425,7 @@
         "instances": [
             "piped.adminforge.de",
             "piped.astartes.nl",
+            "piped.cdsp.cz",
             "piped.darkness.services",
             "piped.drgns.space",
             "piped.ducks.party",
@@ -432,17 +434,16 @@
             "piped.phoenixthrush.com",
             "piped.privacydev.net",
             "piped.private.coffee",
-            "piped.projectsegfau.lt",
+            "piped.r4fo.com",
             "piped.reallyaweso.me",
             "piped.smnz.de",
             "piped.video",
             "piped.yt",
             "schaun.ehwurscht.at",
-            "yt.cdsp.cz"
+            "watch.leptons.xyz"
         ],
         "onion": [
             "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion",
-            "piped.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
         ],
         "i2p": []
@@ -625,7 +626,7 @@
             "watch.whateveritworks.org"
         ],
         "onion": [
-            "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
         ]
     },
     "nitter": {
@@ -708,6 +709,9 @@
         "url": "https://github.com/timvisee/send#readme",
         "path": "filedrop/send",
         "instances": [
+            "allthefiles.net",
+            "ch.skysend.ch",
+            "de.skysend.ch",
             "drop.chapril.org",
             "files.psu.ru",
             "fileupload.ggc-project.de",
@@ -727,7 +731,6 @@
             "send.monks.tools",
             "send.turingpoint.de",
             "send.vis.ee",
-            "send.whateveritworks.org",
             "send.zcyph.cc",
             "transfer.acted.org",
             "upload.nolog.cz"
@@ -881,6 +884,8 @@
             "binge.whatever.social",
             "binge.whateveritworks.org",
             "d.opnxng.com",
+            "imdb.nerdvpn.de",
+            "ld.ca.zorby.top",
             "ld.vern.cc",
             "libremdb.catsarch.com",
             "libremdb.darkness.services",
@@ -903,9 +908,11 @@
             "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
+            "libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
+            "q3hetdcyyy572xznqmsledzlbv77moycoqs6ptehpp5vsmx4dtcuqeqd.onion"
         ],
         "i2p": [
+            "5j37qusybvyhecljn4hr5i4chifdlfqfkfveythzpzyfxiibt7cq.b32.i2p",
             "qjlgasoy3nxepgzntucmcnb6pryqxakwdu7sxvqzi7spdfootryq.b32.i2p",
             "vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p"
         ]
@@ -940,7 +947,6 @@
         "url": "https://privatebin.info/",
         "path": "tools/privatebin",
         "instances": [
-            "0.0g.gg",
             "0.anonpaste.uk",
             "0.jaegers.net",
             "0bin.virtuaverse.xyz",
@@ -951,7 +957,6 @@
             "bin.68degrees.no",
             "bin.acquia.com",
             "bin.arq.pl",
-            "bin.bloat.cat",
             "bin.bus-hit.me",
             "bin.byreqz.de",
             "bin.disroot.org",
@@ -1007,8 +1012,8 @@
             "opportunis.me",
             "ots.ip-projects.de",
             "ots.kocsar.at",
-            "p.darklab.sh",
             "p.dousse.eu",
+            "p.hessfr.fr",
             "p.kapsi.fi",
             "p.kll.li",
             "p.lukgth.cloud",
@@ -1039,8 +1044,7 @@
             "paste.hostux.net",
             "paste.i2pd.xyz",
             "paste.lilay.dev",
-            "paste.lilliepad.xyz",
-            "paste.miike7.com",
+            "paste.mogbox.net",
             "paste.molytov.xyz",
             "paste.momobako.com",
             "paste.nerdvpn.de",
@@ -1087,7 +1091,6 @@
             "pb.greep.fr",
             "pb.rausgerufen.de",
             "pb.skifab.se",
-            "pbinka.duckdns.org",
             "photistic.org",
             "postit.hadoly.fr",
             "private.opendoor.fr",
@@ -1112,6 +1115,7 @@
             "privatebin.stormdragons.net",
             "privatebin.wsmm.de",
             "privatebin.xi.ht",
+            "privatebin.yuricunha.com",
             "privatepastebin.com",
             "pstbn.io",
             "sebsauvage.net",
@@ -1136,7 +1140,6 @@
             "www.vlh.dk",
             "zb.zerosgaming.de",
             "zerobin-legacy.dssr.ch",
-            "zerobin.farcy.me",
             "zerobin.mirtouf.fr",
             "zerobin.org",
             "zerobin.thican.net",
@@ -1205,7 +1208,6 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
-            "piped-proxy.ducks.party",
             "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
@@ -1214,11 +1216,12 @@
             "pipedproxy.drgns.space",
             "pipedproxy.in.projectsegfau.lt",
             "pipedproxy.kavin.rocks",
+            "pipedproxy.leptons.xyz",
             "pipedproxy.ngn.tf",
             "pipedproxy.phoenixthrush.com",
+            "pipedproxy.r4fo.com",
             "pipedproxy.reallyaweso.me",
-            "proxy.piped.privacydev.net",
-            "proxy.piped.projectsegfau.lt",
+            "proxy.piped.private.coffee",
             "proxy.piped.yt",
             "schaunproxy.ehwurscht.at"
         ]

@@ -1,6 +1,9 @@
 # [send](https://github.com/timvisee/send#readme)
 
 # Clearnet
+- [allthefiles.net](https://allthefiles.net)
+- [ch.skysend.ch](https://ch.skysend.ch)
+- [de.skysend.ch](https://de.skysend.ch)
 - [drop.chapril.org](https://drop.chapril.org)
 - [files.psu.ru](https://files.psu.ru)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
@@ -20,7 +23,6 @@
 - [send.monks.tools](https://send.monks.tools)
 - [send.turingpoint.de](https://send.turingpoint.de)
 - [send.vis.ee](https://send.vis.ee)
-- [send.whateveritworks.org](https://send.whateveritworks.org)
 - [send.zcyph.cc](https://send.zcyph.cc)
 - [transfer.acted.org](https://transfer.acted.org)
 - [upload.nolog.cz](https://upload.nolog.cz)

@@ -1,3 +1,6 @@
+allthefiles.net
+ch.skysend.ch
+de.skysend.ch
 drop.chapril.org
 files.psu.ru
 fileupload.ggc-project.de
@@ -17,7 +20,6 @@ send.mni.li
 send.monks.tools
 send.turingpoint.de
 send.vis.ee
-send.whateveritworks.org
 send.zcyph.cc
 transfer.acted.org
 upload.nolog.cz
