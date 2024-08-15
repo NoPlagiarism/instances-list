@@ -1,39 +1,17 @@
 {
     "instances": [
-        "inv.in.projectsegfau.lt",
         "inv.nadeko.net",
-        "inv.tux.pizza",
-        "invidious.darkness.services",
-        "invidious.drgns.space",
-        "invidious.fdn.fr",
-        "invidious.flokinet.to",
-        "invidious.incogniweb.net",
         "invidious.jing.rocks",
-        "invidious.materialio.us",
         "invidious.nerdvpn.de",
         "invidious.perennialte.ch",
-        "invidious.privacydev.net",
-        "invidious.privacyredirect.com",
-        "invidious.private.coffee",
-        "invidious.protokolla.fi",
-        "invidious.reallyaweso.me",
-        "iv.datura.network",
-        "iv.melmac.space",
-        "yewtu.be",
-        "yt.artemislena.eu",
-        "yt.drgnz.club"
+        "iv.ggtyler.dev",
+        "yewtu.be"
     ],
     "onion": [
-        "grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
         "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
-        "inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-        "invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-        "nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion",
-        "ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion"
+        "nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion"
     ],
     "i2p": [
-        "http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p",
-        "http://pjsfi2szfkb4guqzmfmlyq4no46fayertjrwt4h2uughccrh2lvq.b32.i2p",
         "zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p"
     ]
 }

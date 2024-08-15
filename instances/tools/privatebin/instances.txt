@@ -55,6 +55,7 @@ ktbky.kaaass.net
 logs.notifiarr.com
 n0t.io
 notebin.de
+notes.dark2web.com
 notes.de.cool
 noteshare.net
 oldpb.purplebored.pl
@@ -90,6 +91,7 @@ paste.evolix.org
 paste.fizi.ca
 paste.gamesdrive.net
 paste.ggc-project.de
+paste.hackliberty.org
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
@@ -124,7 +126,6 @@ paste.unit193.net
 paste.voxhost.fr
 paste.waays.fr
 paste.webdigg.org
-paste.worf.win
 pastebin.0bin.xyz
 pastebin.24unix.net
 pastebin.aquilenet.fr
@@ -136,7 +137,6 @@ pastefg.hermietkreeft.site
 pastejar.com
 pb.blackvoid.club
 pb.envs.net
-pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr

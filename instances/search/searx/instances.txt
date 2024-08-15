@@ -15,7 +15,6 @@ search.blitzw.in
 search.bus-hit.me
 search.charliewhiskey.net
 search.citw.lgbt
-search.darkness.services
 search.datura.network
 search.dotone.nl
 search.einfachzocken.eu
@@ -69,7 +68,6 @@ searx.zhenyapav.com
 searxng.brihx.fr
 searxng.ch
 searxng.hweeren.com
-searxng.online
 searxng.shreven.org
 searxng.site
 skyrimhater.com
