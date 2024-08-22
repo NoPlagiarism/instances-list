@@ -1,6 +1,7 @@
 # [PrivateBin](https://privatebin.info/)
 
 # Clearnet
+- [0.0g.gg](https://0.0g.gg)
 - [0.anonpaste.uk](https://0.anonpaste.uk)
 - [0.jaegers.net](https://0.jaegers.net)
 - [0bin.virtuaverse.xyz](https://0bin.virtuaverse.xyz)
@@ -11,6 +12,7 @@
 - [bin.68degrees.no](https://bin.68degrees.no)
 - [bin.acquia.com](https://bin.acquia.com)
 - [bin.arq.pl](https://bin.arq.pl)
+- [bin.bloat.cat](https://bin.bloat.cat)
 - [bin.bus-hit.me](https://bin.bus-hit.me)
 - [bin.byreqz.de](https://bin.byreqz.de)
 - [bin.disroot.org](https://bin.disroot.org)
@@ -32,7 +34,6 @@
 - [bin.nji9.de](https://bin.nji9.de)
 - [bin.oldgate.org](https://bin.oldgate.org)
 - [bin.purplebored.pl](https://bin.purplebored.pl)
-- [bin.reallyaweso.me](https://bin.reallyaweso.me)
 - [bin.rtb.gg](https://bin.rtb.gg)
 - [bin.sasach.work](https://bin.sasach.work)
 - [bin.siick.fr](https://bin.siick.fr)
@@ -67,6 +68,7 @@
 - [opportunis.me](https://opportunis.me)
 - [ots.ip-projects.de](https://ots.ip-projects.de)
 - [ots.kocsar.at](https://ots.kocsar.at)
+- [p.darklab.sh](https://p.darklab.sh)
 - [p.dousse.eu](https://p.dousse.eu)
 - [p.hessfr.fr](https://p.hessfr.fr)
 - [p.kapsi.fi](https://p.kapsi.fi)

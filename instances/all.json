@@ -4,35 +4,24 @@
         "url": "https://github.com/pablouser1/ProxiTok",
         "path": "tiktok/proxitok",
         "instances": [
-            "cringe.datura.network",
             "cringe.seitan-ayoub.lol",
             "cringe.whatever.social",
-            "cringe.whateveritworks.org",
             "proxitok.belloworld.it",
-            "proxitok.esmailelbob.xyz",
-            "proxitok.kyun.li",
             "proxitok.lunar.icu",
             "proxitok.pabloferreiro.es",
             "proxitok.privacy.com.de",
             "proxitok.privacydev.net",
             "proxitok.pussthecat.org",
             "proxitok.r4fo.com",
-            "proxitok.tinfoil-hat.net",
-            "tik.hostux.net",
             "tiktok.wpme.pl",
             "tok.adminforge.de",
             "tok.artemislena.eu",
             "tok.habedieeh.re",
-            "tt.opnxng.com",
-            "tt.vern.cc"
+            "tt.opnxng.com"
         ],
         "onion": [
-            "habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
-            "proxitok.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "proxitok.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "pt.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion",
-            "tok.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "tt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+            "tok.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion"
         ],
         "i2p": [
             "vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p"
@@ -331,7 +320,6 @@
             "l.opnxng.com",
             "libreddit.bus-hit.me",
             "libreddit.kavin.rocks",
-            "libreddit.lunar.icu",
             "libreddit.nl",
             "libreddit.oxymagnesium.com",
             "libreddit.privacydev.net",
@@ -422,17 +410,11 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "piped.astartes.nl",
-            "piped.cdsp.cz",
             "piped.drgns.space",
             "piped.in.projectsegfau.lt",
-            "piped.video",
-            "piped.yt",
-            "schaun.ehwurscht.at"
+            "piped.smnz.de"
         ],
-        "onion": [
-            "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "invidious": {
@@ -441,9 +423,13 @@
         "path": "youtube/invidious",
         "instances": [
             "inv.nadeko.net",
+            "inv.tux.pizza",
+            "invidious.einfachzocken.eu",
             "invidious.jing.rocks",
             "invidious.nerdvpn.de",
             "invidious.perennialte.ch",
+            "invidious.privacyredirect.com",
+            "invidious.reallyaweso.me",
             "iv.ggtyler.dev",
             "yewtu.be"
         ],
@@ -913,6 +899,7 @@
         "url": "https://privatebin.info/",
         "path": "tools/privatebin",
         "instances": [
+            "0.0g.gg",
             "0.anonpaste.uk",
             "0.jaegers.net",
             "0bin.virtuaverse.xyz",
@@ -923,6 +910,7 @@
             "bin.68degrees.no",
             "bin.acquia.com",
             "bin.arq.pl",
+            "bin.bloat.cat",
             "bin.bus-hit.me",
             "bin.byreqz.de",
             "bin.disroot.org",
@@ -944,7 +932,6 @@
             "bin.nji9.de",
             "bin.oldgate.org",
             "bin.purplebored.pl",
-            "bin.reallyaweso.me",
             "bin.rtb.gg",
             "bin.sasach.work",
             "bin.siick.fr",
@@ -979,6 +966,7 @@
             "opportunis.me",
             "ots.ip-projects.de",
             "ots.kocsar.at",
+            "p.darklab.sh",
             "p.dousse.eu",
             "p.hessfr.fr",
             "p.kapsi.fi",
@@ -1162,6 +1150,7 @@
             "4get.silly.computer",
             "4get.snine.nl",
             "4get.sudovanilla.org",
+            "4get.thebunny.zone",
             "4get.zzls.xyz",
             "4getus.zzls.xyz",
             "search.milivojevic.in.rs",
@@ -1174,13 +1163,16 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
+            "pipedimageproxy.smnz.de",
             "pipedproxy-ams-2.kavin.rocks",
             "pipedproxy.astartes.nl",
+            "pipedproxy.darkness.services",
             "pipedproxy.drgns.space",
             "pipedproxy.in.projectsegfau.lt",
             "pipedproxy.kavin.rocks",
             "pipedproxy.phoenixthrush.com",
             "pipedproxy.r4fo.com",
+            "proxy.piped.privacydev.net",
             "proxy.piped.projectsegfau.lt",
             "proxy.piped.yt",
             "schaunproxy.ehwurscht.at"

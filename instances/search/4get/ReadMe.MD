@@ -24,6 +24,7 @@
 - [4get.silly.computer](https://4get.silly.computer)
 - [4get.snine.nl](https://4get.snine.nl)
 - [4get.sudovanilla.org](https://4get.sudovanilla.org)
+- [4get.thebunny.zone](https://4get.thebunny.zone)
 - [4get.zzls.xyz](https://4get.zzls.xyz)
 - [4getus.zzls.xyz](https://4getus.zzls.xyz)
 - [search.milivojevic.in.rs](https://search.milivojevic.in.rs)

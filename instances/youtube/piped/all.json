@@ -1,15 +1,9 @@
 {
     "instances": [
-        "piped.astartes.nl",
-        "piped.cdsp.cz",
         "piped.drgns.space",
         "piped.in.projectsegfau.lt",
-        "piped.video",
-        "piped.yt",
-        "schaun.ehwurscht.at"
+        "piped.smnz.de"
     ],
-    "onion": [
-        "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
-    ],
+    "onion": [],
     "i2p": []
 }

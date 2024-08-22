@@ -2,9 +2,13 @@
 
 # Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
+- [inv.tux.pizza](https://inv.tux.pizza)
+- [invidious.einfachzocken.eu](https://invidious.einfachzocken.eu)
 - [invidious.jing.rocks](https://invidious.jing.rocks)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.perennialte.ch](https://invidious.perennialte.ch)
+- [invidious.privacyredirect.com](https://invidious.privacyredirect.com)
+- [invidious.reallyaweso.me](https://invidious.reallyaweso.me)
 - [iv.ggtyler.dev](https://iv.ggtyler.dev)
 - [yewtu.be](https://yewtu.be)
 # Onion
