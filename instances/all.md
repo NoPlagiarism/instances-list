@@ -333,7 +333,6 @@
 - [r.darklab.sh](https://r.darklab.sh)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [reddit.simo.sh](https://reddit.simo.sh)
-- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
@@ -744,14 +743,14 @@
 
 ### Clearnet
 - [g.opnxng.com](https://g.opnxng.com)
-- [gh.bloatcat.tk](https://gh.bloatcat.tk)
 - [gh.owo.si](https://gh.owo.si)
-- [gh.whateveritworks.org](https://gh.whateveritworks.org)
+- [gh.phreedom.club](https://gh.phreedom.club)
 - [gothub.dev.projectsegfau.lt](https://gothub.dev.projectsegfau.lt)
+- [gothub.ducks.party](https://gothub.ducks.party)
 - [gothub.frontendfriendly.xyz](https://gothub.frontendfriendly.xyz)
 - [gothub.lunar.icu](https://gothub.lunar.icu)
-- [gothub.no-logs.com](https://gothub.no-logs.com)
 - [gothub.projectsegfau.lt](https://gothub.projectsegfau.lt)
+- [gothub.r4fo.com](https://gothub.r4fo.com)
 
 ## [RYD-Proxy](https://github.com/TeamPiped/RYD-Proxy)
 
@@ -798,11 +797,48 @@
 ## [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow#readme)
 
 ### Clearnet
-
+- [anonflow.aketawi.space](https://anonflow.aketawi.space)
+- [anonoverflow.frontendfriendly.xyz](https://anonoverflow.frontendfriendly.xyz)
+- [anonoverflow.nirn.quest](https://anonoverflow.nirn.quest)
+- [anonymousoverflow.catsarch.com](https://anonymousoverflow.catsarch.com)
+- [anonymousoverflow.privacyfucking.rocks](https://anonymousoverflow.privacyfucking.rocks)
+- [anonymousoverflow.privacyredirect.com](https://anonymousoverflow.privacyredirect.com)
+- [ao.bloat.cat](https://ao.bloat.cat)
+- [ao.ngn.tf](https://ao.ngn.tf)
+- [ao.owo.si](https://ao.owo.si)
+- [ao.rootdo.com](https://ao.rootdo.com)
+- [ao.vern.cc](https://ao.vern.cc)
+- [code.whatever.social](https://code.whatever.social)
+- [code.xbdm.fun](https://code.xbdm.fun)
+- [exchange.seitan-ayoub.lol](https://exchange.seitan-ayoub.lol)
+- [o.sudovanilla.org](https://o.sudovanilla.org)
+- [overflow.adminforge.de](https://overflow.adminforge.de)
+- [overflow.darkness.services](https://overflow.darkness.services)
+- [overflow.datura.network](https://overflow.datura.network)
+- [overflow.ducks.party](https://overflow.ducks.party)
+- [overflow.einfachzocken.eu](https://overflow.einfachzocken.eu)
+- [overflow.fascinated.cc](https://overflow.fascinated.cc)
+- [overflow.freedit.eu](https://overflow.freedit.eu)
+- [overflow.hostux.net](https://overflow.hostux.net)
+- [overflow.lunar.icu](https://overflow.lunar.icu)
+- [overflow.projectsegfau.lt](https://overflow.projectsegfau.lt)
+- [overflow.r4fo.com](https://overflow.r4fo.com)
+- [overflow.seasi.dev](https://overflow.seasi.dev)
+- [overflow.smnz.de](https://overflow.smnz.de)
+- [overflow.snine.nl](https://overflow.snine.nl)
+- [soflow.nerdvpn.de](https://soflow.nerdvpn.de)
 ### Onion
-
+- [anonymousoverflow.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://anonymousoverflow.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion](http://ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion)
+- [ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+- [overflow.darknessrdor43qkl2ngwitj72zdavfz2cead4t5ed72bybgauww5lyd.onion](http://overflow.darknessrdor43qkl2ngwitj72zdavfz2cead4t5ed72bybgauww5lyd.onion)
+- [overflow.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion](http://overflow.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion)
+- [overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
+- [overflow.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://overflow.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
-
+- [ay7akchgdh76r4lc62hzd52z6xqoh67loototsetvqxo5o7ngo5q.b32.i2p](http://ay7akchgdh76r4lc62hzd52z6xqoh67loototsetvqxo5o7ngo5q.b32.i2p)
+- [ocp7zhdsbl2mjabv5ma5jvbzg2dqzglieayjvyj4j2r7qvsqlboa.b32.i2p](http://ocp7zhdsbl2mjabv5ma5jvbzg2dqzglieayjvyj4j2r7qvsqlboa.b32.i2p)
+- [vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p](http://vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p)
 
 ## [SimpleAmazon](https://codeberg.org/SimpleWeb/SimpleAmazon)
 
@@ -1071,17 +1107,15 @@
 ## [piped-proxy](https://github.com/TeamPiped/piped-proxy)
 
 ### Clearnet
-- [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
 - [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
 - [pipedproxy-ams-2.kavin.rocks](https://pipedproxy-ams-2.kavin.rocks)
 - [pipedproxy.astartes.nl](https://pipedproxy.astartes.nl)
 - [pipedproxy.darkness.services](https://pipedproxy.darkness.services)
-- [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
 - [pipedproxy.in.projectsegfau.lt](https://pipedproxy.in.projectsegfau.lt)
 - [pipedproxy.kavin.rocks](https://pipedproxy.kavin.rocks)
+- [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
 - [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
 - [pipedproxy.r4fo.com](https://pipedproxy.r4fo.com)
-- [proxy.piped.privacydev.net](https://proxy.piped.privacydev.net)
-- [proxy.piped.projectsegfau.lt](https://proxy.piped.projectsegfau.lt)
+- [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
 - [proxy.piped.yt](https://proxy.piped.yt)
 - [schaunproxy.ehwurscht.at](https://schaunproxy.ehwurscht.at)
