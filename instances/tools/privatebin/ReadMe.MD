@@ -145,6 +145,7 @@
 - [pb.fly.dev](https://pb.fly.dev)
 - [pb.fsociety.social](https://pb.fsociety.social)
 - [pb.greep.fr](https://pb.greep.fr)
+- [pb.jaska.cc](https://pb.jaska.cc)
 - [pb.rausgerufen.de](https://pb.rausgerufen.de)
 - [pb.skifab.se](https://pb.skifab.se)
 - [photistic.org](https://photistic.org)

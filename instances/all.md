@@ -323,6 +323,7 @@
 ### Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
+- [libreddit.eu.org](https://libreddit.eu.org)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
 - [libreddit.nl](https://libreddit.nl)
 - [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)
@@ -403,11 +404,20 @@
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
 ### Clearnet
-- [piped.drgns.space](https://piped.drgns.space)
+- [piped.adminforge.de](https://piped.adminforge.de)
+- [piped.cdsp.cz](https://piped.cdsp.cz)
+- [piped.darkness.services](https://piped.darkness.services)
+- [piped.frontendfriendly.xyz](https://piped.frontendfriendly.xyz)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
+- [piped.phoenixthrush.com](https://piped.phoenixthrush.com)
+- [piped.private.coffee](https://piped.private.coffee)
+- [piped.reallyaweso.me](https://piped.reallyaweso.me)
 - [piped.smnz.de](https://piped.smnz.de)
+- [piped.video](https://piped.video)
+- [piped.yt](https://piped.yt)
+- [schaun.ehwurscht.at](https://schaun.ehwurscht.at)
 ### Onion
-
+- [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 ### I2P
 
 
@@ -423,6 +433,8 @@
 - [invidious.privacyredirect.com](https://invidious.privacyredirect.com)
 - [invidious.reallyaweso.me](https://invidious.reallyaweso.me)
 - [iv.ggtyler.dev](https://iv.ggtyler.dev)
+- [iv.nboeck.de](https://iv.nboeck.de)
+- [iv.nowhere.moe](https://iv.nowhere.moe)
 - [yewtu.be](https://yewtu.be)
 ### Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
@@ -552,7 +564,6 @@
 ### Clearnet
 - [bird.habedieeh.re](https://bird.habedieeh.re)
 - [n.populas.no](https://n.populas.no)
-- [nitter.bird.froth.zone](https://nitter.bird.froth.zone)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
 - [nitter.kylrth.com](https://nitter.kylrth.com)
 - [nitter.lunar.icu](https://nitter.lunar.icu)
@@ -999,6 +1010,7 @@
 - [pb.fly.dev](https://pb.fly.dev)
 - [pb.fsociety.social](https://pb.fsociety.social)
 - [pb.greep.fr](https://pb.greep.fr)
+- [pb.jaska.cc](https://pb.jaska.cc)
 - [pb.rausgerufen.de](https://pb.rausgerufen.de)
 - [pb.skifab.se](https://pb.skifab.se)
 - [photistic.org](https://photistic.org)
@@ -1075,6 +1087,7 @@
 ## [4get](https://git.lolcat.ca/lolcat/4get)
 
 ### Clearnet
+- [4.nboeck.de](https://4.nboeck.de)
 - [4g.ggtyler.dev](https://4g.ggtyler.dev)
 - [4get.aishiteiru.moe](https://4get.aishiteiru.moe)
 - [4get.ca](https://4get.ca)
@@ -1107,15 +1120,17 @@
 ## [piped-proxy](https://github.com/TeamPiped/piped-proxy)
 
 ### Clearnet
+- [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
 - [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
+- [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
 - [pipedproxy-ams-2.kavin.rocks](https://pipedproxy-ams-2.kavin.rocks)
-- [pipedproxy.astartes.nl](https://pipedproxy.astartes.nl)
 - [pipedproxy.darkness.services](https://pipedproxy.darkness.services)
+- [pipedproxy.frontendfriendly.xyz](https://pipedproxy.frontendfriendly.xyz)
 - [pipedproxy.in.projectsegfau.lt](https://pipedproxy.in.projectsegfau.lt)
 - [pipedproxy.kavin.rocks](https://pipedproxy.kavin.rocks)
-- [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
 - [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
 - [pipedproxy.r4fo.com](https://pipedproxy.r4fo.com)
+- [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
 - [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
 - [proxy.piped.yt](https://proxy.piped.yt)
 - [schaunproxy.ehwurscht.at](https://schaunproxy.ehwurscht.at)

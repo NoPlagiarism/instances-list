@@ -319,6 +319,7 @@
         "instances": [
             "l.opnxng.com",
             "libreddit.bus-hit.me",
+            "libreddit.eu.org",
             "libreddit.kavin.rocks",
             "libreddit.nl",
             "libreddit.oxymagnesium.com",
@@ -409,11 +410,22 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "piped.drgns.space",
+            "piped.adminforge.de",
+            "piped.cdsp.cz",
+            "piped.darkness.services",
+            "piped.frontendfriendly.xyz",
             "piped.in.projectsegfau.lt",
-            "piped.smnz.de"
+            "piped.phoenixthrush.com",
+            "piped.private.coffee",
+            "piped.reallyaweso.me",
+            "piped.smnz.de",
+            "piped.video",
+            "piped.yt",
+            "schaun.ehwurscht.at"
         ],
-        "onion": [],
+        "onion": [
+            "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
+        ],
         "i2p": []
     },
     "invidious": {
@@ -430,6 +442,8 @@
             "invidious.privacyredirect.com",
             "invidious.reallyaweso.me",
             "iv.ggtyler.dev",
+            "iv.nboeck.de",
+            "iv.nowhere.moe",
             "yewtu.be"
         ],
         "onion": [
@@ -587,7 +601,6 @@
         "instances": [
             "bird.habedieeh.re",
             "n.populas.no",
-            "nitter.bird.froth.zone",
             "nitter.kavin.rocks",
             "nitter.kylrth.com",
             "nitter.lunar.icu",
@@ -1085,6 +1098,7 @@
             "pb.fly.dev",
             "pb.fsociety.social",
             "pb.greep.fr",
+            "pb.jaska.cc",
             "pb.rausgerufen.de",
             "pb.skifab.se",
             "photistic.org",
@@ -1169,6 +1183,7 @@
         "url": "https://git.lolcat.ca/lolcat/4get",
         "path": "search/4get",
         "instances": [
+            "4.nboeck.de",
             "4g.ggtyler.dev",
             "4get.aishiteiru.moe",
             "4get.ca",
@@ -1204,15 +1219,17 @@
         "url": "https://github.com/TeamPiped/piped-proxy",
         "path": "youtube/piped-proxy",
         "instances": [
+            "piped-proxy.codespace.cz",
             "pipedimageproxy.smnz.de",
+            "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
-            "pipedproxy.astartes.nl",
             "pipedproxy.darkness.services",
+            "pipedproxy.frontendfriendly.xyz",
             "pipedproxy.in.projectsegfau.lt",
             "pipedproxy.kavin.rocks",
-            "pipedproxy.leptons.xyz",
             "pipedproxy.phoenixthrush.com",
             "pipedproxy.r4fo.com",
+            "pipedproxy.reallyaweso.me",
             "proxy.piped.private.coffee",
             "proxy.piped.yt",
             "schaunproxy.ehwurscht.at"

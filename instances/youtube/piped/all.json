@@ -1,9 +1,20 @@
 {
     "instances": [
-        "piped.drgns.space",
+        "piped.adminforge.de",
+        "piped.cdsp.cz",
+        "piped.darkness.services",
+        "piped.frontendfriendly.xyz",
         "piped.in.projectsegfau.lt",
-        "piped.smnz.de"
+        "piped.phoenixthrush.com",
+        "piped.private.coffee",
+        "piped.reallyaweso.me",
+        "piped.smnz.de",
+        "piped.video",
+        "piped.yt",
+        "schaun.ehwurscht.at"
     ],
-    "onion": [],
+    "onion": [
+        "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
+    ],
     "i2p": []
 }

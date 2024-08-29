@@ -10,6 +10,8 @@
 - [invidious.privacyredirect.com](https://invidious.privacyredirect.com)
 - [invidious.reallyaweso.me](https://invidious.reallyaweso.me)
 - [iv.ggtyler.dev](https://iv.ggtyler.dev)
+- [iv.nboeck.de](https://iv.nboeck.de)
+- [iv.nowhere.moe](https://iv.nowhere.moe)
 - [yewtu.be](https://yewtu.be)
 # Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)

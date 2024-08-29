@@ -1,6 +1,7 @@
 # [4get](https://git.lolcat.ca/lolcat/4get)
 
 # Clearnet
+- [4.nboeck.de](https://4.nboeck.de)
 - [4g.ggtyler.dev](https://4g.ggtyler.dev)
 - [4get.aishiteiru.moe](https://4get.aishiteiru.moe)
 - [4get.ca](https://4get.ca)

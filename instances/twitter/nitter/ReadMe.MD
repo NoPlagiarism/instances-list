@@ -3,7 +3,6 @@
 # Clearnet
 - [bird.habedieeh.re](https://bird.habedieeh.re)
 - [n.populas.no](https://n.populas.no)
-- [nitter.bird.froth.zone](https://nitter.bird.froth.zone)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
 - [nitter.kylrth.com](https://nitter.kylrth.com)
 - [nitter.lunar.icu](https://nitter.lunar.icu)

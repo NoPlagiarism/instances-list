@@ -3,6 +3,7 @@
 # Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
+- [libreddit.eu.org](https://libreddit.eu.org)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
 - [libreddit.nl](https://libreddit.nl)
 - [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)

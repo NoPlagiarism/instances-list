@@ -1,12 +1,14 @@
+piped-proxy.codespace.cz
 pipedimageproxy.smnz.de
+pipedimg.adminforge.de
 pipedproxy-ams-2.kavin.rocks
-pipedproxy.astartes.nl
 pipedproxy.darkness.services
+pipedproxy.frontendfriendly.xyz
 pipedproxy.in.projectsegfau.lt
 pipedproxy.kavin.rocks
-pipedproxy.leptons.xyz
 pipedproxy.phoenixthrush.com
 pipedproxy.r4fo.com
+pipedproxy.reallyaweso.me
 proxy.piped.private.coffee
 proxy.piped.yt
 schaunproxy.ehwurscht.at

@@ -142,6 +142,7 @@ pb.envs.net
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
+pb.jaska.cc
 pb.rausgerufen.de
 pb.skifab.se
 photistic.org
