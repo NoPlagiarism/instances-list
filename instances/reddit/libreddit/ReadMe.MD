@@ -14,6 +14,7 @@
 - [r.darklab.sh](https://r.darklab.sh)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [reddit.simo.sh](https://reddit.simo.sh)
+- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion

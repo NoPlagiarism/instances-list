@@ -139,10 +139,10 @@ pastefg.hermietkreeft.site
 pastejar.com
 pb.blackvoid.club
 pb.envs.net
+pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
-pb.jaska.cc
 pb.rausgerufen.de
 pb.skifab.se
 photistic.org
@@ -153,6 +153,7 @@ privatebin.ar21.de
 privatebin.arch-linux.cz
 privatebin.arq.pl
 privatebin.at
+privatebin.clebootin.com
 privatebin.cobiotx.io
 privatebin.deblan.org
 privatebin.devol.it
@@ -169,7 +170,6 @@ privatebin.seattlematrix.org
 privatebin.stormdragons.net
 privatebin.wsmm.de
 privatebin.xi.ht
-privatebin.yuricunha.com
 privatepastebin.com
 pstbn.io
 sebsauvage.net
@@ -182,6 +182,7 @@ secrets.secumail.de
 secrets.true.nl
 secure.superior.nl
 sendpass.ru
+skypaste.ch
 snip.dssr.ch
 teamware.eu
 textbin.quick-space.de
