@@ -34,6 +34,7 @@
 - [CloudTube](#cloudtube)
 - [4get](#4get)
 - [piped-proxy](#piped-proxy)
+- [SafeTwitch](#safetwitch)
 
 ## [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
@@ -1134,3 +1135,30 @@
 - [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
 - [proxy.piped.yt](https://proxy.piped.yt)
 - [schaunproxy.ehwurscht.at](https://schaunproxy.ehwurscht.at)
+
+## [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch#readme)
+
+### Clearnet
+- [safetwitch.4o1x5.dev](https://safetwitch.4o1x5.dev)
+- [safetwitch.adminforge.de](https://safetwitch.adminforge.de)
+- [safetwitch.darkness.services](https://safetwitch.darkness.services)
+- [safetwitch.datura.network](https://safetwitch.datura.network)
+- [safetwitch.drgns.space](https://safetwitch.drgns.space)
+- [safetwitch.ducks.party](https://safetwitch.ducks.party)
+- [safetwitch.frontendfriendly.xyz](https://safetwitch.frontendfriendly.xyz)
+- [safetwitch.lunar.icu](https://safetwitch.lunar.icu)
+- [safetwitch.nogafam.fr](https://safetwitch.nogafam.fr)
+- [safetwitch.privacyredirect.com](https://safetwitch.privacyredirect.com)
+- [safetwitch.projectsegfau.lt](https://safetwitch.projectsegfau.lt)
+- [safetwitch.r4fo.com](https://safetwitch.r4fo.com)
+- [st.ggtyler.dev](https://st.ggtyler.dev)
+- [st.ngn.tf](https://st.ngn.tf)
+- [stream.whateveritworks.org](https://stream.whateveritworks.org)
+- [ttv.femboy.band](https://ttv.femboy.band)
+- [ttv.vern.cc](https://ttv.vern.cc)
+- [twitch.seitan-ayoub.lol](https://twitch.seitan-ayoub.lol)
+- [twitch.sudovanilla.org](https://twitch.sudovanilla.org)
+### Onion
+- [ttv.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ttv.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
+### I2P
+- [vernz43kgqiy3nzzof3nejeo4hh3bjgyqi3b3hijchilv7noqtrq.b32.i2p](http://vernz43kgqiy3nzzof3nejeo4hh3bjgyqi3b3hijchilv7noqtrq.b32.i2p)

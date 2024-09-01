@@ -1,0 +1,29 @@
+{
+    "instances": [
+        "safetwitch.4o1x5.dev",
+        "safetwitch.adminforge.de",
+        "safetwitch.darkness.services",
+        "safetwitch.datura.network",
+        "safetwitch.drgns.space",
+        "safetwitch.ducks.party",
+        "safetwitch.frontendfriendly.xyz",
+        "safetwitch.lunar.icu",
+        "safetwitch.nogafam.fr",
+        "safetwitch.privacyredirect.com",
+        "safetwitch.projectsegfau.lt",
+        "safetwitch.r4fo.com",
+        "st.ggtyler.dev",
+        "st.ngn.tf",
+        "stream.whateveritworks.org",
+        "ttv.femboy.band",
+        "ttv.vern.cc",
+        "twitch.seitan-ayoub.lol",
+        "twitch.sudovanilla.org"
+    ],
+    "onion": [
+        "ttv.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+    ],
+    "i2p": [
+        "vernz43kgqiy3nzzof3nejeo4hh3bjgyqi3b3hijchilv7noqtrq.b32.i2p"
+    ]
+}
