@@ -625,6 +625,10 @@ INSTANCE_GROUPS = [
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://4get.ca/ami4get", json_handle=lambda raw: [get_domain_from_url(x.lower()) for x in raw['instances']]),)),
     InstancesGroupData(name="piped-proxy", home_url="https://github.com/TeamPiped/piped-proxy", relative_filepath_without_ext="youtube/piped-proxy",
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://piped-instances.kavin.rocks/", json_handle=lambda raw: [get_domain_from_url(x["image_proxy_url"]) for x in raw]), )),
+    InstancesGroupData(name="SafeTwitch", home_url="https://codeberg.org/SafeTwitch/safetwitch#readme", relative_filepath_without_ext="twitch/safetwitch",
+                       instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, crop_from="### Clearnet", crop_to="###", url="https://codeberg.org/SafeTwitch/safetwitch/raw/branch/master/README.md", regex_pattern=f"^\|\s+\[[^\]]+\]\(https?:\/\/(?P<domain>{Regex.DOMAIN})\/?\)"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, crop_from="### Onion", crop_to="###", url="https://codeberg.org/SafeTwitch/safetwitch/raw/branch/master/README.md", regex_pattern=f"^\|\s+\[[^\]]+\]\(https?:\/\/(?P<domain>{Regex.DOMAIN_ONION})\/?\)"),
+                                  RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, crop_from="### I2P", url="https://codeberg.org/SafeTwitch/safetwitch/raw/branch/master/README.md", regex_pattern=f"^\|\s+\[[^\]]+\]\(https?:\/\/(?P<domain>{Regex.DOMAIN_I2P})\/?\)"),)),
 ]
 
 
