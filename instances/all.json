@@ -27,43 +27,43 @@
             "vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p"
         ]
     },
-    "simplytranslate": {
-        "name": "SimplyTranslate",
-        "url": "https://simple-web.org/projects/simplytranslate.html",
-        "path": "translate/simplytranslate",
+    "simplytranslatelegacy": {
+        "name": "SimplyTranslateLegacy",
+        "url": "https://codeberg.org/SimpleWeb/SimplyTranslate-Web",
+        "path": "translate/simplytranslatelegacy",
         "instances": [
             "simplytranslate.esmailelbob.xyz",
             "simplytranslate.leemoon.network",
-            "simplytranslate.manerakai.com",
-            "simplytranslate.org",
-            "simplytranslate.pussthecat.org",
-            "st.odyssey346.dev",
             "st.privacydev.net",
             "st.tokhmi.xyz",
             "tl.vern.cc",
-            "translate.bus-hit.me",
-            "translate.josias.dev",
-            "translate.northboot.xyz",
-            "translate.priv.pw",
-            "translate.riverside.rocks",
-            "translate.slipfox.xyz",
-            "translate.tiekoetter.com"
+            "translate.northboot.xyz"
         ],
         "onion": [
-            "fyng2tsmzmvxmojzbbwmfnsn2lrcyftf4cw6rk5j2v2huliazud3fjid.onion",
-            "simplytranslate.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "translate.prnoid54e44a4bduq5due64jkk7wcnkxcp5kv3juncm7veptjcqudgyd.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
         "i2p": [
-            "kmnkkp4v4ublygtnyq46oacy3qw75nrxxniriuaersumw7bfsm2a.b32.i2p",
             "verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p"
-        ],
-        "loki": [
-            "translate.priv.loki"
         ]
+    },
+    "simplytranslate": {
+        "name": "SimplyTranslate",
+        "url": "https://codeberg.org/ManeraKai/simplytranslate",
+        "path": "translate/simplytranslate",
+        "instances": [
+            "simplytranslate.aketawi.space",
+            "simplytranslate.ducks.party",
+            "simplytranslate.org",
+            "st.adast.dk",
+            "t.opnxng.com"
+        ],
+        "onion": [
+            "s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion"
+        ],
+        "i2p": []
     },
     "lingvatranslate": {
         "name": "LingvaTranslate",
@@ -752,24 +752,6 @@
             "vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p"
         ]
     },
-    "simpleertube": {
-        "name": "SimpleerTube",
-        "url": "https://simple-web.org/projects/simpleertube.html",
-        "path": "peertube/simpleertube",
-        "instances": [
-            "simpleertube.esmailelbob.xyz",
-            "st.vern.cc",
-            "stube.tokhmi.xyz",
-            "tube.simple-web.org"
-        ],
-        "onion": [
-            "simpleertube.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-            "st.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
-        ],
-        "i2p": [
-            "verntblehhel4dx6ntyxkj4mryvic3s3yptzxewzwnldq3esi4qq.b32.i2p"
-        ]
-    },
     "dumb": {
         "name": "dumb",
         "url": "https://github.com/rramiachraf/dumb",
@@ -929,23 +911,6 @@
             "ay7akchgdh76r4lc62hzd52z6xqoh67loototsetvqxo5o7ngo5q.b32.i2p",
             "ocp7zhdsbl2mjabv5ma5jvbzg2dqzglieayjvyj4j2r7qvsqlboa.b32.i2p",
             "vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p"
-        ]
-    },
-    "simpleamazon": {
-        "name": "SimpleAmazon",
-        "url": "https://codeberg.org/SimpleWeb/SimpleAmazon",
-        "path": "amazon/simpleamazon",
-        "instances": [
-            "amazon.simple-web.org",
-            "az.vern.cc",
-            "simpleamazon.esmailelbob.xyz"
-        ],
-        "onion": [
-            "az.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "simpleamazon.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion"
-        ],
-        "i2p": [
-            "vernlncxo4aswplv7naacpjvp5ts4uhrv4wbv3y4skufdbz763gq.b32.i2p"
         ]
     },
     "privatebin": {

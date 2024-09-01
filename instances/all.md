@@ -2,6 +2,7 @@
 
 ## Contents
 - [ProxiTok](#proxitok)
+- [SimplyTranslateLegacy](#simplytranslatelegacy)
 - [SimplyTranslate](#simplytranslate)
 - [LingvaTranslate](#lingvatranslate)
 - [Whoogle](#whoogle)
@@ -22,14 +23,12 @@
 - [send](#send)
 - [BreezeWiki](#breezewiki)
 - [libmedium](#libmedium)
-- [SimpleerTube](#simpleertube)
 - [dumb](#dumb)
 - [BiblioReads](#biblioreads)
 - [GotHub](#gothub)
 - [RYD-Proxy](#ryd-proxy)
 - [libremdb](#libremdb)
 - [AnonymousOverflow](#anonymousoverflow)
-- [SimpleAmazon](#simpleamazon)
 - [PrivateBin](#privatebin)
 - [CloudTube](#cloudtube)
 - [4get](#4get)
@@ -59,37 +58,35 @@
 ### I2P
 - [vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p](http://vern2gwxbtxzhb3rgchv4kbhlqppijhjqg7rmgvp4c5bxihxcm3a.b32.i2p)
 
-## [SimplyTranslate](https://simple-web.org/projects/simplytranslate.html)
+## [SimplyTranslateLegacy](https://codeberg.org/SimpleWeb/SimplyTranslate-Web)
 
 ### Clearnet
 - [simplytranslate.esmailelbob.xyz](https://simplytranslate.esmailelbob.xyz)
 - [simplytranslate.leemoon.network](https://simplytranslate.leemoon.network)
-- [simplytranslate.manerakai.com](https://simplytranslate.manerakai.com)
-- [simplytranslate.org](https://simplytranslate.org)
-- [simplytranslate.pussthecat.org](https://simplytranslate.pussthecat.org)
-- [st.odyssey346.dev](https://st.odyssey346.dev)
 - [st.privacydev.net](https://st.privacydev.net)
 - [st.tokhmi.xyz](https://st.tokhmi.xyz)
 - [tl.vern.cc](https://tl.vern.cc)
-- [translate.bus-hit.me](https://translate.bus-hit.me)
-- [translate.josias.dev](https://translate.josias.dev)
 - [translate.northboot.xyz](https://translate.northboot.xyz)
-- [translate.priv.pw](https://translate.priv.pw)
-- [translate.riverside.rocks](https://translate.riverside.rocks)
-- [translate.slipfox.xyz](https://translate.slipfox.xyz)
-- [translate.tiekoetter.com](https://translate.tiekoetter.com)
 ### Onion
-- [fyng2tsmzmvxmojzbbwmfnsn2lrcyftf4cw6rk5j2v2huliazud3fjid.onion](http://fyng2tsmzmvxmojzbbwmfnsn2lrcyftf4cw6rk5j2v2huliazud3fjid.onion)
-- [simplytranslate.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://simplytranslate.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+- [st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion](http://st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion)
 - [tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [translate.prnoid54e44a4bduq5due64jkk7wcnkxcp5kv3juncm7veptjcqudgyd.onion](http://translate.prnoid54e44a4bduq5due64jkk7wcnkxcp5kv3juncm7veptjcqudgyd.onion)
 - [xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion](http://xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion)
 ### I2P
-- [kmnkkp4v4ublygtnyq46oacy3qw75nrxxniriuaersumw7bfsm2a.b32.i2p](http://kmnkkp4v4ublygtnyq46oacy3qw75nrxxniriuaersumw7bfsm2a.b32.i2p)
 - [verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p](http://verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p)
-### Loki
-- [translate.priv.loki](http://translate.priv.loki)
+
+## [SimplyTranslate](https://codeberg.org/ManeraKai/simplytranslate)
+
+### Clearnet
+- [simplytranslate.aketawi.space](https://simplytranslate.aketawi.space)
+- [simplytranslate.ducks.party](https://simplytranslate.ducks.party)
+- [simplytranslate.org](https://simplytranslate.org)
+- [st.adast.dk](https://st.adast.dk)
+- [t.opnxng.com](https://t.opnxng.com)
+### Onion
+- [s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion](http://s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion)
+### I2P
+
 
 ## [LingvaTranslate](https://github.com/TheDavidDelta/lingva-translate#lingva-translate)
 
@@ -701,19 +698,6 @@
 ### I2P
 - [vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p](http://vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p)
 
-## [SimpleerTube](https://simple-web.org/projects/simpleertube.html)
-
-### Clearnet
-- [simpleertube.esmailelbob.xyz](https://simpleertube.esmailelbob.xyz)
-- [st.vern.cc](https://st.vern.cc)
-- [stube.tokhmi.xyz](https://stube.tokhmi.xyz)
-- [tube.simple-web.org](https://tube.simple-web.org)
-### Onion
-- [simpleertube.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://simpleertube.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
-- [st.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://st.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-### I2P
-- [verntblehhel4dx6ntyxkj4mryvic3s3yptzxewzwnldq3esi4qq.b32.i2p](http://verntblehhel4dx6ntyxkj4mryvic3s3yptzxewzwnldq3esi4qq.b32.i2p)
-
 ## [dumb](https://github.com/rramiachraf/dumb)
 
 ### Clearnet
@@ -850,18 +834,6 @@
 - [ay7akchgdh76r4lc62hzd52z6xqoh67loototsetvqxo5o7ngo5q.b32.i2p](http://ay7akchgdh76r4lc62hzd52z6xqoh67loototsetvqxo5o7ngo5q.b32.i2p)
 - [ocp7zhdsbl2mjabv5ma5jvbzg2dqzglieayjvyj4j2r7qvsqlboa.b32.i2p](http://ocp7zhdsbl2mjabv5ma5jvbzg2dqzglieayjvyj4j2r7qvsqlboa.b32.i2p)
 - [vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p](http://vernmzgraj6aaoafmehupvtkkynpaa67rxcdj2kinwiy6konn6rq.b32.i2p)
-
-## [SimpleAmazon](https://codeberg.org/SimpleWeb/SimpleAmazon)
-
-### Clearnet
-- [amazon.simple-web.org](https://amazon.simple-web.org)
-- [az.vern.cc](https://az.vern.cc)
-- [simpleamazon.esmailelbob.xyz](https://simpleamazon.esmailelbob.xyz)
-### Onion
-- [az.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://az.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [simpleamazon.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://simpleamazon.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
-### I2P
-- [vernlncxo4aswplv7naacpjvp5ts4uhrv4wbv3y4skufdbz763gq.b32.i2p](http://vernlncxo4aswplv7naacpjvp5ts4uhrv4wbv3y4skufdbz763gq.b32.i2p)
 
 ## [PrivateBin](https://privatebin.info/)
 
