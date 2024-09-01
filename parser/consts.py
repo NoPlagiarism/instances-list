@@ -39,6 +39,12 @@ class Regex:
     DOMAIN_ONION = DOMAIN_BASE_REGEX + r"\.onion"
     DOMAIN_I2P = DOMAIN_BASE_REGEX + r"\.i2p"
     DOMAIN_LOKI = DOMAIN_BASE_REGEX + r"\.loki"
+    # ---BEGIN: REGEX---
+    # DOMAIN - [\d\w\-\_\.]+\.[a-zA-Z]+
+    # DOMAIN_ONION - [\d\w\-\_\.]+\.onion
+    # DOMAIN_I2P - [\d\w\-\_\.]+\.i2p
+    # DOMAIN_LOKI - [\d\w\-\_\.]+\.loki
+    # ---END: REGEX---
 
 
 INST_FOLDER = "instances"
