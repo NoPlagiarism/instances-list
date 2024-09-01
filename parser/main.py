@@ -508,17 +508,16 @@ def get_clearnet_base(path):
     return BaseInstance(relative_filepath_without_ext='/'.join((path, Network.CLEARNET)))
 
 
-SHARED_URLS_FOR_CACHE = dict(simple_web=URLForCache("https://codeberg.org/SimpleWeb/Website/raw/branch/master/config.json"))
+SHARED_URLS_FOR_CACHE = dict()
 INSTANCE_GROUPS = [
     InstancesGroupData(name="ProxiTok", home_url="https://github.com/pablouser1/ProxiTok", relative_filepath_without_ext="tiktok/proxitok",
                        instances=(RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, crop_from="# Clearnet", crop_to=".onion", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=fr"^\|\s+\[(?P<domain>{Regex.DOMAIN})\]\((?P<url>https?:\/\/{Regex.DOMAIN}+)\)\s+(?:\(Official\)\s+)?\|"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.ONION, crop_from="# Tor", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=fr"\|\s+\[(?P<domain>{Regex.DOMAIN_ONION})\]\((?P<url>https?:\/\/{Regex.DOMAIN_ONION})\)\s+\|"),
                                   RegexCroppedFromUrlInstance(relative_filepath_without_ext=Network.I2P, crop_from="# I2P", url="https://raw.githubusercontent.com/wiki/pablouser1/ProxiTok/Public-instances.md", regex_pattern=fr"\|\s+\[(?P<domain>{Regex.DOMAIN_I2P})\]\((?P<url>https?:\/\/{Regex.DOMAIN_I2P})\)\s+\|"))),
     InstancesGroupData(name="SimplyTranslateLegacy", home_url="https://codeberg.org/SimpleWeb/SimplyTranslate-Web", relative_filepath_without_ext="translate/simplytranslatelegacy",
-                       instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simplytranslate'][0].get('instances')),
-                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.ONION, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simplytranslate'][0].get('onion_instances')),
-                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.I2P, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simplytranslate'][0].get('i2p_instances')),
-                                  JSONUsingCallableInstance(relative_filepath_without_ext=Network.LOKI, url=SHARED_URLS_FOR_CACHE['simple_web'], json_handle=lambda raw: [x for x in raw['projects'] if x['id'] == 'simplytranslate'][0].get('loki_instances')))),
+                       instances=(JustFromUrlInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-custom/master/simplytranslatelegacy/instances.txt"),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.ONION, header=MirrorHeaders.ONION, main=get_clearnet_base("translate/simplytranslatelegacy")),
+                                  GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.I2P, header=MirrorHeaders.I2P, main=get_clearnet_base("translate/simplytranslatelegacy")))),
     InstancesGroupData(name="SimplyTranslate", home_url="https://codeberg.org/ManeraKai/simplytranslate", relative_filepath_without_ext="translate/simplytranslate",
                        instances=(JSONUsingCallableInstance(relative_filepath_without_ext=Network.CLEARNET, url="https://codeberg.org/ManeraKai/simplytranslate/raw/branch/main/instances.json", json_handle=lambda raw: [get_domain_from_url(x['url']) for x in raw]),
                                   GetDomainsFromHeadersInstance(relative_filepath_without_ext=Network.ONION, header=MirrorHeaders.ONION, main=get_clearnet_base("translate/simplytranslate")),
