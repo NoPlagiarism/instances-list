@@ -634,15 +634,25 @@ INSTANCE_GROUPS = [
 GROUPS_ONLY = tuple(os.environ.get("FIL_GROUPS_ONLY").lower().split(",")) if os.environ.get("FIL_GROUPS_ONLY") else None
 if GROUPS_ONLY is not None:
     logger.info("FIL_GROUPS_ONLY's active: " + str(GROUPS_ONLY))
+EXCLUDE_GROUPS = tuple(os.environ.get("FIL_GROUPS_EXCLUDE").lower().split(",")) \
+    if os.environ.get("FIL_GROUPS_EXCLUDE") else None
+if EXCLUDE_GROUPS is not None:
+    logger.info("FIL_GROUPS_EXCLUDE's active: " + str(EXCLUDE_GROUPS))
+
+
+def should_skip_instance_group(inst: InstancesGroupData):
+    if isinstance(GROUPS_ONLY, tuple):
+        return inst.name.lower() not in GROUPS_ONLY
+    if isinstance(EXCLUDE_GROUPS, tuple):
+        return inst.name.lower() in EXCLUDE_GROUPS
 
 
 @logger.catch(reraise=True)
 def main():
     for p in PRIORITIES:
         for instance in INSTANCE_GROUPS:
-            if isinstance(GROUPS_ONLY, tuple):
-                if instance.name.lower() not in GROUPS_ONLY:
-                    continue
+            if should_skip_instance_group(instance):
+                continue
             instance.from_instance().update(priority=p)
             time.sleep(SLEEP_TIMEOUT_PER_GROUP)
 
@@ -652,9 +662,8 @@ async def async_main():
     for p in PRIORITIES:
         tasks = list()
         for instance in INSTANCE_GROUPS:
-            if isinstance(GROUPS_ONLY, tuple):
-                if instance.name.lower() not in GROUPS_ONLY:
-                    continue
+            if should_skip_instance_group(instance):
+                continue
             tasks.extend(instance.from_instance().get_coroutines(priority=p))
         await asyncio.gather(*tasks)
 

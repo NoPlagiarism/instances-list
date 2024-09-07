@@ -13,9 +13,14 @@ on:
         description: 'Groups to scan'
         required: false
         type: string
+      groupsExclude:
+        description: 'Groups to ignore'
+        required: false
+        type: string
 
 env:
   FIL_GROUPS_ONLY: ${{ inputs.groupsOnly }}
+  FIL_GROUPS_EXCLUDE: ${{ inputs.groupsExclude }}
 
 jobs:
   build:
