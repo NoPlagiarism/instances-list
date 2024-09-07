@@ -65,6 +65,32 @@
         ],
         "i2p": []
     },
+    "mozhi": {
+        "name": "Mozhi",
+        "url": "https://codeberg.org/aryak/mozhi#readme",
+        "path": "translate/mozhi",
+        "instances": [
+            "mo.zorby.top",
+            "mozhi.adminforge.de",
+            "mozhi.aryak.me",
+            "mozhi.ducks.party",
+            "mozhi.frontendfriendly.xyz",
+            "mozhi.pussthecat.org",
+            "nyc1.mz.ggtyler.dev",
+            "translate.bus-hit.me",
+            "translate.nerdvpn.de",
+            "translate.privacyredirect.com",
+            "translate.projectsegfau.lt"
+        ],
+        "onion": [
+            "3mu2almmcv7rd7wlwhmkbwqgttntgpqu3hdanutxbv2v72wzbxe5ixqd.onion",
+            "42i2bzogwkph3dvoo2bm6srskf7vvabsphw7uzftymbjjlzgfluhnmid.onion",
+            "mozhi.wsuno6lnjdcsiok5mrxvl6e2bdex7nhsqqav6ux7tkwrqiqnulejfbyd.onion"
+        ],
+        "i2p": [
+            "74lptlnvaukcjnmqefedgna35ahkqexqzq2qq3k7utc2ep4jotcq.b32.i2p"
+        ]
+    },
     "lingvatranslate": {
         "name": "LingvaTranslate",
         "url": "https://github.com/TheDavidDelta/lingva-translate#lingva-translate",

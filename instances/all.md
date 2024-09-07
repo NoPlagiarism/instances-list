@@ -4,6 +4,7 @@
 - [ProxiTok](#proxitok)
 - [SimplyTranslateLegacy](#simplytranslatelegacy)
 - [SimplyTranslate](#simplytranslate)
+- [Mozhi](#mozhi)
 - [LingvaTranslate](#lingvatranslate)
 - [Whoogle](#whoogle)
 - [SearXNG](#searxng)
@@ -87,6 +88,27 @@
 - [s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion](http://s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion)
 ### I2P
 
+
+## [Mozhi](https://codeberg.org/aryak/mozhi#readme)
+
+### Clearnet
+- [mo.zorby.top](https://mo.zorby.top)
+- [mozhi.adminforge.de](https://mozhi.adminforge.de)
+- [mozhi.aryak.me](https://mozhi.aryak.me)
+- [mozhi.ducks.party](https://mozhi.ducks.party)
+- [mozhi.frontendfriendly.xyz](https://mozhi.frontendfriendly.xyz)
+- [mozhi.pussthecat.org](https://mozhi.pussthecat.org)
+- [nyc1.mz.ggtyler.dev](https://nyc1.mz.ggtyler.dev)
+- [translate.bus-hit.me](https://translate.bus-hit.me)
+- [translate.nerdvpn.de](https://translate.nerdvpn.de)
+- [translate.privacyredirect.com](https://translate.privacyredirect.com)
+- [translate.projectsegfau.lt](https://translate.projectsegfau.lt)
+### Onion
+- [3mu2almmcv7rd7wlwhmkbwqgttntgpqu3hdanutxbv2v72wzbxe5ixqd.onion](http://3mu2almmcv7rd7wlwhmkbwqgttntgpqu3hdanutxbv2v72wzbxe5ixqd.onion)
+- [42i2bzogwkph3dvoo2bm6srskf7vvabsphw7uzftymbjjlzgfluhnmid.onion](http://42i2bzogwkph3dvoo2bm6srskf7vvabsphw7uzftymbjjlzgfluhnmid.onion)
+- [mozhi.wsuno6lnjdcsiok5mrxvl6e2bdex7nhsqqav6ux7tkwrqiqnulejfbyd.onion](http://mozhi.wsuno6lnjdcsiok5mrxvl6e2bdex7nhsqqav6ux7tkwrqiqnulejfbyd.onion)
+### I2P
+- [74lptlnvaukcjnmqefedgna35ahkqexqzq2qq3k7utc2ep4jotcq.b32.i2p](http://74lptlnvaukcjnmqefedgna35ahkqexqzq2qq3k7utc2ep4jotcq.b32.i2p)
 
 ## [LingvaTranslate](https://github.com/TheDavidDelta/lingva-translate#lingva-translate)
 
