@@ -9,6 +9,7 @@
 - [que.wilbvr.me](https://que.wilbvr.me)
 - [questions.whateveritworks.org](https://questions.whateveritworks.org)
 - [quetre.blackdrgn.nl](https://quetre.blackdrgn.nl)
+- [quetre.canine.tools](https://quetre.canine.tools)
 - [quetre.catsarch.com](https://quetre.catsarch.com)
 - [quetre.drgns.space](https://quetre.drgns.space)
 - [quetre.ducks.party](https://quetre.ducks.party)

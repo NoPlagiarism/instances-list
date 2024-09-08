@@ -1,9 +1,10 @@
 piped.adminforge.de
-piped.darkness.services
+piped.cdsp.cz
 piped.drgns.space
+piped.ducks.party
 piped.in.projectsegfau.lt
-piped.phoenixthrush.com
-piped.private.coffee
+piped.ngn.tf
+piped.reallyaweso.me
+piped.smnz.de
 piped.video
 piped.yt
-schaun.ehwurscht.at

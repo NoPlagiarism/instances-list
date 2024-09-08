@@ -11,6 +11,7 @@
 - [biblioreads.vercel.app](https://biblioreads.vercel.app)
 - [bl.vern.cc](https://bl.vern.cc)
 - [br.bloat.cat](https://br.bloat.cat)
+- [read.canine.tools](https://read.canine.tools)
 - [read.freedit.eu](https://read.freedit.eu)
 - [read.seitan-ayoub.lol](https://read.seitan-ayoub.lol)
 - [read.whateveritworks.org](https://read.whateveritworks.org)

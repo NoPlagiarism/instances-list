@@ -1,16 +1,18 @@
 {
     "instances": [
         "piped.adminforge.de",
-        "piped.darkness.services",
+        "piped.cdsp.cz",
         "piped.drgns.space",
+        "piped.ducks.party",
         "piped.in.projectsegfau.lt",
-        "piped.phoenixthrush.com",
-        "piped.private.coffee",
+        "piped.ngn.tf",
+        "piped.reallyaweso.me",
+        "piped.smnz.de",
         "piped.video",
-        "piped.yt",
-        "schaun.ehwurscht.at"
+        "piped.yt"
     ],
     "onion": [
+        "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion",
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
     ],
     "i2p": []

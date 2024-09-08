@@ -8,6 +8,7 @@
 - [invidious.jing.rocks](https://invidious.jing.rocks)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.perennialte.ch](https://invidious.perennialte.ch)
+- [invidious.privacydev.net](https://invidious.privacydev.net)
 - [invidious.privacyredirect.com](https://invidious.privacyredirect.com)
 - [invidious.reallyaweso.me](https://invidious.reallyaweso.me)
 - [invidious.yourdevice.ch](https://invidious.yourdevice.ch)
