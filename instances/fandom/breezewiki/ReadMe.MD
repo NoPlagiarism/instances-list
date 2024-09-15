@@ -25,6 +25,7 @@
 - [bw.hamstro.dev](https://bw.hamstro.dev)
 - [bw.projectsegfau.lt](https://bw.projectsegfau.lt)
 - [bw.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion](https://bw.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion)
+- [fan.blitzw.in](https://fan.blitzw.in)
 - [fandom.reallyaweso.me](https://fandom.reallyaweso.me)
 - [nerd.whatever.social](https://nerd.whatever.social)
 - [z.opnxng.com](https://z.opnxng.com)

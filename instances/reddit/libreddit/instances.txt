@@ -9,6 +9,7 @@ libreddit.projectsegfau.lt
 libreddit.tux.pizza
 lr.vern.cc
 r.darklab.sh
+r.walkx.fyi
 reddit.rtrace.io
 reddit.simo.sh
 reddit.utsav2.dev

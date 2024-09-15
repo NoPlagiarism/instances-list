@@ -13,6 +13,7 @@ s.mble.dk
 s.trung.fun
 search.blitzw.in
 search.bus-hit.me
+search.canine.tools
 search.charliewhiskey.net
 search.citw.lgbt
 search.datura.network
@@ -77,5 +78,6 @@ sx.ca.zorby.top
 sx.catgirl.cloud
 sx.thatxtreme.dev
 sx.zorby.top
+tritest.site
 www.gruble.de
 xo.wtf

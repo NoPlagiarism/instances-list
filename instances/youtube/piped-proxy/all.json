@@ -1,6 +1,7 @@
 {
     "instances": [
         "piped-proxy.codespace.cz",
+        "piped-proxy.ducks.party",
         "pipedimageproxy.smnz.de",
         "pipedimg.adminforge.de",
         "pipedproxy-ams-2.kavin.rocks",
@@ -8,9 +9,8 @@
         "pipedproxy.in.projectsegfau.lt",
         "pipedproxy.kavin.rocks",
         "pipedproxy.leptons.xyz",
-        "pipedproxy.ngn.tf",
+        "pipedproxy.phoenixthrush.com",
         "pipedproxy.reallyaweso.me",
-        "proxy.piped.privacydev.net",
         "proxy.piped.yt"
     ]
 }

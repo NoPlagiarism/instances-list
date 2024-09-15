@@ -1,9 +1,9 @@
 # [Mozhi](https://codeberg.org/aryak/mozhi#readme)
 
 # Clearnet
-- [mo.zorby.top](https://mo.zorby.top)
 - [mozhi.adminforge.de](https://mozhi.adminforge.de)
 - [mozhi.aryak.me](https://mozhi.aryak.me)
+- [mozhi.canine.tools](https://mozhi.canine.tools)
 - [mozhi.ducks.party](https://mozhi.ducks.party)
 - [mozhi.frontendfriendly.xyz](https://mozhi.frontendfriendly.xyz)
 - [mozhi.pussthecat.org](https://mozhi.pussthecat.org)

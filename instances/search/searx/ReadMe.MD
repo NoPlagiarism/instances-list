@@ -16,6 +16,7 @@
 - [s.trung.fun](https://s.trung.fun)
 - [search.blitzw.in](https://search.blitzw.in)
 - [search.bus-hit.me](https://search.bus-hit.me)
+- [search.canine.tools](https://search.canine.tools)
 - [search.charliewhiskey.net](https://search.charliewhiskey.net)
 - [search.citw.lgbt](https://search.citw.lgbt)
 - [search.datura.network](https://search.datura.network)
@@ -80,6 +81,7 @@
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
 - [sx.thatxtreme.dev](https://sx.thatxtreme.dev)
 - [sx.zorby.top](https://sx.zorby.top)
+- [tritest.site](https://tritest.site)
 - [www.gruble.de](https://www.gruble.de)
 - [xo.wtf](https://xo.wtf)
 # Onion

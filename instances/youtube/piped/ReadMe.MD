@@ -6,7 +6,7 @@
 - [piped.drgns.space](https://piped.drgns.space)
 - [piped.ducks.party](https://piped.ducks.party)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
-- [piped.ngn.tf](https://piped.ngn.tf)
+- [piped.phoenixthrush.com](https://piped.phoenixthrush.com)
 - [piped.reallyaweso.me](https://piped.reallyaweso.me)
 - [piped.smnz.de](https://piped.smnz.de)
 - [piped.video](https://piped.video)

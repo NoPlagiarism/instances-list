@@ -12,6 +12,7 @@
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.vern.cc](https://lr.vern.cc)
 - [r.darklab.sh](https://r.darklab.sh)
+- [r.walkx.fyi](https://r.walkx.fyi)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [reddit.simo.sh](https://reddit.simo.sh)
 - [reddit.utsav2.dev](https://reddit.utsav2.dev)

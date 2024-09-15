@@ -17,7 +17,6 @@ bin.eiphax.tech
 bin.garbaye.fr
 bin.garudalinux.org
 bin.habedieeh.re
-bin.hbubli.cc
 bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
@@ -31,6 +30,7 @@ bin.nixnet.services
 bin.nji9.de
 bin.oldgate.org
 bin.purplebored.pl
+bin.reallyaweso.me
 bin.rtb.gg
 bin.sasach.work
 bin.siick.fr
@@ -76,6 +76,7 @@ p.vinci-concessions.com
 pas.te.it
 passwords.gestionalda.com
 paste.3server.de
+paste.asheriif.me
 paste.biocrafting.net
 paste.burble.com
 paste.canine.tools
@@ -90,6 +91,7 @@ paste.dvotx.org
 paste.elyday.net
 paste.encrypt.co.il
 paste.evolix.org
+paste.fitgirl-repacks.site
 paste.fizi.ca
 paste.gamesdrive.net
 paste.ggc-project.de
@@ -142,7 +144,6 @@ pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
-pb.markasspandi.pl
 pb.rausgerufen.de
 pb.skifab.se
 photistic.org
@@ -155,7 +156,6 @@ privatebin.arq.pl
 privatebin.at
 privatebin.clebootin.com
 privatebin.cobiotx.io
-privatebin.deblan.org
 privatebin.devol.it
 privatebin.freinetz.ch
 privatebin.imagisphe.re
