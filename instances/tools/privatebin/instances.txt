@@ -93,6 +93,7 @@ paste.encrypt.co.il
 paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
+paste.foss.family
 paste.gamesdrive.net
 paste.ggc-project.de
 paste.hackliberty.org
@@ -124,12 +125,12 @@ paste.techbag.app
 paste.thec0de.com
 paste.tildeverse.org
 paste.to
+paste.tube-hosting.de
 paste.tuxcloud.net
 paste.unit193.net
 paste.voxhost.fr
 paste.waays.fr
 paste.webdigg.org
-pastebin.0bin.xyz
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.grey.pw
@@ -138,12 +139,14 @@ pastebin.kamos.fr
 pastebin.linqhost.nl
 pastefg.hermietkreeft.site
 pastejar.com
+pastequest.com
 pb.blackvoid.club
 pb.envs.net
 pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
+pb.markasspandi.pl
 pb.rausgerufen.de
 pb.skifab.se
 photistic.org

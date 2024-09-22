@@ -1,20 +1,8 @@
 {
     "instances": [
-        "inv.nadeko.net",
-        "inv.tux.pizza",
-        "invidious.adminforge.de",
-        "invidious.einfachzocken.eu",
         "invidious.jing.rocks",
         "invidious.nerdvpn.de",
-        "invidious.perennialte.ch",
-        "invidious.privacydev.net",
-        "invidious.privacyredirect.com",
-        "invidious.reallyaweso.me",
-        "invidious.yourdevice.ch",
-        "iv.ggtyler.dev",
-        "iv.nboeck.de",
-        "iv.nowhere.moe",
-        "yewtu.be"
+        "invidious.privacyredirect.com"
     ],
     "onion": [
         "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",

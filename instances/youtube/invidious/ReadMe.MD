@@ -1,21 +1,9 @@
 # [Invidious](https://github.com/iv-org/invidious#readme)
 
 # Clearnet
-- [inv.nadeko.net](https://inv.nadeko.net)
-- [inv.tux.pizza](https://inv.tux.pizza)
-- [invidious.adminforge.de](https://invidious.adminforge.de)
-- [invidious.einfachzocken.eu](https://invidious.einfachzocken.eu)
 - [invidious.jing.rocks](https://invidious.jing.rocks)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
-- [invidious.perennialte.ch](https://invidious.perennialte.ch)
-- [invidious.privacydev.net](https://invidious.privacydev.net)
 - [invidious.privacyredirect.com](https://invidious.privacyredirect.com)
-- [invidious.reallyaweso.me](https://invidious.reallyaweso.me)
-- [invidious.yourdevice.ch](https://invidious.yourdevice.ch)
-- [iv.ggtyler.dev](https://iv.ggtyler.dev)
-- [iv.nboeck.de](https://iv.nboeck.de)
-- [iv.nowhere.moe](https://iv.nowhere.moe)
-- [yewtu.be](https://yewtu.be)
 # Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
 - [nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion](http://nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion)
