@@ -1,5 +1,6 @@
 dm.vern.cc
 dumb.ducks.party
+dumb.hyperreal.coffee
 dumb.lunar.icu
 dumb.privacydev.net
 dumb.privacyfucking.rocks

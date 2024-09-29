@@ -95,7 +95,9 @@ paste.fitgirl-repacks.site
 paste.fizi.ca
 paste.foss.family
 paste.gamesdrive.net
+paste.getcobalt.org
 paste.ggc-project.de
+paste.gstd.eu
 paste.hackliberty.org
 paste.helkor.eu
 paste.hostify.cz
@@ -112,7 +114,6 @@ paste.ononoki.org
 paste.ottertelecom.com
 paste.perennialte.ch
 paste.picasoft.net
-paste.quest
 paste.rys.pw
 paste.skynetcloud.site
 paste.spigot.pl
@@ -172,7 +173,7 @@ privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.stormdragons.net
 privatebin.wsmm.de
-privatebin.xi.ht
+privatebin.yuricunha.com
 privatepastebin.com
 pstbn.io
 sebsauvage.net
@@ -184,6 +185,7 @@ secrets.l25.cloud
 secrets.secumail.de
 secrets.true.nl
 secure.superior.nl
+seiber.ynh.fr
 sendpass.ru
 skypaste.ch
 snip.dssr.ch

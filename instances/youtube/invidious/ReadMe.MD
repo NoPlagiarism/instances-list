@@ -1,6 +1,7 @@
 # [Invidious](https://github.com/iv-org/invidious#readme)
 
 # Clearnet
+- [inv.nadeko.net](https://inv.nadeko.net)
 - [invidious.jing.rocks](https://invidious.jing.rocks)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.privacyredirect.com](https://invidious.privacyredirect.com)

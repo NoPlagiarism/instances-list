@@ -10,6 +10,7 @@
 - [4get.dcs0.hu](https://4get.dcs0.hu)
 - [4get.edmateo.site](https://4get.edmateo.site)
 - [4get.etenie.pl](https://4get.etenie.pl)
+- [4get.getcobalt.org](https://4get.getcobalt.org)
 - [4get.hbubli.cc](https://4get.hbubli.cc)
 - [4get.kizuki.lol](https://4get.kizuki.lol)
 - [4get.konakona.moe](https://4get.konakona.moe)
