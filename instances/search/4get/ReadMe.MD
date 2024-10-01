@@ -2,6 +2,7 @@
 
 # Clearnet
 - [4.nboeck.de](https://4.nboeck.de)
+- [4.ngn.tf](https://4.ngn.tf)
 - [4g.ggtyler.dev](https://4g.ggtyler.dev)
 - [4get.aishiteiru.moe](https://4get.aishiteiru.moe)
 - [4get.ca](https://4get.ca)

@@ -7,7 +7,6 @@ pipedproxy.kavin.rocks
 pipedproxy.leptons.xyz
 pipedproxy.ngn.tf
 pipedproxy.phoenixthrush.com
-pipedproxy.r4fo.com
 pipedproxy.reallyaweso.me
 proxy.piped.private.coffee
 proxy.piped.yt

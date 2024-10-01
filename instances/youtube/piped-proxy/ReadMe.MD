@@ -10,7 +10,6 @@
 - [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
 - [pipedproxy.ngn.tf](https://pipedproxy.ngn.tf)
 - [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
-- [pipedproxy.r4fo.com](https://pipedproxy.r4fo.com)
 - [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
 - [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
 - [proxy.piped.yt](https://proxy.piped.yt)

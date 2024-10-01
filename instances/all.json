@@ -355,8 +355,9 @@
             "libreddit.projectsegfau.lt",
             "lr.vern.cc",
             "r.darklab.sh",
+            "r.walkx.fyi",
             "reddit.rtrace.io",
-            "reddit.utsav2.dev",
+            "safereddit.com",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -423,7 +424,6 @@
             "wl.vern.cc"
         ],
         "onion": [
-            "7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion",
             "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
@@ -1069,7 +1069,6 @@
             "paste.tube-hosting.de",
             "paste.tuxcloud.net",
             "paste.unit193.net",
-            "paste.voxhost.fr",
             "paste.waays.fr",
             "paste.webdigg.org",
             "pastebin.24unix.net",
@@ -1087,7 +1086,6 @@
             "pb.fly.dev",
             "pb.fsociety.social",
             "pb.greep.fr",
-            "pb.markasspandi.pl",
             "pb.rausgerufen.de",
             "pb.skifab.se",
             "photistic.org",
@@ -1174,6 +1172,7 @@
         "path": "search/4get",
         "instances": [
             "4.nboeck.de",
+            "4.ngn.tf",
             "4g.ggtyler.dev",
             "4get.aishiteiru.moe",
             "4get.ca",
@@ -1219,7 +1218,6 @@
             "pipedproxy.leptons.xyz",
             "pipedproxy.ngn.tf",
             "pipedproxy.phoenixthrush.com",
-            "pipedproxy.r4fo.com",
             "pipedproxy.reallyaweso.me",
             "proxy.piped.private.coffee",
             "proxy.piped.yt"

@@ -129,7 +129,6 @@ paste.to
 paste.tube-hosting.de
 paste.tuxcloud.net
 paste.unit193.net
-paste.voxhost.fr
 paste.waays.fr
 paste.webdigg.org
 pastebin.24unix.net
@@ -147,7 +146,6 @@ pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
-pb.markasspandi.pl
 pb.rausgerufen.de
 pb.skifab.se
 photistic.org

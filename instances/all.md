@@ -353,8 +353,9 @@
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [lr.vern.cc](https://lr.vern.cc)
 - [r.darklab.sh](https://r.darklab.sh)
+- [r.walkx.fyi](https://r.walkx.fyi)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
-- [reddit.utsav2.dev](https://reddit.utsav2.dev)
+- [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
@@ -415,7 +416,6 @@
 - [wikiless.whateveritworks.org](https://wikiless.whateveritworks.org)
 - [wl.vern.cc](https://wl.vern.cc)
 ### Onion
-- [7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion](http://7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion)
 - [wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion](http://ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion)
 ### I2P
@@ -985,7 +985,6 @@
 - [paste.tube-hosting.de](https://paste.tube-hosting.de)
 - [paste.tuxcloud.net](https://paste.tuxcloud.net)
 - [paste.unit193.net](https://paste.unit193.net)
-- [paste.voxhost.fr](https://paste.voxhost.fr)
 - [paste.waays.fr](https://paste.waays.fr)
 - [paste.webdigg.org](https://paste.webdigg.org)
 - [pastebin.24unix.net](https://pastebin.24unix.net)
@@ -1003,7 +1002,6 @@
 - [pb.fly.dev](https://pb.fly.dev)
 - [pb.fsociety.social](https://pb.fsociety.social)
 - [pb.greep.fr](https://pb.greep.fr)
-- [pb.markasspandi.pl](https://pb.markasspandi.pl)
 - [pb.rausgerufen.de](https://pb.rausgerufen.de)
 - [pb.skifab.se](https://pb.skifab.se)
 - [photistic.org](https://photistic.org)
@@ -1082,6 +1080,7 @@
 
 ### Clearnet
 - [4.nboeck.de](https://4.nboeck.de)
+- [4.ngn.tf](https://4.ngn.tf)
 - [4g.ggtyler.dev](https://4g.ggtyler.dev)
 - [4get.aishiteiru.moe](https://4get.aishiteiru.moe)
 - [4get.ca](https://4get.ca)
@@ -1124,7 +1123,6 @@
 - [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
 - [pipedproxy.ngn.tf](https://pipedproxy.ngn.tf)
 - [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
-- [pipedproxy.r4fo.com](https://pipedproxy.r4fo.com)
 - [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
 - [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
 - [proxy.piped.yt](https://proxy.piped.yt)
