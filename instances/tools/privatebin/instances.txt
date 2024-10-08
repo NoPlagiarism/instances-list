@@ -2,6 +2,7 @@
 0.anonpaste.uk
 0.jaegers.net
 0bin.virtuaverse.xyz
+anonpaste.org
 anonpaste.uk
 b.opnxng.com
 bin.0ax.cc
@@ -118,7 +119,6 @@ paste.rys.pw
 paste.skynetcloud.site
 paste.spigot.pl
 paste.stratum0.org
-paste.sy.gy
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
@@ -146,6 +146,7 @@ pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
+pb.jaska.cc
 pb.rausgerufen.de
 pb.skifab.se
 photistic.org

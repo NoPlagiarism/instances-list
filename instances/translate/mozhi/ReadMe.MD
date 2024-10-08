@@ -6,6 +6,7 @@
 - [mozhi.canine.tools](https://mozhi.canine.tools)
 - [mozhi.ducks.party](https://mozhi.ducks.party)
 - [mozhi.frontendfriendly.xyz](https://mozhi.frontendfriendly.xyz)
+- [mozhi.gitro.xyz](https://mozhi.gitro.xyz)
 - [mozhi.pussthecat.org](https://mozhi.pussthecat.org)
 - [nyc1.mz.ggtyler.dev](https://nyc1.mz.ggtyler.dev)
 - [translate.bus-hit.me](https://translate.bus-hit.me)

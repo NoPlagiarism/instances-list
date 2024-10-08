@@ -6,10 +6,11 @@
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
 - [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
-- [lr.vern.cc](https://lr.vern.cc)
+- [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [r.darklab.sh](https://r.darklab.sh)
 - [r.walkx.fyi](https://r.walkx.fyi)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
+- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion

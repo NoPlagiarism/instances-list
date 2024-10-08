@@ -2,14 +2,7 @@
 
 # Clearnet
 - [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
-- [pipedimageproxy.smnz.de](https://pipedimageproxy.smnz.de)
+- [piped-proxy.ducks.party](https://piped-proxy.ducks.party)
 - [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
-- [pipedproxy-ams-2.kavin.rocks](https://pipedproxy-ams-2.kavin.rocks)
 - [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
-- [pipedproxy.kavin.rocks](https://pipedproxy.kavin.rocks)
-- [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
-- [pipedproxy.ngn.tf](https://pipedproxy.ngn.tf)
-- [pipedproxy.phoenixthrush.com](https://pipedproxy.phoenixthrush.com)
-- [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
 - [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
-- [proxy.piped.yt](https://proxy.piped.yt)

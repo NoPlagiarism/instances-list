@@ -2,7 +2,9 @@
 
 # Clearnet
 - [dm.vern.cc](https://dm.vern.cc)
+- [dumb.bloat.cat](https://dumb.bloat.cat)
 - [dumb.ducks.party](https://dumb.ducks.party)
+- [dumb.gitro.xyz](https://dumb.gitro.xyz)
 - [dumb.hyperreal.coffee](https://dumb.hyperreal.coffee)
 - [dumb.lunar.icu](https://dumb.lunar.icu)
 - [dumb.privacydev.net](https://dumb.privacydev.net)
