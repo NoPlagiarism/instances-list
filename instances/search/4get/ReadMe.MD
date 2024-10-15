@@ -31,5 +31,6 @@
 - [4get.twipler.space](https://4get.twipler.space)
 - [4get.zzls.xyz](https://4get.zzls.xyz)
 - [4getus.zzls.xyz](https://4getus.zzls.xyz)
+- [search.fzorb.xyz](https://search.fzorb.xyz)
 - [search.milivojevic.in.rs](https://search.milivojevic.in.rs)
 - [search.mint.lgbt](https://search.mint.lgbt)

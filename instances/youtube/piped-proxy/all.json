@@ -1,9 +1,12 @@
 {
     "instances": [
         "piped-proxy.codespace.cz",
-        "piped-proxy.ducks.party",
         "pipedimg.adminforge.de",
-        "pipedproxy.drgns.space",
+        "pipedproxy-ams-2.kavin.rocks",
+        "pipedproxy.kavin.rocks",
+        "pipedproxy.leptons.xyz",
+        "pipedproxy.nosebs.ru",
+        "pipedproxy.reallyaweso.me",
         "proxy.piped.private.coffee"
     ]
 }
