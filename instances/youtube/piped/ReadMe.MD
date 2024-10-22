@@ -1,9 +1,9 @@
 # [Piped](https://github.com/TeamPiped/Piped#readme)
 
 # Clearnet
-- [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.cdsp.cz](https://piped.cdsp.cz)
-- [piped.private.coffee](https://piped.private.coffee)
+- [piped.drgns.space](https://piped.drgns.space)
+- [piped.nosebs.ru](https://piped.nosebs.ru)
 - [piped.reallyaweso.me](https://piped.reallyaweso.me)
 - [piped.video](https://piped.video)
 # Onion

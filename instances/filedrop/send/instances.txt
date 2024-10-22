@@ -20,5 +20,4 @@ send.mni.li
 send.monks.tools
 send.turingpoint.de
 send.vis.ee
-send.zcyph.cc
 upload.nolog.cz

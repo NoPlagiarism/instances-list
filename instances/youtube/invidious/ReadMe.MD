@@ -3,7 +3,6 @@
 # Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [invidious.jing.rocks](https://invidious.jing.rocks)
-- [invidious.privacyredirect.com](https://invidious.privacyredirect.com)
 - [yt.drgnz.club](https://yt.drgnz.club)
 # Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)

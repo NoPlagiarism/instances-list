@@ -5,7 +5,6 @@ libreddit.oxymagnesium.com
 libreddit.privacydev.net
 libreddit.projectsegfau.lt
 libreddit.tux.pizza
-lr.vern.cc
 r.walkx.fyi
 reddit.rtrace.io
 reddit.utsav2.dev

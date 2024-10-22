@@ -23,5 +23,4 @@
 - [send.monks.tools](https://send.monks.tools)
 - [send.turingpoint.de](https://send.turingpoint.de)
 - [send.vis.ee](https://send.vis.ee)
-- [send.zcyph.cc](https://send.zcyph.cc)
 - [upload.nolog.cz](https://upload.nolog.cz)

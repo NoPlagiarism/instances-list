@@ -14,6 +14,7 @@ bin.arq.pl
 bin.bloat.cat
 bin.bus-hit.me
 bin.byreqz.de
+bin.cafeo.re
 bin.disroot.org
 bin.garbaye.fr
 bin.garudalinux.org
@@ -30,6 +31,7 @@ bin.ngn.tf
 bin.nixnet.services
 bin.nji9.de
 bin.oldgate.org
+bin.privateweb.ch
 bin.purplebored.pl
 bin.reallyaweso.me
 bin.rtb.gg
@@ -129,7 +131,6 @@ paste.to
 paste.tube-hosting.de
 paste.tuxcloud.net
 paste.unit193.net
-paste.vku.fi
 paste.waays.fr
 paste.webdigg.org
 pastebin.24unix.net
@@ -143,7 +144,6 @@ pastejar.com
 pastequest.com
 pb.blackvoid.club
 pb.envs.net
-pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr

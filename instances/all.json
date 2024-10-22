@@ -42,9 +42,12 @@
         "onion": [
             "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion",
+            "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p"
+        ]
     },
     "simplytranslate": {
         "name": "SimplyTranslate",
@@ -340,7 +343,6 @@
             "libreddit.privacydev.net",
             "libreddit.projectsegfau.lt",
             "libreddit.tux.pizza",
-            "lr.vern.cc",
             "r.walkx.fyi",
             "reddit.rtrace.io",
             "reddit.utsav2.dev",
@@ -412,18 +414,21 @@
         ],
         "onion": [
             "7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion",
+            "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p"
+        ]
     },
     "piped": {
         "name": "Piped",
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "piped.adminforge.de",
             "piped.cdsp.cz",
-            "piped.private.coffee",
+            "piped.drgns.space",
+            "piped.nosebs.ru",
             "piped.reallyaweso.me",
             "piped.video"
         ],
@@ -439,7 +444,6 @@
         "instances": [
             "inv.nadeko.net",
             "invidious.jing.rocks",
-            "invidious.privacyredirect.com",
             "yt.drgnz.club"
         ],
         "onion": [
@@ -589,7 +593,8 @@
             "watch.whateveritworks.org"
         ],
         "onion": [
-            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
     },
     "nitter": {
@@ -640,7 +645,6 @@
             "nitter.privpw3tndpkw6pnp3g727zfgfdzbu3k6a7chv226s3xymv2p4eiuqyd.onion",
             "nitter.v6vgyqpa7yefkorazmg5d5fimstmvm2vtbirt6676mt7qmllrcnwycqd.onion",
             "nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion",
-            "nitterqdyumlovt7tjqpdjrluitgmtpa53qq3idlpgoe4kxo7gs3xvad.onion",
             "npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion",
             "nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "nttr2iupbb6fazdpr2rgbooon2tzbbsvvkagkgkwohhodjzj43stxhad.onion",
@@ -693,7 +697,6 @@
             "send.monks.tools",
             "send.turingpoint.de",
             "send.vis.ee",
-            "send.zcyph.cc",
             "upload.nolog.cz"
         ]
     },
@@ -877,6 +880,7 @@
             "anonymousoverflow.privacyfucking.rocks",
             "anonymousoverflow.privacyredirect.com",
             "ao.bloat.cat",
+            "ao.bunk.lol",
             "ao.ngn.tf",
             "ao.owo.si",
             "ao.rootdo.com",
@@ -884,8 +888,10 @@
             "code.whatever.social",
             "code.xbdm.fun",
             "exchange.seitan-ayoub.lol",
+            "o.iii.st",
             "o.sudovanilla.org",
             "overflow.adminforge.de",
+            "overflow.canine.tools",
             "overflow.darkness.services",
             "overflow.datura.network",
             "overflow.ducks.party",
@@ -905,6 +911,7 @@
             "anonymousoverflow.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "ao.pk47sgwhncn5cgidm7bofngmh7lc7ukjdpk5bjwfemmyp27ovl25ikyd.onion",
             "ao.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+            "o.zx56doutynmbgezxtpccduajwcblzx7fgio2yuy57a3jingco2c6fvqd.onion",
             "overflow.darknessrdor43qkl2ngwitj72zdavfz2cead4t5ed72bybgauww5lyd.onion",
             "overflow.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
             "overflow.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
@@ -937,6 +944,7 @@
             "bin.bloat.cat",
             "bin.bus-hit.me",
             "bin.byreqz.de",
+            "bin.cafeo.re",
             "bin.disroot.org",
             "bin.garbaye.fr",
             "bin.garudalinux.org",
@@ -953,6 +961,7 @@
             "bin.nixnet.services",
             "bin.nji9.de",
             "bin.oldgate.org",
+            "bin.privateweb.ch",
             "bin.purplebored.pl",
             "bin.reallyaweso.me",
             "bin.rtb.gg",
@@ -1052,7 +1061,6 @@
             "paste.tube-hosting.de",
             "paste.tuxcloud.net",
             "paste.unit193.net",
-            "paste.vku.fi",
             "paste.waays.fr",
             "paste.webdigg.org",
             "pastebin.24unix.net",
@@ -1066,7 +1074,6 @@
             "pastequest.com",
             "pb.blackvoid.club",
             "pb.envs.net",
-            "pb.flossboxin.org.in",
             "pb.fly.dev",
             "pb.fsociety.social",
             "pb.greep.fr",
@@ -1197,8 +1204,10 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
+            "piped-proxy.ducks.party",
             "pipedimg.adminforge.de",
             "pipedproxy-ams-2.kavin.rocks",
+            "pipedproxy.drgns.space",
             "pipedproxy.kavin.rocks",
             "pipedproxy.leptons.xyz",
             "pipedproxy.nosebs.ru",
