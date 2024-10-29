@@ -56,10 +56,10 @@ searx.perennialte.ch
 searx.rhscz.eu
 searx.ro
 searx.sev.monster
+searx.technicalvoid.dev
 searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
-searx.work
 searx.zhenyapav.com
 searxng.brihx.fr
 searxng.ch

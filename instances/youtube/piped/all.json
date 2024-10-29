@@ -1,10 +1,15 @@
 {
     "instances": [
+        "piped.adminforge.de",
         "piped.cdsp.cz",
         "piped.drgns.space",
-        "piped.nosebs.ru",
+        "piped.in.projectsegfau.lt",
+        "piped.ngn.tf",
+        "piped.private.coffee",
         "piped.reallyaweso.me",
-        "piped.video"
+        "piped.smnz.de",
+        "piped.video",
+        "piped.yt"
     ],
     "onion": [
         "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"

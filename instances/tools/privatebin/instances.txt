@@ -5,6 +5,7 @@
 0day.anonpaste.org
 anonpaste.org
 anonpaste.uk
+b.iii.st
 b.opnxng.com
 bin.0ax.cc
 bin.0xfc.de
@@ -57,7 +58,6 @@ hpc.uni.lu
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
-n0t.io
 notebin.de
 notes.dark2web.com
 notes.de.cool
@@ -144,6 +144,7 @@ pastejar.com
 pastequest.com
 pb.blackvoid.club
 pb.envs.net
+pb.flossboxin.org.in
 pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
@@ -161,11 +162,13 @@ privatebin.at
 privatebin.clebootin.com
 privatebin.cobiotx.io
 privatebin.devol.it
+privatebin.fedov.net
 privatebin.freinetz.ch
 privatebin.imagisphe.re
 privatebin.io
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
+privatebin.lol
 privatebin.luckvintage.com
 privatebin.net
 privatebin.paradox.ai
@@ -173,6 +176,7 @@ privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.stormdragons.net
 privatebin.wsmm.de
+privatebin.yuricunha.com
 privatepastebin.com
 pstbn.io
 sebsauvage.net
