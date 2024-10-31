@@ -1,2 +1,1 @@
 ryd-proxy.kavin.rocks
-ryd-proxy.whateveritworks.org

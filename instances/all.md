@@ -399,17 +399,13 @@
 - [wiki.adminforge.de](https://wiki.adminforge.de)
 - [wiki.froth.zone](https://wiki.froth.zone)
 - [wiki.phreedom.club](https://wiki.phreedom.club)
-- [wiki.privacytools.io](https://wiki.privacytools.io)
-- [wikiless.esmailelbob.xyz](https://wikiless.esmailelbob.xyz)
 - [wikiless.funami.tech](https://wikiless.funami.tech)
 - [wikiless.northboot.xyz](https://wikiless.northboot.xyz)
 - [wikiless.org](https://wikiless.org)
 - [wikiless.rawbit.ninja](https://wikiless.rawbit.ninja)
 - [wikiless.tiekoetter.com](https://wikiless.tiekoetter.com)
-- [wikiless.whateveritworks.org](https://wikiless.whateveritworks.org)
 - [wl.vern.cc](https://wl.vern.cc)
 ### Onion
-- [7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion](http://7lvwsn4fohcnaw5ije6j52aurmwaovqdzj4drfrj5aqget3nwwneshid.onion)
 - [wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion](http://ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion)
 ### I2P
@@ -550,7 +546,6 @@
 - [lbry.slipfox.xyz](https://lbry.slipfox.xyz)
 - [lbry.vern.cc](https://lbry.vern.cc)
 - [librarian.pussthecat.org](https://librarian.pussthecat.org)
-- [watch.whateveritworks.org](https://watch.whateveritworks.org)
 ### Onion
 - [lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 - [lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
@@ -751,7 +746,6 @@
 
 ### Clearnet
 - [ryd-proxy.kavin.rocks](https://ryd-proxy.kavin.rocks)
-- [ryd-proxy.whateveritworks.org](https://ryd-proxy.whateveritworks.org)
 
 ## [libremdb](https://github.com/zyachel/libremdb)
 
