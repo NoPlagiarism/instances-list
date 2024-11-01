@@ -40,7 +40,6 @@
             "translate.northboot.xyz"
         ],
         "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
@@ -337,17 +336,8 @@
         "path": "reddit/libreddit",
         "instances": [
             "l.opnxng.com",
-            "libreddit.bus-hit.me",
-            "libreddit.kavin.rocks",
-            "libreddit.oxymagnesium.com",
-            "libreddit.projectsegfau.lt",
-            "libreddit.tux.pizza",
-            "lr.vern.cc",
             "r.walkx.fyi",
-            "reddit.rtrace.io",
-            "reddit.utsav2.dev",
-            "safereddit.com",
-            "snoo.habedieeh.re"
+            "reddit.rtrace.io"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -392,7 +382,6 @@
             "rl.rootdo.com"
         ],
         "onion": [
-            "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -435,6 +424,7 @@
             "piped.drgns.space",
             "piped.in.projectsegfau.lt",
             "piped.ngn.tf",
+            "piped.nosebs.ru",
             "piped.private.coffee",
             "piped.reallyaweso.me",
             "piped.smnz.de",
@@ -453,7 +443,7 @@
         "instances": [
             "inv.nadeko.net",
             "invidious.jing.rocks",
-            "invidious.privacyredirect.com",
+            "invidious.nerdvpn.de",
             "yewtu.be",
             "yt.drgnz.club"
         ],
@@ -928,7 +918,6 @@
             "0.anonpaste.org",
             "0.anonpaste.uk",
             "0.jaegers.net",
-            "0bin.virtuaverse.xyz",
             "0day.anonpaste.org",
             "anonpaste.org",
             "anonpaste.uk",
@@ -944,6 +933,7 @@
             "bin.byreqz.de",
             "bin.cafeo.re",
             "bin.disroot.org",
+            "bin.esd.cc",
             "bin.garbaye.fr",
             "bin.garudalinux.org",
             "bin.habedieeh.re",
@@ -1025,7 +1015,6 @@
             "paste.foss.family",
             "paste.gamesdrive.net",
             "paste.getcobalt.org",
-            "paste.ggc-project.de",
             "paste.gstd.eu",
             "paste.hackliberty.org",
             "paste.helkor.eu",
@@ -1044,6 +1033,7 @@
             "paste.ottertelecom.com",
             "paste.perennialte.ch",
             "paste.picasoft.net",
+            "paste.psr.tf",
             "paste.rys.pw",
             "paste.skynetcloud.site",
             "paste.spigot.pl",
@@ -1060,6 +1050,7 @@
             "paste.unit193.net",
             "paste.waays.fr",
             "paste.webdigg.org",
+            "pasteb.in",
             "pastebin.24unix.net",
             "pastebin.aquilenet.fr",
             "pastebin.grey.pw",
@@ -1076,7 +1067,6 @@
             "pb.fsociety.social",
             "pb.greep.fr",
             "pb.jaska.cc",
-            "pb.rausgerufen.de",
             "pb.skifab.se",
             "photistic.org",
             "postit.hadoly.fr",
@@ -1107,6 +1097,7 @@
             "privatepastebin.com",
             "pstbn.io",
             "sebsauvage.net",
+            "secret.adelphi.de",
             "secret.hummel-web.at",
             "secret.timeweb.ru",
             "secrets.cebador.fr",
@@ -1212,8 +1203,10 @@
             "pipedproxy-ams-2.kavin.rocks",
             "pipedproxy.drgns.space",
             "pipedproxy.in.projectsegfau.lt",
+            "pipedproxy.kavin.rocks",
             "pipedproxy.leptons.xyz",
             "pipedproxy.ngn.tf",
+            "pipedproxy.nosebs.ru",
             "pipedproxy.reallyaweso.me",
             "proxy.piped.private.coffee",
             "proxy.piped.yt"

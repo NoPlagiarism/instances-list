@@ -1,7 +1,6 @@
 0.anonpaste.org
 0.anonpaste.uk
 0.jaegers.net
-0bin.virtuaverse.xyz
 0day.anonpaste.org
 anonpaste.org
 anonpaste.uk
@@ -17,6 +16,7 @@ bin.bus-hit.me
 bin.byreqz.de
 bin.cafeo.re
 bin.disroot.org
+bin.esd.cc
 bin.garbaye.fr
 bin.garudalinux.org
 bin.habedieeh.re
@@ -98,7 +98,6 @@ paste.fizi.ca
 paste.foss.family
 paste.gamesdrive.net
 paste.getcobalt.org
-paste.ggc-project.de
 paste.gstd.eu
 paste.hackliberty.org
 paste.helkor.eu
@@ -117,6 +116,7 @@ paste.ononoki.org
 paste.ottertelecom.com
 paste.perennialte.ch
 paste.picasoft.net
+paste.psr.tf
 paste.rys.pw
 paste.skynetcloud.site
 paste.spigot.pl
@@ -133,6 +133,7 @@ paste.tuxcloud.net
 paste.unit193.net
 paste.waays.fr
 paste.webdigg.org
+pasteb.in
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.grey.pw
@@ -149,7 +150,6 @@ pb.fly.dev
 pb.fsociety.social
 pb.greep.fr
 pb.jaska.cc
-pb.rausgerufen.de
 pb.skifab.se
 photistic.org
 postit.hadoly.fr
@@ -180,6 +180,7 @@ privatebin.yuricunha.com
 privatepastebin.com
 pstbn.io
 sebsauvage.net
+secret.adelphi.de
 secret.hummel-web.at
 secret.timeweb.ru
 secrets.cebador.fr

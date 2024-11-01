@@ -6,6 +6,7 @@
 - [piped.drgns.space](https://piped.drgns.space)
 - [piped.in.projectsegfau.lt](https://piped.in.projectsegfau.lt)
 - [piped.ngn.tf](https://piped.ngn.tf)
+- [piped.nosebs.ru](https://piped.nosebs.ru)
 - [piped.private.coffee](https://piped.private.coffee)
 - [piped.reallyaweso.me](https://piped.reallyaweso.me)
 - [piped.smnz.de](https://piped.smnz.de)
