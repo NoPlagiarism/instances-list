@@ -7,14 +7,11 @@
 - [hyperpipe.darkness.services](https://hyperpipe.darkness.services)
 - [hyperpipe.drgns.space](https://hyperpipe.drgns.space)
 - [hyperpipe.ducks.party](https://hyperpipe.ducks.party)
-- [hyperpipe.esmailelbob.xyz](https://hyperpipe.esmailelbob.xyz)
 - [hyperpipe.frontendfriendly.xyz](https://hyperpipe.frontendfriendly.xyz)
 - [hyperpipe.lunar.icu](https://hyperpipe.lunar.icu)
 - [hyperpipe.projectsegfau.lt](https://hyperpipe.projectsegfau.lt)
 - [hyperpipe.surge.sh](https://hyperpipe.surge.sh)
-- [listen.whatever.social](https://listen.whatever.social)
-- [listen.whateveritworks.org](https://listen.whateveritworks.org)
 - [music.adminforge.de](https://music.adminforge.de)
 - [music.pfcd.me](https://music.pfcd.me)
 # Onion
-- [hyperpipe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://hyperpipe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
+

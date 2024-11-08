@@ -30,7 +30,6 @@
 - [search.mdosch.de](https://search.mdosch.de)
 - [search.nadeko.net](https://search.nadeko.net)
 - [search.nerdvpn.de](https://search.nerdvpn.de)
-- [search.ngn.tf](https://search.ngn.tf)
 - [search.nordh.tech](https://search.nordh.tech)
 - [search.ononoki.org](https://search.ononoki.org)
 - [search.privacyredirect.com](https://search.privacyredirect.com)
@@ -49,6 +48,7 @@
 - [searx.foss.family](https://searx.foss.family)
 - [searx.juancord.xyz](https://searx.juancord.xyz)
 - [searx.lunar.icu](https://searx.lunar.icu)
+- [searx.mbuf.net](https://searx.mbuf.net)
 - [searx.mv-software.de](https://searx.mv-software.de)
 - [searx.mxchange.org](https://searx.mxchange.org)
 - [searx.namejeff.xyz](https://searx.namejeff.xyz)
@@ -69,10 +69,10 @@
 - [searxng.hweeren.com](https://searxng.hweeren.com)
 - [searxng.linuxchad.win](https://searxng.linuxchad.win)
 - [searxng.shreven.org](https://searxng.shreven.org)
+- [searxng.site](https://searxng.site)
 - [seek.fyi](https://seek.fyi)
 - [skyrimhater.com](https://skyrimhater.com)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
-- [sx.thatxtreme.dev](https://sx.thatxtreme.dev)
 - [www.gruble.de](https://www.gruble.de)
 # Onion
 - [4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion](http://4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion)
@@ -86,6 +86,5 @@
 - [searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion](http://searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion)
 - [tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion](http://tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion)
 - [whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion](http://whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion)
-- [xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion](http://xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion)
 # I2P
 

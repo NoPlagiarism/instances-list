@@ -40,6 +40,7 @@ bin.sasach.work
 bin.siick.fr
 bin.tiekoetter.com
 bin.uhl.cloud
+bin.uwabaki.party
 bin.vdx.sh
 bin.veracry.pt
 bin.waifu.rip
@@ -67,7 +68,6 @@ onetime.vits.co.uk
 onetimesecret.trans-ix.nl
 opportunis.me
 ots.ip-projects.de
-ots.kocsar.at
 p.dousse.eu
 p.hessfr.fr
 p.kapsi.fi
@@ -133,6 +133,7 @@ paste.tuxcloud.net
 paste.unit193.net
 paste.waays.fr
 paste.webdigg.org
+paste.worf.win
 pasteb.in
 pastebin.24unix.net
 pastebin.aquilenet.fr

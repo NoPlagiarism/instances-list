@@ -174,7 +174,6 @@
             "search.mdosch.de",
             "search.nadeko.net",
             "search.nerdvpn.de",
-            "search.ngn.tf",
             "search.nordh.tech",
             "search.ononoki.org",
             "search.privacyredirect.com",
@@ -193,6 +192,7 @@
             "searx.foss.family",
             "searx.juancord.xyz",
             "searx.lunar.icu",
+            "searx.mbuf.net",
             "searx.mv-software.de",
             "searx.mxchange.org",
             "searx.namejeff.xyz",
@@ -213,10 +213,10 @@
             "searxng.hweeren.com",
             "searxng.linuxchad.win",
             "searxng.shreven.org",
+            "searxng.site",
             "seek.fyi",
             "skyrimhater.com",
             "sx.catgirl.cloud",
-            "sx.thatxtreme.dev",
             "www.gruble.de"
         ],
         "onion": [
@@ -230,8 +230,7 @@
             "searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion",
             "searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion",
             "tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion",
-            "whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion",
-            "xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion"
+            "whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion"
         ],
         "i2p": []
     },
@@ -336,8 +335,12 @@
         "path": "reddit/libreddit",
         "instances": [
             "l.opnxng.com",
-            "r.walkx.fyi",
-            "reddit.rtrace.io"
+            "libreddit.bus-hit.me",
+            "libreddit.oxymagnesium.com",
+            "libreddit.privacydev.net",
+            "libreddit.tux.pizza",
+            "reddit.rtrace.io",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -382,6 +385,7 @@
             "rl.rootdo.com"
         ],
         "onion": [
+            "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -422,18 +426,13 @@
             "piped.adminforge.de",
             "piped.cdsp.cz",
             "piped.drgns.space",
-            "piped.in.projectsegfau.lt",
             "piped.ngn.tf",
             "piped.nosebs.ru",
             "piped.private.coffee",
             "piped.reallyaweso.me",
-            "piped.smnz.de",
-            "piped.video",
             "piped.yt"
         ],
-        "onion": [
-            "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "invidious": {
@@ -448,8 +447,7 @@
             "yt.drgnz.club"
         ],
         "onion": [
-            "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
-            "nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion"
+            "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
         ],
         "i2p": [
             "zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p"
@@ -466,19 +464,14 @@
             "hyperpipe.darkness.services",
             "hyperpipe.drgns.space",
             "hyperpipe.ducks.party",
-            "hyperpipe.esmailelbob.xyz",
             "hyperpipe.frontendfriendly.xyz",
             "hyperpipe.lunar.icu",
             "hyperpipe.projectsegfau.lt",
             "hyperpipe.surge.sh",
-            "listen.whatever.social",
-            "listen.whateveritworks.org",
             "music.adminforge.de",
             "music.pfcd.me"
         ],
-        "onion": [
-            "hyperpipe.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion"
-        ]
+        "onion": []
     },
     "scribe": {
         "name": "Scribe",
@@ -559,7 +552,6 @@
             "imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion"
         ],
         "i2p": [
-            "ovzamsts5czfx3jasbbhbccyyl2z7qmdngtlqxdh4oi7abhdz3ia.b32.i2p",
             "p57356k2xwhxrg2lxrjajcftkrptv4zejeeblzfgkcvpzuetkz2a.b32.i2p",
             "rimgo.i2p",
             "rimgo.zzls.i2p",
@@ -957,6 +949,7 @@
             "bin.siick.fr",
             "bin.tiekoetter.com",
             "bin.uhl.cloud",
+            "bin.uwabaki.party",
             "bin.vdx.sh",
             "bin.veracry.pt",
             "bin.waifu.rip",
@@ -984,7 +977,6 @@
             "onetimesecret.trans-ix.nl",
             "opportunis.me",
             "ots.ip-projects.de",
-            "ots.kocsar.at",
             "p.dousse.eu",
             "p.hessfr.fr",
             "p.kapsi.fi",
@@ -1050,6 +1042,7 @@
             "paste.unit193.net",
             "paste.waays.fr",
             "paste.webdigg.org",
+            "paste.worf.win",
             "pasteb.in",
             "pastebin.24unix.net",
             "pastebin.aquilenet.fr",
@@ -1131,6 +1124,7 @@
             "bin.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
             "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
             "paste.momou4yoo6k4e6bnvv5lkc6lc5fg7xuye7uqxxvmhnvbsr37bfkn7dyd.onion",
+            "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
             "texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion",
             "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion",
@@ -1197,13 +1191,8 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
-            "piped-proxy.ducks.party",
-            "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
-            "pipedproxy-ams-2.kavin.rocks",
             "pipedproxy.drgns.space",
-            "pipedproxy.in.projectsegfau.lt",
-            "pipedproxy.kavin.rocks",
             "pipedproxy.leptons.xyz",
             "pipedproxy.ngn.tf",
             "pipedproxy.nosebs.ru",

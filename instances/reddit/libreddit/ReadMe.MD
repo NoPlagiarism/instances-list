@@ -2,8 +2,12 @@
 
 # Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
-- [r.walkx.fyi](https://r.walkx.fyi)
+- [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
+- [libreddit.oxymagnesium.com](https://libreddit.oxymagnesium.com)
+- [libreddit.privacydev.net](https://libreddit.privacydev.net)
+- [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
+- [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
