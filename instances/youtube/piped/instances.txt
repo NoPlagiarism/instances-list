@@ -1,8 +1,6 @@
 piped.adminforge.de
 piped.cdsp.cz
 piped.drgns.space
-piped.ngn.tf
-piped.nosebs.ru
 piped.private.coffee
-piped.reallyaweso.me
+piped.smnz.de
 piped.yt

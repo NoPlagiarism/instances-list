@@ -42,7 +42,6 @@
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.be](https://searx.be)
 - [searx.colbster937.dev](https://searx.colbster937.dev)
-- [searx.daetalytica.io](https://searx.daetalytica.io)
 - [searx.dresden.network](https://searx.dresden.network)
 - [searx.electroncash.de](https://searx.electroncash.de)
 - [searx.foss.family](https://searx.foss.family)

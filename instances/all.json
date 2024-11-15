@@ -186,7 +186,6 @@
             "searx.ankha.ac",
             "searx.be",
             "searx.colbster937.dev",
-            "searx.daetalytica.io",
             "searx.dresden.network",
             "searx.electroncash.de",
             "searx.foss.family",
@@ -337,8 +336,8 @@
             "l.opnxng.com",
             "libreddit.bus-hit.me",
             "libreddit.oxymagnesium.com",
-            "libreddit.privacydev.net",
             "libreddit.tux.pizza",
+            "lr.vern.cc",
             "reddit.rtrace.io",
             "snoo.habedieeh.re"
         ],
@@ -426,10 +425,8 @@
             "piped.adminforge.de",
             "piped.cdsp.cz",
             "piped.drgns.space",
-            "piped.ngn.tf",
-            "piped.nosebs.ru",
             "piped.private.coffee",
-            "piped.reallyaweso.me",
+            "piped.smnz.de",
             "piped.yt"
         ],
         "onion": [],
@@ -441,10 +438,9 @@
         "path": "youtube/invidious",
         "instances": [
             "inv.nadeko.net",
+            "invidious.catspeed.cc",
             "invidious.jing.rocks",
-            "invidious.nerdvpn.de",
-            "yewtu.be",
-            "yt.drgnz.club"
+            "invidious.nerdvpn.de"
         ],
         "onion": [
             "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
@@ -512,7 +508,6 @@
             "qt.bloat.cat",
             "quetre.blackdrgn.nl",
             "quetre.canine.tools",
-            "quetre.catsarch.com",
             "quetre.drgns.space",
             "quetre.ducks.party",
             "quetre.gitro.xyz",
@@ -528,13 +523,11 @@
         "onion": [
             "ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
             "qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "quetre.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "quetre.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion",
             "quetre.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "quetre.nadekobxalvyqrhvp3m2atfgdmzp5vcwdmu3wo4htecwjkodancfmgid.onion"
         ],
         "i2p": [
-            "5vtstw6besbeadtll62wy3prwq7o6nxxle2euhtoskmcrcpaa43q.b32.i2p",
             "vernnflenvsqccuanaun7yydnmturi4jkyxlyzhn6ultpje66c3q.b32.i2p"
         ]
     },
@@ -583,7 +576,6 @@
         "path": "twitter/nitter",
         "instances": [
             "bird.habedieeh.re",
-            "n.populas.no",
             "nitter.kavin.rocks",
             "nitter.kylrth.com",
             "nitter.lunar.icu",
@@ -908,12 +900,10 @@
         "path": "tools/privatebin",
         "instances": [
             "0.anonpaste.org",
-            "0.anonpaste.uk",
             "0.jaegers.net",
+            "0.pastejar.com",
             "0day.anonpaste.org",
             "anonpaste.org",
-            "anonpaste.uk",
-            "b.iii.st",
             "b.opnxng.com",
             "bin.0ax.cc",
             "bin.0xfc.de",
@@ -977,6 +967,7 @@
             "onetimesecret.trans-ix.nl",
             "opportunis.me",
             "ots.ip-projects.de",
+            "ots.kocsar.at",
             "p.dousse.eu",
             "p.hessfr.fr",
             "p.kapsi.fi",
@@ -993,6 +984,7 @@
             "paste.canine.tools",
             "paste.ceppo.xyz",
             "paste.chapril.org",
+            "paste.coalserver.de",
             "paste.copper.dedyn.io",
             "paste.d-ku.de",
             "paste.devsite.pl",
@@ -1086,7 +1078,6 @@
             "privatebin.seattlematrix.org",
             "privatebin.stormdragons.net",
             "privatebin.wsmm.de",
-            "privatebin.yuricunha.com",
             "privatepastebin.com",
             "pstbn.io",
             "sebsauvage.net",
@@ -1099,14 +1090,12 @@
             "secrets.secumail.de",
             "secrets.true.nl",
             "secure.superior.nl",
-            "seiber.ynh.fr",
             "sendpass.ru",
             "skypaste.ch",
             "snip.dssr.ch",
             "teamware.eu",
             "textbin.quick-space.de",
             "texte.antopie.org",
-            "vip.ci",
             "wtf.roflcopter.fr",
             "www.blueridgedebate.com",
             "www.gitgd.com",
@@ -1192,11 +1181,10 @@
         "instances": [
             "piped-proxy.codespace.cz",
             "pipedimg.adminforge.de",
+            "pipedproxy-ams-2.kavin.rocks",
             "pipedproxy.drgns.space",
             "pipedproxy.leptons.xyz",
-            "pipedproxy.ngn.tf",
             "pipedproxy.nosebs.ru",
-            "pipedproxy.reallyaweso.me",
             "proxy.piped.private.coffee",
             "proxy.piped.yt"
         ]

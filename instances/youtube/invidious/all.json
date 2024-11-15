@@ -1,10 +1,9 @@
 {
     "instances": [
         "inv.nadeko.net",
+        "invidious.catspeed.cc",
         "invidious.jing.rocks",
-        "invidious.nerdvpn.de",
-        "yewtu.be",
-        "yt.drgnz.club"
+        "invidious.nerdvpn.de"
     ],
     "onion": [
         "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"

@@ -2,10 +2,9 @@
 
 # Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
+- [invidious.catspeed.cc](https://invidious.catspeed.cc)
 - [invidious.jing.rocks](https://invidious.jing.rocks)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
-- [yewtu.be](https://yewtu.be)
-- [yt.drgnz.club](https://yt.drgnz.club)
 # Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
 # I2P
