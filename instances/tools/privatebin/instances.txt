@@ -78,6 +78,7 @@ pas.te.it
 passwords.gestionalda.com
 paste.3server.de
 paste.asheriif.me
+paste.aya.so
 paste.biocrafting.net
 paste.burble.com
 paste.canine.tools
@@ -178,7 +179,6 @@ privatebin.seattlematrix.org
 privatebin.stormdragons.net
 privatebin.wsmm.de
 privatepastebin.com
-pstbn.io
 sebsauvage.net
 secret.adelphi.de
 secret.hummel-web.at

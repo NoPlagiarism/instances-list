@@ -1,8 +1,9 @@
 piped-proxy.codespace.cz
+pipedimageproxy.smnz.de
 pipedimg.adminforge.de
-pipedproxy-ams-2.kavin.rocks
 pipedproxy.drgns.space
 pipedproxy.leptons.xyz
 pipedproxy.nosebs.ru
+pipedproxy.r4fo.com
 proxy.piped.private.coffee
 proxy.piped.yt

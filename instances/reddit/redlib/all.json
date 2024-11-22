@@ -1,43 +1,20 @@
 {
     "instances": [
-        "l.opnxng.com",
         "libreddit.bus-hit.me",
-        "libreddit.privacydev.net",
-        "libreddit.projectsegfau.lt",
-        "lr.ggtyler.dev",
-        "lr.n8pjl.ca",
-        "r.darrennathanael.com",
         "red.arancia.click",
-        "red.artemislena.eu",
         "red.ngn.tf",
         "reddit.nerdvpn.de",
-        "redlib.baczek.me",
-        "redlib.catsarch.com",
         "redlib.ducks.party",
-        "redlib.freedit.eu",
-        "redlib.frontendfriendly.xyz",
-        "redlib.incogniweb.net",
         "redlib.nadeko.net",
-        "redlib.nirn.quest",
         "redlib.nohost.network",
-        "redlib.privacy.com.de",
-        "redlib.privacyredirect.com",
+        "redlib.perennialte.ch",
         "redlib.private.coffee",
         "redlib.reallyaweso.me",
         "redlib.seasi.dev",
-        "redlib.tux.pizza",
-        "redlib.vimmer.dev",
-        "rl.bloat.cat",
-        "rl.rootdo.com"
+        "rl.bloat.cat"
     ],
     "onion": [
-        "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-        "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
-        "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
-        "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-        "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+        "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion"
     ],
-    "i2p": [
-        "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
-    ]
+    "i2p": []
 }

@@ -2,7 +2,6 @@
 
 # Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
-- [invidious.catspeed.cc](https://invidious.catspeed.cc)
 - [invidious.jing.rocks](https://invidious.jing.rocks)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 # Onion

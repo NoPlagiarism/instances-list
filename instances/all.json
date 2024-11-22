@@ -40,7 +40,6 @@
             "translate.northboot.xyz"
         ],
         "onion": [
-            "st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
@@ -333,11 +332,8 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "l.opnxng.com",
             "libreddit.bus-hit.me",
-            "libreddit.oxymagnesium.com",
-            "libreddit.tux.pizza",
-            "lr.vern.cc",
+            "libreddit.kavin.rocks",
             "reddit.rtrace.io",
             "snoo.habedieeh.re"
         ],
@@ -353,46 +349,23 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "l.opnxng.com",
             "libreddit.bus-hit.me",
-            "libreddit.privacydev.net",
-            "libreddit.projectsegfau.lt",
-            "lr.ggtyler.dev",
-            "lr.n8pjl.ca",
-            "r.darrennathanael.com",
             "red.arancia.click",
-            "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
-            "redlib.baczek.me",
-            "redlib.catsarch.com",
             "redlib.ducks.party",
-            "redlib.freedit.eu",
-            "redlib.frontendfriendly.xyz",
-            "redlib.incogniweb.net",
             "redlib.nadeko.net",
-            "redlib.nirn.quest",
             "redlib.nohost.network",
-            "redlib.privacy.com.de",
-            "redlib.privacyredirect.com",
+            "redlib.perennialte.ch",
             "redlib.private.coffee",
             "redlib.reallyaweso.me",
             "redlib.seasi.dev",
-            "redlib.tux.pizza",
-            "redlib.vimmer.dev",
-            "rl.bloat.cat",
-            "rl.rootdo.com"
+            "rl.bloat.cat"
         ],
         "onion": [
-            "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-            "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
-            "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+            "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion"
         ],
-        "i2p": [
-            "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
-        ]
+        "i2p": []
     },
     "wikiless": {
         "name": "WikiLess",
@@ -423,13 +396,16 @@
         "path": "youtube/piped",
         "instances": [
             "piped.adminforge.de",
-            "piped.cdsp.cz",
             "piped.drgns.space",
+            "piped.nosebs.ru",
             "piped.private.coffee",
             "piped.smnz.de",
+            "piped.video",
             "piped.yt"
         ],
-        "onion": [],
+        "onion": [
+            "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
+        ],
         "i2p": []
     },
     "invidious": {
@@ -438,7 +414,6 @@
         "path": "youtube/invidious",
         "instances": [
             "inv.nadeko.net",
-            "invidious.catspeed.cc",
             "invidious.jing.rocks",
             "invidious.nerdvpn.de"
         ],
@@ -782,7 +757,6 @@
             "g.opnxng.com",
             "gh.owo.si",
             "gh.phreedom.club",
-            "gothub.dev.projectsegfau.lt",
             "gothub.ducks.party",
             "gothub.lunar.icu",
             "gothub.projectsegfau.lt",
@@ -979,6 +953,7 @@
             "passwords.gestionalda.com",
             "paste.3server.de",
             "paste.asheriif.me",
+            "paste.aya.so",
             "paste.biocrafting.net",
             "paste.burble.com",
             "paste.canine.tools",
@@ -1079,7 +1054,6 @@
             "privatebin.stormdragons.net",
             "privatebin.wsmm.de",
             "privatepastebin.com",
-            "pstbn.io",
             "sebsauvage.net",
             "secret.adelphi.de",
             "secret.hummel-web.at",
@@ -1180,11 +1154,12 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
+            "pipedimageproxy.smnz.de",
             "pipedimg.adminforge.de",
-            "pipedproxy-ams-2.kavin.rocks",
             "pipedproxy.drgns.space",
             "pipedproxy.leptons.xyz",
             "pipedproxy.nosebs.ru",
+            "pipedproxy.r4fo.com",
             "proxy.piped.private.coffee",
             "proxy.piped.yt"
         ]
