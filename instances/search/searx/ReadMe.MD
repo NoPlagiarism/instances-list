@@ -38,7 +38,6 @@
 - [search.rowie.at](https://search.rowie.at)
 - [search.sapti.me](https://search.sapti.me)
 - [search.tommy-tran.com](https://search.tommy-tran.com)
-- [searx.aleteoryx.me](https://searx.aleteoryx.me)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.be](https://searx.be)
 - [searx.colbster937.dev](https://searx.colbster937.dev)

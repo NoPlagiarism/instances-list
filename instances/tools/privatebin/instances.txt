@@ -3,7 +3,7 @@
 0.pastejar.com
 0day.anonpaste.org
 anonpaste.org
-b.opnxng.com
+b.appinn.net
 bin.0ax.cc
 bin.0xfc.de
 bin.68degrees.no
@@ -76,6 +76,7 @@ p.rrbone.net
 p.vinci-concessions.com
 pas.te.it
 passwords.gestionalda.com
+pastbin.cc
 paste.3server.de
 paste.asheriif.me
 paste.aya.so
@@ -89,6 +90,7 @@ paste.copper.dedyn.io
 paste.d-ku.de
 paste.devsite.pl
 paste.dismail.de
+paste.djalexkidd.ovh
 paste.drfrankenstein.co.uk
 paste.dvotx.org
 paste.elyday.net
@@ -96,7 +98,6 @@ paste.encrypt.co.il
 paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
-paste.foss.family
 paste.gamesdrive.net
 paste.getcobalt.org
 paste.gstd.eu
@@ -142,6 +143,7 @@ pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
+pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastejar.com
 pastequest.com
@@ -157,6 +159,7 @@ photistic.org
 postit.hadoly.fr
 private.opendoor.fr
 private.rmconsulting.com
+privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
 privatebin.arq.pl
@@ -178,6 +181,8 @@ privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.stormdragons.net
 privatebin.wsmm.de
+privatebin.yuricunha.com
+privatebin.z1337.de
 privatepastebin.com
 sebsauvage.net
 secret.adelphi.de

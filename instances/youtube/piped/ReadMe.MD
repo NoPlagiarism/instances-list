@@ -3,9 +3,7 @@
 # Clearnet
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.drgns.space](https://piped.drgns.space)
-- [piped.nosebs.ru](https://piped.nosebs.ru)
 - [piped.private.coffee](https://piped.private.coffee)
-- [piped.smnz.de](https://piped.smnz.de)
 - [piped.video](https://piped.video)
 - [piped.yt](https://piped.yt)
 # Onion
