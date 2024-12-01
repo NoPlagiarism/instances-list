@@ -5,6 +5,7 @@ drop.chapril.org
 files.psu.ru
 fileupload.ggc-project.de
 s.opnxng.com
+secureshar.ing
 send.adminforge.de
 send.artemislena.eu
 send.aslaets.be

@@ -334,6 +334,7 @@
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
+- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.dr460nf1r3.org](https://reddit.dr460nf1r3.org)
@@ -353,18 +354,18 @@
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
+- [r.darrennathanael.com](https://r.darrennathanael.com)
 - [red.arancia.click](https://red.arancia.click)
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [red.ngn.tf](https://red.ngn.tf)
 - [reddit.nerdvpn.de](https://reddit.nerdvpn.de)
 - [redlib.ducks.party](https://redlib.ducks.party)
-- [redlib.kittywi.re](https://redlib.kittywi.re)
+- [redlib.freedit.eu](https://redlib.freedit.eu)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.nohost.network](https://redlib.nohost.network)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
 - [redlib.privacy.com.de](https://redlib.privacy.com.de)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
-- [redlib.private.coffee](https://redlib.private.coffee)
 - [redlib.reallyaweso.me](https://redlib.reallyaweso.me)
 - [redlib.seasi.dev](https://redlib.seasi.dev)
 - [redlib.tux.pizza](https://redlib.tux.pizza)
@@ -399,13 +400,10 @@
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
 ### Clearnet
-- [piped.adminforge.de](https://piped.adminforge.de)
-- [piped.drgns.space](https://piped.drgns.space)
 - [piped.private.coffee](https://piped.private.coffee)
-- [piped.video](https://piped.video)
-- [piped.yt](https://piped.yt)
+- [piped.reallyaweso.me](https://piped.reallyaweso.me)
 ### Onion
-- [piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+
 ### I2P
 
 
@@ -474,6 +472,7 @@
 - [quetre.ducks.party](https://quetre.ducks.party)
 - [quetre.gitro.xyz](https://quetre.gitro.xyz)
 - [quetre.iket.me](https://quetre.iket.me)
+- [quetre.jeikobu.net](https://quetre.jeikobu.net)
 - [quetre.lunar.icu](https://quetre.lunar.icu)
 - [quetre.nadeko.net](https://quetre.nadeko.net)
 - [quetre.privacydev.net](https://quetre.privacydev.net)
@@ -596,6 +595,7 @@
 - [files.psu.ru](https://files.psu.ru)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
 - [s.opnxng.com](https://s.opnxng.com)
+- [secureshar.ing](https://secureshar.ing)
 - [send.adminforge.de](https://send.adminforge.de)
 - [send.artemislena.eu](https://send.artemislena.eu)
 - [send.aslaets.be](https://send.aslaets.be)
@@ -707,7 +707,6 @@
 - [gh.phreedom.club](https://gh.phreedom.club)
 - [gothub.dev.projectsegfau.lt](https://gothub.dev.projectsegfau.lt)
 - [gothub.ducks.party](https://gothub.ducks.party)
-- [gothub.lunar.icu](https://gothub.lunar.icu)
 - [gothub.projectsegfau.lt](https://gothub.projectsegfau.lt)
 - [gothub.r4fo.com](https://gothub.r4fo.com)
 
@@ -1081,10 +1080,8 @@
 
 ### Clearnet
 - [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
-- [pipedproxy-ams-2.kavin.rocks](https://pipedproxy-ams-2.kavin.rocks)
-- [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
 - [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
-- [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
+- [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
 - [proxy.piped.yt](https://proxy.piped.yt)
 
 ## [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch#readme)

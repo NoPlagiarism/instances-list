@@ -12,6 +12,7 @@
 - [quetre.ducks.party](https://quetre.ducks.party)
 - [quetre.gitro.xyz](https://quetre.gitro.xyz)
 - [quetre.iket.me](https://quetre.iket.me)
+- [quetre.jeikobu.net](https://quetre.jeikobu.net)
 - [quetre.lunar.icu](https://quetre.lunar.icu)
 - [quetre.nadeko.net](https://quetre.nadeko.net)
 - [quetre.privacydev.net](https://quetre.privacydev.net)

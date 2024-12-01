@@ -336,6 +336,7 @@
             "l.opnxng.com",
             "libreddit.bus-hit.me",
             "libreddit.kavin.rocks",
+            "libreddit.projectsegfau.lt",
             "libreddit.tux.pizza",
             "lr.vern.cc",
             "reddit.dr460nf1r3.org",
@@ -359,18 +360,18 @@
             "l.opnxng.com",
             "libreddit.bus-hit.me",
             "libreddit.projectsegfau.lt",
+            "r.darrennathanael.com",
             "red.arancia.click",
             "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
             "redlib.ducks.party",
-            "redlib.kittywi.re",
+            "redlib.freedit.eu",
             "redlib.nadeko.net",
             "redlib.nohost.network",
             "redlib.perennialte.ch",
             "redlib.privacy.com.de",
             "redlib.privacyredirect.com",
-            "redlib.private.coffee",
             "redlib.reallyaweso.me",
             "redlib.seasi.dev",
             "redlib.tux.pizza",
@@ -413,15 +414,10 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "piped.adminforge.de",
-            "piped.drgns.space",
             "piped.private.coffee",
-            "piped.video",
-            "piped.yt"
+            "piped.reallyaweso.me"
         ],
-        "onion": [
-            "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "invidious": {
@@ -503,6 +499,7 @@
             "quetre.ducks.party",
             "quetre.gitro.xyz",
             "quetre.iket.me",
+            "quetre.jeikobu.net",
             "quetre.lunar.icu",
             "quetre.nadeko.net",
             "quetre.privacydev.net",
@@ -645,6 +642,7 @@
             "files.psu.ru",
             "fileupload.ggc-project.de",
             "s.opnxng.com",
+            "secureshar.ing",
             "send.adminforge.de",
             "send.artemislena.eu",
             "send.aslaets.be",
@@ -775,7 +773,6 @@
             "gh.phreedom.club",
             "gothub.dev.projectsegfau.lt",
             "gothub.ducks.party",
-            "gothub.lunar.icu",
             "gothub.projectsegfau.lt",
             "gothub.r4fo.com"
         ]
@@ -1176,10 +1173,8 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
-            "pipedproxy-ams-2.kavin.rocks",
-            "pipedproxy.drgns.space",
             "pipedproxy.leptons.xyz",
-            "proxy.piped.private.coffee",
+            "pipedproxy.reallyaweso.me",
             "proxy.piped.yt"
         ]
     },

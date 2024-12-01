@@ -4,6 +4,7 @@
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
+- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.dr460nf1r3.org](https://reddit.dr460nf1r3.org)

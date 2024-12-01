@@ -1,13 +1,8 @@
 {
     "instances": [
-        "piped.adminforge.de",
-        "piped.drgns.space",
         "piped.private.coffee",
-        "piped.video",
-        "piped.yt"
+        "piped.reallyaweso.me"
     ],
-    "onion": [
-        "piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion"
-    ],
+    "onion": [],
     "i2p": []
 }

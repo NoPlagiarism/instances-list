@@ -8,6 +8,7 @@
 - [files.psu.ru](https://files.psu.ru)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
 - [s.opnxng.com](https://s.opnxng.com)
+- [secureshar.ing](https://secureshar.ing)
 - [send.adminforge.de](https://send.adminforge.de)
 - [send.artemislena.eu](https://send.artemislena.eu)
 - [send.aslaets.be](https://send.aslaets.be)
