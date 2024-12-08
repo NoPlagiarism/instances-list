@@ -6,6 +6,7 @@
 - [dumb.ducks.party](https://dumb.ducks.party)
 - [dumb.gitro.xyz](https://dumb.gitro.xyz)
 - [dumb.hyperreal.coffee](https://dumb.hyperreal.coffee)
+- [dumb.jeikobu.net](https://dumb.jeikobu.net)
 - [dumb.lunar.icu](https://dumb.lunar.icu)
 - [dumb.privacydev.net](https://dumb.privacydev.net)
 - [dumb.privacyfucking.rocks](https://dumb.privacyfucking.rocks)

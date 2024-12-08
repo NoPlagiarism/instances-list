@@ -1,8 +1,10 @@
 {
     "instances": [
         "piped-proxy.codespace.cz",
+        "pipedimageproxy.smnz.de",
+        "pipedimg.adminforge.de",
+        "pipedproxy.drgns.space",
         "pipedproxy.leptons.xyz",
-        "pipedproxy.reallyaweso.me",
         "proxy.piped.yt"
     ]
 }

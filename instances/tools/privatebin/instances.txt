@@ -1,3 +1,4 @@
+0.0g.gg
 0.anonpaste.org
 0.jaegers.net
 0.pastejar.com
@@ -33,7 +34,6 @@ bin.oldgate.org
 bin.privateweb.ch
 bin.purplebored.pl
 bin.reallyaweso.me
-bin.rtb.gg
 bin.sasach.work
 bin.siick.fr
 bin.tiekoetter.com
@@ -57,6 +57,7 @@ hpc.uni.lu
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
+notabin.com
 notebin.de
 notes.dark2web.com
 notes.de.cool
@@ -67,6 +68,7 @@ onetimesecret.trans-ix.nl
 opportunis.me
 ots.ip-projects.de
 ots.kocsar.at
+p.darklab.sh
 p.dousse.eu
 p.hessfr.fr
 p.kapsi.fi
@@ -134,7 +136,6 @@ paste.tube-hosting.de
 paste.tuxcloud.net
 paste.unit193.net
 paste.waays.fr
-paste.webdigg.org
 paste.worf.win
 pasteb.in
 pastebin.24unix.net
@@ -143,6 +144,7 @@ pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
+pastebin.my
 pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastejar.com

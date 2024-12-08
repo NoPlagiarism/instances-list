@@ -1,8 +1,10 @@
 # [Piped](https://github.com/TeamPiped/Piped#readme)
 
 # Clearnet
-- [piped.private.coffee](https://piped.private.coffee)
-- [piped.reallyaweso.me](https://piped.reallyaweso.me)
+- [piped.adminforge.de](https://piped.adminforge.de)
+- [piped.drgns.space](https://piped.drgns.space)
+- [piped.smnz.de](https://piped.smnz.de)
+- [piped.yt](https://piped.yt)
 # Onion
 
 # I2P
