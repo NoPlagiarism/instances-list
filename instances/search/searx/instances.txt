@@ -30,6 +30,7 @@ search.nadeko.net
 search.nerdvpn.de
 search.nordh.tech
 search.ononoki.org
+search.plogi.xyz
 search.privacyredirect.com
 search.projectsegfau.lt
 search.rhscz.eu

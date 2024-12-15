@@ -33,6 +33,7 @@
 - [search.nerdvpn.de](https://search.nerdvpn.de)
 - [search.nordh.tech](https://search.nordh.tech)
 - [search.ononoki.org](https://search.ononoki.org)
+- [search.plogi.xyz](https://search.plogi.xyz)
 - [search.privacyredirect.com](https://search.privacyredirect.com)
 - [search.projectsegfau.lt](https://search.projectsegfau.lt)
 - [search.rhscz.eu](https://search.rhscz.eu)

@@ -7,6 +7,7 @@
 - [imdb.nerdvpn.de](https://imdb.nerdvpn.de)
 - [ld.ca.zorby.top](https://ld.ca.zorby.top)
 - [ld.vern.cc](https://ld.vern.cc)
+- [libremdb-fly.fly.dev](https://libremdb-fly.fly.dev)
 - [libremdb.canine.tools](https://libremdb.canine.tools)
 - [libremdb.catsarch.com](https://libremdb.catsarch.com)
 - [libremdb.darkness.services](https://libremdb.darkness.services)

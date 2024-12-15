@@ -1,8 +1,7 @@
+l.opnxng.com
 libreddit.bus-hit.me
 libreddit.kavin.rocks
-libreddit.projectsegfau.lt
-r.darklab.sh
-reddit.dr460nf1r3.org
+lr.vern.cc
 reddit.rtrace.io
 safereddit.com
 snoo.habedieeh.re

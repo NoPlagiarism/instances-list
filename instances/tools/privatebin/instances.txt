@@ -17,7 +17,6 @@ bin.cafeo.re
 bin.disroot.org
 bin.esd.cc
 bin.garbaye.fr
-bin.garudalinux.org
 bin.habedieeh.re
 bin.idrix.fr
 bin.infini.fr
@@ -108,6 +107,7 @@ paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
+paste.kyz.ee
 paste.lilay.dev
 paste.mogbox.net
 paste.molytov.xyz
@@ -131,7 +131,6 @@ paste.tech-port.de
 paste.techbag.app
 paste.thec0de.com
 paste.tildeverse.org
-paste.to
 paste.tube-hosting.de
 paste.tuxcloud.net
 paste.unit193.net

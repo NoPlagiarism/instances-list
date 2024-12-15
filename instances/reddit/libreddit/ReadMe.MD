@@ -1,11 +1,10 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
+- [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
-- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
-- [r.darklab.sh](https://r.darklab.sh)
-- [reddit.dr460nf1r3.org](https://reddit.dr460nf1r3.org)
+- [lr.vern.cc](https://lr.vern.cc)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
