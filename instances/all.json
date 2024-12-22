@@ -41,7 +41,6 @@
         ],
         "onion": [
             "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
@@ -187,6 +186,7 @@
             "search.tommy-tran.com",
             "searx.ankha.ac",
             "searx.be",
+            "searx.cespedes.fr",
             "searx.colbster937.dev",
             "searx.dresden.network",
             "searx.electroncash.de",
@@ -340,7 +340,6 @@
             "libreddit.kavin.rocks",
             "lr.vern.cc",
             "reddit.rtrace.io",
-            "safereddit.com",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -355,28 +354,13 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "eu.safereddit.com",
             "l.opnxng.com",
-            "libreddit.bus-hit.me",
-            "libreddit.projectsegfau.lt",
             "red.artemislena.eu",
-            "red.ngn.tf",
-            "reddit.nerdvpn.de",
             "redlib.catsarch.com",
-            "redlib.ducks.party",
             "redlib.freedit.eu",
-            "redlib.nadeko.net",
-            "redlib.perennialte.ch",
-            "redlib.privacy.com.de",
-            "redlib.privacyredirect.com",
-            "redlib.private.coffee",
-            "rl.bloat.cat",
-            "safereddit.com"
+            "redlib.perennialte.ch"
         ],
         "onion": [
-            "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-            "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
-            "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
         ],
@@ -427,7 +411,7 @@
         "instances": [
             "inv.nadeko.net",
             "invidious.jing.rocks",
-            "invidious.nerdvpn.de"
+            "yewtu.be"
         ],
         "onion": [
             "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
@@ -774,7 +758,6 @@
             "gh.phreedom.club",
             "gothub.dev.projectsegfau.lt",
             "gothub.ducks.party",
-            "gothub.lunar.icu",
             "gothub.projectsegfau.lt",
             "gothub.r4fo.com"
         ]
@@ -994,6 +977,7 @@
             "paste.fizi.ca",
             "paste.gamesdrive.net",
             "paste.getcobalt.org",
+            "paste.gnoppix.org",
             "paste.gstd.eu",
             "paste.hackliberty.org",
             "paste.helkor.eu",
@@ -1024,6 +1008,7 @@
             "paste.techbag.app",
             "paste.thec0de.com",
             "paste.tildeverse.org",
+            "paste.to",
             "paste.tube-hosting.de",
             "paste.tuxcloud.net",
             "paste.unit193.net",
@@ -1041,6 +1026,7 @@
             "pastefg.hermietkreeft.site",
             "pastejar.com",
             "pastequest.com",
+            "pb.bedevops.edu.vn",
             "pb.blackvoid.club",
             "pb.envs.net",
             "pb.flossboxin.org.in",
@@ -1051,7 +1037,6 @@
             "pb.skifab.se",
             "photistic.org",
             "postit.hadoly.fr",
-            "private.opendoor.fr",
             "private.rmconsulting.com",
             "privatebin.app",
             "privatebin.ar21.de",
@@ -1114,6 +1099,7 @@
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
             "texte.sou4vla4k5peskbl3dlzhh3e6ve5eu3m3hhsmiidqevlsd6lqo3qq2ad.onion",
+            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion",
             "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
         ],
         "i2p": [
@@ -1137,12 +1123,14 @@
         "instances": [
             "4.nboeck.de",
             "4.ngn.tf",
+            "4.umbrella.haus",
             "4g.ggtyler.dev",
             "4get.aishiteiru.moe",
             "4get.ca",
             "4get.ch",
             "4get.datura.network",
             "4get.dcs0.hu",
+            "4get.dorfdsl.de",
             "4get.edmateo.site",
             "4get.etenie.pl",
             "4get.getcobalt.org",

@@ -42,6 +42,7 @@
 - [search.tommy-tran.com](https://search.tommy-tran.com)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.be](https://searx.be)
+- [searx.cespedes.fr](https://searx.cespedes.fr)
 - [searx.colbster937.dev](https://searx.colbster937.dev)
 - [searx.dresden.network](https://searx.dresden.network)
 - [searx.electroncash.de](https://searx.electroncash.de)

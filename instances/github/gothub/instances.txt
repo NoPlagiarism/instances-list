@@ -3,6 +3,5 @@ gh.owo.si
 gh.phreedom.club
 gothub.dev.projectsegfau.lt
 gothub.ducks.party
-gothub.lunar.icu
 gothub.projectsegfau.lt
 gothub.r4fo.com

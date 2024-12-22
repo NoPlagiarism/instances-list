@@ -101,6 +101,7 @@ paste.fitgirl-repacks.site
 paste.fizi.ca
 paste.gamesdrive.net
 paste.getcobalt.org
+paste.gnoppix.org
 paste.gstd.eu
 paste.hackliberty.org
 paste.helkor.eu
@@ -131,6 +132,7 @@ paste.tech-port.de
 paste.techbag.app
 paste.thec0de.com
 paste.tildeverse.org
+paste.to
 paste.tube-hosting.de
 paste.tuxcloud.net
 paste.unit193.net
@@ -148,6 +150,7 @@ pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastejar.com
 pastequest.com
+pb.bedevops.edu.vn
 pb.blackvoid.club
 pb.envs.net
 pb.flossboxin.org.in
@@ -158,7 +161,6 @@ pb.jaska.cc
 pb.skifab.se
 photistic.org
 postit.hadoly.fr
-private.opendoor.fr
 private.rmconsulting.com
 privatebin.app
 privatebin.ar21.de
