@@ -41,6 +41,7 @@
         ],
         "onion": [
             "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+            "st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
@@ -340,6 +341,7 @@
             "libreddit.kavin.rocks",
             "lr.vern.cc",
             "reddit.rtrace.io",
+            "safereddit.com",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -355,14 +357,30 @@
         "path": "reddit/redlib",
         "instances": [
             "l.opnxng.com",
+            "libreddit.bus-hit.me",
+            "libreddit.projectsegfau.lt",
             "red.artemislena.eu",
+            "red.ngn.tf",
+            "reddit.nerdvpn.de",
+            "redlib.baczek.me",
             "redlib.catsarch.com",
+            "redlib.ducks.party",
             "redlib.freedit.eu",
-            "redlib.perennialte.ch"
+            "redlib.kittywi.re",
+            "redlib.nadeko.net",
+            "redlib.perennialte.ch",
+            "redlib.privacyredirect.com",
+            "redlib.r4fo.com",
+            "rl.bloat.cat",
+            "safereddit.com"
         ],
         "onion": [
+            "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
+            "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -410,7 +428,7 @@
         "path": "youtube/invidious",
         "instances": [
             "inv.nadeko.net",
-            "invidious.jing.rocks",
+            "invidious.nerdvpn.de",
             "yewtu.be"
         ],
         "onion": [
@@ -906,6 +924,7 @@
             "bin.nixnet.services",
             "bin.nji9.de",
             "bin.oldgate.org",
+            "bin.outv.im",
             "bin.privateweb.ch",
             "bin.purplebored.pl",
             "bin.reallyaweso.me",
@@ -984,7 +1003,7 @@
             "paste.hostify.cz",
             "paste.hostux.net",
             "paste.i2pd.xyz",
-            "paste.kyz.ee",
+            "paste.kyznikov.my.id",
             "paste.lilay.dev",
             "paste.mogbox.net",
             "paste.molytov.xyz",
@@ -1037,7 +1056,6 @@
             "pb.skifab.se",
             "photistic.org",
             "postit.hadoly.fr",
-            "private.rmconsulting.com",
             "privatebin.app",
             "privatebin.ar21.de",
             "privatebin.arch-linux.cz",

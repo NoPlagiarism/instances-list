@@ -70,6 +70,7 @@
 - [translate.northboot.xyz](https://translate.northboot.xyz)
 ### Onion
 - [st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+- [st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion](http://st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion)
 - [tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion](http://xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion)
 ### I2P
@@ -338,6 +339,7 @@
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
+- [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
@@ -349,13 +351,29 @@
 
 ### Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
+- [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
+- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [red.artemislena.eu](https://red.artemislena.eu)
+- [red.ngn.tf](https://red.ngn.tf)
+- [reddit.nerdvpn.de](https://reddit.nerdvpn.de)
+- [redlib.baczek.me](https://redlib.baczek.me)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
+- [redlib.ducks.party](https://redlib.ducks.party)
 - [redlib.freedit.eu](https://redlib.freedit.eu)
+- [redlib.kittywi.re](https://redlib.kittywi.re)
+- [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
+- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
+- [redlib.r4fo.com](https://redlib.r4fo.com)
+- [rl.bloat.cat](https://rl.bloat.cat)
+- [safereddit.com](https://safereddit.com)
 ### Onion
+- [libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
+- [loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion](http://loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion)
+- [nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion](http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion)
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -393,7 +411,7 @@
 
 ### Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
-- [invidious.jing.rocks](https://invidious.jing.rocks)
+- [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [yewtu.be](https://yewtu.be)
 ### Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
@@ -822,6 +840,7 @@
 - [bin.nixnet.services](https://bin.nixnet.services)
 - [bin.nji9.de](https://bin.nji9.de)
 - [bin.oldgate.org](https://bin.oldgate.org)
+- [bin.outv.im](https://bin.outv.im)
 - [bin.privateweb.ch](https://bin.privateweb.ch)
 - [bin.purplebored.pl](https://bin.purplebored.pl)
 - [bin.reallyaweso.me](https://bin.reallyaweso.me)
@@ -900,7 +919,7 @@
 - [paste.hostify.cz](https://paste.hostify.cz)
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.i2pd.xyz](https://paste.i2pd.xyz)
-- [paste.kyz.ee](https://paste.kyz.ee)
+- [paste.kyznikov.my.id](https://paste.kyznikov.my.id)
 - [paste.lilay.dev](https://paste.lilay.dev)
 - [paste.mogbox.net](https://paste.mogbox.net)
 - [paste.molytov.xyz](https://paste.molytov.xyz)
@@ -953,7 +972,6 @@
 - [pb.skifab.se](https://pb.skifab.se)
 - [photistic.org](https://photistic.org)
 - [postit.hadoly.fr](https://postit.hadoly.fr)
-- [private.rmconsulting.com](https://private.rmconsulting.com)
 - [privatebin.app](https://privatebin.app)
 - [privatebin.ar21.de](https://privatebin.ar21.de)
 - [privatebin.arch-linux.cz](https://privatebin.arch-linux.cz)

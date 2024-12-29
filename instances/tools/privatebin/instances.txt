@@ -30,6 +30,7 @@ bin.ngn.tf
 bin.nixnet.services
 bin.nji9.de
 bin.oldgate.org
+bin.outv.im
 bin.privateweb.ch
 bin.purplebored.pl
 bin.reallyaweso.me
@@ -108,7 +109,7 @@ paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
-paste.kyz.ee
+paste.kyznikov.my.id
 paste.lilay.dev
 paste.mogbox.net
 paste.molytov.xyz
@@ -161,7 +162,6 @@ pb.jaska.cc
 pb.skifab.se
 photistic.org
 postit.hadoly.fr
-private.rmconsulting.com
 privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
