@@ -42,12 +42,9 @@
         "onion": [
             "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion",
-            "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
-        "i2p": [
-            "verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p"
-        ]
+        "i2p": []
     },
     "simplytranslate": {
         "name": "SimplyTranslate",
@@ -163,6 +160,7 @@
             "search.blitzw.in",
             "search.bus-hit.me",
             "search.canine.tools",
+            "search.catboy.house",
             "search.citw.lgbt",
             "search.einfachzocken.eu",
             "search.fredix.xyz",
@@ -215,10 +213,12 @@
             "searxng.hweeren.com",
             "searxng.shreven.org",
             "searxng.site",
+            "searxng.website",
             "searxng.world",
             "seek.fyi",
             "skyrimhater.com",
             "sx.catgirl.cloud",
+            "technewsheads.com",
             "www.gruble.de"
         ],
         "onion": [
@@ -358,24 +358,23 @@
         "instances": [
             "l.opnxng.com",
             "libreddit.bus-hit.me",
-            "libreddit.projectsegfau.lt",
+            "red.arancia.click",
             "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
             "redlib.baczek.me",
             "redlib.catsarch.com",
             "redlib.ducks.party",
-            "redlib.freedit.eu",
             "redlib.kittywi.re",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
+            "redlib.private.coffee",
             "redlib.r4fo.com",
             "rl.bloat.cat",
             "safereddit.com"
         ],
         "onion": [
-            "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -402,12 +401,9 @@
             "wl.vern.cc"
         ],
         "onion": [
-            "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
-        "i2p": [
-            "vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p"
-        ]
+        "i2p": []
     },
     "piped": {
         "name": "Piped",
@@ -556,8 +552,7 @@
             "librarian.pussthecat.org"
         ],
         "onion": [
-            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-            "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
         ]
     },
     "nitter": {
