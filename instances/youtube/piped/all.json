@@ -1,10 +1,5 @@
 {
-    "instances": [
-        "piped.adminforge.de",
-        "piped.drgns.space",
-        "piped.smnz.de",
-        "piped.yt"
-    ],
+    "instances": [],
     "onion": [],
     "i2p": []
 }
