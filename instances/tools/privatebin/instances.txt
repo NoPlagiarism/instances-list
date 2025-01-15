@@ -3,6 +3,7 @@
 0.jaegers.net
 0.pastejar.com
 0day.anonpaste.org
+82gb.com
 anonpaste.org
 b.appinn.net
 bin.0ax.cc
@@ -101,7 +102,6 @@ paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
 paste.gamesdrive.net
-paste.getcobalt.org
 paste.gnoppix.org
 paste.gstd.eu
 paste.hackliberty.org
@@ -123,7 +123,6 @@ paste.ononoki.org
 paste.ottertelecom.com
 paste.perennialte.ch
 paste.picasoft.net
-paste.psr.tf
 paste.rys.pw
 paste.skynetcloud.site
 paste.spigot.pl

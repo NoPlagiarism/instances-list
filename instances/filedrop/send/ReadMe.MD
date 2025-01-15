@@ -10,6 +10,7 @@
 - [s.opnxng.com](https://s.opnxng.com)
 - [secureshar.ing](https://secureshar.ing)
 - [send.adminforge.de](https://send.adminforge.de)
+- [send.aezafiles.net](https://send.aezafiles.net)
 - [send.artemislena.eu](https://send.artemislena.eu)
 - [send.aslaets.be](https://send.aslaets.be)
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)

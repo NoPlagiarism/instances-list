@@ -1,5 +1,7 @@
 {
-    "instances": [],
+    "instances": [
+        "piped.drgns.space"
+    ],
     "onion": [],
     "i2p": []
 }

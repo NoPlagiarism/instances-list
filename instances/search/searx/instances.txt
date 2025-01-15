@@ -5,6 +5,7 @@ fairsuch.net
 kantan.cat
 nogoo.me
 northboot.xyz
+nullstorm.com
 nyc1.sx.ggtyler.dev
 ooglester.com
 opnxng.com
@@ -20,7 +21,6 @@ search.citw.lgbt
 search.einfachzocken.eu
 search.fredix.xyz
 search.gcomm.ch
-search.getcobalt.org
 search.hbubli.cc
 search.im-in.space
 search.indst.eu
@@ -51,20 +51,17 @@ searx.mbuf.net
 searx.mv-software.de
 searx.mxchange.org
 searx.namejeff.xyz
-searx.nobulart.com
 searx.oakleycord.dev
 searx.ox2.fr
 searx.perennialte.ch
 searx.rhscz.eu
 searx.ro
 searx.sev.monster
-searx.technicalvoid.dev
 searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
 searx.zhenyapav.com
 searxng.brihx.fr
-searxng.ch
 searxng.hweeren.com
 searxng.shreven.org
 searxng.site
