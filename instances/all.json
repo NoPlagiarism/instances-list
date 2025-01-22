@@ -153,7 +153,6 @@
             "kantan.cat",
             "nogoo.me",
             "northboot.xyz",
-            "nullstorm.com",
             "nyc1.sx.ggtyler.dev",
             "ooglester.com",
             "opnxng.com",
@@ -179,7 +178,6 @@
             "search.nerdvpn.de",
             "search.nordh.tech",
             "search.ononoki.org",
-            "search.plogi.xyz",
             "search.privacyredirect.com",
             "search.projectsegfau.lt",
             "search.rhscz.eu",
@@ -189,7 +187,6 @@
             "searx.ankha.ac",
             "searx.be",
             "searx.cespedes.fr",
-            "searx.colbster937.dev",
             "searx.dresden.network",
             "searx.electroncash.de",
             "searx.foss.family",
@@ -216,9 +213,9 @@
             "searxng.website",
             "searxng.world",
             "seek.fyi",
+            "sexwebcams.watch",
             "skyrimhater.com",
             "sx.catgirl.cloud",
-            "technewsheads.com",
             "www.gruble.de"
         ],
         "onion": [
@@ -337,9 +334,8 @@
             "discuss.whatever.social",
             "l.opnxng.com",
             "libreddit.bus-hit.me",
+            "libreddit.eu.org",
             "libreddit.kavin.rocks",
-            "libreddit.projectsegfau.lt",
-            "lr.vern.cc",
             "reddit.rtrace.io",
             "safereddit.com",
             "snoo.habedieeh.re"
@@ -358,6 +354,7 @@
         "instances": [
             "l.opnxng.com",
             "libreddit.bus-hit.me",
+            "r.darrennathanael.com",
             "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
@@ -367,20 +364,15 @@
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
             "redlib.r4fo.com",
-            "rl.bloat.cat",
-            "rl.rootdo.com",
-            "safereddit.com"
+            "rl.bloat.cat"
         ],
         "onion": [
             "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
-        "i2p": [
-            "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
-        ]
+        "i2p": []
     },
     "wikiless": {
         "name": "WikiLess",
@@ -410,7 +402,13 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "piped.drgns.space"
+            "nyc1.piapi.ggtyler.dev",
+            "piped.adminforge.de",
+            "piped.drgns.space",
+            "piped.nosebs.ru",
+            "piped.private.coffee",
+            "piped.reallyaweso.me",
+            "piped.yt"
         ],
         "onion": [],
         "i2p": []
@@ -558,16 +556,10 @@
         "url": "https://github.com/zedeus/nitter#readme",
         "path": "twitter/nitter",
         "instances": [
-            "bird.habedieeh.re",
             "nitter.kavin.rocks",
-            "nitter.kylrth.com",
-            "nitter.lunar.icu",
             "nitter.moomoo.me",
-            "nitter.net",
             "nitter.privacydev.net",
-            "nitter.qwik.space",
             "nitter.rawbit.ninja",
-            "nitter.tiekoetter.com",
             "xcancel.com"
         ],
         "onion": [
@@ -943,7 +935,6 @@
             "gilles.wittezaele.fr",
             "gitgd.com",
             "hoyfamily.tech",
-            "hpc.uni.lu",
             "ircwebnet.com",
             "ktbky.kaaass.net",
             "logs.notifiarr.com",
@@ -1013,6 +1004,7 @@
             "paste.perennialte.ch",
             "paste.picasoft.net",
             "paste.rys.pw",
+            "paste.seehosting.eu",
             "paste.skynetcloud.site",
             "paste.spigot.pl",
             "paste.stratum0.org",
@@ -1178,8 +1170,15 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.codespace.cz",
+            "pipedimg.adminforge.de",
+            "pipedproxy.darkness.services",
             "pipedproxy.drgns.space",
-            "pipedproxy.privacy.com.de"
+            "pipedproxy.leptons.xyz",
+            "pipedproxy.nosebs.ru",
+            "pipedproxy.reallyaweso.me",
+            "piproxy.ggtyler.dev",
+            "proxy.piped.private.coffee",
+            "proxy.piped.yt"
         ]
     },
     "safetwitch": {

@@ -1,16 +1,10 @@
 # [nitter](https://github.com/zedeus/nitter#readme)
 
 # Clearnet
-- [bird.habedieeh.re](https://bird.habedieeh.re)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
-- [nitter.kylrth.com](https://nitter.kylrth.com)
-- [nitter.lunar.icu](https://nitter.lunar.icu)
 - [nitter.moomoo.me](https://nitter.moomoo.me)
-- [nitter.net](https://nitter.net)
 - [nitter.privacydev.net](https://nitter.privacydev.net)
-- [nitter.qwik.space](https://nitter.qwik.space)
 - [nitter.rawbit.ninja](https://nitter.rawbit.ninja)
-- [nitter.tiekoetter.com](https://nitter.tiekoetter.com)
 - [xcancel.com](https://xcancel.com)
 # Onion
 - [26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion](http://26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion)

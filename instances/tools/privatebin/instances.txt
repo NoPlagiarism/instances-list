@@ -54,7 +54,6 @@ extrait.facil.services
 gilles.wittezaele.fr
 gitgd.com
 hoyfamily.tech
-hpc.uni.lu
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
@@ -124,6 +123,7 @@ paste.ottertelecom.com
 paste.perennialte.ch
 paste.picasoft.net
 paste.rys.pw
+paste.seehosting.eu
 paste.skynetcloud.site
 paste.spigot.pl
 paste.stratum0.org

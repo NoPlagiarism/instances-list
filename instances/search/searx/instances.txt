@@ -5,7 +5,6 @@ fairsuch.net
 kantan.cat
 nogoo.me
 northboot.xyz
-nullstorm.com
 nyc1.sx.ggtyler.dev
 ooglester.com
 opnxng.com
@@ -31,7 +30,6 @@ search.nadeko.net
 search.nerdvpn.de
 search.nordh.tech
 search.ononoki.org
-search.plogi.xyz
 search.privacyredirect.com
 search.projectsegfau.lt
 search.rhscz.eu
@@ -41,7 +39,6 @@ search.tommy-tran.com
 searx.ankha.ac
 searx.be
 searx.cespedes.fr
-searx.colbster937.dev
 searx.dresden.network
 searx.electroncash.de
 searx.foss.family
@@ -68,7 +65,7 @@ searxng.site
 searxng.website
 searxng.world
 seek.fyi
+sexwebcams.watch
 skyrimhater.com
 sx.catgirl.cloud
-technewsheads.com
 www.gruble.de

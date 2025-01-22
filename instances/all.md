@@ -164,7 +164,6 @@
 - [kantan.cat](https://kantan.cat)
 - [nogoo.me](https://nogoo.me)
 - [northboot.xyz](https://northboot.xyz)
-- [nullstorm.com](https://nullstorm.com)
 - [nyc1.sx.ggtyler.dev](https://nyc1.sx.ggtyler.dev)
 - [ooglester.com](https://ooglester.com)
 - [opnxng.com](https://opnxng.com)
@@ -190,7 +189,6 @@
 - [search.nerdvpn.de](https://search.nerdvpn.de)
 - [search.nordh.tech](https://search.nordh.tech)
 - [search.ononoki.org](https://search.ononoki.org)
-- [search.plogi.xyz](https://search.plogi.xyz)
 - [search.privacyredirect.com](https://search.privacyredirect.com)
 - [search.projectsegfau.lt](https://search.projectsegfau.lt)
 - [search.rhscz.eu](https://search.rhscz.eu)
@@ -200,7 +198,6 @@
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.be](https://searx.be)
 - [searx.cespedes.fr](https://searx.cespedes.fr)
-- [searx.colbster937.dev](https://searx.colbster937.dev)
 - [searx.dresden.network](https://searx.dresden.network)
 - [searx.electroncash.de](https://searx.electroncash.de)
 - [searx.foss.family](https://searx.foss.family)
@@ -227,9 +224,9 @@
 - [searxng.website](https://searxng.website)
 - [searxng.world](https://searxng.world)
 - [seek.fyi](https://seek.fyi)
+- [sexwebcams.watch](https://sexwebcams.watch)
 - [skyrimhater.com](https://skyrimhater.com)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
-- [technewsheads.com](https://technewsheads.com)
 - [www.gruble.de](https://www.gruble.de)
 ### Onion
 - [4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion](http://4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion)
@@ -335,9 +332,8 @@
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
+- [libreddit.eu.org](https://libreddit.eu.org)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
-- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
-- [lr.vern.cc](https://lr.vern.cc)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
@@ -352,6 +348,7 @@
 ### Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
+- [r.darrennathanael.com](https://r.darrennathanael.com)
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [red.ngn.tf](https://red.ngn.tf)
 - [reddit.nerdvpn.de](https://reddit.nerdvpn.de)
@@ -362,16 +359,13 @@
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.r4fo.com](https://redlib.r4fo.com)
 - [rl.bloat.cat](https://rl.bloat.cat)
-- [rl.rootdo.com](https://rl.rootdo.com)
-- [safereddit.com](https://safereddit.com)
 ### Onion
 - [loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion](http://loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion)
 - [nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion](http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion)
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
-- [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
-- [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
+
 
 ## [WikiLess](https://gitea.slowb.ro/ticoombs/Wikiless#wikiless)
 
@@ -394,7 +388,13 @@
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
 ### Clearnet
+- [nyc1.piapi.ggtyler.dev](https://nyc1.piapi.ggtyler.dev)
+- [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.drgns.space](https://piped.drgns.space)
+- [piped.nosebs.ru](https://piped.nosebs.ru)
+- [piped.private.coffee](https://piped.private.coffee)
+- [piped.reallyaweso.me](https://piped.reallyaweso.me)
+- [piped.yt](https://piped.yt)
 ### Onion
 
 ### I2P
@@ -515,16 +515,10 @@
 ## [nitter](https://github.com/zedeus/nitter#readme)
 
 ### Clearnet
-- [bird.habedieeh.re](https://bird.habedieeh.re)
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
-- [nitter.kylrth.com](https://nitter.kylrth.com)
-- [nitter.lunar.icu](https://nitter.lunar.icu)
 - [nitter.moomoo.me](https://nitter.moomoo.me)
-- [nitter.net](https://nitter.net)
 - [nitter.privacydev.net](https://nitter.privacydev.net)
-- [nitter.qwik.space](https://nitter.qwik.space)
 - [nitter.rawbit.ninja](https://nitter.rawbit.ninja)
-- [nitter.tiekoetter.com](https://nitter.tiekoetter.com)
 - [xcancel.com](https://xcancel.com)
 ### Onion
 - [26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion](http://26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion)
@@ -859,7 +853,6 @@
 - [gilles.wittezaele.fr](https://gilles.wittezaele.fr)
 - [gitgd.com](https://gitgd.com)
 - [hoyfamily.tech](https://hoyfamily.tech)
-- [hpc.uni.lu](https://hpc.uni.lu)
 - [ircwebnet.com](https://ircwebnet.com)
 - [ktbky.kaaass.net](https://ktbky.kaaass.net)
 - [logs.notifiarr.com](https://logs.notifiarr.com)
@@ -929,6 +922,7 @@
 - [paste.perennialte.ch](https://paste.perennialte.ch)
 - [paste.picasoft.net](https://paste.picasoft.net)
 - [paste.rys.pw](https://paste.rys.pw)
+- [paste.seehosting.eu](https://paste.seehosting.eu)
 - [paste.skynetcloud.site](https://paste.skynetcloud.site)
 - [paste.spigot.pl](https://paste.spigot.pl)
 - [paste.stratum0.org](https://paste.stratum0.org)
@@ -1083,8 +1077,15 @@
 
 ### Clearnet
 - [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
+- [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
+- [pipedproxy.darkness.services](https://pipedproxy.darkness.services)
 - [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
-- [pipedproxy.privacy.com.de](https://pipedproxy.privacy.com.de)
+- [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
+- [pipedproxy.nosebs.ru](https://pipedproxy.nosebs.ru)
+- [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
+- [piproxy.ggtyler.dev](https://piproxy.ggtyler.dev)
+- [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
+- [proxy.piped.yt](https://proxy.piped.yt)
 
 ## [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch#readme)
 
