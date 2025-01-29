@@ -10,9 +10,7 @@ bin.0ax.cc
 bin.0xfc.de
 bin.68degrees.no
 bin.acquia.com
-bin.arq.pl
 bin.bloat.cat
-bin.bus-hit.me
 bin.byreqz.de
 bin.cafeo.re
 bin.disroot.org
@@ -96,7 +94,6 @@ paste.djalexkidd.ovh
 paste.drfrankenstein.co.uk
 paste.dvotx.org
 paste.elyday.net
-paste.encrypt.co.il
 paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
@@ -108,11 +105,11 @@ paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
+paste.justman10000.de
 paste.kyznikov.my.id
 paste.lilay.dev
 paste.loryy.dev
 paste.mogbox.net
-paste.molytov.xyz
 paste.momobako.com
 paste.momou.ch
 paste.nerdvpn.de
@@ -165,7 +162,6 @@ postit.hadoly.fr
 privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
-privatebin.arq.pl
 privatebin.at
 privatebin.clebootin.com
 privatebin.cobiotx.io

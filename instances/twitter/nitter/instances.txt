@@ -1,4 +1,5 @@
 nitter.kavin.rocks
+nitter.lunar.icu
 nitter.moomoo.me
 nitter.privacydev.net
 nitter.rawbit.ninja

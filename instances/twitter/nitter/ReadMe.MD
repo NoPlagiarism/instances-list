@@ -2,6 +2,7 @@
 
 # Clearnet
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
+- [nitter.lunar.icu](https://nitter.lunar.icu)
 - [nitter.moomoo.me](https://nitter.moomoo.me)
 - [nitter.privacydev.net](https://nitter.privacydev.net)
 - [nitter.rawbit.ninja](https://nitter.rawbit.ninja)

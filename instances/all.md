@@ -171,6 +171,7 @@
 - [priv.au](https://priv.au)
 - [s.mble.dk](https://s.mble.dk)
 - [search.080609.xyz](https://search.080609.xyz)
+- [search.ballardini.de](https://search.ballardini.de)
 - [search.blitzw.in](https://search.blitzw.in)
 - [search.bus-hit.me](https://search.bus-hit.me)
 - [search.canine.tools](https://search.canine.tools)
@@ -183,6 +184,7 @@
 - [search.im-in.space](https://search.im-in.space)
 - [search.indst.eu](https://search.indst.eu)
 - [search.inetol.net](https://search.inetol.net)
+- [search.ipv6s.net](https://search.ipv6s.net)
 - [search.leptons.xyz](https://search.leptons.xyz)
 - [search.mdosch.de](https://search.mdosch.de)
 - [search.nadeko.net](https://search.nadeko.net)
@@ -194,12 +196,13 @@
 - [search.rhscz.eu](https://search.rhscz.eu)
 - [search.rowie.at](https://search.rowie.at)
 - [search.sapti.me](https://search.sapti.me)
-- [search.tommy-tran.com](https://search.tommy-tran.com)
+- [search.url4irl.com](https://search.url4irl.com)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.be](https://searx.be)
 - [searx.cespedes.fr](https://searx.cespedes.fr)
 - [searx.dresden.network](https://searx.dresden.network)
 - [searx.electroncash.de](https://searx.electroncash.de)
+- [searx.foobar.vip](https://searx.foobar.vip)
 - [searx.foss.family](https://searx.foss.family)
 - [searx.juancord.xyz](https://searx.juancord.xyz)
 - [searx.lunar.icu](https://searx.lunar.icu)
@@ -224,8 +227,7 @@
 - [searxng.website](https://searxng.website)
 - [searxng.world](https://searxng.world)
 - [seek.fyi](https://seek.fyi)
-- [sexwebcams.watch](https://sexwebcams.watch)
-- [skyrimhater.com](https://skyrimhater.com)
+- [suche.dasnetzundich.de](https://suche.dasnetzundich.de)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
 - [www.gruble.de](https://www.gruble.de)
 ### Onion
@@ -331,9 +333,8 @@
 ### Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
-- [libreddit.eu.org](https://libreddit.eu.org)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
+- [lr.vern.cc](https://lr.vern.cc)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
@@ -347,25 +348,26 @@
 
 ### Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
 - [r.darrennathanael.com](https://r.darrennathanael.com)
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [red.ngn.tf](https://red.ngn.tf)
 - [reddit.nerdvpn.de](https://reddit.nerdvpn.de)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
-- [redlib.ducks.party](https://redlib.ducks.party)
 - [redlib.kittywi.re](https://redlib.kittywi.re)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
+- [redlib.privacy.com.de](https://redlib.privacy.com.de)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.r4fo.com](https://redlib.r4fo.com)
 - [rl.bloat.cat](https://rl.bloat.cat)
+- [safereddit.com](https://safereddit.com)
 ### Onion
-- [loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion](http://loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion)
 - [nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion](http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion)
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
+- [red.ngntfwmwovvku6eqi7dzzgzv2wzlvq2cqtqha7ccgzub2xnivsuxnuyd.onion](http://red.ngntfwmwovvku6eqi7dzzgzv2wzlvq2cqtqha7ccgzub2xnivsuxnuyd.onion)
+- [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
-
+- [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
 ## [WikiLess](https://gitea.slowb.ro/ticoombs/Wikiless#wikiless)
 
@@ -391,12 +393,12 @@
 - [nyc1.piapi.ggtyler.dev](https://nyc1.piapi.ggtyler.dev)
 - [piped.adminforge.de](https://piped.adminforge.de)
 - [piped.drgns.space](https://piped.drgns.space)
+- [piped.ducks.party](https://piped.ducks.party)
 - [piped.nosebs.ru](https://piped.nosebs.ru)
 - [piped.private.coffee](https://piped.private.coffee)
 - [piped.reallyaweso.me](https://piped.reallyaweso.me)
-- [piped.yt](https://piped.yt)
 ### Onion
-
+- [gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion](http://gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion)
 ### I2P
 
 
@@ -516,6 +518,7 @@
 
 ### Clearnet
 - [nitter.kavin.rocks](https://nitter.kavin.rocks)
+- [nitter.lunar.icu](https://nitter.lunar.icu)
 - [nitter.moomoo.me](https://nitter.moomoo.me)
 - [nitter.privacydev.net](https://nitter.privacydev.net)
 - [nitter.rawbit.ninja](https://nitter.rawbit.ninja)
@@ -809,9 +812,7 @@
 - [bin.0xfc.de](https://bin.0xfc.de)
 - [bin.68degrees.no](https://bin.68degrees.no)
 - [bin.acquia.com](https://bin.acquia.com)
-- [bin.arq.pl](https://bin.arq.pl)
 - [bin.bloat.cat](https://bin.bloat.cat)
-- [bin.bus-hit.me](https://bin.bus-hit.me)
 - [bin.byreqz.de](https://bin.byreqz.de)
 - [bin.cafeo.re](https://bin.cafeo.re)
 - [bin.disroot.org](https://bin.disroot.org)
@@ -895,7 +896,6 @@
 - [paste.drfrankenstein.co.uk](https://paste.drfrankenstein.co.uk)
 - [paste.dvotx.org](https://paste.dvotx.org)
 - [paste.elyday.net](https://paste.elyday.net)
-- [paste.encrypt.co.il](https://paste.encrypt.co.il)
 - [paste.evolix.org](https://paste.evolix.org)
 - [paste.fitgirl-repacks.site](https://paste.fitgirl-repacks.site)
 - [paste.fizi.ca](https://paste.fizi.ca)
@@ -907,11 +907,11 @@
 - [paste.hostify.cz](https://paste.hostify.cz)
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.i2pd.xyz](https://paste.i2pd.xyz)
+- [paste.justman10000.de](https://paste.justman10000.de)
 - [paste.kyznikov.my.id](https://paste.kyznikov.my.id)
 - [paste.lilay.dev](https://paste.lilay.dev)
 - [paste.loryy.dev](https://paste.loryy.dev)
 - [paste.mogbox.net](https://paste.mogbox.net)
-- [paste.molytov.xyz](https://paste.molytov.xyz)
 - [paste.momobako.com](https://paste.momobako.com)
 - [paste.momou.ch](https://paste.momou.ch)
 - [paste.nerdvpn.de](https://paste.nerdvpn.de)
@@ -964,7 +964,6 @@
 - [privatebin.app](https://privatebin.app)
 - [privatebin.ar21.de](https://privatebin.ar21.de)
 - [privatebin.arch-linux.cz](https://privatebin.arch-linux.cz)
-- [privatebin.arq.pl](https://privatebin.arq.pl)
 - [privatebin.at](https://privatebin.at)
 - [privatebin.clebootin.com](https://privatebin.clebootin.com)
 - [privatebin.cobiotx.io](https://privatebin.cobiotx.io)
@@ -1076,16 +1075,14 @@
 ## [piped-proxy](https://github.com/TeamPiped/piped-proxy)
 
 ### Clearnet
-- [piped-proxy.codespace.cz](https://piped-proxy.codespace.cz)
+- [piped-proxy.ducks.party](https://piped-proxy.ducks.party)
 - [pipedimg.adminforge.de](https://pipedimg.adminforge.de)
-- [pipedproxy.darkness.services](https://pipedproxy.darkness.services)
 - [pipedproxy.drgns.space](https://pipedproxy.drgns.space)
 - [pipedproxy.leptons.xyz](https://pipedproxy.leptons.xyz)
 - [pipedproxy.nosebs.ru](https://pipedproxy.nosebs.ru)
 - [pipedproxy.reallyaweso.me](https://pipedproxy.reallyaweso.me)
 - [piproxy.ggtyler.dev](https://piproxy.ggtyler.dev)
 - [proxy.piped.private.coffee](https://proxy.piped.private.coffee)
-- [proxy.piped.yt](https://proxy.piped.yt)
 
 ## [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch#readme)
 

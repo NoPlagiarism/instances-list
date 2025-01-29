@@ -3,11 +3,13 @@
         "nyc1.piapi.ggtyler.dev",
         "piped.adminforge.de",
         "piped.drgns.space",
+        "piped.ducks.party",
         "piped.nosebs.ru",
         "piped.private.coffee",
-        "piped.reallyaweso.me",
-        "piped.yt"
+        "piped.reallyaweso.me"
     ],
-    "onion": [],
+    "onion": [
+        "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion"
+    ],
     "i2p": []
 }

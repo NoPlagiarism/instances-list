@@ -3,9 +3,8 @@
 # Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.bus-hit.me](https://libreddit.bus-hit.me)
-- [libreddit.eu.org](https://libreddit.eu.org)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
+- [lr.vern.cc](https://lr.vern.cc)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
