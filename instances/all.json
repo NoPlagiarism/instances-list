@@ -162,7 +162,6 @@
             "search.080609.xyz",
             "search.ballardini.de",
             "search.blitzw.in",
-            "search.bus-hit.me",
             "search.canine.tools",
             "search.catboy.house",
             "search.citw.lgbt",
@@ -358,25 +357,22 @@
             "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
-            "redlib.catsarch.com",
+            "redlib.ducks.party",
             "redlib.kittywi.re",
             "redlib.perennialte.ch",
-            "redlib.privacy.com.de",
             "redlib.privacyredirect.com",
             "redlib.r4fo.com",
             "rl.bloat.cat",
             "safereddit.com"
         ],
         "onion": [
+            "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "red.ngntfwmwovvku6eqi7dzzgzv2wzlvq2cqtqha7ccgzub2xnivsuxnuyd.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
-        "i2p": [
-            "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
-        ]
+        "i2p": []
     },
     "wikiless": {
         "name": "WikiLess",
@@ -424,9 +420,7 @@
         "url": "https://github.com/iv-org/invidious#readme",
         "path": "youtube/invidious",
         "instances": [
-            "inv.nadeko.net",
-            "invidious.nerdvpn.de",
-            "yewtu.be"
+            "inv.nadeko.net"
         ],
         "onion": [
             "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
@@ -565,8 +559,8 @@
             "nitter.kavin.rocks",
             "nitter.lunar.icu",
             "nitter.moomoo.me",
+            "nitter.net",
             "nitter.privacydev.net",
-            "nitter.rawbit.ninja",
             "xcancel.com"
         ],
         "onion": [
@@ -610,19 +604,8 @@
             "vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion",
             "wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion"
         ],
-        "i2p": [
-            "4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p",
-            "axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p",
-            "gseczlzmiv23p5vhsktyd7whquq2uy3c5fgkmdohh453qp3daoua.b32.i2p",
-            "pjsfs4ukb6prmfx3qx3a5ef2cpcupkvcrxdh72kqn2rxc2cw4nka.b32.i2p",
-            "pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p",
-            "tm4rwkeysv3zz3q5yacyr4rlmca2c4etkdobfvuqzt6vsfsu4weq.b32.i2p",
-            "u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p",
-            "vernzdedoxuflrrxc4vbatbkpjh4k22ecgiqgimdiif62onhagva.b32.i2p"
-        ],
-        "loki": [
-            "nitter.priv.loki"
-        ]
+        "i2p": [],
+        "loki": []
     },
     "send": {
         "name": "send",

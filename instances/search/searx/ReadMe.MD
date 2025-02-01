@@ -17,7 +17,6 @@
 - [search.080609.xyz](https://search.080609.xyz)
 - [search.ballardini.de](https://search.ballardini.de)
 - [search.blitzw.in](https://search.blitzw.in)
-- [search.bus-hit.me](https://search.bus-hit.me)
 - [search.canine.tools](https://search.canine.tools)
 - [search.catboy.house](https://search.catboy.house)
 - [search.citw.lgbt](https://search.citw.lgbt)

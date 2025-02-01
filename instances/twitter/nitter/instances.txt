@@ -1,6 +1,6 @@
 nitter.kavin.rocks
 nitter.lunar.icu
 nitter.moomoo.me
+nitter.net
 nitter.privacydev.net
-nitter.rawbit.ninja
 xcancel.com
