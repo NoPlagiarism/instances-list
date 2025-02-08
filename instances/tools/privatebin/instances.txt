@@ -62,7 +62,6 @@ notes.de.cool
 noteshare.net
 oldpb.purplebored.pl
 onetime.vits.co.uk
-onetimesecret.trans-ix.nl
 opportunis.me
 ots.ip-projects.de
 ots.kocsar.at
@@ -78,6 +77,7 @@ pas.te.it
 passwords.gestionalda.com
 pastbin.cc
 paste.3server.de
+paste.aryu.de
 paste.asheriif.me
 paste.aya.so
 paste.biocrafting.net
@@ -97,7 +97,6 @@ paste.elyday.net
 paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
-paste.gamesdrive.net
 paste.gnoppix.org
 paste.gstd.eu
 paste.hackliberty.org
@@ -115,6 +114,7 @@ paste.momou.ch
 paste.nerdvpn.de
 paste.nolog.cz
 paste.nomagic.uk
+paste.not-a-c2-server.fyi
 paste.ononoki.org
 paste.ottertelecom.com
 paste.perennialte.ch
@@ -168,7 +168,6 @@ privatebin.cobiotx.io
 privatebin.devol.it
 privatebin.fedov.net
 privatebin.freinetz.ch
-privatebin.imagisphe.re
 privatebin.io
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
@@ -187,6 +186,7 @@ sebsauvage.net
 secret.adelphi.de
 secret.hummel-web.at
 secret.timeweb.ru
+secrets.bytekrieger.de
 secrets.cebador.fr
 secrets.janjaapvandijk.nl
 secrets.l25.cloud

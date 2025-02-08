@@ -69,12 +69,10 @@
 - [tl.vern.cc](https://tl.vern.cc)
 - [translate.northboot.xyz](https://translate.northboot.xyz)
 ### Onion
-- [st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion](http://st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion)
-- [tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion](http://xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion)
 ### I2P
-- [verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p](http://verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p)
+
 
 ## [SimplyTranslate](https://codeberg.org/ManeraKai/simplytranslate)
 
@@ -162,6 +160,7 @@
 - [etsi.me](https://etsi.me)
 - [fairsuch.net](https://fairsuch.net)
 - [kantan.cat](https://kantan.cat)
+- [metacat.online](https://metacat.online)
 - [nogoo.me](https://nogoo.me)
 - [northboot.xyz](https://northboot.xyz)
 - [nyc1.sx.ggtyler.dev](https://nyc1.sx.ggtyler.dev)
@@ -169,9 +168,10 @@
 - [opnxng.com](https://opnxng.com)
 - [paulgo.io](https://paulgo.io)
 - [priv.au](https://priv.au)
+- [s.datuan.dev](https://s.datuan.dev)
 - [s.mble.dk](https://s.mble.dk)
 - [search.080609.xyz](https://search.080609.xyz)
-- [search.ballardini.de](https://search.ballardini.de)
+- [search.4040940.xyz](https://search.4040940.xyz)
 - [search.blitzw.in](https://search.blitzw.in)
 - [search.canine.tools](https://search.canine.tools)
 - [search.catboy.house](https://search.catboy.house)
@@ -332,8 +332,9 @@
 ### Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
-- [lr.vern.cc](https://lr.vern.cc)
+- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
+- [libreddit.tux.pizza](https://libreddit.tux.pizza)
+- [r.darklab.sh](https://r.darklab.sh)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
@@ -351,9 +352,12 @@
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [red.ngn.tf](https://red.ngn.tf)
 - [reddit.nerdvpn.de](https://reddit.nerdvpn.de)
+- [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.ducks.party](https://redlib.ducks.party)
 - [redlib.kittywi.re](https://redlib.kittywi.re)
+- [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
+- [redlib.privacy.com.de](https://redlib.privacy.com.de)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.r4fo.com](https://redlib.r4fo.com)
 - [rl.bloat.cat](https://rl.bloat.cat)
@@ -363,9 +367,10 @@
 - [nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion](http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion)
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [red.ngntfwmwovvku6eqi7dzzgzv2wzlvq2cqtqha7ccgzub2xnivsuxnuyd.onion](http://red.ngntfwmwovvku6eqi7dzzgzv2wzlvq2cqtqha7ccgzub2xnivsuxnuyd.onion)
+- [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
-
+- [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
 ## [WikiLess](https://gitea.slowb.ro/ticoombs/Wikiless#wikiless)
 
@@ -380,10 +385,9 @@
 - [wikiless.tiekoetter.com](https://wikiless.tiekoetter.com)
 - [wl.vern.cc](https://wl.vern.cc)
 ### Onion
-- [wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 - [ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion](http://ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion)
 ### I2P
-- [vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p](http://vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p)
+
 
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
@@ -508,7 +512,6 @@
 - [librarian.pussthecat.org](https://librarian.pussthecat.org)
 ### Onion
 - [lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
-- [lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 
 ## [nitter](https://github.com/zedeus/nitter#readme)
 
@@ -853,7 +856,6 @@
 - [noteshare.net](https://noteshare.net)
 - [oldpb.purplebored.pl](https://oldpb.purplebored.pl)
 - [onetime.vits.co.uk](https://onetime.vits.co.uk)
-- [onetimesecret.trans-ix.nl](https://onetimesecret.trans-ix.nl)
 - [opportunis.me](https://opportunis.me)
 - [ots.ip-projects.de](https://ots.ip-projects.de)
 - [ots.kocsar.at](https://ots.kocsar.at)
@@ -869,6 +871,7 @@
 - [passwords.gestionalda.com](https://passwords.gestionalda.com)
 - [pastbin.cc](https://pastbin.cc)
 - [paste.3server.de](https://paste.3server.de)
+- [paste.aryu.de](https://paste.aryu.de)
 - [paste.asheriif.me](https://paste.asheriif.me)
 - [paste.aya.so](https://paste.aya.so)
 - [paste.biocrafting.net](https://paste.biocrafting.net)
@@ -888,7 +891,6 @@
 - [paste.evolix.org](https://paste.evolix.org)
 - [paste.fitgirl-repacks.site](https://paste.fitgirl-repacks.site)
 - [paste.fizi.ca](https://paste.fizi.ca)
-- [paste.gamesdrive.net](https://paste.gamesdrive.net)
 - [paste.gnoppix.org](https://paste.gnoppix.org)
 - [paste.gstd.eu](https://paste.gstd.eu)
 - [paste.hackliberty.org](https://paste.hackliberty.org)
@@ -906,6 +908,7 @@
 - [paste.nerdvpn.de](https://paste.nerdvpn.de)
 - [paste.nolog.cz](https://paste.nolog.cz)
 - [paste.nomagic.uk](https://paste.nomagic.uk)
+- [paste.not-a-c2-server.fyi](https://paste.not-a-c2-server.fyi)
 - [paste.ononoki.org](https://paste.ononoki.org)
 - [paste.ottertelecom.com](https://paste.ottertelecom.com)
 - [paste.perennialte.ch](https://paste.perennialte.ch)
@@ -959,7 +962,6 @@
 - [privatebin.devol.it](https://privatebin.devol.it)
 - [privatebin.fedov.net](https://privatebin.fedov.net)
 - [privatebin.freinetz.ch](https://privatebin.freinetz.ch)
-- [privatebin.imagisphe.re](https://privatebin.imagisphe.re)
 - [privatebin.io](https://privatebin.io)
 - [privatebin.johnnybegood.fr](https://privatebin.johnnybegood.fr)
 - [privatebin.kosebamse.com](https://privatebin.kosebamse.com)
@@ -978,6 +980,7 @@
 - [secret.adelphi.de](https://secret.adelphi.de)
 - [secret.hummel-web.at](https://secret.hummel-web.at)
 - [secret.timeweb.ru](https://secret.timeweb.ru)
+- [secrets.bytekrieger.de](https://secrets.bytekrieger.de)
 - [secrets.cebador.fr](https://secrets.cebador.fr)
 - [secrets.janjaapvandijk.nl](https://secrets.janjaapvandijk.nl)
 - [secrets.l25.cloud](https://secrets.l25.cloud)

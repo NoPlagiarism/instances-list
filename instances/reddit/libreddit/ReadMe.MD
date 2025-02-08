@@ -3,8 +3,9 @@
 # Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
-- [lr.vern.cc](https://lr.vern.cc)
+- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
+- [libreddit.tux.pizza](https://libreddit.tux.pizza)
+- [r.darklab.sh](https://r.darklab.sh)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
