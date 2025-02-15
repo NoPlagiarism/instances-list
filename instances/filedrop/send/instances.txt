@@ -20,6 +20,7 @@ send.jeugdhulp.be
 send.kokomo.cloud
 send.mni.li
 send.monks.tools
+send.sdad.pro
 send.turingpoint.de
 send.vis.ee
 upload.nolog.cz

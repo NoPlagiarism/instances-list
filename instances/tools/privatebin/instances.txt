@@ -37,7 +37,6 @@ bin.sasach.work
 bin.siick.fr
 bin.tiekoetter.com
 bin.uhl.cloud
-bin.uwabaki.party
 bin.vdx.sh
 bin.veracry.pt
 bin.waifu.rip
@@ -65,6 +64,7 @@ onetime.vits.co.uk
 opportunis.me
 ots.ip-projects.de
 ots.kocsar.at
+p.blueridgedebate.com
 p.darklab.sh
 p.dousse.eu
 p.hessfr.fr
@@ -106,7 +106,6 @@ paste.hostux.net
 paste.i2pd.xyz
 paste.justman10000.de
 paste.kyznikov.my.id
-paste.lilay.dev
 paste.loryy.dev
 paste.mogbox.net
 paste.momobako.com
@@ -148,6 +147,7 @@ pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastejar.com
 pastequest.com
+pb.ari.lt
 pb.bedevops.edu.vn
 pb.blackvoid.club
 pb.envs.net
@@ -162,7 +162,6 @@ postit.hadoly.fr
 privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
-privatebin.at
 privatebin.clebootin.com
 privatebin.cobiotx.io
 privatebin.devol.it
@@ -174,6 +173,7 @@ privatebin.kosebamse.com
 privatebin.lol
 privatebin.luckvintage.com
 privatebin.net
+privatebin.oxidizer.de
 privatebin.paradox.ai
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
@@ -200,7 +200,6 @@ teamware.eu
 textbin.quick-space.de
 texte.antopie.org
 wtf.roflcopter.fr
-www.blueridgedebate.com
 www.gitgd.com
 www.nervengas.com
 www.vlh.dk

@@ -53,6 +53,7 @@ searx.mv-software.de
 searx.mxchange.org
 searx.namejeff.xyz
 searx.oakleycord.dev
+searx.oloke.xyz
 searx.ox2.fr
 searx.perennialte.ch
 searx.rhscz.eu

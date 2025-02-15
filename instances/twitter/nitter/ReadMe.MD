@@ -1,7 +1,6 @@
 # [nitter](https://github.com/zedeus/nitter#readme)
 
 # Clearnet
-- [nitter.kavin.rocks](https://nitter.kavin.rocks)
 - [nitter.lunar.icu](https://nitter.lunar.icu)
 - [nitter.moomoo.me](https://nitter.moomoo.me)
 - [nitter.net](https://nitter.net)

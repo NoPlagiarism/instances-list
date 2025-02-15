@@ -7,6 +7,6 @@
 - [st.adast.dk](https://st.adast.dk)
 - [t.opnxng.com](https://t.opnxng.com)
 # Onion
-- [s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion](http://s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion)
+
 # I2P
 

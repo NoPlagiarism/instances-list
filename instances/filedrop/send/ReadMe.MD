@@ -23,6 +23,7 @@
 - [send.kokomo.cloud](https://send.kokomo.cloud)
 - [send.mni.li](https://send.mni.li)
 - [send.monks.tools](https://send.monks.tools)
+- [send.sdad.pro](https://send.sdad.pro)
 - [send.turingpoint.de](https://send.turingpoint.de)
 - [send.vis.ee](https://send.vis.ee)
 - [upload.nolog.cz](https://upload.nolog.cz)
