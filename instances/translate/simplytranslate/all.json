@@ -6,6 +6,8 @@
         "st.adast.dk",
         "t.opnxng.com"
     ],
-    "onion": [],
+    "onion": [
+        "s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion"
+    ],
     "i2p": []
 }

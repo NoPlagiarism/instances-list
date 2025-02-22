@@ -104,10 +104,12 @@ paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
+paste.juanvel400.xyz
 paste.justman10000.de
 paste.kyznikov.my.id
 paste.loryy.dev
 paste.mogbox.net
+paste.molytov.xyz
 paste.momobako.com
 paste.momou.ch
 paste.nerdvpn.de
@@ -115,7 +117,6 @@ paste.nolog.cz
 paste.nomagic.uk
 paste.not-a-c2-server.fyi
 paste.ononoki.org
-paste.ottertelecom.com
 paste.perennialte.ch
 paste.picasoft.net
 paste.rys.pw
@@ -162,6 +163,7 @@ postit.hadoly.fr
 privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
+privatebin.atempo.com
 privatebin.clebootin.com
 privatebin.cobiotx.io
 privatebin.devol.it
@@ -173,6 +175,7 @@ privatebin.kosebamse.com
 privatebin.lol
 privatebin.luckvintage.com
 privatebin.net
+privatebin.node8907.nohost.me
 privatebin.oxidizer.de
 privatebin.paradox.ai
 privatebin.rinuploads.org
@@ -181,7 +184,6 @@ privatebin.stormdragons.net
 privatebin.wsmm.de
 privatebin.yuricunha.com
 privatebin.z1337.de
-privatepastebin.com
 sebsauvage.net
 secret.adelphi.de
 secret.hummel-web.at
@@ -193,6 +195,7 @@ secrets.l25.cloud
 secrets.secumail.de
 secrets.true.nl
 secure.superior.nl
+securebin.fastm.de
 sendpass.ru
 skypaste.ch
 snip.dssr.ch
