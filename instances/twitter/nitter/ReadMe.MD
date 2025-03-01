@@ -1,8 +1,6 @@
 # [nitter](https://github.com/zedeus/nitter#readme)
 
 # Clearnet
-- [nitter.lunar.icu](https://nitter.lunar.icu)
-- [nitter.moomoo.me](https://nitter.moomoo.me)
 - [nitter.net](https://nitter.net)
 - [nitter.privacydev.net](https://nitter.privacydev.net)
 - [xcancel.com](https://xcancel.com)

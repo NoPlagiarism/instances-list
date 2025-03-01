@@ -1,5 +1,3 @@
-nitter.lunar.icu
-nitter.moomoo.me
 nitter.net
 nitter.privacydev.net
 xcancel.com

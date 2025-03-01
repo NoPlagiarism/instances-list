@@ -1,8 +1,7 @@
 discuss.whatever.social
 l.opnxng.com
-libreddit.kavin.rocks
 libreddit.privacydev.net
-libreddit.tux.pizza
-reddit.rtrace.io
+libreddit.projectsegfau.lt
+lr.vern.cc
 safereddit.com
 snoo.habedieeh.re

@@ -1,7 +1,6 @@
 nyc1.piapi.ggtyler.dev
-piped.adminforge.de
-piped.darkness.services
-piped.ducks.party
+piped.drgns.space
 piped.nosebs.ru
+piped.orangenet.cc
 piped.private.coffee
 piped.reallyaweso.me
