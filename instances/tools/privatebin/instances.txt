@@ -1,10 +1,7 @@
 0.0g.gg
-0.anonpaste.org
 0.jaegers.net
 0.pastejar.com
-0day.anonpaste.org
 82gb.com
-anonpaste.org
 b.appinn.net
 bin.0ax.cc
 bin.0xfc.de
@@ -40,6 +37,7 @@ bin.uhl.cloud
 bin.vdx.sh
 bin.veracry.pt
 bin.waifu.rip
+bin.whitebow.fr
 bonus01.hwb0307.com
 cles.le-filament.com
 coller.vulpecula.fr
@@ -54,7 +52,6 @@ hoyfamily.tech
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
-n0t.io
 notabin.com
 notas.gatooscuro.xyz
 notebin.de
@@ -78,6 +75,7 @@ pas.te.it
 passwords.gestionalda.com
 pastbin.cc
 paste.3server.de
+paste.aminulloh.id
 paste.aryu.de
 paste.asheriif.me
 paste.aya.so
@@ -118,10 +116,10 @@ paste.nolog.cz
 paste.nomagic.uk
 paste.not-a-c2-server.fyi
 paste.ononoki.org
-paste.perennialte.ch
 paste.picasoft.net
 paste.rys.pw
 paste.seehosting.eu
+paste.shreven.org
 paste.skynetcloud.site
 paste.spigot.pl
 paste.stratum0.org
@@ -149,6 +147,7 @@ pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastejar.com
 pastequest.com
+pb.ari.lt
 pb.bedevops.edu.vn
 pb.blackvoid.club
 pb.envs.net
@@ -206,6 +205,7 @@ texte.antopie.org
 wtf.roflcopter.fr
 www.gitgd.com
 www.nervengas.com
+www.ots.kocsar.at
 www.vlh.dk
 zb.zerosgaming.de
 zerobin-legacy.dssr.ch
