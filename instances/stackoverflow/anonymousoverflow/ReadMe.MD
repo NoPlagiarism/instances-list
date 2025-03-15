@@ -5,7 +5,6 @@
 - [anonoverflow.frontendfriendly.xyz](https://anonoverflow.frontendfriendly.xyz)
 - [anonoverflow.hyperreal.coffee](https://anonoverflow.hyperreal.coffee)
 - [anonymousoverflow.catsarch.com](https://anonymousoverflow.catsarch.com)
-- [anonymousoverflow.gitro.xyz](https://anonymousoverflow.gitro.xyz)
 - [anonymousoverflow.privacyfucking.rocks](https://anonymousoverflow.privacyfucking.rocks)
 - [anonymousoverflow.privacyredirect.com](https://anonymousoverflow.privacyredirect.com)
 - [ao.bloat.cat](https://ao.bloat.cat)

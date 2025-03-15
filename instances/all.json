@@ -41,7 +41,6 @@
         ],
         "onion": [
             "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "st.tkhmiiuvkamtnwyeudams4dcxx5wz6xdkv5pgirqutkcjyv2ykdzpwqd.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
@@ -73,11 +72,10 @@
             "mozhi.aryak.me",
             "mozhi.canine.tools",
             "mozhi.ducks.party",
-            "mozhi.frontendfriendly.xyz",
             "mozhi.gitro.xyz",
             "mozhi.pussthecat.org",
+            "mzh.dc09.ru",
             "nyc1.mz.ggtyler.dev",
-            "translate.bus-hit.me",
             "translate.nerdvpn.de",
             "translate.privacyredirect.com",
             "translate.projectsegfau.lt"
@@ -145,7 +143,6 @@
             "s.datuan.dev",
             "s.mble.dk",
             "search.080609.xyz",
-            "search.4040940.xyz",
             "search.canine.tools",
             "search.catboy.house",
             "search.citw.lgbt",
@@ -325,6 +322,7 @@
             "libreddit.privacydev.net",
             "lr.vern.cc",
             "reddit.rtrace.io",
+            "reddit.utsav2.dev",
             "safereddit.com",
             "snoo.habedieeh.re"
         ],
@@ -342,24 +340,25 @@
         "instances": [
             "l.opnxng.com",
             "libreddit.privacydev.net",
-            "r.darrennathanael.com",
+            "red.arancia.click",
             "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
+            "redlib.4o1x5.dev",
+            "redlib.baczek.me",
             "redlib.catsarch.com",
             "redlib.ducks.party",
             "redlib.kittywi.re",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
             "redlib.privacy.com.de",
-            "redlib.private.coffee",
-            "redlib.reallyaweso.me",
-            "redlib.seasi.dev",
+            "redlib.privacyredirect.com",
             "rl.bloat.cat",
             "safereddit.com"
         ],
         "onion": [
             "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
+            "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "red.ngntfwmwovvku6eqi7dzzgzv2wzlvq2cqtqha7ccgzub2xnivsuxnuyd.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
@@ -384,12 +383,9 @@
             "wl.vern.cc"
         ],
         "onion": [
-            "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
         ],
-        "i2p": [
-            "vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p"
-        ]
+        "i2p": []
     },
     "piped": {
         "name": "Piped",
@@ -397,8 +393,10 @@
         "path": "youtube/piped",
         "instances": [
             "nyc1.piapi.ggtyler.dev",
+            "piped.adminforge.de",
             "piped.drgns.space",
             "piped.ducks.party",
+            "piped.orangenet.cc",
             "piped.private.coffee",
             "piped.reallyaweso.me"
         ],
@@ -806,7 +804,6 @@
             "anonoverflow.frontendfriendly.xyz",
             "anonoverflow.hyperreal.coffee",
             "anonymousoverflow.catsarch.com",
-            "anonymousoverflow.gitro.xyz",
             "anonymousoverflow.privacyfucking.rocks",
             "anonymousoverflow.privacyredirect.com",
             "ao.bloat.cat",
@@ -867,7 +864,6 @@
             "bin.0xfc.de",
             "bin.68degrees.no",
             "bin.acquia.com",
-            "bin.bloat.cat",
             "bin.byreqz.de",
             "bin.cafeo.re",
             "bin.disroot.org",
@@ -887,6 +883,7 @@
             "bin.nji9.de",
             "bin.oldgate.org",
             "bin.outv.im",
+            "bin.piracy.moe",
             "bin.privateweb.ch",
             "bin.purplebored.pl",
             "bin.reallyaweso.me",
@@ -964,8 +961,6 @@
             "paste.hostux.net",
             "paste.i2pd.xyz",
             "paste.juanvel400.xyz",
-            "paste.justman10000.de",
-            "paste.kyznikov.my.id",
             "paste.loryy.dev",
             "paste.mogbox.net",
             "paste.molytov.xyz",
@@ -977,6 +972,7 @@
             "paste.not-a-c2-server.fyi",
             "paste.ononoki.org",
             "paste.picasoft.net",
+            "paste.plus",
             "paste.rys.pw",
             "paste.seehosting.eu",
             "paste.shreven.org",
@@ -1007,7 +1003,6 @@
             "pastefg.hermietkreeft.site",
             "pastejar.com",
             "pastequest.com",
-            "pb.ari.lt",
             "pb.bedevops.edu.vn",
             "pb.blackvoid.club",
             "pb.envs.net",
@@ -1022,7 +1017,6 @@
             "privatebin.app",
             "privatebin.ar21.de",
             "privatebin.arch-linux.cz",
-            "privatebin.at",
             "privatebin.atempo.com",
             "privatebin.clebootin.com",
             "privatebin.cobiotx.io",
@@ -1151,6 +1145,7 @@
         "path": "youtube/piped-proxy",
         "instances": [
             "piped-proxy.ducks.party",
+            "pipedimg.adminforge.de",
             "pipedproxy.drgns.space",
             "pipedproxy.leptons.xyz",
             "pipedproxy.orangenet.cc",

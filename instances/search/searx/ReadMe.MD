@@ -17,7 +17,6 @@
 - [s.datuan.dev](https://s.datuan.dev)
 - [s.mble.dk](https://s.mble.dk)
 - [search.080609.xyz](https://search.080609.xyz)
-- [search.4040940.xyz](https://search.4040940.xyz)
 - [search.canine.tools](https://search.canine.tools)
 - [search.catboy.house](https://search.catboy.house)
 - [search.citw.lgbt](https://search.citw.lgbt)

@@ -7,7 +7,6 @@ bin.0ax.cc
 bin.0xfc.de
 bin.68degrees.no
 bin.acquia.com
-bin.bloat.cat
 bin.byreqz.de
 bin.cafeo.re
 bin.disroot.org
@@ -27,6 +26,7 @@ bin.nixnet.services
 bin.nji9.de
 bin.oldgate.org
 bin.outv.im
+bin.piracy.moe
 bin.privateweb.ch
 bin.purplebored.pl
 bin.reallyaweso.me
@@ -104,8 +104,6 @@ paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
 paste.juanvel400.xyz
-paste.justman10000.de
-paste.kyznikov.my.id
 paste.loryy.dev
 paste.mogbox.net
 paste.molytov.xyz
@@ -117,6 +115,7 @@ paste.nomagic.uk
 paste.not-a-c2-server.fyi
 paste.ononoki.org
 paste.picasoft.net
+paste.plus
 paste.rys.pw
 paste.seehosting.eu
 paste.shreven.org
@@ -147,7 +146,6 @@ pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastejar.com
 pastequest.com
-pb.ari.lt
 pb.bedevops.edu.vn
 pb.blackvoid.club
 pb.envs.net
@@ -162,7 +160,6 @@ postit.hadoly.fr
 privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
-privatebin.at
 privatebin.atempo.com
 privatebin.clebootin.com
 privatebin.cobiotx.io
