@@ -72,7 +72,6 @@
             "mozhi.aryak.me",
             "mozhi.canine.tools",
             "mozhi.ducks.party",
-            "mozhi.gitro.xyz",
             "mozhi.pussthecat.org",
             "mzh.dc09.ru",
             "nyc1.mz.ggtyler.dev",
@@ -190,6 +189,7 @@
             "searx.tiekoetter.com",
             "searx.tuxcloud.net",
             "searx.zhenyapav.com",
+            "searxng.biz",
             "searxng.brihx.fr",
             "searxng.f24o.zip",
             "searxng.hweeren.com",
@@ -317,12 +317,10 @@
         "path": "reddit/libreddit",
         "instances": [
             "discuss.whatever.social",
-            "l.opnxng.com",
+            "libreddit.eu.org",
             "libreddit.kavin.rocks",
-            "libreddit.privacydev.net",
             "lr.vern.cc",
             "reddit.rtrace.io",
-            "reddit.utsav2.dev",
             "safereddit.com",
             "snoo.habedieeh.re"
         ],
@@ -338,23 +336,19 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "l.opnxng.com",
-            "libreddit.privacydev.net",
-            "red.arancia.click",
+            "libreddit.eu.org",
             "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
-            "redlib.4o1x5.dev",
-            "redlib.baczek.me",
+            "reddit.owo.si",
             "redlib.catsarch.com",
             "redlib.ducks.party",
             "redlib.kittywi.re",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
-            "redlib.privacy.com.de",
-            "redlib.privacyredirect.com",
-            "rl.bloat.cat",
-            "safereddit.com"
+            "redlib.reallyaweso.me",
+            "redlib.seasi.dev",
+            "rl.bloat.cat"
         ],
         "onion": [
             "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
@@ -396,9 +390,11 @@
             "piped.adminforge.de",
             "piped.drgns.space",
             "piped.ducks.party",
+            "piped.nosebs.ru",
             "piped.orangenet.cc",
             "piped.private.coffee",
-            "piped.reallyaweso.me"
+            "piped.reallyaweso.me",
+            "piped.yt"
         ],
         "onion": [
             "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion"
@@ -410,7 +406,9 @@
         "url": "https://github.com/iv-org/invidious#readme",
         "path": "youtube/invidious",
         "instances": [
-            "inv.nadeko.net"
+            "id.420129.xyz",
+            "inv.nadeko.net",
+            "yewtu.be"
         ],
         "onion": [
             "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
@@ -537,7 +535,8 @@
             "librarian.pussthecat.org"
         ],
         "onion": [
-            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
+            "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
     },
     "nitter": {
@@ -866,6 +865,7 @@
             "bin.acquia.com",
             "bin.byreqz.de",
             "bin.cafeo.re",
+            "bin.chimuc.com",
             "bin.disroot.org",
             "bin.esd.cc",
             "bin.garbaye.fr",
@@ -928,6 +928,7 @@
             "p.lukgth.cloud",
             "p.rrbone.net",
             "p.vinci-concessions.com",
+            "pad.rackforest.com",
             "pas.te.it",
             "passwords.gestionalda.com",
             "pastbin.cc",
@@ -961,6 +962,7 @@
             "paste.hostux.net",
             "paste.i2pd.xyz",
             "paste.juanvel400.xyz",
+            "paste.librenode.net",
             "paste.loryy.dev",
             "paste.mogbox.net",
             "paste.molytov.xyz",
@@ -1059,7 +1061,6 @@
             "wtf.roflcopter.fr",
             "www.gitgd.com",
             "www.nervengas.com",
-            "www.ots.kocsar.at",
             "www.vlh.dk",
             "zb.zerosgaming.de",
             "zerobin-legacy.dssr.ch",
@@ -1148,10 +1149,12 @@
             "pipedimg.adminforge.de",
             "pipedproxy.drgns.space",
             "pipedproxy.leptons.xyz",
+            "pipedproxy.nosebs.ru",
             "pipedproxy.orangenet.cc",
             "pipedproxy.reallyaweso.me",
             "piproxy.ggtyler.dev",
-            "proxy.piped.private.coffee"
+            "proxy.piped.private.coffee",
+            "proxy.piped.yt"
         ]
     },
     "safetwitch": {

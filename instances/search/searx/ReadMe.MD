@@ -64,6 +64,7 @@
 - [searx.tiekoetter.com](https://searx.tiekoetter.com)
 - [searx.tuxcloud.net](https://searx.tuxcloud.net)
 - [searx.zhenyapav.com](https://searx.zhenyapav.com)
+- [searxng.biz](https://searxng.biz)
 - [searxng.brihx.fr](https://searxng.brihx.fr)
 - [searxng.f24o.zip](https://searxng.f24o.zip)
 - [searxng.hweeren.com](https://searxng.hweeren.com)

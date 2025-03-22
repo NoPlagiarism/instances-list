@@ -9,6 +9,7 @@ bin.68degrees.no
 bin.acquia.com
 bin.byreqz.de
 bin.cafeo.re
+bin.chimuc.com
 bin.disroot.org
 bin.esd.cc
 bin.garbaye.fr
@@ -71,6 +72,7 @@ p.kll.li
 p.lukgth.cloud
 p.rrbone.net
 p.vinci-concessions.com
+pad.rackforest.com
 pas.te.it
 passwords.gestionalda.com
 pastbin.cc
@@ -104,6 +106,7 @@ paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
 paste.juanvel400.xyz
+paste.librenode.net
 paste.loryy.dev
 paste.mogbox.net
 paste.molytov.xyz
@@ -202,7 +205,6 @@ texte.antopie.org
 wtf.roflcopter.fr
 www.gitgd.com
 www.nervengas.com
-www.ots.kocsar.at
 www.vlh.dk
 zb.zerosgaming.de
 zerobin-legacy.dssr.ch

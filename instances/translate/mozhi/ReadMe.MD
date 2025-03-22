@@ -5,7 +5,6 @@
 - [mozhi.aryak.me](https://mozhi.aryak.me)
 - [mozhi.canine.tools](https://mozhi.canine.tools)
 - [mozhi.ducks.party](https://mozhi.ducks.party)
-- [mozhi.gitro.xyz](https://mozhi.gitro.xyz)
 - [mozhi.pussthecat.org](https://mozhi.pussthecat.org)
 - [mzh.dc09.ru](https://mzh.dc09.ru)
 - [nyc1.mz.ggtyler.dev](https://nyc1.mz.ggtyler.dev)
