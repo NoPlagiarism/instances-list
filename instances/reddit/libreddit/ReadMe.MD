@@ -2,10 +2,9 @@
 
 # Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
-- [libreddit.eu.org](https://libreddit.eu.org)
-- [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
-- [lr.vern.cc](https://lr.vern.cc)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
+- [l.opnxng.com](https://l.opnxng.com)
+- [libreddit.tux.pizza](https://libreddit.tux.pizza)
+- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion
