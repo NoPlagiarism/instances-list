@@ -11,6 +11,7 @@ bin.anis.live
 bin.byreqz.de
 bin.cafeo.re
 bin.chimuc.com
+bin.citadel365.com
 bin.disroot.org
 bin.esd.cc
 bin.garbaye.fr
@@ -105,6 +106,7 @@ paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
+paste.jenny2.de
 paste.juanvel400.xyz
 paste.librenode.net
 paste.linxx.net
@@ -166,7 +168,6 @@ privatebin.ar21.de
 privatebin.arch-linux.cz
 privatebin.at
 privatebin.atempo.com
-privatebin.clebootin.com
 privatebin.cobiotx.io
 privatebin.devol.it
 privatebin.fedov.net

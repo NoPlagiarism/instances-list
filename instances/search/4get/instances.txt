@@ -2,6 +2,7 @@
 4.ngn.tf
 4.umbrella.haus
 4g.ggtyler.dev
+4get.0x07.space
 4get.aishiteiru.moe
 4get.ca
 4get.ch
