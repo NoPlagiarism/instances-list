@@ -39,7 +39,6 @@
 - [search.rhscz.eu](https://search.rhscz.eu)
 - [search.rowie.at](https://search.rowie.at)
 - [search.sapti.me](https://search.sapti.me)
-- [search.tinfoil.ch](https://search.tinfoil.ch)
 - [search.url4irl.com](https://search.url4irl.com)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.be](https://searx.be)

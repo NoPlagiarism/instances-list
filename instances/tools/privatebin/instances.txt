@@ -8,6 +8,7 @@ bin.0xfc.de
 bin.68degrees.no
 bin.acquia.com
 bin.anis.live
+bin.annoyedpenguin.com
 bin.byreqz.de
 bin.cafeo.re
 bin.chimuc.com
@@ -108,7 +109,7 @@ paste.hostux.net
 paste.i2pd.xyz
 paste.jenny2.de
 paste.juanvel400.xyz
-paste.librenode.net
+paste.librenode.com
 paste.linxx.net
 paste.loryy.dev
 paste.mogbox.net
@@ -161,6 +162,7 @@ pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
 pb.skifab.se
+pbn.lck.tf
 photistic.org
 postit.hadoly.fr
 privatebin.app
@@ -170,6 +172,7 @@ privatebin.at
 privatebin.atempo.com
 privatebin.cobiotx.io
 privatebin.devol.it
+privatebin.fediflix.org
 privatebin.fedov.net
 privatebin.freinetz.ch
 privatebin.io
@@ -185,6 +188,7 @@ privatebin.seattlematrix.org
 privatebin.stormdragons.net
 privatebin.wsmm.de
 privatebin.z1337.de
+privatepastebin.com
 sebsauvage.net
 secret.adelphi.de
 secret.hummel-web.at

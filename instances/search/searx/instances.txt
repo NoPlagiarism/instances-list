@@ -36,7 +36,6 @@ search.projectsegfau.lt
 search.rhscz.eu
 search.rowie.at
 search.sapti.me
-search.tinfoil.ch
 search.url4irl.com
 searx.ankha.ac
 searx.be
