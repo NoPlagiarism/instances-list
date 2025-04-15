@@ -2,7 +2,6 @@
 
 # Clearnet
 - [nitter.net](https://nitter.net)
-- [nitter.privacydev.net](https://nitter.privacydev.net)
 - [xcancel.com](https://xcancel.com)
 # Onion
 - [26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion](http://26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion)

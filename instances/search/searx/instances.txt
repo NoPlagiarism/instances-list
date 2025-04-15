@@ -27,7 +27,9 @@ search.indst.eu
 search.inetol.net
 search.ipv6s.net
 search.leptons.xyz
+search.librenode.com
 search.mdosch.de
+search.mrblake.cc
 search.nerdvpn.de
 search.nordh.tech
 search.ononoki.org
@@ -62,6 +64,7 @@ searx.tuxcloud.net
 searx.zhenyapav.com
 searxng.biz
 searxng.brihx.fr
+searxng.deliberate.world
 searxng.f24o.zip
 searxng.hweeren.com
 searxng.shreven.org
