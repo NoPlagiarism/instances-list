@@ -32,7 +32,6 @@ bin.nixnet.services
 bin.nji9.de
 bin.oldgate.org
 bin.outv.im
-bin.privateweb.ch
 bin.purplebored.pl
 bin.reallyaweso.me
 bin.sasach.work
@@ -52,6 +51,7 @@ cpaste.org
 cryptostorm.is
 eatmyshorts.ch
 encryp.ch
+enjoys.rocks
 extrait.facil.services
 gilles.wittezaele.fr
 gitgd.com
@@ -75,7 +75,6 @@ p.dousse.eu
 p.hessfr.fr
 p.kapsi.fi
 p.kll.li
-p.lukgth.cloud
 p.rrbone.net
 p.vinci-concessions.com
 pad.rackforest.com
@@ -126,6 +125,7 @@ paste.not-a-c2-server.fyi
 paste.ononoki.org
 paste.picasoft.net
 paste.plus
+paste.psr.tf
 paste.rys.pw
 paste.shreven.org
 paste.skynetcloud.site
@@ -166,6 +166,7 @@ pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
 pb.skifab.se
+pbin.nadeko.net
 pbn.lck.tf
 photistic.org
 privatebin.app
@@ -176,7 +177,6 @@ privatebin.atempo.com
 privatebin.co
 privatebin.cobiotx.io
 privatebin.devol.it
-privatebin.fediflix.org
 privatebin.fedov.net
 privatebin.freinetz.ch
 privatebin.io
@@ -190,6 +190,7 @@ privatebin.paradox.ai
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.stormdragons.net
+privatebin.wildberries.ru
 privatebin.wsmm.de
 privatebin.z1337.de
 privatepastebin.com
@@ -197,7 +198,6 @@ sebsauvage.net
 secret.adelphi.de
 secret.hummel-web.at
 secret.timeweb.ru
-secrets.bytekrieger.de
 secrets.cebador.fr
 secrets.janjaapvandijk.nl
 secrets.l25.cloud
