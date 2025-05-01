@@ -16,6 +16,7 @@ send.canine.tools
 send.codespace.cz
 send.cyberjake.xyz
 send.datenpost.app
+send.dogy.cloud
 send.jeugdhulp.be
 send.kokomo.cloud
 send.mni.li
