@@ -3,13 +3,14 @@
 # Clearnet
 - [dm.vern.cc](https://dm.vern.cc)
 - [dumb.bloat.cat](https://dumb.bloat.cat)
+- [dumb.canine.tools](https://dumb.canine.tools)
 - [dumb.ducks.party](https://dumb.ducks.party)
-- [dumb.gitro.xyz](https://dumb.gitro.xyz)
 - [dumb.hyperreal.coffee](https://dumb.hyperreal.coffee)
 - [dumb.jeikobu.net](https://dumb.jeikobu.net)
 - [dumb.lunar.icu](https://dumb.lunar.icu)
 - [dumb.privacydev.net](https://dumb.privacydev.net)
 - [dumb.privacyfucking.rocks](https://dumb.privacyfucking.rocks)
+- [lyr.dc09.ru](https://lyr.dc09.ru)
 - [sing.whatever.social](https://sing.whatever.social)
 # Onion
 - [dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://dm.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)

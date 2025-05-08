@@ -7,7 +7,6 @@
 - [fairsuch.net](https://fairsuch.net)
 - [kantan.cat](https://kantan.cat)
 - [metacat.online](https://metacat.online)
-- [nogoo.me](https://nogoo.me)
 - [northboot.xyz](https://northboot.xyz)
 - [nyc1.sx.ggtyler.dev](https://nyc1.sx.ggtyler.dev)
 - [ooglester.com](https://ooglester.com)

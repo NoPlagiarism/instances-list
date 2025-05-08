@@ -1,9 +1,7 @@
 discuss.whatever.social
-libreddit.privacydev.net
-libreddit.projectsegfau.lt
-libreddit.tux.pizza
+libreddit.kavin.rocks
 lr.vern.cc
-r.darklab.sh
 reddit.rtrace.io
+reddit.utsav2.dev
 safereddit.com
 snoo.habedieeh.re

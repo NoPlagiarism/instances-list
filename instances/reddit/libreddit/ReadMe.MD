@@ -2,12 +2,10 @@
 
 # Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
-- [libreddit.privacydev.net](https://libreddit.privacydev.net)
-- [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
-- [libreddit.tux.pizza](https://libreddit.tux.pizza)
+- [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
 - [lr.vern.cc](https://lr.vern.cc)
-- [r.darklab.sh](https://r.darklab.sh)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
+- [reddit.utsav2.dev](https://reddit.utsav2.dev)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion

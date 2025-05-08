@@ -1,6 +1,5 @@
 piped-proxy.ducks.party
 pipedimg.adminforge.de
-pipedproxy.leptons.xyz
 pipedproxy.nosebs.ru
 pipedproxy.orangenet.cc
 pipedproxy.reallyaweso.me

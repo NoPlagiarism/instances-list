@@ -7,6 +7,7 @@ b.appinn.net
 betterpaste.me
 bin.0ax.cc
 bin.0xfc.de
+bin.2255.me
 bin.68degrees.no
 bin.acquia.com
 bin.anis.live
@@ -101,6 +102,7 @@ paste.d-ku.de
 paste.devsite.pl
 paste.dismail.de
 paste.djalexkidd.ovh
+paste.domguin.com
 paste.drfrankenstein.co.uk
 paste.dvotx.org
 paste.elyday.net
@@ -120,7 +122,6 @@ paste.libre-service.eu
 paste.librenode.com
 paste.linxx.net
 paste.loryy.dev
-paste.mogbox.net
 paste.molytov.xyz
 paste.momobako.com
 paste.momou.ch
