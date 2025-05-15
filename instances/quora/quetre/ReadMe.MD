@@ -10,7 +10,6 @@
 - [quetre.canine.tools](https://quetre.canine.tools)
 - [quetre.drgns.space](https://quetre.drgns.space)
 - [quetre.ducks.party](https://quetre.ducks.party)
-- [quetre.gitro.xyz](https://quetre.gitro.xyz)
 - [quetre.iket.me](https://quetre.iket.me)
 - [quetre.jeikobu.net](https://quetre.jeikobu.net)
 - [quetre.lunar.icu](https://quetre.lunar.icu)

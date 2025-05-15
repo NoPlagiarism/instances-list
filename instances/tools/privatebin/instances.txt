@@ -4,6 +4,7 @@
 82gb.com
 amir.ch
 b.appinn.net
+b.opnxng.com
 betterpaste.me
 bin.0ax.cc
 bin.0xfc.de
@@ -206,6 +207,8 @@ privatebin.sequanux.org
 privatebin.stormdragons.net
 privatebin.unige.ch
 privatebin.vc.cvut.cz
+privatebin.warpzone.ms
+privatebin.webdiscount.net
 privatebin.wildberries.ru
 privatebin.wsmm.de
 privatebin.z1337.de
@@ -238,7 +241,6 @@ www.nervengas.com
 www.vlh.dk
 zb.zerosgaming.de
 zerobin-legacy.dssr.ch
-zerobin.mirtouf.fr
 zerobin.org
 zerobin.thican.net
 zerobin.zertrin.org
