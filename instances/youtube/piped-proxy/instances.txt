@@ -4,5 +4,5 @@ pipedproxy.drgns.space
 pipedproxy.nosebs.ru
 pipedproxy.orangenet.cc
 pipedproxy.reallyaweso.me
+piproxy.ggtyler.dev
 proxy.piped.private.coffee
-proxy.piped.yt

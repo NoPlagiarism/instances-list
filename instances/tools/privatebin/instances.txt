@@ -16,10 +16,12 @@ bin.annoyedpenguin.com
 bin.bloat.cat
 bin.byreqz.de
 bin.cafeo.re
+bin.calitabby.net
 bin.chimuc.com
 bin.citadel365.com
 bin.disroot.org
 bin.esd.cc
+bin.freedombits.org
 bin.garbaye.fr
 bin.habedieeh.re
 bin.idrix.fr
@@ -81,7 +83,6 @@ p.hessfr.fr
 p.kapsi.fi
 p.kll.li
 p.lab.nerkho.ch
-p.rrbone.net
 p.vinci-concessions.com
 pad.rackforest.com
 pas.te.it
@@ -162,7 +163,6 @@ pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.kamos.fr
 pastebin.linqhost.nl
-pastebin.my
 pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastejar.com
@@ -228,7 +228,9 @@ sendpass.ru
 share.cyberguerrilla.info
 si3t.ch
 skypaste.ch
+slackjeff.com.br
 snip.dssr.ch
+submarine.strangled.net
 t25b.com
 teamware.eu
 textbin.quick-space.de
