@@ -6,7 +6,6 @@ amir.ch
 b.appinn.net
 b.opnxng.com
 betterpaste.me
-bin.0ax.cc
 bin.0xfc.de
 bin.2255.me
 bin.68degrees.no
@@ -43,7 +42,6 @@ bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
 bin.tiekoetter.com
-bin.transparant-it.nl
 bin.uhl.cloud
 bin.vdx.sh
 bin.veracry.pt
@@ -118,7 +116,6 @@ paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
 paste.i2pd.xyz
-paste.jenny2.de
 paste.juanvel400.xyz
 paste.libre-service.eu
 paste.librenode.com
@@ -138,6 +135,7 @@ paste.psr.tf
 paste.rb.dcu.ie
 paste.redbrick.dcu.ie
 paste.rys.pw
+paste.shg.wtf
 paste.shreven.org
 paste.skynetcloud.site
 paste.spigot.pl
