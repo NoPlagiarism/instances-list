@@ -80,7 +80,6 @@ p.dousse.eu
 p.hessfr.fr
 p.kapsi.fi
 p.kll.li
-p.lab.nerkho.ch
 p.vinci-concessions.com
 pad.rackforest.com
 pas.te.it
@@ -165,6 +164,7 @@ pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastejar.com
 pastequest.com
+pb.1devops.io
 pb.atl.tools
 pb.bedevops.edu.vn
 pb.blackvoid.club

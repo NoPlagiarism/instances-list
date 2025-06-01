@@ -40,7 +40,6 @@
             "translate.northboot.xyz"
         ],
         "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
@@ -292,9 +291,12 @@
         "path": "reddit/libreddit",
         "instances": [
             "discuss.whatever.social",
-            "libreddit.privacydev.net",
+            "libreddit.eu.org",
+            "libreddit.kavin.rocks",
+            "libreddit.projectsegfau.lt",
             "reddit.rtrace.io",
             "reddit.utsav2.dev",
+            "safereddit.com",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -309,26 +311,22 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "r.darrennathanael.com",
+            "libreddit.eu.org",
+            "libreddit.privacydev.net",
             "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
-            "reddit.owo.si",
             "redlib.4o1x5.dev",
-            "redlib.baczek.me",
             "redlib.catsarch.com",
-            "redlib.ducks.party",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
+            "redlib.privacy.com.de",
             "redlib.privacyredirect.com",
             "redlib.private.coffee",
             "redlib.r4fo.com",
-            "redlib.reallyaweso.me",
-            "redlib.seasi.dev",
             "rl.bloat.cat"
         ],
         "onion": [
-            "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "red.ngntfwmwovvku6eqi7dzzgzv2wzlvq2cqtqha7ccgzub2xnivsuxnuyd.onion",
@@ -368,10 +366,8 @@
             "piped.adminforge.de",
             "piped.drgns.space",
             "piped.ducks.party",
-            "piped.nosebs.ru",
             "piped.orangenet.cc",
-            "piped.private.coffee",
-            "piped.reallyaweso.me"
+            "piped.private.coffee"
         ],
         "onion": [
             "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion"
@@ -919,7 +915,6 @@
             "p.hessfr.fr",
             "p.kapsi.fi",
             "p.kll.li",
-            "p.lab.nerkho.ch",
             "p.vinci-concessions.com",
             "pad.rackforest.com",
             "pas.te.it",
@@ -1004,6 +999,7 @@
             "pastefg.hermietkreeft.site",
             "pastejar.com",
             "pastequest.com",
+            "pb.1devops.io",
             "pb.atl.tools",
             "pb.bedevops.edu.vn",
             "pb.blackvoid.club",
@@ -1166,9 +1162,7 @@
             "piped-proxy.ducks.party",
             "pipedimg.adminforge.de",
             "pipedproxy.drgns.space",
-            "pipedproxy.nosebs.ru",
             "pipedproxy.orangenet.cc",
-            "pipedproxy.reallyaweso.me",
             "piproxy.ggtyler.dev",
             "proxy.piped.private.coffee"
         ]
