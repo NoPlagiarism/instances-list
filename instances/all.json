@@ -291,12 +291,12 @@
         "path": "reddit/libreddit",
         "instances": [
             "discuss.whatever.social",
-            "libreddit.eu.org",
             "libreddit.kavin.rocks",
-            "libreddit.projectsegfau.lt",
+            "libreddit.privacydev.net",
+            "libreddit.tux.pizza",
+            "lr.vern.cc",
             "reddit.rtrace.io",
             "reddit.utsav2.dev",
-            "safereddit.com",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -311,26 +311,29 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "libreddit.eu.org",
             "libreddit.privacydev.net",
+            "libreddit.projectsegfau.lt",
             "red.artemislena.eu",
             "red.ngn.tf",
             "reddit.nerdvpn.de",
+            "reddit.owo.si",
             "redlib.4o1x5.dev",
             "redlib.catsarch.com",
+            "redlib.ducks.party",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
-            "redlib.privacy.com.de",
             "redlib.privacyredirect.com",
             "redlib.private.coffee",
             "redlib.r4fo.com",
+            "redlib.tux.pizza",
             "rl.bloat.cat"
         ],
         "onion": [
+            "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "red.ngntfwmwovvku6eqi7dzzgzv2wzlvq2cqtqha7ccgzub2xnivsuxnuyd.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
@@ -352,9 +355,7 @@
             "wikiless.tiekoetter.com",
             "wl.vern.cc"
         ],
-        "onion": [
-            "ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "piped": {
@@ -379,7 +380,6 @@
         "url": "https://github.com/iv-org/invidious#readme",
         "path": "youtube/invidious",
         "instances": [
-            "id.420129.xyz",
             "inv.nadeko.net",
             "invidious.f5.si",
             "invidious.nerdvpn.de",
@@ -511,8 +511,7 @@
             "librarian.pussthecat.org"
         ],
         "onion": [
-            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-            "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion"
         ]
     },
     "nitter": {
@@ -746,6 +745,7 @@
             "libremdb.catsarch.com",
             "libremdb.darkness.services",
             "libremdb.ducks.party",
+            "libremdb.franklyflawless.org",
             "libremdb.frontendfriendly.xyz",
             "libremdb.hyperreal.coffee",
             "libremdb.iket.me",
@@ -923,7 +923,6 @@
             "paste.3server.de",
             "paste.aminulloh.id",
             "paste.aryu.de",
-            "paste.asheriif.me",
             "paste.aya.so",
             "paste.biocrafting.net",
             "paste.burble.com",
@@ -949,7 +948,6 @@
             "paste.helkor.eu",
             "paste.hostify.cz",
             "paste.hostux.net",
-            "paste.i2pd.xyz",
             "paste.juanvel400.xyz",
             "paste.libre-service.eu",
             "paste.librenode.com",
@@ -961,7 +959,6 @@
             "paste.nerdvpn.de",
             "paste.nolog.cz",
             "paste.nomagic.uk",
-            "paste.not-a-c2-server.fyi",
             "paste.ononoki.org",
             "paste.picasoft.net",
             "paste.plus",
@@ -1089,14 +1086,11 @@
             "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "privatebin.f24ozip5vwchlhlsnjfkpmkforrvshp5z6nvna6moy7t4wghfteewyqd.onion",
-            "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
             "tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion",
             "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion",
             "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
         ],
-        "i2p": [
-            "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
-        ]
+        "i2p": []
     },
     "cloudtube": {
         "name": "CloudTube",

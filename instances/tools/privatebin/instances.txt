@@ -88,7 +88,6 @@ paste.07f.de
 paste.3server.de
 paste.aminulloh.id
 paste.aryu.de
-paste.asheriif.me
 paste.aya.so
 paste.biocrafting.net
 paste.burble.com
@@ -114,7 +113,6 @@ paste.hackliberty.org
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
-paste.i2pd.xyz
 paste.juanvel400.xyz
 paste.libre-service.eu
 paste.librenode.com
@@ -126,7 +124,6 @@ paste.momou.ch
 paste.nerdvpn.de
 paste.nolog.cz
 paste.nomagic.uk
-paste.not-a-c2-server.fyi
 paste.ononoki.org
 paste.picasoft.net
 paste.plus

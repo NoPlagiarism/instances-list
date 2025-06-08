@@ -90,7 +90,6 @@
         "paste.3server.de",
         "paste.aminulloh.id",
         "paste.aryu.de",
-        "paste.asheriif.me",
         "paste.aya.so",
         "paste.biocrafting.net",
         "paste.burble.com",
@@ -116,7 +115,6 @@
         "paste.helkor.eu",
         "paste.hostify.cz",
         "paste.hostux.net",
-        "paste.i2pd.xyz",
         "paste.juanvel400.xyz",
         "paste.libre-service.eu",
         "paste.librenode.com",
@@ -128,7 +126,6 @@
         "paste.nerdvpn.de",
         "paste.nolog.cz",
         "paste.nomagic.uk",
-        "paste.not-a-c2-server.fyi",
         "paste.ononoki.org",
         "paste.picasoft.net",
         "paste.plus",
@@ -256,12 +253,9 @@
         "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
         "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
         "privatebin.f24ozip5vwchlhlsnjfkpmkforrvshp5z6nvna6moy7t4wghfteewyqd.onion",
-        "qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion",
         "tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion",
         "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion",
         "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
     ],
-    "i2p": [
-        "oyfcxkrmrnaplu24aobv7s36hm3vyxszlbees4hl6kpk6izwa5da.b32.i2p"
-    ]
+    "i2p": []
 }
