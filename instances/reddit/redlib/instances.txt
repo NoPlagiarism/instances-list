@@ -1,12 +1,8 @@
-libreddit.privacydev.net
 libreddit.projectsegfau.lt
 red.artemislena.eu
-red.ngn.tf
 reddit.nerdvpn.de
-reddit.owo.si
 redlib.4o1x5.dev
 redlib.catsarch.com
-redlib.ducks.party
 redlib.nadeko.net
 redlib.perennialte.ch
 redlib.privacyredirect.com
@@ -14,3 +10,4 @@ redlib.private.coffee
 redlib.r4fo.com
 redlib.tux.pizza
 rl.bloat.cat
+safereddit.com

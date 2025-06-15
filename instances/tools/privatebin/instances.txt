@@ -82,7 +82,6 @@ p.kapsi.fi
 p.kll.li
 p.vinci-concessions.com
 pad.rackforest.com
-pas.te.it
 passwords.gestionalda.com
 paste.07f.de
 paste.3server.de
@@ -221,7 +220,6 @@ secure.superior.nl
 securebin.fastm.de
 sendpass.ru
 share.cyberguerrilla.info
-si3t.ch
 skypaste.ch
 slackjeff.com.br
 snip.dssr.ch

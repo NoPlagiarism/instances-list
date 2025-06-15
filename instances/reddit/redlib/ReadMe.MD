@@ -1,15 +1,11 @@
 # [redlib](https://github.com/redlib-org/redlib#readme)
 
 # Clearnet
-- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [libreddit.projectsegfau.lt](https://libreddit.projectsegfau.lt)
 - [red.artemislena.eu](https://red.artemislena.eu)
-- [red.ngn.tf](https://red.ngn.tf)
 - [reddit.nerdvpn.de](https://reddit.nerdvpn.de)
-- [reddit.owo.si](https://reddit.owo.si)
 - [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
-- [redlib.ducks.party](https://redlib.ducks.party)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
@@ -17,8 +13,8 @@
 - [redlib.r4fo.com](https://redlib.r4fo.com)
 - [redlib.tux.pizza](https://redlib.tux.pizza)
 - [rl.bloat.cat](https://rl.bloat.cat)
+- [safereddit.com](https://safereddit.com)
 # Onion
-- [libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 - [nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion](http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion)
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)

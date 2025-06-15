@@ -2,6 +2,7 @@ baresearch.org
 copp.gg
 etsi.me
 fairsuch.net
+find.xenorio.xyz
 kantan.cat
 metacat.online
 northboot.xyz
@@ -17,8 +18,8 @@ search.404.fo
 search.canine.tools
 search.catboy.house
 search.citw.lgbt
-search.cloakpanda.com
 search.einfachzocken.eu
+search.federicociro.com
 search.fredix.xyz
 search.gcomm.ch
 search.hbubli.cc
@@ -29,7 +30,6 @@ search.ipv6s.net
 search.leptons.xyz
 search.librenode.com
 search.mdosch.de
-search.mrblake.cc
 search.nerdvpn.de
 search.nordh.tech
 search.oh64.moe
@@ -42,7 +42,6 @@ search.rowie.at
 search.sapti.me
 search.url4irl.com
 searx.ankha.ac
-searx.be
 searx.dresden.network
 searx.foobar.vip
 searx.foss.family
@@ -59,6 +58,7 @@ searx.perennialte.ch
 searx.rhscz.eu
 searx.ro
 searx.sev.monster
+searx.stream
 searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
@@ -71,7 +71,6 @@ searxng.hweeren.com
 searxng.shreven.org
 searxng.site
 searxng.website
-searxng.world
 seek.fyi
 suche.dasnetzundich.de
 sx.catgirl.cloud

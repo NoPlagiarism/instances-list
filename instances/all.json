@@ -130,6 +130,7 @@
             "copp.gg",
             "etsi.me",
             "fairsuch.net",
+            "find.xenorio.xyz",
             "kantan.cat",
             "metacat.online",
             "northboot.xyz",
@@ -145,8 +146,8 @@
             "search.canine.tools",
             "search.catboy.house",
             "search.citw.lgbt",
-            "search.cloakpanda.com",
             "search.einfachzocken.eu",
+            "search.federicociro.com",
             "search.fredix.xyz",
             "search.gcomm.ch",
             "search.hbubli.cc",
@@ -157,7 +158,6 @@
             "search.leptons.xyz",
             "search.librenode.com",
             "search.mdosch.de",
-            "search.mrblake.cc",
             "search.nerdvpn.de",
             "search.nordh.tech",
             "search.oh64.moe",
@@ -170,7 +170,6 @@
             "search.sapti.me",
             "search.url4irl.com",
             "searx.ankha.ac",
-            "searx.be",
             "searx.dresden.network",
             "searx.foobar.vip",
             "searx.foss.family",
@@ -187,6 +186,7 @@
             "searx.rhscz.eu",
             "searx.ro",
             "searx.sev.monster",
+            "searx.stream",
             "searx.thefloatinglab.world",
             "searx.tiekoetter.com",
             "searx.tuxcloud.net",
@@ -199,7 +199,6 @@
             "searxng.shreven.org",
             "searxng.site",
             "searxng.website",
-            "searxng.world",
             "seek.fyi",
             "suche.dasnetzundich.de",
             "sx.catgirl.cloud",
@@ -217,7 +216,8 @@
             "searxng.f24ozipdw2v3qudr5udqhz5sme2im4ytyufb25liyaba7zjx7ui6kxqd.onion",
             "searxokthnxmo7ndis35jpts2tawcwvbovuy47qtavwo7oq4jgcm5gqd.onion",
             "searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion",
-            "whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion"
+            "whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion",
+            "x5okencj67ew6xfma5wbbfhfcnajmpgb57d6kdvion5yajth666oggyd.onion"
         ],
         "i2p": []
     },
@@ -292,7 +292,6 @@
         "instances": [
             "discuss.whatever.social",
             "libreddit.kavin.rocks",
-            "libreddit.privacydev.net",
             "libreddit.tux.pizza",
             "lr.vern.cc",
             "reddit.rtrace.io",
@@ -311,25 +310,21 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "libreddit.privacydev.net",
             "libreddit.projectsegfau.lt",
             "red.artemislena.eu",
-            "red.ngn.tf",
             "reddit.nerdvpn.de",
-            "reddit.owo.si",
             "redlib.4o1x5.dev",
             "redlib.catsarch.com",
-            "redlib.ducks.party",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
             "redlib.private.coffee",
             "redlib.r4fo.com",
             "redlib.tux.pizza",
-            "rl.bloat.cat"
+            "rl.bloat.cat",
+            "safereddit.com"
         ],
         "onion": [
-            "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
@@ -367,7 +362,6 @@
             "piped.adminforge.de",
             "piped.drgns.space",
             "piped.ducks.party",
-            "piped.orangenet.cc",
             "piped.private.coffee"
         ],
         "onion": [
@@ -917,7 +911,6 @@
             "p.kll.li",
             "p.vinci-concessions.com",
             "pad.rackforest.com",
-            "pas.te.it",
             "passwords.gestionalda.com",
             "paste.07f.de",
             "paste.3server.de",
@@ -1056,7 +1049,6 @@
             "securebin.fastm.de",
             "sendpass.ru",
             "share.cyberguerrilla.info",
-            "si3t.ch",
             "skypaste.ch",
             "slackjeff.com.br",
             "snip.dssr.ch",
@@ -1156,7 +1148,7 @@
             "piped-proxy.ducks.party",
             "pipedimg.adminforge.de",
             "pipedproxy.drgns.space",
-            "pipedproxy.orangenet.cc",
+            "pipedproxy.reallyaweso.me",
             "piproxy.ggtyler.dev",
             "proxy.piped.private.coffee"
         ]

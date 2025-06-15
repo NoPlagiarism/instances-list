@@ -1,24 +1,20 @@
 {
     "instances": [
-        "libreddit.privacydev.net",
         "libreddit.projectsegfau.lt",
         "red.artemislena.eu",
-        "red.ngn.tf",
         "reddit.nerdvpn.de",
-        "reddit.owo.si",
         "redlib.4o1x5.dev",
         "redlib.catsarch.com",
-        "redlib.ducks.party",
         "redlib.nadeko.net",
         "redlib.perennialte.ch",
         "redlib.privacyredirect.com",
         "redlib.private.coffee",
         "redlib.r4fo.com",
         "redlib.tux.pizza",
-        "rl.bloat.cat"
+        "rl.bloat.cat",
+        "safereddit.com"
     ],
     "onion": [
-        "libreddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
         "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
         "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
         "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
