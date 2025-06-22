@@ -3,3 +3,4 @@ piped.adminforge.de
 piped.drgns.space
 piped.ducks.party
 piped.private.coffee
+piped.reallyaweso.me

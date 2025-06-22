@@ -11,7 +11,6 @@ bin.2255.me
 bin.68degrees.no
 bin.acquia.com
 bin.anis.live
-bin.annoyedpenguin.com
 bin.bloat.cat
 bin.byreqz.de
 bin.cafeo.re
@@ -29,7 +28,6 @@ bin.infra.Mee6.cloud
 bin.iya.at
 bin.libreon.fr
 bin.mezzo.moe
-bin.mha.fi
 bin.mycozy.space
 bin.ngn.tf
 bin.nixnet.services
@@ -154,7 +152,6 @@ pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.grey.pw
 pastebin.hot-chilli.net
-pastebin.kamos.fr
 pastebin.linqhost.nl
 pastebin.retzo.net
 pastefg.hermietkreeft.site
@@ -190,7 +187,6 @@ privatebin.freinetz.ch
 privatebin.io
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
-privatebin.lol
 privatebin.luckvintage.com
 privatebin.net
 privatebin.oxidizer.de

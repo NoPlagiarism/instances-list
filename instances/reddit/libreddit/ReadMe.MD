@@ -3,6 +3,7 @@
 # Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [libreddit.kavin.rocks](https://libreddit.kavin.rocks)
+- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [lr.vern.cc](https://lr.vern.cc)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
