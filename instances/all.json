@@ -40,6 +40,7 @@
             "translate.northboot.xyz"
         ],
         "onion": [
+            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
@@ -147,8 +148,6 @@
             "search.citw.lgbt",
             "search.einfachzocken.eu",
             "search.federicociro.com",
-            "search.fredix.xyz",
-            "search.gcomm.ch",
             "search.hbubli.cc",
             "search.im-in.space",
             "search.indst.eu",
@@ -289,13 +288,8 @@
         "path": "reddit/libreddit",
         "instances": [
             "discuss.whatever.social",
-            "libreddit.kavin.rocks",
-            "libreddit.privacydev.net",
             "libreddit.tux.pizza",
-            "lr.vern.cc",
-            "reddit.rtrace.io",
-            "reddit.utsav2.dev",
-            "snoo.habedieeh.re"
+            "lr.vern.cc"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -309,22 +303,23 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "libreddit.privacydev.net",
-            "libreddit.projectsegfau.lt",
-            "red.artemislena.eu",
-            "red.ngn.tf",
+            "eu.safereddit.com",
+            "libreddit.diffraction.dev",
+            "lr.ptr.moe",
             "redlib.4o1x5.dev",
             "redlib.catsarch.com",
+            "redlib.minihoot.site",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
-            "redlib.private.coffee",
+            "redlib.privacyredirect.com",
+            "redlib.privadency.com",
             "redlib.r4fo.com",
-            "redlib.tux.pizza",
-            "rl.bloat.cat"
+            "redlib.scanash.xyz",
+            "redlib.tux.pizza"
         ],
         "onion": [
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
@@ -439,6 +434,7 @@
         "instances": [
             "ask.habedieeh.re",
             "ask.sudovanilla.org",
+            "q.307200.xyz",
             "q.opnxng.com",
             "qr.vern.cc",
             "qt.bloat.cat",
@@ -446,6 +442,7 @@
             "quetre.canine.tools",
             "quetre.drgns.space",
             "quetre.ducks.party",
+            "quetre.franklyflawless.org",
             "quetre.iket.me",
             "quetre.jeikobu.net",
             "quetre.lunar.icu",
@@ -454,7 +451,8 @@
             "quetre.private.coffee",
             "quetre.pussthecat.org",
             "quetre.r4fo.com",
-            "quetre.tokhmi.xyz"
+            "quetre.tokhmi.xyz",
+            "quora.nerdvpn.de"
         ],
         "onion": [
             "ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
@@ -831,6 +829,7 @@
             "0.0g.gg",
             "0.jaegers.net",
             "0.pastejar.com",
+            "0g.gg",
             "82gb.com",
             "amir.ch",
             "b.appinn.net",
@@ -852,6 +851,7 @@
             "bin.freedombits.org",
             "bin.garbaye.fr",
             "bin.habedieeh.re",
+            "bin.hbubli.cc",
             "bin.idrix.fr",
             "bin.infini.fr",
             "bin.infra.Mee6.cloud",
@@ -881,6 +881,7 @@
             "coller.vulpecula.fr",
             "cpaste.org",
             "cryptostorm.is",
+            "dev.salvatorenoschese.it",
             "eatmyshorts.ch",
             "encryp.ch",
             "enjoys.rocks",
@@ -1001,7 +1002,6 @@
             "pbin.nadeko.net",
             "pbn.lck.tf",
             "photistic.org",
-            "postit.hadoly.fr",
             "private.opendoor.fr",
             "privatebin.app",
             "privatebin.ar21.de",
@@ -1035,6 +1035,7 @@
             "privatepastebin.com",
             "sebsauvage.net",
             "secret.adelphi.de",
+            "secret.c0re.me",
             "secret.hummel-web.at",
             "secret.timeweb.ru",
             "secrets.cebador.fr",

@@ -1,6 +1,7 @@
 0.0g.gg
 0.jaegers.net
 0.pastejar.com
+0g.gg
 82gb.com
 amir.ch
 b.appinn.net
@@ -22,6 +23,7 @@ bin.esd.cc
 bin.freedombits.org
 bin.garbaye.fr
 bin.habedieeh.re
+bin.hbubli.cc
 bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
@@ -51,6 +53,7 @@ code.wt.pt
 coller.vulpecula.fr
 cpaste.org
 cryptostorm.is
+dev.salvatorenoschese.it
 eatmyshorts.ch
 encryp.ch
 enjoys.rocks
@@ -171,7 +174,6 @@ pb.skifab.se
 pbin.nadeko.net
 pbn.lck.tf
 photistic.org
-postit.hadoly.fr
 private.opendoor.fr
 privatebin.app
 privatebin.ar21.de
@@ -205,6 +207,7 @@ privatebin.z1337.de
 privatepastebin.com
 sebsauvage.net
 secret.adelphi.de
+secret.c0re.me
 secret.hummel-web.at
 secret.timeweb.ru
 secrets.cebador.fr

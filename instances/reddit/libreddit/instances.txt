@@ -1,8 +1,3 @@
 discuss.whatever.social
-libreddit.kavin.rocks
-libreddit.privacydev.net
 libreddit.tux.pizza
 lr.vern.cc
-reddit.rtrace.io
-reddit.utsav2.dev
-snoo.habedieeh.re

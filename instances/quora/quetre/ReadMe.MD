@@ -3,6 +3,7 @@
 # Clearnet
 - [ask.habedieeh.re](https://ask.habedieeh.re)
 - [ask.sudovanilla.org](https://ask.sudovanilla.org)
+- [q.307200.xyz](https://q.307200.xyz)
 - [q.opnxng.com](https://q.opnxng.com)
 - [qr.vern.cc](https://qr.vern.cc)
 - [qt.bloat.cat](https://qt.bloat.cat)
@@ -10,6 +11,7 @@
 - [quetre.canine.tools](https://quetre.canine.tools)
 - [quetre.drgns.space](https://quetre.drgns.space)
 - [quetre.ducks.party](https://quetre.ducks.party)
+- [quetre.franklyflawless.org](https://quetre.franklyflawless.org)
 - [quetre.iket.me](https://quetre.iket.me)
 - [quetre.jeikobu.net](https://quetre.jeikobu.net)
 - [quetre.lunar.icu](https://quetre.lunar.icu)
@@ -19,6 +21,7 @@
 - [quetre.pussthecat.org](https://quetre.pussthecat.org)
 - [quetre.r4fo.com](https://quetre.r4fo.com)
 - [quetre.tokhmi.xyz](https://quetre.tokhmi.xyz)
+- [quora.nerdvpn.de](https://quora.nerdvpn.de)
 # Onion
 - [ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://ask.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)
 - [qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://qr.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)

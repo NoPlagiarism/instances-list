@@ -22,8 +22,6 @@
 - [search.citw.lgbt](https://search.citw.lgbt)
 - [search.einfachzocken.eu](https://search.einfachzocken.eu)
 - [search.federicociro.com](https://search.federicociro.com)
-- [search.fredix.xyz](https://search.fredix.xyz)
-- [search.gcomm.ch](https://search.gcomm.ch)
 - [search.hbubli.cc](https://search.hbubli.cc)
 - [search.im-in.space](https://search.im-in.space)
 - [search.indst.eu](https://search.indst.eu)
