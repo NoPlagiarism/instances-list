@@ -38,6 +38,7 @@ bin.oldgate.org
 bin.outv.im
 bin.purplebored.pl
 bin.reallyaweso.me
+bin.salvatorenoschese.it
 bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
@@ -53,7 +54,6 @@ code.wt.pt
 coller.vulpecula.fr
 cpaste.org
 cryptostorm.is
-dev.salvatorenoschese.it
 eatmyshorts.ch
 encryp.ch
 enjoys.rocks
