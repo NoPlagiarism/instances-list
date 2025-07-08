@@ -1,6 +1,7 @@
 # [dumb](https://github.com/rramiachraf/dumb)
 
 # Clearnet
+- [db.kuuro.net](https://db.kuuro.net)
 - [dm.vern.cc](https://dm.vern.cc)
 - [dumb.bloat.cat](https://dumb.bloat.cat)
 - [dumb.canine.tools](https://dumb.canine.tools)

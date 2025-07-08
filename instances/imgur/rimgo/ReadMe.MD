@@ -5,6 +5,7 @@
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)
 - [imgur.sudovanilla.org](https://imgur.sudovanilla.org)
 - [r.opnxng.com](https://r.opnxng.com)
+- [rg.kuuro.net](https://rg.kuuro.net)
 - [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
 - [rimgo.totaldarkness.net](https://rimgo.totaldarkness.net)

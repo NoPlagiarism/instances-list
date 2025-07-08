@@ -15,7 +15,6 @@ bin.anis.live
 bin.bloat.cat
 bin.byreqz.de
 bin.cafeo.re
-bin.calitabby.net
 bin.chimuc.com
 bin.citadel365.com
 bin.disroot.org
@@ -184,6 +183,7 @@ privatebin.co
 privatebin.cobiotx.io
 privatebin.deblan.org
 privatebin.devol.it
+privatebin.eurosystem.it
 privatebin.fedov.net
 privatebin.freinetz.ch
 privatebin.io
