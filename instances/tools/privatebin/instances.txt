@@ -2,7 +2,6 @@
 0.jaegers.net
 0.pastejar.com
 0g.gg
-82gb.com
 amir.ch
 b.appinn.net
 b.opnxng.com
@@ -58,7 +57,6 @@ encryp.ch
 enjoys.rocks
 extrait.facil.services
 gilles.wittezaele.fr
-gitgd.com
 hoyfamily.tech
 hpc.uni.lu
 ircwebnet.com
@@ -108,7 +106,6 @@ paste.fitgirl-repacks.site
 paste.fizi.ca
 paste.gnoppix.org
 paste.gstd.eu
-paste.hackliberty.org
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
@@ -171,7 +168,6 @@ pb.greep.fr
 pb.jaska.cc
 pb.skifab.se
 pbin.nadeko.net
-pbn.lck.tf
 photistic.org
 private.opendoor.fr
 privatebin.app
@@ -230,7 +226,6 @@ texte.antopie.org
 tmp.app.bitbull.ch
 tools.mataucarre.fr
 wtf.roflcopter.fr
-www.gitgd.com
 www.nervengas.com
 www.vlh.dk
 zb.zerosgaming.de

@@ -22,6 +22,7 @@
 - [send.dogy.cloud](https://send.dogy.cloud)
 - [send.jeugdhulp.be](https://send.jeugdhulp.be)
 - [send.kokomo.cloud](https://send.kokomo.cloud)
+- [send.majoenell.com](https://send.majoenell.com)
 - [send.mni.li](https://send.mni.li)
 - [send.monks.tools](https://send.monks.tools)
 - [send.richy.sh](https://send.richy.sh)
