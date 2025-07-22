@@ -28,6 +28,7 @@ search.leptons.xyz
 search.librenode.com
 search.mdosch.de
 search.nerdvpn.de
+search.nordh.tech
 search.oh64.moe
 search.ohaa.xyz
 search.ononoki.org

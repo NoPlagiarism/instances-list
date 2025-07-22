@@ -66,7 +66,6 @@ notabin.com
 notas.gatooscuro.xyz
 notebin.de
 notes.dark2web.com
-notes.de.cool
 oldpb.purplebored.pl
 onetime.vits.co.uk
 opportunis.me
@@ -98,7 +97,6 @@ paste.devsite.pl
 paste.dismail.de
 paste.djalexkidd.ovh
 paste.domguin.com
-paste.drfrankenstein.co.uk
 paste.dvotx.org
 paste.elyday.net
 paste.evolix.org
@@ -168,6 +166,7 @@ pb.greep.fr
 pb.jaska.cc
 pb.skifab.se
 pbin.nadeko.net
+pbn.lck.tf
 photistic.org
 private.opendoor.fr
 privatebin.app
@@ -175,7 +174,6 @@ privatebin.ar21.de
 privatebin.arch-linux.cz
 privatebin.at
 privatebin.atempo.com
-privatebin.co
 privatebin.cobiotx.io
 privatebin.deblan.org
 privatebin.devol.it
@@ -200,6 +198,7 @@ privatebin.webdiscount.net
 privatebin.wildberries.ru
 privatebin.wsmm.de
 privatebin.z1337.de
+privatebin.zorin.lol
 privatepastebin.com
 sebsauvage.net
 secret.adelphi.de

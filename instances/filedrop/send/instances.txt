@@ -11,6 +11,7 @@ send.aezafiles.net
 send.artemislena.eu
 send.aslaets.be
 send.aurorabilisim.com
+send.blablalinux.be
 send.boblorange.net
 send.canine.tools
 send.codespace.cz
@@ -22,6 +23,7 @@ send.kokomo.cloud
 send.majoenell.com
 send.mni.li
 send.monks.tools
+send.nog.community
 send.richy.sh
 send.sdad.pro
 send.skylerszijjarto.com
