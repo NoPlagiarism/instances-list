@@ -14,6 +14,7 @@ quetre.jeikobu.net
 quetre.lunar.icu
 quetre.nadeko.net
 quetre.privacydev.net
+quetre.privacyredirect.com
 quetre.private.coffee
 quetre.pussthecat.org
 quetre.r4fo.com

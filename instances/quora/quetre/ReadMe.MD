@@ -17,6 +17,7 @@
 - [quetre.lunar.icu](https://quetre.lunar.icu)
 - [quetre.nadeko.net](https://quetre.nadeko.net)
 - [quetre.privacydev.net](https://quetre.privacydev.net)
+- [quetre.privacyredirect.com](https://quetre.privacyredirect.com)
 - [quetre.private.coffee](https://quetre.private.coffee)
 - [quetre.pussthecat.org](https://quetre.pussthecat.org)
 - [quetre.r4fo.com](https://quetre.r4fo.com)

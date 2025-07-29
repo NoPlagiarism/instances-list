@@ -1,6 +1,7 @@
 0.0g.gg
 0.jaegers.net
 0.pastejar.com
+03c.de
 0g.gg
 amir.ch
 b.appinn.net
@@ -28,7 +29,6 @@ bin.infra.Mee6.cloud
 bin.iya.at
 bin.libreon.fr
 bin.mezzo.moe
-bin.mycozy.space
 bin.ngn.tf
 bin.nixnet.services
 bin.nji9.de
@@ -45,6 +45,7 @@ bin.uhl.cloud
 bin.vdx.sh
 bin.veracry.pt
 bin.waifu.rip
+bin.warth-hofer.de
 bin.whitebow.fr
 bonus01.hwb0307.com
 cles.le-filament.com
@@ -99,11 +100,13 @@ paste.djalexkidd.ovh
 paste.domguin.com
 paste.dvotx.org
 paste.elyday.net
+paste.encrypt.co.il
 paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
 paste.gnoppix.org
 paste.gstd.eu
+paste.hackliberty.org
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
@@ -115,6 +118,7 @@ paste.loryy.dev
 paste.molytov.xyz
 paste.momobako.com
 paste.momou.ch
+paste.myali.net
 paste.nerdvpn.de
 paste.nolog.cz
 paste.nomagic.uk
@@ -197,8 +201,8 @@ privatebin.warpzone.ms
 privatebin.webdiscount.net
 privatebin.wildberries.ru
 privatebin.wsmm.de
+privatebin.yuricunha.com
 privatebin.z1337.de
-privatebin.zorin.lol
 privatepastebin.com
 sebsauvage.net
 secret.adelphi.de

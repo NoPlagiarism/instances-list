@@ -287,8 +287,9 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
+            "discuss.whatever.social",
             "libreddit.tux.pizza",
-            "safereddit.com"
+            "reddit.rtrace.io"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -303,18 +304,25 @@
         "path": "reddit/redlib",
         "instances": [
             "eu.safereddit.com",
+            "r.darrennathanael.com",
+            "red.artemislena.eu",
+            "reddit.nerdvpn.de",
             "reddit.rtrace.io",
             "redlib.4o1x5.dev",
             "redlib.catsarch.com",
+            "redlib.minihoot.site",
+            "redlib.orangenet.cc",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "redlib.thebunny.zone",
             "redlib.tux.pizza",
             "rl.blitzw.in",
-            "safereddit.com"
+            "rl.bloat.cat"
         ],
         "onion": [
+            "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
+            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
@@ -349,13 +357,9 @@
         "path": "youtube/piped",
         "instances": [
             "nyc1.piapi.ggtyler.dev",
-            "piped.drgns.space",
-            "piped.ducks.party",
             "piped.private.coffee"
         ],
-        "onion": [
-            "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "invidious": {
@@ -443,6 +447,7 @@
             "quetre.lunar.icu",
             "quetre.nadeko.net",
             "quetre.privacydev.net",
+            "quetre.privacyredirect.com",
             "quetre.private.coffee",
             "quetre.pussthecat.org",
             "quetre.r4fo.com",
@@ -830,6 +835,7 @@
             "0.0g.gg",
             "0.jaegers.net",
             "0.pastejar.com",
+            "03c.de",
             "0g.gg",
             "amir.ch",
             "b.appinn.net",
@@ -857,7 +863,6 @@
             "bin.iya.at",
             "bin.libreon.fr",
             "bin.mezzo.moe",
-            "bin.mycozy.space",
             "bin.ngn.tf",
             "bin.nixnet.services",
             "bin.nji9.de",
@@ -874,6 +879,7 @@
             "bin.vdx.sh",
             "bin.veracry.pt",
             "bin.waifu.rip",
+            "bin.warth-hofer.de",
             "bin.whitebow.fr",
             "bonus01.hwb0307.com",
             "cles.le-filament.com",
@@ -928,11 +934,13 @@
             "paste.domguin.com",
             "paste.dvotx.org",
             "paste.elyday.net",
+            "paste.encrypt.co.il",
             "paste.evolix.org",
             "paste.fitgirl-repacks.site",
             "paste.fizi.ca",
             "paste.gnoppix.org",
             "paste.gstd.eu",
+            "paste.hackliberty.org",
             "paste.helkor.eu",
             "paste.hostify.cz",
             "paste.hostux.net",
@@ -944,6 +952,7 @@
             "paste.molytov.xyz",
             "paste.momobako.com",
             "paste.momou.ch",
+            "paste.myali.net",
             "paste.nerdvpn.de",
             "paste.nolog.cz",
             "paste.nomagic.uk",
@@ -1026,8 +1035,8 @@
             "privatebin.webdiscount.net",
             "privatebin.wildberries.ru",
             "privatebin.wsmm.de",
+            "privatebin.yuricunha.com",
             "privatebin.z1337.de",
-            "privatebin.zorin.lol",
             "privatepastebin.com",
             "sebsauvage.net",
             "secret.adelphi.de",
@@ -1071,7 +1080,8 @@
             "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "privatebin.f24ozip5vwchlhlsnjfkpmkforrvshp5z6nvna6moy7t4wghfteewyqd.onion",
-            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
+            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion",
+            "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
         ],
         "i2p": []
     },
@@ -1121,7 +1131,6 @@
         "url": "https://github.com/TeamPiped/piped-proxy",
         "path": "youtube/piped-proxy",
         "instances": [
-            "piped-proxy.ducks.party",
             "pipedproxy.drgns.space",
             "piproxy.ggtyler.dev",
             "proxy.piped.private.coffee"
