@@ -213,6 +213,7 @@
             "searxng.f24ozipdw2v3qudr5udqhz5sme2im4ytyufb25liyaba7zjx7ui6kxqd.onion",
             "searxokthnxmo7ndis35jpts2tawcwvbovuy47qtavwo7oq4jgcm5gqd.onion",
             "searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion",
+            "vp5dnvfg352ohj674xi6owkddy3daftkmyfsbbt73sb5gt7qxctfcqad.onion",
             "whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion",
             "x5okencj67ew6xfma5wbbfhfcnajmpgb57d6kdvion5yajth666oggyd.onion"
         ],
@@ -287,9 +288,9 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "discuss.whatever.social",
-            "libreddit.tux.pizza",
-            "reddit.rtrace.io"
+            "reddit.rtrace.io",
+            "safereddit.com",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -303,12 +304,9 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "eu.safereddit.com",
-            "r.darrennathanael.com",
-            "red.artemislena.eu",
+            "lr.ptr.moe",
             "reddit.nerdvpn.de",
             "reddit.rtrace.io",
-            "redlib.4o1x5.dev",
             "redlib.catsarch.com",
             "redlib.minihoot.site",
             "redlib.orangenet.cc",
@@ -316,13 +314,12 @@
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "redlib.thebunny.zone",
-            "redlib.tux.pizza",
             "rl.blitzw.in",
-            "rl.bloat.cat"
+            "rl.bloat.cat",
+            "safereddit.com"
         ],
         "onion": [
             "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
@@ -357,6 +354,7 @@
         "path": "youtube/piped",
         "instances": [
             "nyc1.piapi.ggtyler.dev",
+            "piped.drgns.spapce",
             "piped.private.coffee"
         ],
         "onion": [],
@@ -863,7 +861,6 @@
             "bin.iya.at",
             "bin.libreon.fr",
             "bin.mezzo.moe",
-            "bin.ngn.tf",
             "bin.nixnet.services",
             "bin.nji9.de",
             "bin.oldgate.org",
@@ -879,7 +876,6 @@
             "bin.vdx.sh",
             "bin.veracry.pt",
             "bin.waifu.rip",
-            "bin.warth-hofer.de",
             "bin.whitebow.fr",
             "bonus01.hwb0307.com",
             "cles.le-filament.com",
@@ -905,7 +901,6 @@
             "onetime.vits.co.uk",
             "opportunis.me",
             "ots.ip-projects.de",
-            "ots.kocsar.at",
             "p.blueridgedebate.com",
             "p.darklab.sh",
             "p.dousse.eu",
@@ -952,7 +947,6 @@
             "paste.molytov.xyz",
             "paste.momobako.com",
             "paste.momou.ch",
-            "paste.myali.net",
             "paste.nerdvpn.de",
             "paste.nolog.cz",
             "paste.nomagic.uk",
@@ -1002,6 +996,7 @@
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
+            "pb.lightningnur.win",
             "pb.skifab.se",
             "pbin.nadeko.net",
             "pbn.lck.tf",
@@ -1022,6 +1017,7 @@
             "privatebin.johnnybegood.fr",
             "privatebin.kosebamse.com",
             "privatebin.luckvintage.com",
+            "privatebin.mbiz.io",
             "privatebin.net",
             "privatebin.oxidizer.de",
             "privatebin.paradox.ai",
@@ -1037,7 +1033,9 @@
             "privatebin.wsmm.de",
             "privatebin.yuricunha.com",
             "privatebin.z1337.de",
+            "privatebin.zorin.lol",
             "privatepastebin.com",
+            "safepad.pagnozzi.info",
             "sebsauvage.net",
             "secret.adelphi.de",
             "secret.c0re.me",

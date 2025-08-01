@@ -29,7 +29,6 @@ bin.infra.Mee6.cloud
 bin.iya.at
 bin.libreon.fr
 bin.mezzo.moe
-bin.ngn.tf
 bin.nixnet.services
 bin.nji9.de
 bin.oldgate.org
@@ -45,7 +44,6 @@ bin.uhl.cloud
 bin.vdx.sh
 bin.veracry.pt
 bin.waifu.rip
-bin.warth-hofer.de
 bin.whitebow.fr
 bonus01.hwb0307.com
 cles.le-filament.com
@@ -71,7 +69,6 @@ oldpb.purplebored.pl
 onetime.vits.co.uk
 opportunis.me
 ots.ip-projects.de
-ots.kocsar.at
 p.blueridgedebate.com
 p.darklab.sh
 p.dousse.eu
@@ -118,7 +115,6 @@ paste.loryy.dev
 paste.molytov.xyz
 paste.momobako.com
 paste.momou.ch
-paste.myali.net
 paste.nerdvpn.de
 paste.nolog.cz
 paste.nomagic.uk
@@ -168,6 +164,7 @@ pb.flossboxin.org.in
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
+pb.lightningnur.win
 pb.skifab.se
 pbin.nadeko.net
 pbn.lck.tf
@@ -188,6 +185,7 @@ privatebin.io
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
 privatebin.luckvintage.com
+privatebin.mbiz.io
 privatebin.net
 privatebin.oxidizer.de
 privatebin.paradox.ai
@@ -203,7 +201,9 @@ privatebin.wildberries.ru
 privatebin.wsmm.de
 privatebin.yuricunha.com
 privatebin.z1337.de
+privatebin.zorin.lol
 privatepastebin.com
+safepad.pagnozzi.info
 sebsauvage.net
 secret.adelphi.de
 secret.c0re.me
