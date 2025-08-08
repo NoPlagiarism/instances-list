@@ -1,9 +1,12 @@
 # [redlib](https://github.com/redlib-org/redlib#readme)
 
 # Clearnet
+- [eu.safereddit.com](https://eu.safereddit.com)
+- [l.opnxng.com](https://l.opnxng.com)
 - [lr.ptr.moe](https://lr.ptr.moe)
+- [reddit.adminforge.de](https://reddit.adminforge.de)
 - [reddit.nerdvpn.de](https://reddit.nerdvpn.de)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
+- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.minihoot.site](https://redlib.minihoot.site)
 - [redlib.orangenet.cc](https://redlib.orangenet.cc)

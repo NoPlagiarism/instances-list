@@ -1,8 +1,9 @@
 {
     "instances": [
+        "discuss.whatever.social",
+        "l.opnxng.com",
         "reddit.rtrace.io",
-        "safereddit.com",
-        "snoo.habedieeh.re"
+        "safereddit.com"
     ],
     "onion": [
         "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
