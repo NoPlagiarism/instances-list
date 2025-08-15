@@ -14,13 +14,14 @@ priv.au
 s.datuan.dev
 s.mble.dk
 search.080609.xyz
+search.2b9t.xyz
 search.ashisgreat.xyz
+search.buddyverse.net
 search.canine.tools
 search.catboy.house
 search.charliewhiskey.net
 search.citw.lgbt
 search.einfachzocken.eu
-search.federicociro.com
 search.goober.cloud
 search.hbubli.cc
 search.im-in.space
@@ -31,7 +32,6 @@ search.leptons.xyz
 search.librenode.com
 search.mdosch.de
 search.nerdvpn.de
-search.nordh.tech
 search.oh64.moe
 search.ohaa.xyz
 search.ononoki.org
@@ -40,6 +40,7 @@ search.projectsegfau.lt
 search.rhscz.eu
 search.rowie.at
 search.sapti.me
+search.system51.co.uk
 search.url4irl.com
 searx.ankha.ac
 searx.dresden.network
