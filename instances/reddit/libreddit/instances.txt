@@ -1,4 +1,6 @@
 discuss.whatever.social
 l.opnxng.com
 libreddit.privacydev.net
+libreddit.tux.pizza
 reddit.rtrace.io
+safereddit.com

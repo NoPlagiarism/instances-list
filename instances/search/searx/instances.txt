@@ -11,7 +11,6 @@ ooglester.com
 opnxng.com
 paulgo.io
 priv.au
-s.datuan.dev
 s.mble.dk
 search.080609.xyz
 search.2b9t.xyz
@@ -22,14 +21,13 @@ search.catboy.house
 search.charliewhiskey.net
 search.citw.lgbt
 search.einfachzocken.eu
-search.goober.cloud
 search.hbubli.cc
 search.im-in.space
 search.indst.eu
 search.inetol.net
+search.ipsys.bf
 search.ipv6s.net
 search.leptons.xyz
-search.librenode.com
 search.mdosch.de
 search.nerdvpn.de
 search.oh64.moe
@@ -60,7 +58,6 @@ searx.rhscz.eu
 searx.ro
 searx.sev.monster
 searx.stream
-searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tuxcloud.net
 searx.zhenyapav.com
@@ -72,6 +69,5 @@ searxng.shreven.org
 searxng.site
 searxng.website
 seek.fyi
-suche.dasnetzundich.de
 sx.catgirl.cloud
 www.gruble.de
