@@ -19,12 +19,12 @@ search.buddyverse.net
 search.canine.tools
 search.catboy.house
 search.charliewhiskey.net
-search.citw.lgbt
 search.einfachzocken.eu
 search.hbubli.cc
 search.im-in.space
 search.indst.eu
 search.inetol.net
+search.internetsucks.net
 search.ipsys.bf
 search.ipv6s.net
 search.leptons.xyz

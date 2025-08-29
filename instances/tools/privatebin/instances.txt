@@ -39,6 +39,7 @@ bin.salvatorenoschese.it
 bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
+bin.sirocistan.com
 bin.tiekoetter.com
 bin.tinapunk.de
 bin.uhl.cloud
@@ -62,6 +63,7 @@ hpc.uni.lu
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
+n0t.io
 notabin.com
 notas.gatooscuro.xyz
 notebin.de
@@ -105,7 +107,6 @@ paste.fitgirl-repacks.site
 paste.fizi.ca
 paste.gnoppix.org
 paste.gstd.eu
-paste.hackliberty.org
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
@@ -123,8 +124,6 @@ paste.ononoki.org
 paste.picasoft.net
 paste.plus
 paste.psr.tf
-paste.rb.dcu.ie
-paste.redbrick.dcu.ie
 paste.rys.pw
 paste.shreven.org
 paste.skynetcloud.site
@@ -154,10 +153,8 @@ pastebin.linqhost.nl
 pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastequest.com
-pb.1devops.io
 pb.bedevops.edu.vn
 pb.blackvoid.club
-pb.envs.net
 pb.f24o.zip
 pb.flossboxin.org.in
 pb.fly.dev
@@ -167,7 +164,6 @@ pb.lightningnur.win
 pb.skifab.se
 pbin.nadeko.net
 photistic.org
-private.opendoor.fr
 privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
@@ -183,6 +179,7 @@ privatebin.freinetz.ch
 privatebin.io
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
+privatebin.li
 privatebin.luckvintage.com
 privatebin.mbiz.io
 privatebin.net
@@ -223,10 +220,8 @@ textbin.quick-space.de
 texte.antopie.org
 tmp.app.bitbull.ch
 tools.mataucarre.fr
-wtf.roflcopter.fr
 www.nervengas.com
 www.noteshare.net
-www.vlh.dk
 zb.zerosgaming.de
 zerobin-legacy.dssr.ch
 zerobin.thican.net
