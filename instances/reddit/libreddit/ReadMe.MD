@@ -2,9 +2,7 @@
 
 # Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
-- [lr.vern.cc](https://lr.vern.cc)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 # Onion

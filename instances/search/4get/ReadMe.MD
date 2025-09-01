@@ -14,6 +14,7 @@
 - [4get.hbubli.cc](https://4get.hbubli.cc)
 - [4get.kuuro.net](https://4get.kuuro.net)
 - [4get.lunar.icu](https://4get.lunar.icu)
+- [4get.lurx.net](https://4get.lurx.net)
 - [4get.neco.lol](https://4get.neco.lol)
 - [4get.nigga.pt](https://4get.nigga.pt)
 - [4get.plunked.party](https://4get.plunked.party)

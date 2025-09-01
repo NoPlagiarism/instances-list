@@ -83,7 +83,7 @@
 - [simplytranslate.org](https://simplytranslate.org)
 - [st.adast.dk](https://st.adast.dk)
 ### Onion
-
+- [s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion](http://s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion)
 ### I2P
 
 
@@ -286,9 +286,7 @@
 
 ### Clearnet
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
-- [lr.vern.cc](https://lr.vern.cc)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 ### Onion
@@ -302,9 +300,10 @@
 ### Clearnet
 - [eu.safereddit.com](https://eu.safereddit.com)
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [lr.ptr.moe](https://lr.ptr.moe)
 - [red.artemislena.eu](https://red.artemislena.eu)
+- [reddit.adminforge.de](https://reddit.adminforge.de)
+- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.frontendfriendly.xyz](https://redlib.frontendfriendly.xyz)
 - [redlib.orangenet.cc](https://redlib.orangenet.cc)
@@ -343,10 +342,10 @@
 ## [Piped](https://github.com/TeamPiped/Piped#readme)
 
 ### Clearnet
-- [nyc1.piapi.ggtyler.dev](https://nyc1.piapi.ggtyler.dev)
+- [piped.ducks.party](https://piped.ducks.party)
 - [piped.private.coffee](https://piped.private.coffee)
 ### Onion
-
+- [gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion](http://gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion)
 ### I2P
 
 
@@ -1018,6 +1017,7 @@
 - [4get.hbubli.cc](https://4get.hbubli.cc)
 - [4get.kuuro.net](https://4get.kuuro.net)
 - [4get.lunar.icu](https://4get.lunar.icu)
+- [4get.lurx.net](https://4get.lurx.net)
 - [4get.neco.lol](https://4get.neco.lol)
 - [4get.nigga.pt](https://4get.nigga.pt)
 - [4get.plunked.party](https://4get.plunked.party)

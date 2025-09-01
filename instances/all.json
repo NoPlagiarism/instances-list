@@ -58,7 +58,9 @@
             "simplytranslate.org",
             "st.adast.dk"
         ],
-        "onion": [],
+        "onion": [
+            "s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion"
+        ],
         "i2p": []
     },
     "mozhi": {
@@ -286,9 +288,7 @@
         "path": "reddit/libreddit",
         "instances": [
             "l.opnxng.com",
-            "libreddit.privacydev.net",
             "libreddit.tux.pizza",
-            "lr.vern.cc",
             "reddit.rtrace.io",
             "safereddit.com"
         ],
@@ -306,9 +306,10 @@
         "instances": [
             "eu.safereddit.com",
             "l.opnxng.com",
-            "libreddit.privacydev.net",
             "lr.ptr.moe",
             "red.artemislena.eu",
+            "reddit.adminforge.de",
+            "redlib.4o1x5.dev",
             "redlib.catsarch.com",
             "redlib.frontendfriendly.xyz",
             "redlib.orangenet.cc",
@@ -355,10 +356,12 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "nyc1.piapi.ggtyler.dev",
+            "piped.ducks.party",
             "piped.private.coffee"
         ],
-        "onion": [],
+        "onion": [
+            "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion"
+        ],
         "i2p": []
     },
     "invidious": {
@@ -1100,6 +1103,7 @@
             "4get.hbubli.cc",
             "4get.kuuro.net",
             "4get.lunar.icu",
+            "4get.lurx.net",
             "4get.neco.lol",
             "4get.nigga.pt",
             "4get.plunked.party",

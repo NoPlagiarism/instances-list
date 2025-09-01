@@ -1,8 +1,9 @@
 eu.safereddit.com
 l.opnxng.com
-libreddit.privacydev.net
 lr.ptr.moe
 red.artemislena.eu
+reddit.adminforge.de
+redlib.4o1x5.dev
 redlib.catsarch.com
 redlib.frontendfriendly.xyz
 redlib.orangenet.cc

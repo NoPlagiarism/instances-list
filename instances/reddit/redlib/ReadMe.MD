@@ -3,9 +3,10 @@
 # Clearnet
 - [eu.safereddit.com](https://eu.safereddit.com)
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [lr.ptr.moe](https://lr.ptr.moe)
 - [red.artemislena.eu](https://red.artemislena.eu)
+- [reddit.adminforge.de](https://reddit.adminforge.de)
+- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.frontendfriendly.xyz](https://redlib.frontendfriendly.xyz)
 - [redlib.orangenet.cc](https://redlib.orangenet.cc)
