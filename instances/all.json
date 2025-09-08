@@ -40,7 +40,6 @@
             "translate.northboot.xyz"
         ],
         "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
@@ -144,11 +143,13 @@
             "search.080609.xyz",
             "search.2b9t.xyz",
             "search.ashisgreat.xyz",
+            "search.bladerunn.in",
             "search.buddyverse.net",
             "search.canine.tools",
             "search.catboy.house",
             "search.charliewhiskey.net",
             "search.einfachzocken.eu",
+            "search.ethibox.fr",
             "search.hbubli.cc",
             "search.im-in.space",
             "search.indst.eu",
@@ -162,12 +163,14 @@
             "search.oh64.moe",
             "search.ohaa.xyz",
             "search.ononoki.org",
+            "search.perditum.com",
             "search.privacyredirect.com",
             "search.projectsegfau.lt",
             "search.rhscz.eu",
             "search.rowie.at",
             "search.sapti.me",
             "search.system51.co.uk",
+            "search.undertale.uk",
             "search.url4irl.com",
             "searx.ankha.ac",
             "searx.dresden.network",
@@ -207,6 +210,7 @@
             "kantanrucloofzrfn7vqlsxbhipkqv55qygn4oxogbnjpfex54bw4gad.onion",
             "ls67zxncmcqgn2vg74ckcwxgu5p3e5mf2khues3egkumhcqtbsg4kqyd.onion",
             "nerdvpn4iln4didgzcw7pgvjv4p3pwn3e3dq732oxwidfv6bacnyuvad.onion",
+            "psxngvx3edy7lvaaeurdpfccketrmpwknm6sah2qz53qcskxd272tiqd.onion",
             "qmha5d7v5lpck2xcwiwmpejw6wf5l5uump7tqisfk5ddzseng47eshyd.onion",
             "search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion",
@@ -287,6 +291,7 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
+            "discuss.whatever.social",
             "l.opnxng.com",
             "libreddit.tux.pizza",
             "reddit.rtrace.io",
@@ -304,32 +309,24 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "eu.safereddit.com",
             "l.opnxng.com",
-            "lr.ptr.moe",
             "red.artemislena.eu",
             "reddit.adminforge.de",
-            "redlib.4o1x5.dev",
             "redlib.catsarch.com",
+            "redlib.ducks.party",
             "redlib.frontendfriendly.xyz",
-            "redlib.orangenet.cc",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
-            "redlib.thebunny.zone",
-            "redlib.tux.pizza",
             "rl.blitzw.in",
-            "rl.bloat.cat"
+            "safereddit.com"
         ],
         "onion": [
+            "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
         ],
-        "i2p": [
-            "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
-        ]
+        "i2p": []
     },
     "wikiless": {
         "name": "WikiLess",
@@ -356,12 +353,10 @@
         "url": "https://github.com/TeamPiped/Piped#readme",
         "path": "youtube/piped",
         "instances": [
-            "piped.ducks.party",
+            "nyc1.piapi.ggtyler.dev",
             "piped.private.coffee"
         ],
-        "onion": [
-            "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "invidious": {
@@ -868,15 +863,12 @@
             "bin.nji9.de",
             "bin.outv.im",
             "bin.purplebored.pl",
-            "bin.ralsei.de",
             "bin.reallyaweso.me",
             "bin.salvatorenoschese.it",
             "bin.sasach.work",
             "bin.sielc.com.ar",
             "bin.siick.fr",
-            "bin.sirocistan.com",
             "bin.tiekoetter.com",
-            "bin.tinapunk.de",
             "bin.uhl.cloud",
             "bin.vdx.sh",
             "bin.veracry.pt",
@@ -907,7 +899,6 @@
             "onetime.vits.co.uk",
             "opportunis.me",
             "ots.ip-projects.de",
-            "ots.kocsar.at",
             "ots.kocsar.com",
             "p.blueridgedebate.com",
             "p.darklab.sh",
@@ -977,8 +968,6 @@
             "paste.underworld.fr",
             "paste.unit193.net",
             "paste.waays.fr",
-            "paste.worf.win",
-            "paste.zug.expert",
             "pasteb.in",
             "pastebin.24unix.net",
             "pastebin.aquilenet.fr",
@@ -1003,7 +992,6 @@
             "privatebin.ar21.de",
             "privatebin.arch-linux.cz",
             "privatebin.at",
-            "privatebin.atempo.com",
             "privatebin.cobiotx.io",
             "privatebin.cz",
             "privatebin.deblan.org",
@@ -1069,7 +1057,6 @@
             "paste.momou4yoo6k4e6bnvv5lkc6lc5fg7xuye7uqxxvmhnvbsr37bfkn7dyd.onion",
             "paste.ona32cmhotftdnfrsyxoopqjjbev6jhy3gdujlozqj2altj5mhrn4lyd.onion",
             "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
-            "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "privatebin.f24ozip5vwchlhlsnjfkpmkforrvshp5z6nvna6moy7t4wghfteewyqd.onion",
             "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
         ],
@@ -1112,6 +1099,7 @@
             "4get.sudovanilla.org",
             "4get.thebunny.zone",
             "4get.zzls.xyz",
+            "search.fischbytes.de",
             "search.fzorb.xyz",
             "search.mint.lgbt",
             "search.yonderly.org"

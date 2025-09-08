@@ -33,15 +33,12 @@ bin.nixnet.services
 bin.nji9.de
 bin.outv.im
 bin.purplebored.pl
-bin.ralsei.de
 bin.reallyaweso.me
 bin.salvatorenoschese.it
 bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
-bin.sirocistan.com
 bin.tiekoetter.com
-bin.tinapunk.de
 bin.uhl.cloud
 bin.vdx.sh
 bin.veracry.pt
@@ -72,7 +69,6 @@ oldpb.purplebored.pl
 onetime.vits.co.uk
 opportunis.me
 ots.ip-projects.de
-ots.kocsar.at
 ots.kocsar.com
 p.blueridgedebate.com
 p.darklab.sh
@@ -142,8 +138,6 @@ paste.tuxcloud.net
 paste.underworld.fr
 paste.unit193.net
 paste.waays.fr
-paste.worf.win
-paste.zug.expert
 pasteb.in
 pastebin.24unix.net
 pastebin.aquilenet.fr
@@ -168,7 +162,6 @@ privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
 privatebin.at
-privatebin.atempo.com
 privatebin.cobiotx.io
 privatebin.cz
 privatebin.deblan.org

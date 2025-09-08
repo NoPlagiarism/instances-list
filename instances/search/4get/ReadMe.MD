@@ -23,6 +23,7 @@
 - [4get.sudovanilla.org](https://4get.sudovanilla.org)
 - [4get.thebunny.zone](https://4get.thebunny.zone)
 - [4get.zzls.xyz](https://4get.zzls.xyz)
+- [search.fischbytes.de](https://search.fischbytes.de)
 - [search.fzorb.xyz](https://search.fzorb.xyz)
 - [search.mint.lgbt](https://search.mint.lgbt)
 - [search.yonderly.org](https://search.yonderly.org)

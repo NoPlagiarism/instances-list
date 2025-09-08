@@ -1,6 +1,7 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
+- [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
 - [libreddit.tux.pizza](https://libreddit.tux.pizza)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
