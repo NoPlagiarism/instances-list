@@ -7,6 +7,7 @@ kantan.cat
 metacat.online
 northboot.xyz
 nyc1.sx.ggtyler.dev
+o5.gg
 ooglester.com
 opnxng.com
 paulgo.io
@@ -14,6 +15,7 @@ priv.au
 s.mble.dk
 search.080609.xyz
 search.2b9t.xyz
+search.anoni.net
 search.ashisgreat.xyz
 search.bladerunn.in
 search.buddyverse.net
@@ -23,6 +25,7 @@ search.charliewhiskey.net
 search.einfachzocken.eu
 search.ethibox.fr
 search.hbubli.cc
+search.iguru.gr
 search.im-in.space
 search.indst.eu
 search.inetol.net
@@ -33,7 +36,6 @@ search.leptons.xyz
 search.mdosch.de
 search.nerdvpn.de
 search.oh64.moe
-search.ohaa.xyz
 search.ononoki.org
 search.perditum.com
 search.privacyredirect.com

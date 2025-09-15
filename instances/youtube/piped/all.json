@@ -1,8 +1,11 @@
 {
     "instances": [
         "nyc1.piapi.ggtyler.dev",
+        "piped.ducks.party",
         "piped.private.coffee"
     ],
-    "onion": [],
+    "onion": [
+        "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion"
+    ],
     "i2p": []
 }

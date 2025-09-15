@@ -13,9 +13,9 @@ bin.acquia.com
 bin.anis.live
 bin.bloat.cat
 bin.byreqz.de
+bin.c17.dev
 bin.cafeo.re
 bin.chimuc.com
-bin.citadel365.com
 bin.disroot.org
 bin.esd.cc
 bin.freedombits.org
@@ -41,7 +41,6 @@ bin.siick.fr
 bin.tiekoetter.com
 bin.uhl.cloud
 bin.vdx.sh
-bin.veracry.pt
 bin.waifu.rip
 bin.whitebow.fr
 bonus01.hwb0307.com
@@ -138,7 +137,6 @@ paste.tuxcloud.net
 paste.underworld.fr
 paste.unit193.net
 paste.waays.fr
-pasteb.in
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.grey.pw

@@ -14,7 +14,6 @@
 - [send.artemislena.eu](https://send.artemislena.eu)
 - [send.aslaets.be](https://send.aslaets.be)
 - [send.aurorabilisim.com](https://send.aurorabilisim.com)
-- [send.blablalinux.be](https://send.blablalinux.be)
 - [send.boblorange.net](https://send.boblorange.net)
 - [send.canine.tools](https://send.canine.tools)
 - [send.codespace.cz](https://send.codespace.cz)

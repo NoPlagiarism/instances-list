@@ -1,10 +1,8 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
-- [discuss.whatever.social](https://discuss.whatever.social)
 - [l.opnxng.com](https://l.opnxng.com)
-- [libreddit.tux.pizza](https://libreddit.tux.pizza)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
+- [lr.vern.cc](https://lr.vern.cc)
 - [safereddit.com](https://safereddit.com)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)

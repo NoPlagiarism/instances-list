@@ -5,6 +5,7 @@
 - [4.ngn.tf](https://4.ngn.tf)
 - [4get.aishiteiru.moe](https://4get.aishiteiru.moe)
 - [4get.ca](https://4get.ca)
+- [4get.canine.tools](https://4get.canine.tools)
 - [4get.ch](https://4get.ch)
 - [4get.dcs0.hu](https://4get.dcs0.hu)
 - [4get.dorfdsl.de](https://4get.dorfdsl.de)

@@ -135,6 +135,7 @@
             "metacat.online",
             "northboot.xyz",
             "nyc1.sx.ggtyler.dev",
+            "o5.gg",
             "ooglester.com",
             "opnxng.com",
             "paulgo.io",
@@ -142,6 +143,7 @@
             "s.mble.dk",
             "search.080609.xyz",
             "search.2b9t.xyz",
+            "search.anoni.net",
             "search.ashisgreat.xyz",
             "search.bladerunn.in",
             "search.buddyverse.net",
@@ -151,6 +153,7 @@
             "search.einfachzocken.eu",
             "search.ethibox.fr",
             "search.hbubli.cc",
+            "search.iguru.gr",
             "search.im-in.space",
             "search.indst.eu",
             "search.inetol.net",
@@ -161,7 +164,6 @@
             "search.mdosch.de",
             "search.nerdvpn.de",
             "search.oh64.moe",
-            "search.ohaa.xyz",
             "search.ononoki.org",
             "search.perditum.com",
             "search.privacyredirect.com",
@@ -212,6 +214,7 @@
             "nerdvpn4iln4didgzcw7pgvjv4p3pwn3e3dq732oxwidfv6bacnyuvad.onion",
             "psxngvx3edy7lvaaeurdpfccketrmpwknm6sah2qz53qcskxd272tiqd.onion",
             "qmha5d7v5lpck2xcwiwmpejw6wf5l5uump7tqisfk5ddzseng47eshyd.onion",
+            "search.anoninetru5tflukgfaehun7q6khowgmymcff3gtk5oyesqazhmfxtyd.onion",
             "search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion",
             "searxng.f24ozipdw2v3qudr5udqhz5sme2im4ytyufb25liyaba7zjx7ui6kxqd.onion",
@@ -291,10 +294,8 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "discuss.whatever.social",
             "l.opnxng.com",
-            "libreddit.tux.pizza",
-            "reddit.rtrace.io",
+            "lr.vern.cc",
             "safereddit.com"
         ],
         "onion": [
@@ -310,20 +311,22 @@
         "path": "reddit/redlib",
         "instances": [
             "l.opnxng.com",
+            "lr.ptr.moe",
             "red.artemislena.eu",
             "reddit.adminforge.de",
-            "redlib.catsarch.com",
-            "redlib.ducks.party",
+            "redlib.4o1x5.dev",
+            "redlib.baczek.me",
             "redlib.frontendfriendly.xyz",
+            "redlib.orangenet.cc",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
-            "redlib.privadency.com",
+            "redlib.thebunny.zone",
             "rl.blitzw.in",
             "safereddit.com"
         ],
         "onion": [
-            "loauov3cbaxndpy4adn5ocelulqr6567uktcquwt7coreved445baxad.onion",
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+            "redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
         ],
         "i2p": []
@@ -354,9 +357,12 @@
         "path": "youtube/piped",
         "instances": [
             "nyc1.piapi.ggtyler.dev",
+            "piped.ducks.party",
             "piped.private.coffee"
         ],
-        "onion": [],
+        "onion": [
+            "gn72uh2yv5dy5iminsskb22i62ynnhzxbfekcmiw6m6eakw7kuetewid.onion"
+        ],
         "i2p": []
     },
     "invidious": {
@@ -575,7 +581,6 @@
             "send.artemislena.eu",
             "send.aslaets.be",
             "send.aurorabilisim.com",
-            "send.blablalinux.be",
             "send.boblorange.net",
             "send.canine.tools",
             "send.codespace.cz",
@@ -843,9 +848,9 @@
             "bin.anis.live",
             "bin.bloat.cat",
             "bin.byreqz.de",
+            "bin.c17.dev",
             "bin.cafeo.re",
             "bin.chimuc.com",
-            "bin.citadel365.com",
             "bin.disroot.org",
             "bin.esd.cc",
             "bin.freedombits.org",
@@ -871,7 +876,6 @@
             "bin.tiekoetter.com",
             "bin.uhl.cloud",
             "bin.vdx.sh",
-            "bin.veracry.pt",
             "bin.waifu.rip",
             "bin.whitebow.fr",
             "bonus01.hwb0307.com",
@@ -968,7 +972,6 @@
             "paste.underworld.fr",
             "paste.unit193.net",
             "paste.waays.fr",
-            "pasteb.in",
             "pastebin.24unix.net",
             "pastebin.aquilenet.fr",
             "pastebin.grey.pw",
@@ -1081,6 +1084,7 @@
             "4.ngn.tf",
             "4get.aishiteiru.moe",
             "4get.ca",
+            "4get.canine.tools",
             "4get.ch",
             "4get.dcs0.hu",
             "4get.dorfdsl.de",
@@ -1110,6 +1114,7 @@
         "url": "https://github.com/TeamPiped/piped-proxy",
         "path": "youtube/piped-proxy",
         "instances": [
+            "piped-proxy.ducks.party",
             "piproxy.ggtyler.dev",
             "proxy.piped.private.coffee"
         ]
