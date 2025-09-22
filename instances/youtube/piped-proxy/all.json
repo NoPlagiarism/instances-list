@@ -1,7 +1,6 @@
 {
     "instances": [
         "piped-proxy.ducks.party",
-        "piproxy.ggtyler.dev",
         "proxy.piped.private.coffee"
     ]
 }

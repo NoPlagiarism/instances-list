@@ -1,7 +1,6 @@
 # [Piped](https://github.com/TeamPiped/Piped#readme)
 
 # Clearnet
-- [nyc1.piapi.ggtyler.dev](https://nyc1.piapi.ggtyler.dev)
 - [piped.ducks.party](https://piped.ducks.party)
 - [piped.private.coffee](https://piped.private.coffee)
 # Onion

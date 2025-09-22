@@ -6,17 +6,14 @@ find.xenorio.xyz
 kantan.cat
 metacat.online
 northboot.xyz
-nyc1.sx.ggtyler.dev
 o5.gg
 ooglester.com
 opnxng.com
 paulgo.io
 priv.au
 s.mble.dk
-search.080609.xyz
 search.2b9t.xyz
 search.anoni.net
-search.ashisgreat.xyz
 search.bladerunn.in
 search.buddyverse.net
 search.canine.tools
@@ -39,7 +36,6 @@ search.oh64.moe
 search.ononoki.org
 search.perditum.com
 search.privacyredirect.com
-search.projectsegfau.lt
 search.rhscz.eu
 search.rowie.at
 search.sapti.me
@@ -71,6 +67,7 @@ searxng.biz
 searxng.deliberate.world
 searxng.f24o.zip
 searxng.hweeren.com
+searxng.mcgee.red
 searxng.shreven.org
 searxng.site
 searxng.website

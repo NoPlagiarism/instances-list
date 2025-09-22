@@ -8,7 +8,6 @@
 - [mozhi.franklyflawless.org](https://mozhi.franklyflawless.org)
 - [mozhi.pussthecat.org](https://mozhi.pussthecat.org)
 - [mzh.dc09.ru](https://mzh.dc09.ru)
-- [nyc1.mz.ggtyler.dev](https://nyc1.mz.ggtyler.dev)
 - [translate.nerdvpn.de](https://translate.nerdvpn.de)
 - [translate.privacyredirect.com](https://translate.privacyredirect.com)
 - [translate.projectsegfau.lt](https://translate.projectsegfau.lt)
