@@ -27,6 +27,7 @@ bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
 bin.iya.at
+bin.korfie.de
 bin.libreon.fr
 bin.mezzo.moe
 bin.mycozy.space
@@ -190,8 +191,8 @@ privatebin.webdiscount.net
 privatebin.wildberries.ru
 privatebin.wsmm.de
 privatebin.z1337.de
-privatebin.zorin.lol
 privatepastebin.com
+rhoen.dev
 safepad.pagnozzi.info
 sebsauvage.net
 secret.adelphi.de

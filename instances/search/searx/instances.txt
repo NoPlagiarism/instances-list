@@ -21,6 +21,7 @@ search.catboy.house
 search.charliewhiskey.net
 search.einfachzocken.eu
 search.ethibox.fr
+search.femboy.ad
 search.hbubli.cc
 search.iguru.gr
 search.im-in.space
@@ -31,6 +32,7 @@ search.ipsys.bf
 search.ipv6s.net
 search.leptons.xyz
 search.mdosch.de
+search.mycotrip.tech
 search.nerdvpn.de
 search.oh64.moe
 search.ononoki.org

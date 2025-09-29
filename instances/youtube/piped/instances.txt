@@ -1,2 +1,1 @@
-piped.ducks.party
 piped.private.coffee
