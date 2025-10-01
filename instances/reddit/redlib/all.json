@@ -2,17 +2,20 @@
     "instances": [
         "lr.ptr.moe",
         "red.artemislena.eu",
+        "reddit.adminforge.de",
         "redlib.4o1x5.dev",
-        "redlib.baczek.me",
         "redlib.frontendfriendly.xyz",
         "redlib.orangenet.cc",
         "redlib.perennialte.ch",
         "redlib.privacyredirect.com",
         "redlib.privadency.com",
+        "redlib.reallyaweso.me",
+        "redlib.thebunny.zone",
         "rl.blitzw.in"
     ],
     "onion": [
         "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+        "redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
         "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
     ],
     "i2p": []

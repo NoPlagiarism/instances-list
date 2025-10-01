@@ -71,6 +71,7 @@ onetime.vits.co.uk
 opportunis.me
 ots.ip-projects.de
 ots.kocsar.com
+ots.pfcloud.io
 p.blueridgedebate.com
 p.darklab.sh
 p.dousse.eu
@@ -95,7 +96,6 @@ paste.copper.dedyn.io
 paste.d-ku.de
 paste.devsite.pl
 paste.dismail.de
-paste.djalexkidd.ovh
 paste.dvotx.org
 paste.elyday.net
 paste.encrypt.co.il

@@ -40,6 +40,7 @@
 - [search.oh64.moe](https://search.oh64.moe)
 - [search.ononoki.org](https://search.ononoki.org)
 - [search.perditum.com](https://search.perditum.com)
+- [search.pollorebozado.com](https://search.pollorebozado.com)
 - [search.privacyredirect.com](https://search.privacyredirect.com)
 - [search.rhscz.eu](https://search.rhscz.eu)
 - [search.rowie.at](https://search.rowie.at)

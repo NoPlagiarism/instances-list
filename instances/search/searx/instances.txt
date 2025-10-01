@@ -37,6 +37,7 @@ search.nerdvpn.de
 search.oh64.moe
 search.ononoki.org
 search.perditum.com
+search.pollorebozado.com
 search.privacyredirect.com
 search.rhscz.eu
 search.rowie.at
