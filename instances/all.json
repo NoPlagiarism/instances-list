@@ -293,8 +293,7 @@
         "path": "reddit/libreddit",
         "instances": [
             "discuss.whatever.social",
-            "lr.vern.cc",
-            "reddit.rtrace.io"
+            "lr.vern.cc"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -308,22 +307,15 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "lr.ptr.moe",
             "red.artemislena.eu",
-            "reddit.adminforge.de",
-            "redlib.4o1x5.dev",
-            "redlib.frontendfriendly.xyz",
-            "redlib.orangenet.cc",
+            "redlib.nohost.network",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
-            "redlib.reallyaweso.me",
-            "redlib.thebunny.zone",
-            "rl.blitzw.in"
+            "redlib.thebunny.zone"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
         ],
         "i2p": []
@@ -366,7 +358,6 @@
         "instances": [
             "inv.nadeko.net",
             "invidious.f5.si",
-            "invidious.nerdvpn.de",
             "yewtu.be"
         ],
         "onion": [
@@ -958,7 +949,6 @@
             "paste.systemli.org",
             "paste.tecff.de",
             "paste.tech-port.de",
-            "paste.techbag.app",
             "paste.texy.land",
             "paste.thec0de.com",
             "paste.tildeverse.org",
@@ -1019,6 +1009,7 @@
             "privatebin.webdiscount.net",
             "privatebin.wildberries.ru",
             "privatebin.wsmm.de",
+            "privatebin.yuricunha.com",
             "privatebin.z1337.de",
             "privatepastebin.com",
             "rhoen.dev",

@@ -3,7 +3,6 @@
 # Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [invidious.f5.si](https://invidious.f5.si)
-- [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [yewtu.be](https://yewtu.be)
 # Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)

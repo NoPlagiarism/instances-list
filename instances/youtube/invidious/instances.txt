@@ -1,4 +1,3 @@
 inv.nadeko.net
 invidious.f5.si
-invidious.nerdvpn.de
 yewtu.be

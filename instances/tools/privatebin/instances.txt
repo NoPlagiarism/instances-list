@@ -129,7 +129,6 @@ paste.stratum0.org
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
-paste.techbag.app
 paste.texy.land
 paste.thec0de.com
 paste.tildeverse.org
@@ -190,6 +189,7 @@ privatebin.warpzone.ms
 privatebin.webdiscount.net
 privatebin.wildberries.ru
 privatebin.wsmm.de
+privatebin.yuricunha.com
 privatebin.z1337.de
 privatepastebin.com
 rhoen.dev

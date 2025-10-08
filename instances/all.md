@@ -292,7 +292,6 @@
 ### Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
 - [lr.vern.cc](https://lr.vern.cc)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -302,21 +301,14 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
-- [lr.ptr.moe](https://lr.ptr.moe)
 - [red.artemislena.eu](https://red.artemislena.eu)
-- [reddit.adminforge.de](https://reddit.adminforge.de)
-- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
-- [redlib.frontendfriendly.xyz](https://redlib.frontendfriendly.xyz)
-- [redlib.orangenet.cc](https://redlib.orangenet.cc)
+- [redlib.nohost.network](https://redlib.nohost.network)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
-- [redlib.reallyaweso.me](https://redlib.reallyaweso.me)
 - [redlib.thebunny.zone](https://redlib.thebunny.zone)
-- [rl.blitzw.in](https://rl.blitzw.in)
 ### Onion
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
-- [redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion](http://redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion)
 - [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 ### I2P
 
@@ -353,7 +345,6 @@
 ### Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [invidious.f5.si](https://invidious.f5.si)
-- [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [yewtu.be](https://yewtu.be)
 ### Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
@@ -882,7 +873,6 @@
 - [paste.systemli.org](https://paste.systemli.org)
 - [paste.tecff.de](https://paste.tecff.de)
 - [paste.tech-port.de](https://paste.tech-port.de)
-- [paste.techbag.app](https://paste.techbag.app)
 - [paste.texy.land](https://paste.texy.land)
 - [paste.thec0de.com](https://paste.thec0de.com)
 - [paste.tildeverse.org](https://paste.tildeverse.org)
@@ -943,6 +933,7 @@
 - [privatebin.webdiscount.net](https://privatebin.webdiscount.net)
 - [privatebin.wildberries.ru](https://privatebin.wildberries.ru)
 - [privatebin.wsmm.de](https://privatebin.wsmm.de)
+- [privatebin.yuricunha.com](https://privatebin.yuricunha.com)
 - [privatebin.z1337.de](https://privatebin.z1337.de)
 - [privatepastebin.com](https://privatepastebin.com)
 - [rhoen.dev](https://rhoen.dev)
