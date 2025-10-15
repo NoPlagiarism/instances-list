@@ -1,7 +1,9 @@
 {
     "instances": [
         "discuss.whatever.social",
-        "lr.vern.cc"
+        "lr.vern.cc",
+        "r.darklab.sh",
+        "reddit.rtrace.io"
     ],
     "onion": [
         "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",

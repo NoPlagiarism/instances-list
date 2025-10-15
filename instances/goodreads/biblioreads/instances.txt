@@ -1,3 +1,4 @@
+biblioreads.canine.tools
 biblioreads.ducks.party
 biblioreads.eu.org
 biblioreads.franklyflawless.org
@@ -9,7 +10,6 @@ biblioreads.snine.nl
 biblioreads.vercel.app
 bl.vern.cc
 br.bloat.cat
-read.canine.tools
 read.freedit.eu
 read.seitan-ayoub.lol
 read.whateveritworks.org

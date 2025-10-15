@@ -40,6 +40,7 @@
             "translate.northboot.xyz"
         ],
         "onion": [
+            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
             "xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion"
         ],
@@ -98,27 +99,12 @@
         "url": "https://github.com/benbusby/whoogle-search#readme",
         "path": "search/whoogle",
         "instances": [
-            "nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion",
             "search.garudalinux.org",
-            "search.sethforprivacy.com",
-            "wg.vern.cc",
-            "whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion",
-            "whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
-            "whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "whoogle.lunar.icu",
-            "whoogle.privacydev.net",
-            "whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+            "whoogle.privacydev.net"
         ],
-        "onion": [
-            "nuifgsnbb2mcyza74o7illtqmuaqbwu4flam3cdmsrnudwcmkqur37qd.onion",
-            "whoglqjdkgt2an4tdepberwqz3hk7tjo4kqgdnuj77rt7nshw2xqhqad.onion",
-            "whoogle.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion",
-            "whoogle.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-            "whoogle.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
-        ],
-        "i2p": [
-            "verneks7rfjptpz5fpii7n7nrxilsidi2qxepeuuf66c3tsf4nhq.b32.i2p"
-        ]
+        "onion": [],
+        "i2p": []
     },
     "searxng": {
         "name": "SearXNG",
@@ -143,7 +129,6 @@
             "search.anoni.net",
             "search.bladerunn.in",
             "search.buddyverse.net",
-            "search.canine.tools",
             "search.catboy.house",
             "search.charliewhiskey.net",
             "search.einfachzocken.eu",
@@ -194,6 +179,7 @@
             "searx.tuxcloud.net",
             "searx.zhenyapav.com",
             "searxng.biz",
+            "searxng.canine.tools",
             "searxng.deliberate.world",
             "searxng.f24o.zip",
             "searxng.hweeren.com",
@@ -293,7 +279,9 @@
         "path": "reddit/libreddit",
         "instances": [
             "discuss.whatever.social",
-            "lr.vern.cc"
+            "lr.vern.cc",
+            "r.darklab.sh",
+            "reddit.rtrace.io"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -307,18 +295,26 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "lr.ptr.moe",
             "red.artemislena.eu",
+            "reddit.adminforge.de",
+            "reddit.rtrace.io",
+            "redlib.catsarch.com",
+            "redlib.frontendfriendly.xyz",
             "redlib.nohost.network",
+            "redlib.orangenet.cc",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
-            "redlib.privadency.com",
-            "redlib.thebunny.zone"
+            "redlib.privadency.com"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
+        ]
     },
     "wikiless": {
         "name": "WikiLess",
@@ -358,6 +354,7 @@
         "instances": [
             "inv.nadeko.net",
             "invidious.f5.si",
+            "invidious.nerdvpn.de",
             "yewtu.be"
         ],
         "onion": [
@@ -492,7 +489,6 @@
             "librarian.pussthecat.org"
         ],
         "onion": [
-            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
     },
@@ -669,6 +665,7 @@
         "url": "https://github.com/nesaku/BiblioReads",
         "path": "goodreads/biblioreads",
         "instances": [
+            "biblioreads.canine.tools",
             "biblioreads.ducks.party",
             "biblioreads.eu.org",
             "biblioreads.franklyflawless.org",
@@ -680,7 +677,6 @@
             "biblioreads.vercel.app",
             "bl.vern.cc",
             "br.bloat.cat",
-            "read.canine.tools",
             "read.freedit.eu",
             "read.seitan-ayoub.lol",
             "read.whateveritworks.org",
@@ -841,6 +837,7 @@
             "bin.esd.cc",
             "bin.freedombits.org",
             "bin.garbaye.fr",
+            "bin.graveyard.sh",
             "bin.habedieeh.re",
             "bin.hbubli.cc",
             "bin.idrix.fr",
@@ -1012,6 +1009,8 @@
             "privatebin.yuricunha.com",
             "privatebin.z1337.de",
             "privatepastebin.com",
+            "pvnotes.fast-elektriker.com",
+            "pvnotes.sms-electro.no",
             "rhoen.dev",
             "safepad.pagnozzi.info",
             "sebsauvage.net",

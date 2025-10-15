@@ -1,6 +1,7 @@
 # [BiblioReads](https://github.com/nesaku/BiblioReads)
 
 # Clearnet
+- [biblioreads.canine.tools](https://biblioreads.canine.tools)
 - [biblioreads.ducks.party](https://biblioreads.ducks.party)
 - [biblioreads.eu.org](https://biblioreads.eu.org)
 - [biblioreads.franklyflawless.org](https://biblioreads.franklyflawless.org)
@@ -12,7 +13,6 @@
 - [biblioreads.vercel.app](https://biblioreads.vercel.app)
 - [bl.vern.cc](https://bl.vern.cc)
 - [br.bloat.cat](https://br.bloat.cat)
-- [read.canine.tools](https://read.canine.tools)
 - [read.freedit.eu](https://read.freedit.eu)
 - [read.seitan-ayoub.lol](https://read.seitan-ayoub.lol)
 - [read.whateveritworks.org](https://read.whateveritworks.org)

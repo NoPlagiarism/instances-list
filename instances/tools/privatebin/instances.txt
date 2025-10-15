@@ -21,6 +21,7 @@ bin.disroot.org
 bin.esd.cc
 bin.freedombits.org
 bin.garbaye.fr
+bin.graveyard.sh
 bin.habedieeh.re
 bin.hbubli.cc
 bin.idrix.fr
@@ -192,6 +193,8 @@ privatebin.wsmm.de
 privatebin.yuricunha.com
 privatebin.z1337.de
 privatepastebin.com
+pvnotes.fast-elektriker.com
+pvnotes.sms-electro.no
 rhoen.dev
 safepad.pagnozzi.info
 sebsauvage.net
