@@ -103,6 +103,7 @@ paste.encrypt.co.il
 paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
+paste.fnko.cc
 paste.gnoppix.org
 paste.gstd.eu
 paste.helkor.eu
@@ -169,6 +170,7 @@ privatebin.cobiotx.io
 privatebin.cz
 privatebin.deblan.org
 privatebin.devol.it
+privatebin.diyarciftci.xyz
 privatebin.eurosystem.it
 privatebin.fedov.net
 privatebin.freinetz.ch
@@ -220,6 +222,7 @@ textbin.quick-space.de
 texte.antopie.org
 tmp.app.bitbull.ch
 tools.mataucarre.fr
+www.encrypt0r.net
 www.nervengas.com
 www.noteshare.net
 zb.zerosgaming.de

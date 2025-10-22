@@ -280,7 +280,7 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
-- [discuss.whatever.social](https://discuss.whatever.social)
+- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [lr.vern.cc](https://lr.vern.cc)
 - [r.darklab.sh](https://r.darklab.sh)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
@@ -293,21 +293,19 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
+- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [lr.ptr.moe](https://lr.ptr.moe)
 - [red.artemislena.eu](https://red.artemislena.eu)
-- [reddit.adminforge.de](https://reddit.adminforge.de)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
+- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.frontendfriendly.xyz](https://redlib.frontendfriendly.xyz)
-- [redlib.nohost.network](https://redlib.nohost.network)
 - [redlib.orangenet.cc](https://redlib.orangenet.cc)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
-- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
-- [redlib.privadency.com](https://redlib.privadency.com)
+- [redlib.reallyaweso.me](https://redlib.reallyaweso.me)
 ### Onion
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
-- [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -845,6 +843,7 @@
 - [paste.evolix.org](https://paste.evolix.org)
 - [paste.fitgirl-repacks.site](https://paste.fitgirl-repacks.site)
 - [paste.fizi.ca](https://paste.fizi.ca)
+- [paste.fnko.cc](https://paste.fnko.cc)
 - [paste.gnoppix.org](https://paste.gnoppix.org)
 - [paste.gstd.eu](https://paste.gstd.eu)
 - [paste.helkor.eu](https://paste.helkor.eu)
@@ -911,6 +910,7 @@
 - [privatebin.cz](https://privatebin.cz)
 - [privatebin.deblan.org](https://privatebin.deblan.org)
 - [privatebin.devol.it](https://privatebin.devol.it)
+- [privatebin.diyarciftci.xyz](https://privatebin.diyarciftci.xyz)
 - [privatebin.eurosystem.it](https://privatebin.eurosystem.it)
 - [privatebin.fedov.net](https://privatebin.fedov.net)
 - [privatebin.freinetz.ch](https://privatebin.freinetz.ch)
@@ -962,6 +962,7 @@
 - [texte.antopie.org](https://texte.antopie.org)
 - [tmp.app.bitbull.ch](https://tmp.app.bitbull.ch)
 - [tools.mataucarre.fr](https://tools.mataucarre.fr)
+- [www.encrypt0r.net](https://www.encrypt0r.net)
 - [www.nervengas.com](https://www.nervengas.com)
 - [www.noteshare.net](https://www.noteshare.net)
 - [zb.zerosgaming.de](https://zb.zerosgaming.de)

@@ -278,7 +278,7 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "discuss.whatever.social",
+            "libreddit.privacydev.net",
             "lr.vern.cc",
             "r.darklab.sh",
             "reddit.rtrace.io"
@@ -295,22 +295,20 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "libreddit.privacydev.net",
             "lr.ptr.moe",
             "red.artemislena.eu",
-            "reddit.adminforge.de",
             "reddit.rtrace.io",
+            "redlib.4o1x5.dev",
             "redlib.catsarch.com",
             "redlib.frontendfriendly.xyz",
-            "redlib.nohost.network",
             "redlib.orangenet.cc",
             "redlib.perennialte.ch",
-            "redlib.privacyredirect.com",
-            "redlib.privadency.com"
+            "redlib.reallyaweso.me"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -919,6 +917,7 @@
             "paste.evolix.org",
             "paste.fitgirl-repacks.site",
             "paste.fizi.ca",
+            "paste.fnko.cc",
             "paste.gnoppix.org",
             "paste.gstd.eu",
             "paste.helkor.eu",
@@ -985,6 +984,7 @@
             "privatebin.cz",
             "privatebin.deblan.org",
             "privatebin.devol.it",
+            "privatebin.diyarciftci.xyz",
             "privatebin.eurosystem.it",
             "privatebin.fedov.net",
             "privatebin.freinetz.ch",
@@ -1036,6 +1036,7 @@
             "texte.antopie.org",
             "tmp.app.bitbull.ch",
             "tools.mataucarre.fr",
+            "www.encrypt0r.net",
             "www.nervengas.com",
             "www.noteshare.net",
             "zb.zerosgaming.de",

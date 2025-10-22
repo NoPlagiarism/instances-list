@@ -1,4 +1,4 @@
-discuss.whatever.social
+libreddit.privacydev.net
 lr.vern.cc
 r.darklab.sh
 reddit.rtrace.io

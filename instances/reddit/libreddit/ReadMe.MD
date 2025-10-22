@@ -1,7 +1,7 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
-- [discuss.whatever.social](https://discuss.whatever.social)
+- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [lr.vern.cc](https://lr.vern.cc)
 - [r.darklab.sh](https://r.darklab.sh)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
