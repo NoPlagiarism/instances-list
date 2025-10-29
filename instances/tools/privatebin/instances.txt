@@ -37,6 +37,7 @@ bin.nji9.de
 bin.outv.im
 bin.purplebored.pl
 bin.reallyaweso.me
+bin.s2s.video
 bin.salvatorenoschese.it
 bin.sasach.work
 bin.sielc.com.ar
@@ -46,6 +47,7 @@ bin.uhl.cloud
 bin.vdx.sh
 bin.waifu.rip
 bin.whitebow.fr
+bin.yee.to
 bonus01.hwb0307.com
 cles.le-filament.com
 code.wt.pt
@@ -58,7 +60,6 @@ enjoys.rocks
 extrait.facil.services
 gilles.wittezaele.fr
 hoyfamily.tech
-hpc.uni.lu
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
@@ -103,7 +104,6 @@ paste.encrypt.co.il
 paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
-paste.fnko.cc
 paste.gnoppix.org
 paste.gstd.eu
 paste.helkor.eu
@@ -152,7 +152,6 @@ pastefg.hermietkreeft.site
 pastequest.com
 pb.bedevops.edu.vn
 pb.blackvoid.club
-pb.f24o.zip
 pb.flossboxin.org.in
 pb.fly.dev
 pb.greep.fr
@@ -174,10 +173,10 @@ privatebin.diyarciftci.xyz
 privatebin.eurosystem.it
 privatebin.fedov.net
 privatebin.freinetz.ch
-privatebin.io
 privatebin.johnnybegood.fr
 privatebin.kosebamse.com
 privatebin.li
+privatebin.lol
 privatebin.luckvintage.com
 privatebin.mbiz.io
 privatebin.net
@@ -207,6 +206,7 @@ secret.timeweb.ru
 secrets.cebador.fr
 secrets.janjaapvandijk.nl
 secrets.l25.cloud
+secrets.lifian.site
 secrets.secumail.de
 secrets.true.nl
 secure.superior.nl

@@ -19,6 +19,7 @@
 - [send.codespace.cz](https://send.codespace.cz)
 - [send.cyberjake.xyz](https://send.cyberjake.xyz)
 - [send.datenpost.app](https://send.datenpost.app)
+- [send.hostnetwork.xyz](https://send.hostnetwork.xyz)
 - [send.jeugdhulp.be](https://send.jeugdhulp.be)
 - [send.kokomo.cloud](https://send.kokomo.cloud)
 - [send.majoenell.com](https://send.majoenell.com)

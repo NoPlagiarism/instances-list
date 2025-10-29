@@ -1,9 +1,7 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
-- [libreddit.privacydev.net](https://libreddit.privacydev.net)
-- [lr.vern.cc](https://lr.vern.cc)
-- [r.darklab.sh](https://r.darklab.sh)
+- [discuss.whatever.social](https://discuss.whatever.social)
 - [reddit.rtrace.io](https://reddit.rtrace.io)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)

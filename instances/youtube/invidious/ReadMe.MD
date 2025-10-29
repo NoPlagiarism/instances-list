@@ -2,6 +2,7 @@
 
 # Clearnet
 - [inv.nadeko.net](https://inv.nadeko.net)
+- [inv.perditum.com](https://inv.perditum.com)
 - [invidious.f5.si](https://invidious.f5.si)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [yewtu.be](https://yewtu.be)
