@@ -83,7 +83,7 @@
 - [simplytranslate.org](https://simplytranslate.org)
 - [st.adast.dk](https://st.adast.dk)
 ### Onion
-- [s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion](http://s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion)
+
 ### I2P
 
 
@@ -275,7 +275,8 @@
 
 ### Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
+- [l.opnxng.com](https://l.opnxng.com)
+- [lr.vern.cc](https://lr.vern.cc)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -285,17 +286,21 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
+- [l.opnxng.com](https://l.opnxng.com)
 - [lr.ptr.moe](https://lr.ptr.moe)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
+- [red.artemislena.eu](https://red.artemislena.eu)
+- [reddit.adminforge.de](https://reddit.adminforge.de)
+- [reddit.nerdvpn.de](https://reddit.nerdvpn.de)
 - [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
-- [redlib.frontendfriendly.xyz](https://redlib.frontendfriendly.xyz)
+- [redlib.ducks.party](https://redlib.ducks.party)
 - [redlib.orangenet.cc](https://redlib.orangenet.cc)
-- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
+- [redlib.perennialte.ch](https://redlib.perennialte.ch)
 - [redlib.reallyaweso.me](https://redlib.reallyaweso.me)
 ### Onion
+- [nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion](http://nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion)
+- [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
-- [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -903,7 +908,6 @@
 - [privatebin.devol.it](https://privatebin.devol.it)
 - [privatebin.diyarciftci.xyz](https://privatebin.diyarciftci.xyz)
 - [privatebin.eurosystem.it](https://privatebin.eurosystem.it)
-- [privatebin.fedov.net](https://privatebin.fedov.net)
 - [privatebin.freinetz.ch](https://privatebin.freinetz.ch)
 - [privatebin.johnnybegood.fr](https://privatebin.johnnybegood.fr)
 - [privatebin.kosebamse.com](https://privatebin.kosebamse.com)

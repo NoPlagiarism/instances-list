@@ -174,7 +174,6 @@
 - [privatebin.devol.it](https://privatebin.devol.it)
 - [privatebin.diyarciftci.xyz](https://privatebin.diyarciftci.xyz)
 - [privatebin.eurosystem.it](https://privatebin.eurosystem.it)
-- [privatebin.fedov.net](https://privatebin.fedov.net)
 - [privatebin.freinetz.ch](https://privatebin.freinetz.ch)
 - [privatebin.johnnybegood.fr](https://privatebin.johnnybegood.fr)
 - [privatebin.kosebamse.com](https://privatebin.kosebamse.com)

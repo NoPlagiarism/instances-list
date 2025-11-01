@@ -58,9 +58,7 @@
             "simplytranslate.org",
             "st.adast.dk"
         ],
-        "onion": [
-            "s5id2lwjizkvdfop23jbmk5np6k6dfmsaeh4izo2vqdksizjv4gnesid.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "mozhi": {
@@ -273,7 +271,8 @@
         "path": "reddit/libreddit",
         "instances": [
             "discuss.whatever.social",
-            "reddit.rtrace.io"
+            "l.opnxng.com",
+            "lr.vern.cc"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -287,18 +286,22 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "l.opnxng.com",
             "lr.ptr.moe",
-            "reddit.rtrace.io",
+            "red.artemislena.eu",
+            "reddit.adminforge.de",
+            "reddit.nerdvpn.de",
             "redlib.4o1x5.dev",
             "redlib.catsarch.com",
-            "redlib.frontendfriendly.xyz",
+            "redlib.ducks.party",
             "redlib.orangenet.cc",
-            "redlib.privacyredirect.com",
+            "redlib.perennialte.ch",
             "redlib.reallyaweso.me"
         ],
         "onion": [
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
+            "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
+            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -977,7 +980,6 @@
             "privatebin.devol.it",
             "privatebin.diyarciftci.xyz",
             "privatebin.eurosystem.it",
-            "privatebin.fedov.net",
             "privatebin.freinetz.ch",
             "privatebin.johnnybegood.fr",
             "privatebin.kosebamse.com",
