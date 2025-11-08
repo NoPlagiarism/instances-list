@@ -41,10 +41,10 @@ search.rhscz.eu
 search.rowie.at
 search.sapti.me
 search.undertale.uk
+search.unredacted.org
 search.url4irl.com
 searx.ankha.ac
 searx.dresden.network
-searx.foss.family
 searx.juancord.xyz
 searx.lunar.icu
 searx.mbuf.net
@@ -66,7 +66,6 @@ searxng.biz
 searxng.canine.tools
 searxng.f24o.zip
 searxng.hweeren.com
-searxng.mcgee.red
 searxng.shreven.org
 searxng.site
 searxng.website

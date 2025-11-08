@@ -1,20 +1,16 @@
 {
     "instances": [
-        "l.opnxng.com",
         "lr.ptr.moe",
-        "red.artemislena.eu",
         "reddit.adminforge.de",
-        "reddit.nerdvpn.de",
+        "reddit.rtrace.io",
         "redlib.4o1x5.dev",
         "redlib.catsarch.com",
-        "redlib.ducks.party",
+        "redlib.nadeko.net",
         "redlib.orangenet.cc",
         "redlib.perennialte.ch",
         "redlib.reallyaweso.me"
     ],
     "onion": [
-        "nerdvpneqj4gdisofqvfgrcmk2tieg7le5iybapx2zqyvnk5h2s3uaid.onion",
-        "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
         "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
     ],
     "i2p": [

@@ -1,11 +1,9 @@
-l.opnxng.com
 lr.ptr.moe
-red.artemislena.eu
 reddit.adminforge.de
-reddit.nerdvpn.de
+reddit.rtrace.io
 redlib.4o1x5.dev
 redlib.catsarch.com
-redlib.ducks.party
+redlib.nadeko.net
 redlib.orangenet.cc
 redlib.perennialte.ch
 redlib.reallyaweso.me

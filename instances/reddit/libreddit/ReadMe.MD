@@ -2,7 +2,6 @@
 
 # Clearnet
 - [discuss.whatever.social](https://discuss.whatever.social)
-- [l.opnxng.com](https://l.opnxng.com)
 - [lr.vern.cc](https://lr.vern.cc)
 # Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)

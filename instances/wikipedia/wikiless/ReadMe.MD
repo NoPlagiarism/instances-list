@@ -11,6 +11,6 @@
 - [wikiless.tiekoetter.com](https://wikiless.tiekoetter.com)
 - [wl.vern.cc](https://wl.vern.cc)
 # Onion
-- [ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion](http://ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion)
+
 # I2P
 
