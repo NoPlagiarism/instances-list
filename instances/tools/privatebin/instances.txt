@@ -15,7 +15,6 @@ bin.acquia.com
 bin.anis.live
 bin.bloat.cat
 bin.byreqz.de
-bin.c17.dev
 bin.cafeo.re
 bin.calitabby.net
 bin.chimuc.com
@@ -30,7 +29,6 @@ bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
 bin.iya.at
-bin.korfie.de
 bin.libreon.fr
 bin.mezzo.moe
 bin.mycozy.space
@@ -64,6 +62,7 @@ extrait.facil.services
 gilles.wittezaele.fr
 hoyfamily.tech
 ircwebnet.com
+jenny2.de
 ktbky.kaaass.net
 logs.notifiarr.com
 n0t.io
@@ -86,7 +85,6 @@ p.kll.li
 p.vinci-concessions.com
 pad.rackforest.com
 passwords.gestionalda.com
-paste.07f.de
 paste.3server.de
 paste.aminulloh.id
 paste.aryu.de
@@ -123,12 +121,10 @@ paste.momobako.com
 paste.momou.ch
 paste.nerdvpn.de
 paste.nolog.cz
-paste.nomagic.uk
 paste.ononoki.org
 paste.ottertelecom.com
 paste.picasoft.net
 paste.plus
-paste.psr.tf
 paste.rbn.gr
 paste.rys.pw
 paste.shreven.org
@@ -137,7 +133,6 @@ paste.stratum0.org
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
-paste.texy.land
 paste.thec0de.com
 paste.tildeverse.org
 paste.to
@@ -168,7 +163,6 @@ photistic.org
 privatebin.app
 privatebin.ar21.de
 privatebin.arch-linux.cz
-privatebin.arparec.xyz
 privatebin.at
 privatebin.cobiotx.io
 privatebin.cz
@@ -195,7 +189,6 @@ privatebin.warpzone.ms
 privatebin.webdiscount.net
 privatebin.wildberries.ru
 privatebin.wsmm.de
-privatebin.yuricunha.com
 privatebin.z1337.de
 privatepastebin.com
 privbin.harizalan.hu
@@ -211,7 +204,6 @@ secret.timeweb.ru
 secrets.cebador.fr
 secrets.janjaapvandijk.nl
 secrets.l25.cloud
-secrets.lifian.site
 secrets.secumail.de
 secrets.true.nl
 secure.superior.nl
