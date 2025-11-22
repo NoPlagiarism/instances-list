@@ -1,7 +1,5 @@
 {
     "instances": [
-        "discuss.whatever.social",
-        "r.darklab.sh",
         "reddit.rtrace.io"
     ],
     "onion": [

@@ -1,6 +1,5 @@
 {
     "instances": [
-        "pipedproxy.drgns.space",
         "proxy.piped.private.coffee"
     ]
 }

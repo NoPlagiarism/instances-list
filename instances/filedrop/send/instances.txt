@@ -5,7 +5,6 @@ drop.chapril.org
 files.psu.ru
 fileupload.ggc-project.de
 s.opnxng.com
-secureshar.ing
 send.adminforge.de
 send.aezafiles.net
 send.artemislena.eu
@@ -15,7 +14,6 @@ send.boblorange.net
 send.canine.tools
 send.codespace.cz
 send.cyberjake.xyz
-send.datenpost.app
 send.hostnetwork.xyz
 send.jeugdhulp.be
 send.kokomo.cloud

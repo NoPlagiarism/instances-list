@@ -4,7 +4,6 @@ etsi.me
 fairsuch.net
 find.xenorio.xyz
 kantan.cat
-metacat.online
 o5.gg
 ooglester.com
 opnxng.com
@@ -12,6 +11,7 @@ paulgo.io
 priv.au
 s.mble.dk
 search.2b9t.xyz
+search.a14r.be
 search.abohiccups.com
 search.anoni.net
 search.atl.tools
@@ -32,9 +32,7 @@ search.ipsys.bf
 search.ipv6s.net
 search.leptons.xyz
 search.mdosch.de
-search.mycotrip.tech
 search.nerdvpn.de
-search.notsparkable.org
 search.oh64.moe
 search.ononoki.org
 search.perditum.com
@@ -66,6 +64,7 @@ searx.tuxcloud.net
 searx.zhenyapav.com
 searxng.biz
 searxng.canine.tools
+searxng.cups.moe
 searxng.f24o.zip
 searxng.hweeren.com
 searxng.shreven.org

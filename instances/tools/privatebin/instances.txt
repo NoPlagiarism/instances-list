@@ -52,7 +52,6 @@ bin.yee.to
 bonus01.hwb0307.com
 cles.le-filament.com
 code.wt.pt
-coller.vulpecula.fr
 cpaste.org
 cryptostorm.is
 eatmyshorts.ch
@@ -74,7 +73,6 @@ oldpb.purplebored.pl
 onetime.vits.co.uk
 opportunis.me
 ots.ip-projects.de
-ots.kocsar.com
 ots.pfcloud.io
 p.blueridgedebate.com
 p.darklab.sh
@@ -96,6 +94,7 @@ paste.ceppo.xyz
 paste.chapril.org
 paste.coalserver.de
 paste.copper.dedyn.io
+paste.cracktek.eu
 paste.d-ku.de
 paste.devsite.pl
 paste.dismail.de
@@ -109,6 +108,7 @@ paste.fizi.ca
 paste.gnoppix.org
 paste.grammicals.com
 paste.gstd.eu
+paste.hashpwn.net
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
@@ -125,11 +125,13 @@ paste.ononoki.org
 paste.ottertelecom.com
 paste.picasoft.net
 paste.plus
+paste.prsrv.zip
 paste.rbn.gr
 paste.rys.pw
 paste.shreven.org
 paste.skynetcloud.site
 paste.stratum0.org
+paste.sweatyangmoh.sg
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
@@ -152,7 +154,6 @@ pastebin.retzo.net
 pastefg.hermietkreeft.site
 pastequest.com
 pb.blackvoid.club
-pb.flossboxin.org.in
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
@@ -188,7 +189,6 @@ privatebin.unige.ch
 privatebin.warpzone.ms
 privatebin.webdiscount.net
 privatebin.wildberries.ru
-privatebin.wsmm.de
 privatebin.z1337.de
 privatepastebin.com
 privbin.harizalan.hu

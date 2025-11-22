@@ -2,18 +2,19 @@
 
 # Clearnet
 - [lr.ptr.moe](https://lr.ptr.moe)
-- [reddit.adminforge.de](https://reddit.adminforge.de)
-- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
+- [red.artemislena.eu](https://red.artemislena.eu)
+- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
-- [redlib.ducks.party](https://redlib.ducks.party)
 - [redlib.frontendfriendly.xyz](https://redlib.frontendfriendly.xyz)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.orangenet.cc](https://redlib.orangenet.cc)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
-- [redlib.privadency.com](https://redlib.privadency.com)
 - [redlib.reallyaweso.me](https://redlib.reallyaweso.me)
+- [redlib.thebunny.zone](https://redlib.thebunny.zone)
 # Onion
+- [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
+- [redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion](http://redlib.bunny5exbgbp4sqe2h2rfq2brgrx3dhohdweonepzwfgumfyygb35wyd.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 # I2P
