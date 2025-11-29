@@ -32,7 +32,6 @@ search.ipsys.bf
 search.ipv6s.net
 search.leptons.xyz
 search.mdosch.de
-search.nerdvpn.de
 search.oh64.moe
 search.ononoki.org
 search.perditum.com
@@ -61,11 +60,9 @@ searx.sev.monster
 searx.stream
 searx.tiekoetter.com
 searx.tuxcloud.net
-searx.zhenyapav.com
 searxng.biz
 searxng.canine.tools
 searxng.cups.moe
-searxng.f24o.zip
 searxng.hweeren.com
 searxng.shreven.org
 searxng.site

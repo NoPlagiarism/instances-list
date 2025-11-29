@@ -8,7 +8,6 @@ anonpaste.org
 b.appinn.net
 b.opnxng.com
 betterpaste.me
-bin.0xfc.de
 bin.2255.me
 bin.68degrees.no
 bin.acquia.com
@@ -44,7 +43,6 @@ bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
 bin.tiekoetter.com
-bin.uhl.cloud
 bin.vdx.sh
 bin.waifu.rip
 bin.whitebow.fr
@@ -90,7 +88,6 @@ paste.aya.so
 paste.biocrafting.net
 paste.burble.com
 paste.canine.tools
-paste.ceppo.xyz
 paste.chapril.org
 paste.coalserver.de
 paste.copper.dedyn.io
@@ -147,7 +144,6 @@ paste.waays.fr
 paste.worf.win
 pastebin.24unix.net
 pastebin.aquilenet.fr
-pastebin.grey.pw
 pastebin.hot-chilli.net
 pastebin.linqhost.nl
 pastebin.retzo.net
@@ -163,7 +159,6 @@ pbin.nadeko.net
 photistic.org
 privatebin.app
 privatebin.ar21.de
-privatebin.arch-linux.cz
 privatebin.at
 privatebin.cobiotx.io
 privatebin.cz
@@ -186,8 +181,7 @@ privatebin.seattlematrix.org
 privatebin.sequanux.org
 privatebin.stormdragons.net
 privatebin.unige.ch
-privatebin.warpzone.ms
-privatebin.webdiscount.net
+privatebin.uwunya.org
 privatebin.wildberries.ru
 privatebin.z1337.de
 privatepastebin.com
@@ -201,7 +195,6 @@ secret.adelphi.de
 secret.c0re.me
 secret.hummel-web.at
 secret.timeweb.ru
-secrets.cebador.fr
 secrets.janjaapvandijk.nl
 secrets.l25.cloud
 secrets.secumail.de
@@ -218,9 +211,7 @@ teamware.eu
 textbin.quick-space.de
 texte.antopie.org
 tmp.app.bitbull.ch
-tools.mataucarre.fr
 www.encrypt0r.net
-www.nervengas.com
 www.noteshare.net
 zb.zerosgaming.de
 zbin.io
