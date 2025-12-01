@@ -12,6 +12,7 @@ bin.2255.me
 bin.68degrees.no
 bin.acquia.com
 bin.anis.live
+bin.aurio.no
 bin.bloat.cat
 bin.byreqz.de
 bin.cafeo.re

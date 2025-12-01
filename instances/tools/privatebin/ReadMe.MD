@@ -15,6 +15,7 @@
 - [bin.68degrees.no](https://bin.68degrees.no)
 - [bin.acquia.com](https://bin.acquia.com)
 - [bin.anis.live](https://bin.anis.live)
+- [bin.aurio.no](https://bin.aurio.no)
 - [bin.bloat.cat](https://bin.bloat.cat)
 - [bin.byreqz.de](https://bin.byreqz.de)
 - [bin.cafeo.re](https://bin.cafeo.re)
