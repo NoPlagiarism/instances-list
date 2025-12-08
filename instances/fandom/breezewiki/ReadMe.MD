@@ -3,6 +3,7 @@
 # Clearnet
 - [antifandom.com](https://antifandom.com)
 - [breeze.hostux.net](https://breeze.hostux.net)
+- [breeze.mint.lgbt](https://breeze.mint.lgbt)
 - [breezewiki.catsarch.com](https://breezewiki.catsarch.com)
 - [breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](https://breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion](https://breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion)
@@ -16,6 +17,5 @@
 - [breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](https://breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - [breezewiki.woodland.cafe](https://breezewiki.woodland.cafe)
 - [bw.artemislena.eu](https://bw.artemislena.eu)
-- [bw.hamstro.dev](https://bw.hamstro.dev)
 - [fandom.reallyaweso.me](https://fandom.reallyaweso.me)
 - [z.opnxng.com](https://z.opnxng.com)

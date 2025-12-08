@@ -1,7 +1,6 @@
 baresearch.org
 copp.gg
 etsi.me
-fairsuch.net
 find.xenorio.xyz
 kantan.cat
 o5.gg
@@ -11,7 +10,6 @@ paulgo.io
 priv.au
 s.mble.dk
 search.2b9t.xyz
-search.a14r.be
 search.abohiccups.com
 search.anoni.net
 search.atl.tools
@@ -23,6 +21,7 @@ search.darkness.services
 search.einfachzocken.eu
 search.ethibox.fr
 search.femboy.ad
+search.freestater.org
 search.hbubli.cc
 search.im-in.space
 search.indst.eu
@@ -37,14 +36,12 @@ search.ononoki.org
 search.perditum.com
 search.privacyredirect.com
 search.rhscz.eu
-search.rowie.at
 search.sapti.me
 search.undertale.uk
 search.unredacted.org
 search.url4irl.com
 searx.ankha.ac
 searx.dresden.network
-searx.juancord.xyz
 searx.lunar.icu
 searx.mbuf.net
 searx.mxchange.org
@@ -61,6 +58,7 @@ searx.stream
 searx.tiekoetter.com
 searx.tuxcloud.net
 searxng.biz
+searxng.blockblitz.dev
 searxng.canine.tools
 searxng.cups.moe
 searxng.hweeren.com

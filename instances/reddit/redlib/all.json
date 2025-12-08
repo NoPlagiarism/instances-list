@@ -1,22 +1,9 @@
 {
     "instances": [
-        "libreddit.privacydev.net",
         "lr.ptr.moe",
-        "red.artemislena.eu",
-        "reddit.adminforge.de",
-        "reddit.rtrace.io",
-        "redlib.4o1x5.dev",
-        "redlib.catsarch.com",
-        "redlib.cow.rip",
-        "redlib.frontendfriendly.xyz",
-        "redlib.nadeko.net",
-        "redlib.orangenet.cc",
-        "redlib.perennialte.ch",
-        "redlib.privacyredirect.com",
-        "redlib.reallyaweso.me"
+        "redlib.catsarch.com"
     ],
     "onion": [
-        "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
         "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
     ],
     "i2p": [

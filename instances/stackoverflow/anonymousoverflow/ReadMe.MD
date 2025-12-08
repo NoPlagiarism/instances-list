@@ -31,7 +31,6 @@
 - [overflow.lunar.icu](https://overflow.lunar.icu)
 - [overflow.projectsegfau.lt](https://overflow.projectsegfau.lt)
 - [overflow.r4fo.com](https://overflow.r4fo.com)
-- [overflow.seasi.dev](https://overflow.seasi.dev)
 - [overflow.smnz.de](https://overflow.smnz.de)
 - [overflow.snine.nl](https://overflow.snine.nl)
 - [soflow.nerdvpn.de](https://soflow.nerdvpn.de)

@@ -111,7 +111,6 @@
             "baresearch.org",
             "copp.gg",
             "etsi.me",
-            "fairsuch.net",
             "find.xenorio.xyz",
             "kantan.cat",
             "o5.gg",
@@ -121,7 +120,6 @@
             "priv.au",
             "s.mble.dk",
             "search.2b9t.xyz",
-            "search.a14r.be",
             "search.abohiccups.com",
             "search.anoni.net",
             "search.atl.tools",
@@ -133,6 +131,7 @@
             "search.einfachzocken.eu",
             "search.ethibox.fr",
             "search.femboy.ad",
+            "search.freestater.org",
             "search.hbubli.cc",
             "search.im-in.space",
             "search.indst.eu",
@@ -147,14 +146,12 @@
             "search.perditum.com",
             "search.privacyredirect.com",
             "search.rhscz.eu",
-            "search.rowie.at",
             "search.sapti.me",
             "search.undertale.uk",
             "search.unredacted.org",
             "search.url4irl.com",
             "searx.ankha.ac",
             "searx.dresden.network",
-            "searx.juancord.xyz",
             "searx.lunar.icu",
             "searx.mbuf.net",
             "searx.mxchange.org",
@@ -171,6 +168,7 @@
             "searx.tiekoetter.com",
             "searx.tuxcloud.net",
             "searxng.biz",
+            "searxng.blockblitz.dev",
             "searxng.canine.tools",
             "searxng.cups.moe",
             "searxng.hweeren.com",
@@ -262,11 +260,7 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [
-            "lr.vern.cc",
-            "r.darklab.sh",
-            "snoo.habedieeh.re"
-        ],
+        "instances": [],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -279,23 +273,10 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "libreddit.privacydev.net",
             "lr.ptr.moe",
-            "red.artemislena.eu",
-            "reddit.adminforge.de",
-            "reddit.rtrace.io",
-            "redlib.4o1x5.dev",
-            "redlib.catsarch.com",
-            "redlib.cow.rip",
-            "redlib.frontendfriendly.xyz",
-            "redlib.nadeko.net",
-            "redlib.orangenet.cc",
-            "redlib.perennialte.ch",
-            "redlib.privacyredirect.com",
-            "redlib.reallyaweso.me"
+            "redlib.catsarch.com"
         ],
         "onion": [
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
         ],
         "i2p": [
@@ -473,6 +454,7 @@
             "librarian.pussthecat.org"
         ],
         "onion": [
+            "lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
             "lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ]
     },
@@ -531,6 +513,7 @@
         "instances": [
             "antifandom.com",
             "breeze.hostux.net",
+            "breeze.mint.lgbt",
             "breezewiki.catsarch.com",
             "breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion",
@@ -544,7 +527,6 @@
             "breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "breezewiki.woodland.cafe",
             "bw.artemislena.eu",
-            "bw.hamstro.dev",
             "fandom.reallyaweso.me",
             "z.opnxng.com"
         ]
@@ -722,7 +704,6 @@
             "overflow.lunar.icu",
             "overflow.projectsegfau.lt",
             "overflow.r4fo.com",
-            "overflow.seasi.dev",
             "overflow.smnz.de",
             "overflow.snine.nl",
             "soflow.nerdvpn.de"
@@ -911,6 +892,7 @@
             "privatebin.app",
             "privatebin.ar21.de",
             "privatebin.at",
+            "privatebin.atamanco.eu",
             "privatebin.cobiotx.io",
             "privatebin.cz",
             "privatebin.deblan.org",
@@ -930,7 +912,6 @@
             "privatebin.rinuploads.org",
             "privatebin.seattlematrix.org",
             "privatebin.sequanux.org",
-            "privatebin.stormdragons.net",
             "privatebin.unige.ch",
             "privatebin.uwunya.org",
             "privatebin.wildberries.ru",

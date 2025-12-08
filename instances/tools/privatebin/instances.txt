@@ -161,6 +161,7 @@ photistic.org
 privatebin.app
 privatebin.ar21.de
 privatebin.at
+privatebin.atamanco.eu
 privatebin.cobiotx.io
 privatebin.cz
 privatebin.deblan.org
@@ -180,7 +181,6 @@ privatebin.paradox.ai
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org
-privatebin.stormdragons.net
 privatebin.unige.ch
 privatebin.uwunya.org
 privatebin.wildberries.ru

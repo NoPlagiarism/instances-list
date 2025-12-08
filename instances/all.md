@@ -128,7 +128,6 @@
 - [baresearch.org](https://baresearch.org)
 - [copp.gg](https://copp.gg)
 - [etsi.me](https://etsi.me)
-- [fairsuch.net](https://fairsuch.net)
 - [find.xenorio.xyz](https://find.xenorio.xyz)
 - [kantan.cat](https://kantan.cat)
 - [o5.gg](https://o5.gg)
@@ -138,7 +137,6 @@
 - [priv.au](https://priv.au)
 - [s.mble.dk](https://s.mble.dk)
 - [search.2b9t.xyz](https://search.2b9t.xyz)
-- [search.a14r.be](https://search.a14r.be)
 - [search.abohiccups.com](https://search.abohiccups.com)
 - [search.anoni.net](https://search.anoni.net)
 - [search.atl.tools](https://search.atl.tools)
@@ -150,6 +148,7 @@
 - [search.einfachzocken.eu](https://search.einfachzocken.eu)
 - [search.ethibox.fr](https://search.ethibox.fr)
 - [search.femboy.ad](https://search.femboy.ad)
+- [search.freestater.org](https://search.freestater.org)
 - [search.hbubli.cc](https://search.hbubli.cc)
 - [search.im-in.space](https://search.im-in.space)
 - [search.indst.eu](https://search.indst.eu)
@@ -164,14 +163,12 @@
 - [search.perditum.com](https://search.perditum.com)
 - [search.privacyredirect.com](https://search.privacyredirect.com)
 - [search.rhscz.eu](https://search.rhscz.eu)
-- [search.rowie.at](https://search.rowie.at)
 - [search.sapti.me](https://search.sapti.me)
 - [search.undertale.uk](https://search.undertale.uk)
 - [search.unredacted.org](https://search.unredacted.org)
 - [search.url4irl.com](https://search.url4irl.com)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.dresden.network](https://searx.dresden.network)
-- [searx.juancord.xyz](https://searx.juancord.xyz)
 - [searx.lunar.icu](https://searx.lunar.icu)
 - [searx.mbuf.net](https://searx.mbuf.net)
 - [searx.mxchange.org](https://searx.mxchange.org)
@@ -188,6 +185,7 @@
 - [searx.tiekoetter.com](https://searx.tiekoetter.com)
 - [searx.tuxcloud.net](https://searx.tuxcloud.net)
 - [searxng.biz](https://searxng.biz)
+- [searxng.blockblitz.dev](https://searxng.blockblitz.dev)
 - [searxng.canine.tools](https://searxng.canine.tools)
 - [searxng.cups.moe](https://searxng.cups.moe)
 - [searxng.hweeren.com](https://searxng.hweeren.com)
@@ -267,9 +265,7 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
-- [lr.vern.cc](https://lr.vern.cc)
-- [r.darklab.sh](https://r.darklab.sh)
-- [snoo.habedieeh.re](https://snoo.habedieeh.re)
+
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -279,22 +275,9 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
-- [libreddit.privacydev.net](https://libreddit.privacydev.net)
 - [lr.ptr.moe](https://lr.ptr.moe)
-- [red.artemislena.eu](https://red.artemislena.eu)
-- [reddit.adminforge.de](https://reddit.adminforge.de)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
-- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
-- [redlib.cow.rip](https://redlib.cow.rip)
-- [redlib.frontendfriendly.xyz](https://redlib.frontendfriendly.xyz)
-- [redlib.nadeko.net](https://redlib.nadeko.net)
-- [redlib.orangenet.cc](https://redlib.orangenet.cc)
-- [redlib.perennialte.ch](https://redlib.perennialte.ch)
-- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
-- [redlib.reallyaweso.me](https://redlib.reallyaweso.me)
 ### Onion
-- [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
@@ -443,6 +426,7 @@
 - [lbry.vern.cc](https://lbry.vern.cc)
 - [librarian.pussthecat.org](https://librarian.pussthecat.org)
 ### Onion
+- [lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://lbry.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion)
 - [lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://lbry.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 
 ## [nitter](https://github.com/zedeus/nitter#readme)
@@ -495,6 +479,7 @@
 ### Clearnet
 - [antifandom.com](https://antifandom.com)
 - [breeze.hostux.net](https://breeze.hostux.net)
+- [breeze.mint.lgbt](https://breeze.mint.lgbt)
 - [breezewiki.catsarch.com](https://breezewiki.catsarch.com)
 - [breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](https://breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion](https://breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion)
@@ -508,7 +493,6 @@
 - [breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](https://breezewiki.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - [breezewiki.woodland.cafe](https://breezewiki.woodland.cafe)
 - [bw.artemislena.eu](https://bw.artemislena.eu)
-- [bw.hamstro.dev](https://bw.hamstro.dev)
 - [fandom.reallyaweso.me](https://fandom.reallyaweso.me)
 - [z.opnxng.com](https://z.opnxng.com)
 
@@ -659,7 +643,6 @@
 - [overflow.lunar.icu](https://overflow.lunar.icu)
 - [overflow.projectsegfau.lt](https://overflow.projectsegfau.lt)
 - [overflow.r4fo.com](https://overflow.r4fo.com)
-- [overflow.seasi.dev](https://overflow.seasi.dev)
 - [overflow.smnz.de](https://overflow.smnz.de)
 - [overflow.snine.nl](https://overflow.snine.nl)
 - [soflow.nerdvpn.de](https://soflow.nerdvpn.de)
@@ -843,6 +826,7 @@
 - [privatebin.app](https://privatebin.app)
 - [privatebin.ar21.de](https://privatebin.ar21.de)
 - [privatebin.at](https://privatebin.at)
+- [privatebin.atamanco.eu](https://privatebin.atamanco.eu)
 - [privatebin.cobiotx.io](https://privatebin.cobiotx.io)
 - [privatebin.cz](https://privatebin.cz)
 - [privatebin.deblan.org](https://privatebin.deblan.org)
@@ -862,7 +846,6 @@
 - [privatebin.rinuploads.org](https://privatebin.rinuploads.org)
 - [privatebin.seattlematrix.org](https://privatebin.seattlematrix.org)
 - [privatebin.sequanux.org](https://privatebin.sequanux.org)
-- [privatebin.stormdragons.net](https://privatebin.stormdragons.net)
 - [privatebin.unige.ch](https://privatebin.unige.ch)
 - [privatebin.uwunya.org](https://privatebin.uwunya.org)
 - [privatebin.wildberries.ru](https://privatebin.wildberries.ru)

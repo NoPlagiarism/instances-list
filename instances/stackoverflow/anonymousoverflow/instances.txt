@@ -28,7 +28,6 @@ overflow.hostux.net
 overflow.lunar.icu
 overflow.projectsegfau.lt
 overflow.r4fo.com
-overflow.seasi.dev
 overflow.smnz.de
 overflow.snine.nl
 soflow.nerdvpn.de
