@@ -260,7 +260,9 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [],
+        "instances": [
+            "l.opnxng.com"
+        ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -273,11 +275,15 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "l.opnxng.com",
             "lr.ptr.moe",
-            "redlib.catsarch.com"
+            "redlib.catsarch.com",
+            "redlib.cow.rip",
+            "redlib.privacyredirect.com"
         ],
         "onion": [
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -729,11 +735,10 @@
         "url": "https://privatebin.info/",
         "path": "tools/privatebin",
         "instances": [
-            "0.0g.gg",
+            "0.harizalan.hu",
             "0.jaegers.net",
             "03c.de",
             "0bin.me",
-            "0g.gg",
             "amir.ch",
             "anonpaste.org",
             "b.appinn.net",
@@ -746,7 +751,6 @@
             "bin.aurio.no",
             "bin.bloat.cat",
             "bin.byreqz.de",
-            "bin.cafeo.re",
             "bin.calitabby.net",
             "bin.chimuc.com",
             "bin.disroot.org",
@@ -805,7 +809,6 @@
             "ots.ip-projects.de",
             "ots.pfcloud.io",
             "p.blueridgedebate.com",
-            "p.darklab.sh",
             "p.dousse.eu",
             "p.hessfr.fr",
             "p.kapsi.fi",
@@ -878,7 +881,6 @@
             "pastebin.aquilenet.fr",
             "pastebin.hot-chilli.net",
             "pastebin.linqhost.nl",
-            "pastebin.retzo.net",
             "pastefg.hermietkreeft.site",
             "pastequest.com",
             "pb.blackvoid.club",
@@ -886,7 +888,6 @@
             "pb.greep.fr",
             "pb.jaska.cc",
             "pb.lightningnur.win",
-            "pb.skifab.se",
             "pbin.nadeko.net",
             "photistic.org",
             "privatebin.app",
@@ -915,17 +916,13 @@
             "privatebin.unige.ch",
             "privatebin.uwunya.org",
             "privatebin.wildberries.ru",
-            "privatebin.z1337.de",
             "privatepastebin.com",
-            "privbin.harizalan.hu",
             "pvnotes.fast-elektriker.com",
             "pvnotes.sms-electro.no",
             "rhoen.dev",
             "safepad.pagnozzi.info",
             "sebsauvage.net",
             "secret.adelphi.de",
-            "secret.c0re.me",
-            "secret.hummel-web.at",
             "secret.timeweb.ru",
             "secrets.janjaapvandijk.nl",
             "secrets.l25.cloud",
@@ -936,14 +933,13 @@
             "sendpass.ru",
             "share.cyberguerrilla.info",
             "skypaste.ch",
-            "slackjeff.com.br",
             "snip.dssr.ch",
             "t25b.com",
             "teamware.eu",
             "textbin.quick-space.de",
             "texte.antopie.org",
-            "tmp.app.bitbull.ch",
             "www.encrypt0r.net",
+            "www.nervengas.com",
             "www.noteshare.net",
             "zb.zerosgaming.de",
             "zbin.io",

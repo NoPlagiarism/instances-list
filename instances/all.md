@@ -265,7 +265,7 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
-
+- [l.opnxng.com](https://l.opnxng.com)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -275,10 +275,14 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
+- [l.opnxng.com](https://l.opnxng.com)
 - [lr.ptr.moe](https://lr.ptr.moe)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
+- [redlib.cow.rip](https://redlib.cow.rip)
+- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 ### Onion
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -663,11 +667,10 @@
 ## [PrivateBin](https://privatebin.info/)
 
 ### Clearnet
-- [0.0g.gg](https://0.0g.gg)
+- [0.harizalan.hu](https://0.harizalan.hu)
 - [0.jaegers.net](https://0.jaegers.net)
 - [03c.de](https://03c.de)
 - [0bin.me](https://0bin.me)
-- [0g.gg](https://0g.gg)
 - [amir.ch](https://amir.ch)
 - [anonpaste.org](https://anonpaste.org)
 - [b.appinn.net](https://b.appinn.net)
@@ -680,7 +683,6 @@
 - [bin.aurio.no](https://bin.aurio.no)
 - [bin.bloat.cat](https://bin.bloat.cat)
 - [bin.byreqz.de](https://bin.byreqz.de)
-- [bin.cafeo.re](https://bin.cafeo.re)
 - [bin.calitabby.net](https://bin.calitabby.net)
 - [bin.chimuc.com](https://bin.chimuc.com)
 - [bin.disroot.org](https://bin.disroot.org)
@@ -739,7 +741,6 @@
 - [ots.ip-projects.de](https://ots.ip-projects.de)
 - [ots.pfcloud.io](https://ots.pfcloud.io)
 - [p.blueridgedebate.com](https://p.blueridgedebate.com)
-- [p.darklab.sh](https://p.darklab.sh)
 - [p.dousse.eu](https://p.dousse.eu)
 - [p.hessfr.fr](https://p.hessfr.fr)
 - [p.kapsi.fi](https://p.kapsi.fi)
@@ -812,7 +813,6 @@
 - [pastebin.aquilenet.fr](https://pastebin.aquilenet.fr)
 - [pastebin.hot-chilli.net](https://pastebin.hot-chilli.net)
 - [pastebin.linqhost.nl](https://pastebin.linqhost.nl)
-- [pastebin.retzo.net](https://pastebin.retzo.net)
 - [pastefg.hermietkreeft.site](https://pastefg.hermietkreeft.site)
 - [pastequest.com](https://pastequest.com)
 - [pb.blackvoid.club](https://pb.blackvoid.club)
@@ -820,7 +820,6 @@
 - [pb.greep.fr](https://pb.greep.fr)
 - [pb.jaska.cc](https://pb.jaska.cc)
 - [pb.lightningnur.win](https://pb.lightningnur.win)
-- [pb.skifab.se](https://pb.skifab.se)
 - [pbin.nadeko.net](https://pbin.nadeko.net)
 - [photistic.org](https://photistic.org)
 - [privatebin.app](https://privatebin.app)
@@ -849,17 +848,13 @@
 - [privatebin.unige.ch](https://privatebin.unige.ch)
 - [privatebin.uwunya.org](https://privatebin.uwunya.org)
 - [privatebin.wildberries.ru](https://privatebin.wildberries.ru)
-- [privatebin.z1337.de](https://privatebin.z1337.de)
 - [privatepastebin.com](https://privatepastebin.com)
-- [privbin.harizalan.hu](https://privbin.harizalan.hu)
 - [pvnotes.fast-elektriker.com](https://pvnotes.fast-elektriker.com)
 - [pvnotes.sms-electro.no](https://pvnotes.sms-electro.no)
 - [rhoen.dev](https://rhoen.dev)
 - [safepad.pagnozzi.info](https://safepad.pagnozzi.info)
 - [sebsauvage.net](https://sebsauvage.net)
 - [secret.adelphi.de](https://secret.adelphi.de)
-- [secret.c0re.me](https://secret.c0re.me)
-- [secret.hummel-web.at](https://secret.hummel-web.at)
 - [secret.timeweb.ru](https://secret.timeweb.ru)
 - [secrets.janjaapvandijk.nl](https://secrets.janjaapvandijk.nl)
 - [secrets.l25.cloud](https://secrets.l25.cloud)
@@ -870,14 +865,13 @@
 - [sendpass.ru](https://sendpass.ru)
 - [share.cyberguerrilla.info](https://share.cyberguerrilla.info)
 - [skypaste.ch](https://skypaste.ch)
-- [slackjeff.com.br](https://slackjeff.com.br)
 - [snip.dssr.ch](https://snip.dssr.ch)
 - [t25b.com](https://t25b.com)
 - [teamware.eu](https://teamware.eu)
 - [textbin.quick-space.de](https://textbin.quick-space.de)
 - [texte.antopie.org](https://texte.antopie.org)
-- [tmp.app.bitbull.ch](https://tmp.app.bitbull.ch)
 - [www.encrypt0r.net](https://www.encrypt0r.net)
+- [www.nervengas.com](https://www.nervengas.com)
 - [www.noteshare.net](https://www.noteshare.net)
 - [zb.zerosgaming.de](https://zb.zerosgaming.de)
 - [zbin.io](https://zbin.io)

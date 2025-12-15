@@ -1,10 +1,14 @@
 {
     "instances": [
+        "l.opnxng.com",
         "lr.ptr.moe",
-        "redlib.catsarch.com"
+        "redlib.catsarch.com",
+        "redlib.cow.rip",
+        "redlib.privacyredirect.com"
     ],
     "onion": [
-        "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+        "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+        "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
     ],
     "i2p": [
         "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
