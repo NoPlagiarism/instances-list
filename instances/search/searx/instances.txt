@@ -2,6 +2,7 @@ baresearch.org
 copp.gg
 etsi.me
 find.xenorio.xyz
+grep.vim.wtf
 kantan.cat
 o5.gg
 ooglester.com
@@ -33,9 +34,9 @@ search.leptons.xyz
 search.mdosch.de
 search.oh64.moe
 search.ononoki.org
-search.perditum.com
 search.privacyredirect.com
 search.rhscz.eu
+search.rowie.at
 search.sapti.me
 search.undertale.uk
 search.unredacted.org
@@ -50,7 +51,6 @@ searx.oloke.xyz
 searx.ox2.fr
 searx.party
 searx.perennialte.ch
-searx.ppeb.me
 searx.rhscz.eu
 searx.ro
 searx.sev.monster
@@ -61,7 +61,6 @@ searxng.biz
 searxng.blockblitz.dev
 searxng.canine.tools
 searxng.cups.moe
-searxng.hweeren.com
 searxng.shreven.org
 searxng.site
 searxng.website

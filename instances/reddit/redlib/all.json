@@ -2,11 +2,16 @@
     "instances": [
         "l.opnxng.com",
         "lr.ptr.moe",
+        "red.artemislena.eu",
         "redlib.catsarch.com",
         "redlib.cow.rip",
-        "redlib.privacyredirect.com"
+        "redlib.orangenet.cc",
+        "redlib.perennialte.ch",
+        "redlib.privacyredirect.com",
+        "redlib.privadency.com"
     ],
     "onion": [
+        "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
         "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
         "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
     ],
