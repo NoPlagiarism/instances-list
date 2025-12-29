@@ -12,7 +12,6 @@
 - [libremdb.catsarch.com](https://libremdb.catsarch.com)
 - [libremdb.darkness.services](https://libremdb.darkness.services)
 - [libremdb.ducks.party](https://libremdb.ducks.party)
-- [libremdb.franklyflawless.org](https://libremdb.franklyflawless.org)
 - [libremdb.frontendfriendly.xyz](https://libremdb.frontendfriendly.xyz)
 - [libremdb.hyperreal.coffee](https://libremdb.hyperreal.coffee)
 - [libremdb.iket.me](https://libremdb.iket.me)

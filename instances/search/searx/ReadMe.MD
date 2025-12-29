@@ -44,6 +44,7 @@
 - [search.undertale.uk](https://search.undertale.uk)
 - [search.unredacted.org](https://search.unredacted.org)
 - [search.url4irl.com](https://search.url4irl.com)
+- [search.wdpserver.com](https://search.wdpserver.com)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.dresden.network](https://searx.dresden.network)
 - [searx.lunar.icu](https://searx.lunar.icu)

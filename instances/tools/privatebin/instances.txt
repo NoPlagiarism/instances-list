@@ -11,7 +11,6 @@ bin.2255.me
 bin.68degrees.no
 bin.acquia.com
 bin.anis.live
-bin.aurio.no
 bin.bloat.cat
 bin.byreqz.de
 bin.calitabby.net
@@ -32,7 +31,6 @@ bin.mezzo.moe
 bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
-bin.notsparkable.org
 bin.outv.im
 bin.purplebored.pl
 bin.reallyaweso.me
@@ -46,6 +44,7 @@ bin.vdx.sh
 bin.whitebow.fr
 bin.yee.to
 bonus01.hwb0307.com
+cdn.inweb.systems
 cles.le-filament.com
 code.wt.pt
 cpaste.org
@@ -91,7 +90,6 @@ paste.crqch.dev
 paste.d-ku.de
 paste.devsite.pl
 paste.dismail.de
-paste.djalexkidd.ovh
 paste.dvotx.org
 paste.elyday.net
 paste.encrypt.co.il
@@ -147,7 +145,6 @@ pb.blackvoid.club
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
-pb.lightningnur.win
 pbin.nadeko.net
 photistic.org
 privatebin.app
@@ -195,6 +192,7 @@ snip.dssr.ch
 t25b.com
 teamware.eu
 textbin.quick-space.de
+wtf.roflcopter.fr
 www.encrypt0r.net
 www.nervengas.com
 www.noteshare.net
