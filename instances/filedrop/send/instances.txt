@@ -1,16 +1,11 @@
-allthefiles.net
 ch.skysend.ch
 de.skysend.ch
 drop.chapril.org
-files.psu.ru
 fileupload.ggc-project.de
-s.opnxng.com
 send.adminforge.de
-send.aezafiles.net
 send.artemislena.eu
 send.aslaets.be
 send.aurorabilisim.com
-send.boblorange.net
 send.canine.tools
 send.codespace.cz
 send.cyberjake.xyz
@@ -22,7 +17,6 @@ send.mni.li
 send.monks.tools
 send.nog.community
 send.richy.sh
-send.sdad.pro
 send.skylerszijjarto.com
 send.turingpoint.de
 send.vis.ee

@@ -5,7 +5,6 @@
 - [mozhi.aryak.me](https://mozhi.aryak.me)
 - [mozhi.canine.tools](https://mozhi.canine.tools)
 - [mozhi.ducks.party](https://mozhi.ducks.party)
-- [mozhi.franklyflawless.org](https://mozhi.franklyflawless.org)
 - [mozhi.pussthecat.org](https://mozhi.pussthecat.org)
 - [mzh.dc09.ru](https://mzh.dc09.ru)
 - [translate.nerdvpn.de](https://translate.nerdvpn.de)
