@@ -1,7 +1,6 @@
 {
     "instances": [
         "0.harizalan.hu",
-        "0.jaegers.net",
         "03c.de",
         "0bin.me",
         "amir.ch",
@@ -33,6 +32,7 @@
         "bin.mycozy.space",
         "bin.nixnet.services",
         "bin.nji9.de",
+        "bin.oss.zone",
         "bin.outv.im",
         "bin.purplebored.pl",
         "bin.reallyaweso.me",
@@ -74,7 +74,6 @@
         "p.hessfr.fr",
         "p.kapsi.fi",
         "p.kll.li",
-        "p.vinci-concessions.com",
         "pad.rackforest.com",
         "passwords.gestionalda.com",
         "paste.3server.de",
@@ -93,6 +92,7 @@
         "paste.devsite.pl",
         "paste.dismail.de",
         "paste.dvotx.org",
+        "paste.eccologic.net",
         "paste.elyday.net",
         "paste.encrypt.co.il",
         "paste.evolix.org",
@@ -105,6 +105,7 @@
         "paste.helkor.eu",
         "paste.hostify.cz",
         "paste.hostux.net",
+        "paste.inthemansion.com",
         "paste.juanvel400.xyz",
         "paste.kingrabbit.dev",
         "paste.libre-service.eu",
@@ -201,11 +202,13 @@
         "zb.zerosgaming.de",
         "zbin.io",
         "zerobin-legacy.dssr.ch",
+        "zerobin.mirtouf.fr",
         "zerobin.zertrin.org"
     ],
     "onion": [
         "5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion",
         "bin.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
+        "de2xevo5scpanzxpbhqt5gnjz5y3vgbo2xvzw6c5d737t5mrx5ekttyd.onion",
         "edf63t4u6bxhkpgk33pwuuowo45gkhuwywr5257pjf3z6uzwetfiklyd.onion",
         "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",
         "paste.momou4yoo6k4e6bnvv5lkc6lc5fg7xuye7uqxxvmhnvbsr37bfkn7dyd.onion",

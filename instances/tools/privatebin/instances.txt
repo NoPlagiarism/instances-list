@@ -1,5 +1,4 @@
 0.harizalan.hu
-0.jaegers.net
 03c.de
 0bin.me
 amir.ch
@@ -31,6 +30,7 @@ bin.mezzo.moe
 bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
+bin.oss.zone
 bin.outv.im
 bin.purplebored.pl
 bin.reallyaweso.me
@@ -72,7 +72,6 @@ p.dousse.eu
 p.hessfr.fr
 p.kapsi.fi
 p.kll.li
-p.vinci-concessions.com
 pad.rackforest.com
 passwords.gestionalda.com
 paste.3server.de
@@ -91,6 +90,7 @@ paste.d-ku.de
 paste.devsite.pl
 paste.dismail.de
 paste.dvotx.org
+paste.eccologic.net
 paste.elyday.net
 paste.encrypt.co.il
 paste.evolix.org
@@ -103,6 +103,7 @@ paste.hashpwn.net
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
+paste.inthemansion.com
 paste.juanvel400.xyz
 paste.kingrabbit.dev
 paste.libre-service.eu
@@ -199,4 +200,5 @@ www.noteshare.net
 zb.zerosgaming.de
 zbin.io
 zerobin-legacy.dssr.ch
+zerobin.mirtouf.fr
 zerobin.zertrin.org

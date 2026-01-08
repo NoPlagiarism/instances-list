@@ -21,6 +21,7 @@
 - [4get.plunked.party](https://4get.plunked.party)
 - [4get.sijh.net](https://4get.sijh.net)
 - [4get.silly.computer](https://4get.silly.computer)
+- [4get.sny.sh](https://4get.sny.sh)
 - [4get.sudovanilla.org](https://4get.sudovanilla.org)
 - [4get.thebunny.zone](https://4get.thebunny.zone)
 - [4get.zzls.xyz](https://4get.zzls.xyz)

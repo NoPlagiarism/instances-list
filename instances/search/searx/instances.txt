@@ -32,6 +32,7 @@ search.ipsys.bf
 search.ipv6s.net
 search.leptons.xyz
 search.mdosch.de
+search.minus27315.dev
 search.oh64.moe
 search.ononoki.org
 search.privacyredirect.com
@@ -42,6 +43,7 @@ search.undertale.uk
 search.unredacted.org
 search.url4irl.com
 search.wdpserver.com
+search.zina.dev
 searx.ankha.ac
 searx.dresden.network
 searx.lunar.icu
@@ -59,7 +61,6 @@ searx.stream
 searx.tiekoetter.com
 searx.tuxcloud.net
 searxng.biz
-searxng.blockblitz.dev
 searxng.canine.tools
 searxng.cups.moe
 searxng.shreven.org
