@@ -16,7 +16,6 @@
 - [search.2b9t.xyz](https://search.2b9t.xyz)
 - [search.abohiccups.com](https://search.abohiccups.com)
 - [search.anoni.net](https://search.anoni.net)
-- [search.atl.tools](https://search.atl.tools)
 - [search.bladerunn.in](https://search.bladerunn.in)
 - [search.buddyverse.net](https://search.buddyverse.net)
 - [search.catboy.house](https://search.catboy.house)

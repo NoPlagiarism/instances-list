@@ -67,10 +67,11 @@
         "instances": [
             "mozhi.adminforge.de",
             "mozhi.aryak.me",
+            "mozhi.bloat.cat",
             "mozhi.canine.tools",
             "mozhi.ducks.party",
             "mozhi.pussthecat.org",
-            "mzh.dc09.ru",
+            "mzh.dc09.xyz",
             "translate.nerdvpn.de",
             "translate.privacyredirect.com",
             "translate.projectsegfau.lt"
@@ -122,7 +123,6 @@
             "search.2b9t.xyz",
             "search.abohiccups.com",
             "search.anoni.net",
-            "search.atl.tools",
             "search.bladerunn.in",
             "search.buddyverse.net",
             "search.catboy.house",
@@ -259,9 +259,7 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [
-            "l.opnxng.com"
-        ],
+        "instances": [],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -274,17 +272,15 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "l.opnxng.com",
-            "redlib.4o1x5.dev",
             "redlib.catsarch.com",
             "redlib.cow.rip",
+            "redlib.nadeko.net",
             "redlib.orangenet.cc",
             "redlib.perennialte.ch",
-            "redlib.r4fo.com"
+            "redlib.privadency.com"
         ],
         "onion": [
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -425,14 +421,10 @@
         "url": "https://codeberg.org/video-prize-ranch/rimgo#rimgo",
         "path": "imgur/rimgo",
         "instances": [
-            "i.datuan.dev",
             "imgur.artemislena.eu",
-            "imgur.sudovanilla.org",
             "r.opnxng.com",
             "rg.kuuro.net",
-            "rimgo.bus-hit.me",
-            "rimgo.pussthecat.org",
-            "rimgo.totaldarkness.net"
+            "rimgo.pussthecat.org"
         ],
         "onion": [
             "imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion"
@@ -743,8 +735,8 @@
             "bin.byreqz.de",
             "bin.calitabby.net",
             "bin.chimuc.com",
+            "bin.demorose.me",
             "bin.disroot.org",
-            "bin.esd.cc",
             "bin.freedombits.org",
             "bin.garbaye.fr",
             "bin.graveyard.sh",
@@ -755,6 +747,7 @@
             "bin.infra.Mee6.cloud",
             "bin.iya.at",
             "bin.libreon.fr",
+            "bin.megaprojekt.net",
             "bin.mezzo.moe",
             "bin.mycozy.space",
             "bin.nixnet.services",
@@ -820,6 +813,7 @@
             "paste.dismail.de",
             "paste.dvotx.org",
             "paste.eccologic.net",
+            "paste.elenemigos.com",
             "paste.elyday.net",
             "paste.encrypt.co.il",
             "paste.evolix.org",
@@ -872,6 +866,7 @@
             "pastefg.hermietkreeft.site",
             "pastequest.com",
             "pb.blackvoid.club",
+            "pb.fbin.in",
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
@@ -895,6 +890,7 @@
             "privatebin.net",
             "privatebin.oxidizer.de",
             "privatebin.paradox.ai",
+            "privatebin.rausgerufen.de",
             "privatebin.rinuploads.org",
             "privatebin.seattlematrix.org",
             "privatebin.sequanux.org",
@@ -935,6 +931,7 @@
         "onion": [
             "5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion",
             "bin.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
+            "bin.outvimf2zjmkczje3as6rivncgfvqk5lmreywezwmufwdkoq5vkhmzid.onion",
             "de2xevo5scpanzxpbhqt5gnjz5y3vgbo2xvzw6c5d737t5mrx5ekttyd.onion",
             "edf63t4u6bxhkpgk33pwuuowo45gkhuwywr5257pjf3z6uzwetfiklyd.onion",
             "n63ite5off46lfh7qei4uhkvttrgvpve7ag3kwftlqkxo4o5mu7l4cqd.onion",

@@ -1,14 +1,10 @@
 # [rimgo](https://codeberg.org/video-prize-ranch/rimgo#rimgo)
 
 # Clearnet
-- [i.datuan.dev](https://i.datuan.dev)
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)
-- [imgur.sudovanilla.org](https://imgur.sudovanilla.org)
 - [r.opnxng.com](https://r.opnxng.com)
 - [rg.kuuro.net](https://rg.kuuro.net)
-- [rimgo.bus-hit.me](https://rimgo.bus-hit.me)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
-- [rimgo.totaldarkness.net](https://rimgo.totaldarkness.net)
 # Onion
 - [imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 # I2P

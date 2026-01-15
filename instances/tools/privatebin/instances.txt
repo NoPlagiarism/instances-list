@@ -14,8 +14,8 @@ bin.bloat.cat
 bin.byreqz.de
 bin.calitabby.net
 bin.chimuc.com
+bin.demorose.me
 bin.disroot.org
-bin.esd.cc
 bin.freedombits.org
 bin.garbaye.fr
 bin.graveyard.sh
@@ -26,6 +26,7 @@ bin.infini.fr
 bin.infra.Mee6.cloud
 bin.iya.at
 bin.libreon.fr
+bin.megaprojekt.net
 bin.mezzo.moe
 bin.mycozy.space
 bin.nixnet.services
@@ -91,6 +92,7 @@ paste.devsite.pl
 paste.dismail.de
 paste.dvotx.org
 paste.eccologic.net
+paste.elenemigos.com
 paste.elyday.net
 paste.encrypt.co.il
 paste.evolix.org
@@ -143,6 +145,7 @@ pastebin.linqhost.nl
 pastefg.hermietkreeft.site
 pastequest.com
 pb.blackvoid.club
+pb.fbin.in
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
@@ -166,6 +169,7 @@ privatebin.mbiz.io
 privatebin.net
 privatebin.oxidizer.de
 privatebin.paradox.ai
+privatebin.rausgerufen.de
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org

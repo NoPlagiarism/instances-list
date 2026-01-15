@@ -13,7 +13,6 @@ s.mble.dk
 search.2b9t.xyz
 search.abohiccups.com
 search.anoni.net
-search.atl.tools
 search.bladerunn.in
 search.buddyverse.net
 search.catboy.house

@@ -3,10 +3,11 @@
 # Clearnet
 - [mozhi.adminforge.de](https://mozhi.adminforge.de)
 - [mozhi.aryak.me](https://mozhi.aryak.me)
+- [mozhi.bloat.cat](https://mozhi.bloat.cat)
 - [mozhi.canine.tools](https://mozhi.canine.tools)
 - [mozhi.ducks.party](https://mozhi.ducks.party)
 - [mozhi.pussthecat.org](https://mozhi.pussthecat.org)
-- [mzh.dc09.ru](https://mzh.dc09.ru)
+- [mzh.dc09.xyz](https://mzh.dc09.xyz)
 - [translate.nerdvpn.de](https://translate.nerdvpn.de)
 - [translate.privacyredirect.com](https://translate.privacyredirect.com)
 - [translate.projectsegfau.lt](https://translate.projectsegfau.lt)
