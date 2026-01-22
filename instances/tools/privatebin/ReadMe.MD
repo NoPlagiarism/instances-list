@@ -110,7 +110,6 @@
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.inthemansion.com](https://paste.inthemansion.com)
 - [paste.juanvel400.xyz](https://paste.juanvel400.xyz)
-- [paste.kingrabbit.dev](https://paste.kingrabbit.dev)
 - [paste.libre-service.eu](https://paste.libre-service.eu)
 - [paste.linxx.net](https://paste.linxx.net)
 - [paste.loryy.dev](https://paste.loryy.dev)

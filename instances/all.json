@@ -40,7 +40,6 @@
             "translate.northboot.xyz"
         ],
         "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
@@ -259,7 +258,9 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [],
+        "instances": [
+            "lr.vern.cc"
+        ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -272,15 +273,18 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "red.artemislena.eu",
+            "redlib.4o1x5.dev",
             "redlib.catsarch.com",
             "redlib.cow.rip",
-            "redlib.nadeko.net",
             "redlib.orangenet.cc",
             "redlib.perennialte.ch",
-            "redlib.privadency.com"
+            "redlib.privadency.com",
+            "redlib.r4fo.com"
         ],
         "onion": [
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -828,7 +832,6 @@
             "paste.hostux.net",
             "paste.inthemansion.com",
             "paste.juanvel400.xyz",
-            "paste.kingrabbit.dev",
             "paste.libre-service.eu",
             "paste.linxx.net",
             "paste.loryy.dev",
@@ -961,6 +964,7 @@
         "instances": [
             "4.nboeck.de",
             "4.ngn.tf",
+            "4g.opnxng.com",
             "4get.aishiteiru.moe",
             "4get.ca",
             "4get.canine.tools",
