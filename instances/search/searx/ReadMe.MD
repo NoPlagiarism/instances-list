@@ -17,7 +17,6 @@
 - [search.abohiccups.com](https://search.abohiccups.com)
 - [search.anoni.net](https://search.anoni.net)
 - [search.bladerunn.in](https://search.bladerunn.in)
-- [search.buddyverse.net](https://search.buddyverse.net)
 - [search.catboy.house](https://search.catboy.house)
 - [search.charliewhiskey.net](https://search.charliewhiskey.net)
 - [search.darkness.services](https://search.darkness.services)

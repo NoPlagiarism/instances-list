@@ -40,6 +40,7 @@
             "translate.northboot.xyz"
         ],
         "onion": [
+            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
@@ -123,7 +124,6 @@
             "search.abohiccups.com",
             "search.anoni.net",
             "search.bladerunn.in",
-            "search.buddyverse.net",
             "search.catboy.house",
             "search.charliewhiskey.net",
             "search.darkness.services",
@@ -259,7 +259,7 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "lr.vern.cc"
+            "l.opnxng.com"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -273,16 +273,20 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "l.opnxng.com",
             "red.artemislena.eu",
             "redlib.4o1x5.dev",
             "redlib.catsarch.com",
             "redlib.cow.rip",
+            "redlib.ducks.party",
+            "redlib.nadeko.net",
             "redlib.orangenet.cc",
             "redlib.perennialte.ch",
             "redlib.privadency.com",
             "redlib.r4fo.com"
         ],
         "onion": [
+            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
@@ -739,7 +743,6 @@
             "bin.byreqz.de",
             "bin.calitabby.net",
             "bin.chimuc.com",
-            "bin.demorose.me",
             "bin.disroot.org",
             "bin.freedombits.org",
             "bin.garbaye.fr",
@@ -802,7 +805,6 @@
             "passwords.gestionalda.com",
             "paste.3server.de",
             "paste.aminulloh.id",
-            "paste.aryu.de",
             "paste.aya.so",
             "paste.biocrafting.net",
             "paste.burble.com",
@@ -868,13 +870,14 @@
             "pastebin.linqhost.nl",
             "pastefg.hermietkreeft.site",
             "pastequest.com",
+            "pb.atl.tools",
             "pb.blackvoid.club",
-            "pb.fbin.in",
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
             "pbin.nadeko.net",
             "photistic.org",
+            "privatebin.a38.fr",
             "privatebin.app",
             "privatebin.ar21.de",
             "privatebin.at",
