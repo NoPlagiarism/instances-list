@@ -30,7 +30,6 @@ bin.mezzo.moe
 bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
-bin.oss.zone
 bin.outv.im
 bin.purplebored.pl
 bin.reallyaweso.me
@@ -42,7 +41,6 @@ bin.siick.fr
 bin.tiekoetter.com
 bin.vdx.sh
 bin.whitebow.fr
-bin.yee.to
 bonus01.hwb0307.com
 cdn.inweb.systems
 cles.le-filament.com
@@ -58,7 +56,6 @@ hoyfamily.tech
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
-n0t.io
 notas.gatooscuro.xyz
 notebin.de
 notes.dark2web.com
@@ -141,12 +138,12 @@ pastebin.hot-chilli.net
 pastebin.linqhost.nl
 pastefg.hermietkreeft.site
 pastequest.com
+pb.1337-it.net
 pb.atl.tools
 pb.blackvoid.club
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
-pbin.nadeko.net
 photistic.org
 privatebin.a38.fr
 privatebin.app

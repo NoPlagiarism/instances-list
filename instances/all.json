@@ -40,7 +40,6 @@
             "translate.northboot.xyz"
         ],
         "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
@@ -138,11 +137,11 @@
             "search.internetsucks.net",
             "search.ipsys.bf",
             "search.ipv6s.net",
-            "search.leptons.xyz",
             "search.mdosch.de",
             "search.minus27315.dev",
             "search.oh64.moe",
             "search.ononoki.org",
+            "search.pi.vps.pw",
             "search.privacyredirect.com",
             "search.rhscz.eu",
             "search.rowie.at",
@@ -275,18 +274,19 @@
         "path": "reddit/redlib",
         "instances": [
             "red.artemislena.eu",
-            "reddit.adminforge.de",
-            "redlib.4o1x5.dev",
             "redlib.catsarch.com",
             "redlib.cow.rip",
             "redlib.nadeko.net",
             "redlib.orangenet.cc",
             "redlib.perennialte.ch",
-            "redlib.privadency.com"
+            "redlib.privacyredirect.com",
+            "redlib.privadency.com",
+            "redlib.r4fo.com"
         ],
         "onion": [
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
+            "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -330,7 +330,8 @@
             "yewtu.be"
         ],
         "onion": [
-            "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
+            "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
+            "nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion"
         ],
         "i2p": [
             "nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p"
@@ -757,7 +758,6 @@
             "bin.mycozy.space",
             "bin.nixnet.services",
             "bin.nji9.de",
-            "bin.oss.zone",
             "bin.outv.im",
             "bin.purplebored.pl",
             "bin.reallyaweso.me",
@@ -769,7 +769,6 @@
             "bin.tiekoetter.com",
             "bin.vdx.sh",
             "bin.whitebow.fr",
-            "bin.yee.to",
             "bonus01.hwb0307.com",
             "cdn.inweb.systems",
             "cles.le-filament.com",
@@ -785,7 +784,6 @@
             "ircwebnet.com",
             "ktbky.kaaass.net",
             "logs.notifiarr.com",
-            "n0t.io",
             "notas.gatooscuro.xyz",
             "notebin.de",
             "notes.dark2web.com",
@@ -868,12 +866,12 @@
             "pastebin.linqhost.nl",
             "pastefg.hermietkreeft.site",
             "pastequest.com",
+            "pb.1337-it.net",
             "pb.atl.tools",
             "pb.blackvoid.club",
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
-            "pbin.nadeko.net",
             "photistic.org",
             "privatebin.a38.fr",
             "privatebin.app",

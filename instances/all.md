@@ -69,7 +69,6 @@
 - [tl.vern.cc](https://tl.vern.cc)
 - [translate.northboot.xyz](https://translate.northboot.xyz)
 ### Onion
-- [st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 ### I2P
 - [verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p](http://verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p)
@@ -155,11 +154,11 @@
 - [search.internetsucks.net](https://search.internetsucks.net)
 - [search.ipsys.bf](https://search.ipsys.bf)
 - [search.ipv6s.net](https://search.ipv6s.net)
-- [search.leptons.xyz](https://search.leptons.xyz)
 - [search.mdosch.de](https://search.mdosch.de)
 - [search.minus27315.dev](https://search.minus27315.dev)
 - [search.oh64.moe](https://search.oh64.moe)
 - [search.ononoki.org](https://search.ononoki.org)
+- [search.pi.vps.pw](https://search.pi.vps.pw)
 - [search.privacyredirect.com](https://search.privacyredirect.com)
 - [search.rhscz.eu](https://search.rhscz.eu)
 - [search.rowie.at](https://search.rowie.at)
@@ -275,17 +274,18 @@
 
 ### Clearnet
 - [red.artemislena.eu](https://red.artemislena.eu)
-- [reddit.adminforge.de](https://reddit.adminforge.de)
-- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.orangenet.cc](https://redlib.orangenet.cc)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
+- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
+- [redlib.r4fo.com](https://redlib.r4fo.com)
 ### Onion
-- [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
+- [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -323,6 +323,7 @@
 - [yewtu.be](https://yewtu.be)
 ### Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
+- [nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion](http://nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion)
 ### I2P
 - [nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p](http://nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p)
 
@@ -689,7 +690,6 @@
 - [bin.mycozy.space](https://bin.mycozy.space)
 - [bin.nixnet.services](https://bin.nixnet.services)
 - [bin.nji9.de](https://bin.nji9.de)
-- [bin.oss.zone](https://bin.oss.zone)
 - [bin.outv.im](https://bin.outv.im)
 - [bin.purplebored.pl](https://bin.purplebored.pl)
 - [bin.reallyaweso.me](https://bin.reallyaweso.me)
@@ -701,7 +701,6 @@
 - [bin.tiekoetter.com](https://bin.tiekoetter.com)
 - [bin.vdx.sh](https://bin.vdx.sh)
 - [bin.whitebow.fr](https://bin.whitebow.fr)
-- [bin.yee.to](https://bin.yee.to)
 - [bonus01.hwb0307.com](https://bonus01.hwb0307.com)
 - [cdn.inweb.systems](https://cdn.inweb.systems)
 - [cles.le-filament.com](https://cles.le-filament.com)
@@ -717,7 +716,6 @@
 - [ircwebnet.com](https://ircwebnet.com)
 - [ktbky.kaaass.net](https://ktbky.kaaass.net)
 - [logs.notifiarr.com](https://logs.notifiarr.com)
-- [n0t.io](https://n0t.io)
 - [notas.gatooscuro.xyz](https://notas.gatooscuro.xyz)
 - [notebin.de](https://notebin.de)
 - [notes.dark2web.com](https://notes.dark2web.com)
@@ -800,12 +798,12 @@
 - [pastebin.linqhost.nl](https://pastebin.linqhost.nl)
 - [pastefg.hermietkreeft.site](https://pastefg.hermietkreeft.site)
 - [pastequest.com](https://pastequest.com)
+- [pb.1337-it.net](https://pb.1337-it.net)
 - [pb.atl.tools](https://pb.atl.tools)
 - [pb.blackvoid.club](https://pb.blackvoid.club)
 - [pb.fly.dev](https://pb.fly.dev)
 - [pb.greep.fr](https://pb.greep.fr)
 - [pb.jaska.cc](https://pb.jaska.cc)
-- [pbin.nadeko.net](https://pbin.nadeko.net)
 - [photistic.org](https://photistic.org)
 - [privatebin.a38.fr](https://privatebin.a38.fr)
 - [privatebin.app](https://privatebin.app)
