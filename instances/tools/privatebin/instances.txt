@@ -1,4 +1,3 @@
-0.harizalan.hu
 03c.de
 0bin.me
 amir.ch
@@ -8,7 +7,6 @@ b.opnxng.com
 betterpaste.me
 bin.2255.me
 bin.68degrees.no
-bin.acquia.com
 bin.anis.live
 bin.bloat.cat
 bin.byreqz.de
@@ -56,6 +54,7 @@ hoyfamily.tech
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
+n0t.io
 notas.gatooscuro.xyz
 notebin.de
 notes.dark2web.com
@@ -80,10 +79,8 @@ paste.canine.tools
 paste.chapril.org
 paste.coalserver.de
 paste.copper.dedyn.io
-paste.cracktek.eu
 paste.crqch.dev
 paste.d-ku.de
-paste.devsite.pl
 paste.dismail.de
 paste.dvotx.org
 paste.eccologic.net
@@ -93,6 +90,7 @@ paste.encrypt.co.il
 paste.evolix.org
 paste.fitgirl-repacks.site
 paste.fizi.ca
+paste.fmhy.bid
 paste.gnoppix.org
 paste.grammicals.com
 paste.gstd.eu
@@ -114,13 +112,16 @@ paste.ononoki.org
 paste.ottertelecom.com
 paste.picasoft.net
 paste.plus
+paste.rb.dcu.ie
 paste.rbn.gr
+paste.redbrick.dcu.ie
 paste.rys.pw
 paste.shreven.org
 paste.skynetcloud.site
 paste.stratum0.org
 paste.sweatyangmoh.sg
 paste.systemli.org
+paste.tchncs.com
 paste.tecff.de
 paste.tech-port.de
 paste.thec0de.com
@@ -193,10 +194,12 @@ snip.dssr.ch
 t25b.com
 teamware.eu
 textbin.quick-space.de
+tools.beardic.cn
 wtf.roflcopter.fr
 www.encrypt0r.net
 www.nervengas.com
 www.noteshare.net
+xkwy2018.com
 zb.zerosgaming.de
 zbin.io
 zerobin-legacy.dssr.ch
