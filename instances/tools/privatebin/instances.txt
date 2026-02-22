@@ -25,6 +25,7 @@ bin.iya.at
 bin.libreon.fr
 bin.megaprojekt.net
 bin.mezzo.moe
+bin.mrr.moe
 bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
@@ -54,7 +55,6 @@ hoyfamily.tech
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
-n0t.io
 notas.gatooscuro.xyz
 notebin.de
 notes.dark2web.com
@@ -71,7 +71,6 @@ p.kll.li
 pad.rackforest.com
 passwords.gestionalda.com
 paste.3server.de
-paste.aminulloh.id
 paste.aya.so
 paste.biocrafting.net
 paste.burble.com
@@ -79,6 +78,7 @@ paste.canine.tools
 paste.chapril.org
 paste.coalserver.de
 paste.copper.dedyn.io
+paste.craftum.pl
 paste.crqch.dev
 paste.d-ku.de
 paste.dismail.de
@@ -99,7 +99,6 @@ paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
 paste.inthemansion.com
-paste.juanvel400.xyz
 paste.libre-service.eu
 paste.linxx.net
 paste.loryy.dev
@@ -118,6 +117,7 @@ paste.redbrick.dcu.ie
 paste.rys.pw
 paste.shreven.org
 paste.skynetcloud.site
+paste.spigot.pl
 paste.stratum0.org
 paste.sweatyangmoh.sg
 paste.systemli.org
@@ -160,7 +160,6 @@ privatebin.johnnybegood.fr
 privatebin.kosebamse.com
 privatebin.li
 privatebin.lol
-privatebin.luckvintage.com
 privatebin.mbiz.io
 privatebin.net
 privatebin.oxidizer.de
@@ -170,7 +169,6 @@ privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org
 privatebin.unige.ch
-privatebin.uwunya.org
 privatebin.wildberries.ru
 privatebin.zerotwo.ovh
 privatepastebin.com
@@ -193,6 +191,7 @@ skypaste.ch
 snip.dssr.ch
 t25b.com
 teamware.eu
+tentacled-sponge.pikapod.net
 textbin.quick-space.de
 tools.beardic.cn
 wtf.roflcopter.fr
