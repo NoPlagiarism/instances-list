@@ -1,3 +1,4 @@
+0.harizalan.hu
 03c.de
 0bin.me
 amir.ch
@@ -78,6 +79,7 @@ paste.canine.tools
 paste.chapril.org
 paste.coalserver.de
 paste.copper.dedyn.io
+paste.cracktek.eu
 paste.craftum.pl
 paste.crqch.dev
 paste.d-ku.de
@@ -98,7 +100,6 @@ paste.hashpwn.net
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
-paste.inthemansion.com
 paste.libre-service.eu
 paste.linxx.net
 paste.loryy.dev
@@ -136,7 +137,6 @@ paste.worf.win
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.hot-chilli.net
-pastebin.linqhost.nl
 pastefg.hermietkreeft.site
 pastequest.com
 pb.1337-it.net
@@ -146,7 +146,6 @@ pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
 photistic.org
-privatebin.a38.fr
 privatebin.app
 privatebin.ar21.de
 privatebin.at
@@ -191,7 +190,6 @@ skypaste.ch
 snip.dssr.ch
 t25b.com
 teamware.eu
-tentacled-sponge.pikapod.net
 textbin.quick-space.de
 tools.beardic.cn
 wtf.roflcopter.fr
