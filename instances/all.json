@@ -137,10 +137,8 @@
             "search.inetol.net",
             "search.internetsucks.net",
             "search.ipsys.bf",
-            "search.ipv6s.net",
             "search.mdosch.de",
             "search.minus27315.dev",
-            "search.oh64.moe",
             "search.ononoki.org",
             "search.pereira.is",
             "search.pi.vps.pw",
@@ -168,10 +166,8 @@
             "searx.rhscz.eu",
             "searx.ro",
             "searx.sev.monster",
-            "searx.stream",
             "searx.tiekoetter.com",
             "searx.tuxcloud.net",
-            "searxng.biz",
             "searxng.canine.tools",
             "searxng.cups.moe",
             "searxng.deggo.fyi",
@@ -190,7 +186,6 @@
             "searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion",
             "searxngorpgnztkcftpz3ycdpyajd4q55y2nejw3tbszocht5zdh4lyd.onion",
             "searxokthnxmo7ndis35jpts2tawcwvbovuy47qtavwo7oq4jgcm5gqd.onion",
-            "vp5dnvfg352ohj674xi6owkddy3daftkmyfsbbt73sb5gt7qxctfcqad.onion",
             "whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion"
         ],
         "i2p": []
@@ -264,8 +259,7 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "l.opnxng.com",
-            "lr.vern.cc"
+            "l.opnxng.com"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -280,19 +274,14 @@
         "path": "reddit/redlib",
         "instances": [
             "l.opnxng.com",
-            "red.artemislena.eu",
             "redlib.4o1x5.dev",
             "redlib.ducks.party",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
-            "redlib.privacyredirect.com",
-            "redlib.privadency.com",
-            "redlib.r4fo.com"
+            "redlib.privacyredirect.com"
         ],
         "onion": [
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
-            "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
         ],
         "i2p": []
     },
@@ -730,7 +719,6 @@
         "url": "https://privatebin.info/",
         "path": "tools/privatebin",
         "instances": [
-            "0.harizalan.hu",
             "03c.de",
             "0bin.me",
             "amir.ch",
@@ -823,8 +811,6 @@
             "paste.encrypt.co.il",
             "paste.evolix.org",
             "paste.fitgirl-repacks.site",
-            "paste.fizi.ca",
-            "paste.fmhy.bid",
             "paste.gnoppix.org",
             "paste.grammicals.com",
             "paste.gstd.eu",

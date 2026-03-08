@@ -1,7 +1,6 @@
 # [PrivateBin](https://privatebin.info/)
 
 # Clearnet
-- [0.harizalan.hu](https://0.harizalan.hu)
 - [03c.de](https://03c.de)
 - [0bin.me](https://0bin.me)
 - [amir.ch](https://amir.ch)
@@ -94,8 +93,6 @@
 - [paste.encrypt.co.il](https://paste.encrypt.co.il)
 - [paste.evolix.org](https://paste.evolix.org)
 - [paste.fitgirl-repacks.site](https://paste.fitgirl-repacks.site)
-- [paste.fizi.ca](https://paste.fizi.ca)
-- [paste.fmhy.bid](https://paste.fmhy.bid)
 - [paste.gnoppix.org](https://paste.gnoppix.org)
 - [paste.grammicals.com](https://paste.grammicals.com)
 - [paste.gstd.eu](https://paste.gstd.eu)

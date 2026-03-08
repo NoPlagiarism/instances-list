@@ -27,10 +27,8 @@ search.indst.eu
 search.inetol.net
 search.internetsucks.net
 search.ipsys.bf
-search.ipv6s.net
 search.mdosch.de
 search.minus27315.dev
-search.oh64.moe
 search.ononoki.org
 search.pereira.is
 search.pi.vps.pw
@@ -58,10 +56,8 @@ searx.perennialte.ch
 searx.rhscz.eu
 searx.ro
 searx.sev.monster
-searx.stream
 searx.tiekoetter.com
 searx.tuxcloud.net
-searxng.biz
 searxng.canine.tools
 searxng.cups.moe
 searxng.deggo.fyi
