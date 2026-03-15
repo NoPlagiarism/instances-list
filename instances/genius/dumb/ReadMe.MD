@@ -3,6 +3,7 @@
 # Clearnet
 - [db.kuuro.net](https://db.kuuro.net)
 - [dm.vern.cc](https://dm.vern.cc)
+- [dumb.artemislena.eu](https://dumb.artemislena.eu)
 - [dumb.bloat.cat](https://dumb.bloat.cat)
 - [dumb.canine.tools](https://dumb.canine.tools)
 - [dumb.ducks.party](https://dumb.ducks.party)
@@ -11,6 +12,7 @@
 - [dumb.lunar.icu](https://dumb.lunar.icu)
 - [dumb.privacydev.net](https://dumb.privacydev.net)
 - [dumb.privacyfucking.rocks](https://dumb.privacyfucking.rocks)
+- [genius.fsky.io](https://genius.fsky.io)
 - [lyr.dc09.ru](https://lyr.dc09.ru)
 - [sing.whatever.social](https://sing.whatever.social)
 # Onion

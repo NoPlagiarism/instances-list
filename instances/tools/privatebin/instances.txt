@@ -71,6 +71,7 @@ p.kll.li
 pad.rackforest.com
 passwords.gestionalda.com
 paste.3server.de
+paste.apphoster.cc
 paste.aya.so
 paste.biocrafting.net
 paste.burble.com
@@ -93,6 +94,7 @@ paste.fitgirl-repacks.site
 paste.gnoppix.org
 paste.grammicals.com
 paste.gstd.eu
+paste.hackliberty.org
 paste.hashpwn.net
 paste.helkor.eu
 paste.hostify.cz
@@ -152,7 +154,6 @@ privatebin.devol.it
 privatebin.diyarciftci.xyz
 privatebin.eurosystem.it
 privatebin.freinetz.ch
-privatebin.johnnybegood.fr
 privatebin.kosebamse.com
 privatebin.li
 privatebin.lol
@@ -178,7 +179,6 @@ secret.timeweb.ru
 secrets.janjaapvandijk.nl
 secrets.l25.cloud
 secrets.secumail.de
-secrets.true.nl
 secure.superior.nl
 securebin.fastm.de
 sendpass.ru

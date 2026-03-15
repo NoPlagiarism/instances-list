@@ -19,7 +19,6 @@
 - [search.bladerunn.in](https://search.bladerunn.in)
 - [search.catboy.house](https://search.catboy.house)
 - [search.charliewhiskey.net](https://search.charliewhiskey.net)
-- [search.darkness.services](https://search.darkness.services)
 - [search.einfachzocken.eu](https://search.einfachzocken.eu)
 - [search.ethibox.fr](https://search.ethibox.fr)
 - [search.femboy.ad](https://search.femboy.ad)

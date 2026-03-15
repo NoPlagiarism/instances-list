@@ -16,7 +16,6 @@ search.anoni.net
 search.bladerunn.in
 search.catboy.house
 search.charliewhiskey.net
-search.darkness.services
 search.einfachzocken.eu
 search.ethibox.fr
 search.femboy.ad

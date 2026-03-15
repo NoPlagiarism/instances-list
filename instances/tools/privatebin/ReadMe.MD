@@ -74,6 +74,7 @@
 - [pad.rackforest.com](https://pad.rackforest.com)
 - [passwords.gestionalda.com](https://passwords.gestionalda.com)
 - [paste.3server.de](https://paste.3server.de)
+- [paste.apphoster.cc](https://paste.apphoster.cc)
 - [paste.aya.so](https://paste.aya.so)
 - [paste.biocrafting.net](https://paste.biocrafting.net)
 - [paste.burble.com](https://paste.burble.com)
@@ -96,6 +97,7 @@
 - [paste.gnoppix.org](https://paste.gnoppix.org)
 - [paste.grammicals.com](https://paste.grammicals.com)
 - [paste.gstd.eu](https://paste.gstd.eu)
+- [paste.hackliberty.org](https://paste.hackliberty.org)
 - [paste.hashpwn.net](https://paste.hashpwn.net)
 - [paste.helkor.eu](https://paste.helkor.eu)
 - [paste.hostify.cz](https://paste.hostify.cz)
@@ -155,7 +157,6 @@
 - [privatebin.diyarciftci.xyz](https://privatebin.diyarciftci.xyz)
 - [privatebin.eurosystem.it](https://privatebin.eurosystem.it)
 - [privatebin.freinetz.ch](https://privatebin.freinetz.ch)
-- [privatebin.johnnybegood.fr](https://privatebin.johnnybegood.fr)
 - [privatebin.kosebamse.com](https://privatebin.kosebamse.com)
 - [privatebin.li](https://privatebin.li)
 - [privatebin.lol](https://privatebin.lol)
@@ -181,7 +182,6 @@
 - [secrets.janjaapvandijk.nl](https://secrets.janjaapvandijk.nl)
 - [secrets.l25.cloud](https://secrets.l25.cloud)
 - [secrets.secumail.de](https://secrets.secumail.de)
-- [secrets.true.nl](https://secrets.true.nl)
 - [secure.superior.nl](https://secure.superior.nl)
 - [securebin.fastm.de](https://securebin.fastm.de)
 - [sendpass.ru](https://sendpass.ru)
@@ -213,5 +213,6 @@
 - [pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion](http://pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion)
 - [tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion](http://tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion)
 - [w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion](http://w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion)
+- [z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion](http://z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion)
 # I2P
 

@@ -126,7 +126,6 @@
             "search.bladerunn.in",
             "search.catboy.house",
             "search.charliewhiskey.net",
-            "search.darkness.services",
             "search.einfachzocken.eu",
             "search.ethibox.fr",
             "search.femboy.ad",
@@ -259,7 +258,7 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "l.opnxng.com"
+            "lr.vern.cc"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -273,15 +272,17 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "l.opnxng.com",
+            "red.artemislena.eu",
             "redlib.4o1x5.dev",
             "redlib.ducks.party",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
-            "redlib.privacyredirect.com"
+            "redlib.privadency.com",
+            "redlib.r4fo.com"
         ],
         "onion": [
-            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
+            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+            "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": []
     },
@@ -327,6 +328,7 @@
             "nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion"
         ],
         "i2p": [
+            "invidious-nerdvpn.i2p",
             "nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p"
         ]
     },
@@ -547,6 +549,7 @@
         "instances": [
             "db.kuuro.net",
             "dm.vern.cc",
+            "dumb.artemislena.eu",
             "dumb.bloat.cat",
             "dumb.canine.tools",
             "dumb.ducks.party",
@@ -555,6 +558,7 @@
             "dumb.lunar.icu",
             "dumb.privacydev.net",
             "dumb.privacyfucking.rocks",
+            "genius.fsky.io",
             "lyr.dc09.ru",
             "sing.whatever.social"
         ],
@@ -792,6 +796,7 @@
             "pad.rackforest.com",
             "passwords.gestionalda.com",
             "paste.3server.de",
+            "paste.apphoster.cc",
             "paste.aya.so",
             "paste.biocrafting.net",
             "paste.burble.com",
@@ -814,6 +819,7 @@
             "paste.gnoppix.org",
             "paste.grammicals.com",
             "paste.gstd.eu",
+            "paste.hackliberty.org",
             "paste.hashpwn.net",
             "paste.helkor.eu",
             "paste.hostify.cz",
@@ -873,7 +879,6 @@
             "privatebin.diyarciftci.xyz",
             "privatebin.eurosystem.it",
             "privatebin.freinetz.ch",
-            "privatebin.johnnybegood.fr",
             "privatebin.kosebamse.com",
             "privatebin.li",
             "privatebin.lol",
@@ -899,7 +904,6 @@
             "secrets.janjaapvandijk.nl",
             "secrets.l25.cloud",
             "secrets.secumail.de",
-            "secrets.true.nl",
             "secure.superior.nl",
             "securebin.fastm.de",
             "sendpass.ru",
@@ -931,7 +935,8 @@
             "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion",
-            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
+            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion",
+            "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
         ],
         "i2p": []
     },
