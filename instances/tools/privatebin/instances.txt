@@ -22,6 +22,7 @@ bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
 bin.iya.at
+bin.koshaq.net
 bin.libreon.fr
 bin.megaprojekt.net
 bin.mezzo.moe
@@ -39,7 +40,6 @@ bin.sielc.com.ar
 bin.siick.fr
 bin.tiekoetter.com
 bin.vdx.sh
-bin.whitebow.fr
 bonus01.hwb0307.com
 cdn.inweb.systems
 cles.le-filament.com
@@ -141,9 +141,11 @@ pastequest.com
 pb.1337-it.net
 pb.atl.tools
 pb.blackvoid.club
+pb.fbin.in
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
+pb.raring.co
 photistic.org
 privatebin.app
 privatebin.ar21.de

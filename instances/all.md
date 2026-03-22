@@ -143,6 +143,7 @@
 - [search.bladerunn.in](https://search.bladerunn.in)
 - [search.catboy.house](https://search.catboy.house)
 - [search.charliewhiskey.net](https://search.charliewhiskey.net)
+- [search.datenkrake.ch](https://search.datenkrake.ch)
 - [search.einfachzocken.eu](https://search.einfachzocken.eu)
 - [search.ethibox.fr](https://search.ethibox.fr)
 - [search.femboy.ad](https://search.femboy.ad)
@@ -171,7 +172,6 @@
 - [search.zina.dev](https://search.zina.dev)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.dresden.network](https://searx.dresden.network)
-- [searx.lunar.icu](https://searx.lunar.icu)
 - [searx.mbuf.net](https://searx.mbuf.net)
 - [searx.mxchange.org](https://searx.mxchange.org)
 - [searx.namejeff.xyz](https://searx.namejeff.xyz)
@@ -262,6 +262,7 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
+- [l.opnxng.com](https://l.opnxng.com)
 - [lr.vern.cc](https://lr.vern.cc)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
@@ -272,18 +273,21 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
+- [l.opnxng.com](https://l.opnxng.com)
 - [red.artemislena.eu](https://red.artemislena.eu)
-- [redlib.4o1x5.dev](https://redlib.4o1x5.dev)
-- [redlib.ducks.party](https://redlib.ducks.party)
+- [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
+- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [redlib.r4fo.com](https://redlib.r4fo.com)
 ### Onion
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
+- [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 - [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
-
+- [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
 ## [WikiLess](https://gitea.slowb.ro/ticoombs/Wikiless#wikiless)
 
@@ -298,7 +302,7 @@
 - [wikiless.tiekoetter.com](https://wikiless.tiekoetter.com)
 - [wl.vern.cc](https://wl.vern.cc)
 ### Onion
-
+- [wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 ### I2P
 
 
@@ -444,7 +448,6 @@
 
 ### Clearnet
 - [ch.skysend.ch](https://ch.skysend.ch)
-- [de.skysend.ch](https://de.skysend.ch)
 - [drop.chapril.org](https://drop.chapril.org)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
 - [send.adminforge.de](https://send.adminforge.de)
@@ -681,6 +684,7 @@
 - [bin.infini.fr](https://bin.infini.fr)
 - [bin.infra.Mee6.cloud](https://bin.infra.Mee6.cloud)
 - [bin.iya.at](https://bin.iya.at)
+- [bin.koshaq.net](https://bin.koshaq.net)
 - [bin.libreon.fr](https://bin.libreon.fr)
 - [bin.megaprojekt.net](https://bin.megaprojekt.net)
 - [bin.mezzo.moe](https://bin.mezzo.moe)
@@ -698,7 +702,6 @@
 - [bin.siick.fr](https://bin.siick.fr)
 - [bin.tiekoetter.com](https://bin.tiekoetter.com)
 - [bin.vdx.sh](https://bin.vdx.sh)
-- [bin.whitebow.fr](https://bin.whitebow.fr)
 - [bonus01.hwb0307.com](https://bonus01.hwb0307.com)
 - [cdn.inweb.systems](https://cdn.inweb.systems)
 - [cles.le-filament.com](https://cles.le-filament.com)
@@ -800,9 +803,11 @@
 - [pb.1337-it.net](https://pb.1337-it.net)
 - [pb.atl.tools](https://pb.atl.tools)
 - [pb.blackvoid.club](https://pb.blackvoid.club)
+- [pb.fbin.in](https://pb.fbin.in)
 - [pb.fly.dev](https://pb.fly.dev)
 - [pb.greep.fr](https://pb.greep.fr)
 - [pb.jaska.cc](https://pb.jaska.cc)
+- [pb.raring.co](https://pb.raring.co)
 - [photistic.org](https://photistic.org)
 - [privatebin.app](https://privatebin.app)
 - [privatebin.ar21.de](https://privatebin.ar21.de)

@@ -16,6 +16,7 @@ search.anoni.net
 search.bladerunn.in
 search.catboy.house
 search.charliewhiskey.net
+search.datenkrake.ch
 search.einfachzocken.eu
 search.ethibox.fr
 search.femboy.ad
@@ -44,7 +45,6 @@ search.wdpserver.com
 search.zina.dev
 searx.ankha.ac
 searx.dresden.network
-searx.lunar.icu
 searx.mbuf.net
 searx.mxchange.org
 searx.namejeff.xyz

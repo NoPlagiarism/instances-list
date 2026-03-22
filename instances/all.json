@@ -126,6 +126,7 @@
             "search.bladerunn.in",
             "search.catboy.house",
             "search.charliewhiskey.net",
+            "search.datenkrake.ch",
             "search.einfachzocken.eu",
             "search.ethibox.fr",
             "search.femboy.ad",
@@ -154,7 +155,6 @@
             "search.zina.dev",
             "searx.ankha.ac",
             "searx.dresden.network",
-            "searx.lunar.icu",
             "searx.mbuf.net",
             "searx.mxchange.org",
             "searx.namejeff.xyz",
@@ -258,6 +258,7 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
+            "l.opnxng.com",
             "lr.vern.cc"
         ],
         "onion": [
@@ -272,19 +273,24 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "l.opnxng.com",
             "red.artemislena.eu",
-            "redlib.4o1x5.dev",
-            "redlib.ducks.party",
+            "redlib.catsarch.com",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
+            "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "redlib.r4fo.com"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
-        "i2p": []
+        "i2p": [
+            "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
+        ]
     },
     "wikiless": {
         "name": "WikiLess",
@@ -301,7 +307,9 @@
             "wikiless.tiekoetter.com",
             "wl.vern.cc"
         ],
-        "onion": [],
+        "onion": [
+            "wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        ],
         "i2p": []
     },
     "piped": {
@@ -475,7 +483,6 @@
         "path": "filedrop/send",
         "instances": [
             "ch.skysend.ch",
-            "de.skysend.ch",
             "drop.chapril.org",
             "fileupload.ggc-project.de",
             "send.adminforge.de",
@@ -747,6 +754,7 @@
             "bin.infini.fr",
             "bin.infra.Mee6.cloud",
             "bin.iya.at",
+            "bin.koshaq.net",
             "bin.libreon.fr",
             "bin.megaprojekt.net",
             "bin.mezzo.moe",
@@ -764,7 +772,6 @@
             "bin.siick.fr",
             "bin.tiekoetter.com",
             "bin.vdx.sh",
-            "bin.whitebow.fr",
             "bonus01.hwb0307.com",
             "cdn.inweb.systems",
             "cles.le-filament.com",
@@ -866,9 +873,11 @@
             "pb.1337-it.net",
             "pb.atl.tools",
             "pb.blackvoid.club",
+            "pb.fbin.in",
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
+            "pb.raring.co",
             "photistic.org",
             "privatebin.app",
             "privatebin.ar21.de",

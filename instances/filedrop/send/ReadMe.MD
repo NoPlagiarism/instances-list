@@ -2,7 +2,6 @@
 
 # Clearnet
 - [ch.skysend.ch](https://ch.skysend.ch)
-- [de.skysend.ch](https://de.skysend.ch)
 - [drop.chapril.org](https://drop.chapril.org)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
 - [send.adminforge.de](https://send.adminforge.de)
