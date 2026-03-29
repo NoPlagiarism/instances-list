@@ -59,6 +59,7 @@
 - [searx.ro](https://searx.ro)
 - [searx.sev.monster](https://searx.sev.monster)
 - [searx.tiekoetter.com](https://searx.tiekoetter.com)
+- [searx.tsmdt.de](https://searx.tsmdt.de)
 - [searx.tuxcloud.net](https://searx.tuxcloud.net)
 - [searxng.canine.tools](https://searxng.canine.tools)
 - [searxng.cups.moe](https://searxng.cups.moe)

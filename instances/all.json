@@ -166,6 +166,7 @@
             "searx.ro",
             "searx.sev.monster",
             "searx.tiekoetter.com",
+            "searx.tsmdt.de",
             "searx.tuxcloud.net",
             "searxng.canine.tools",
             "searxng.cups.moe",
@@ -274,7 +275,7 @@
         "path": "reddit/redlib",
         "instances": [
             "l.opnxng.com",
-            "red.artemislena.eu",
+            "redlib.4o1x5.dev",
             "redlib.catsarch.com",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
@@ -283,9 +284,7 @@
             "redlib.r4fo.com"
         ],
         "onion": [
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
@@ -758,7 +757,6 @@
             "bin.libreon.fr",
             "bin.megaprojekt.net",
             "bin.mezzo.moe",
-            "bin.mrr.moe",
             "bin.mycozy.space",
             "bin.nixnet.services",
             "bin.nji9.de",
@@ -776,6 +774,7 @@
             "cdn.inweb.systems",
             "cles.le-filament.com",
             "code.wt.pt",
+            "copypaste.aiagency.now",
             "cpaste.org",
             "cryptostorm.is",
             "eatmyshorts.ch",
@@ -802,8 +801,8 @@
             "p.kll.li",
             "pad.rackforest.com",
             "passwords.gestionalda.com",
-            "paste.3server.de",
             "paste.apphoster.cc",
+            "paste.atl.tools",
             "paste.aya.so",
             "paste.biocrafting.net",
             "paste.burble.com",
@@ -872,7 +871,6 @@
             "pastequest.com",
             "pb.1337-it.net",
             "pb.atl.tools",
-            "pb.blackvoid.club",
             "pb.fbin.in",
             "pb.fly.dev",
             "pb.greep.fr",

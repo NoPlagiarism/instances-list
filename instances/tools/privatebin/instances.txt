@@ -26,7 +26,6 @@ bin.koshaq.net
 bin.libreon.fr
 bin.megaprojekt.net
 bin.mezzo.moe
-bin.mrr.moe
 bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
@@ -44,6 +43,7 @@ bonus01.hwb0307.com
 cdn.inweb.systems
 cles.le-filament.com
 code.wt.pt
+copypaste.aiagency.now
 cpaste.org
 cryptostorm.is
 eatmyshorts.ch
@@ -70,8 +70,8 @@ p.kapsi.fi
 p.kll.li
 pad.rackforest.com
 passwords.gestionalda.com
-paste.3server.de
 paste.apphoster.cc
+paste.atl.tools
 paste.aya.so
 paste.biocrafting.net
 paste.burble.com
@@ -140,7 +140,6 @@ pastefg.hermietkreeft.site
 pastequest.com
 pb.1337-it.net
 pb.atl.tools
-pb.blackvoid.club
 pb.fbin.in
 pb.fly.dev
 pb.greep.fr
