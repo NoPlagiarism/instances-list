@@ -259,7 +259,6 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "l.opnxng.com",
             "lr.vern.cc"
         ],
         "onion": [
@@ -274,9 +273,10 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "l.opnxng.com",
-            "redlib.4o1x5.dev",
+            "red.artemislena.eu",
             "redlib.catsarch.com",
+            "redlib.cow.rip",
+            "redlib.ducks.party",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
@@ -284,7 +284,9 @@
             "redlib.r4fo.com"
         ],
         "onion": [
+            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
@@ -755,7 +757,6 @@
             "bin.iya.at",
             "bin.koshaq.net",
             "bin.libreon.fr",
-            "bin.megaprojekt.net",
             "bin.mezzo.moe",
             "bin.mycozy.space",
             "bin.nixnet.services",
@@ -763,6 +764,7 @@
             "bin.outv.im",
             "bin.purplebored.pl",
             "bin.reallyaweso.me",
+            "bin.rtb.gg",
             "bin.s2s.video",
             "bin.salvatorenoschese.it",
             "bin.sasach.work",
@@ -852,7 +854,6 @@
             "paste.stratum0.org",
             "paste.sweatyangmoh.sg",
             "paste.systemli.org",
-            "paste.tchncs.com",
             "paste.tecff.de",
             "paste.tech-port.de",
             "paste.thec0de.com",
@@ -899,7 +900,6 @@
             "privatebin.sequanux.org",
             "privatebin.unige.ch",
             "privatebin.wildberries.ru",
-            "privatebin.zerotwo.ovh",
             "privatepastebin.com",
             "pvnotes.fast-elektriker.com",
             "pvnotes.sms-electro.no",
@@ -929,7 +929,6 @@
             "zb.zerosgaming.de",
             "zbin.io",
             "zerobin-legacy.dssr.ch",
-            "zerobin.mirtouf.fr",
             "zerobin.zertrin.org"
         ],
         "onion": [
@@ -942,8 +941,7 @@
             "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion",
-            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion",
-            "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
+            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
         ],
         "i2p": []
     },

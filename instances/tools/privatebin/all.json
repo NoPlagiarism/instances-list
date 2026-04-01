@@ -26,7 +26,6 @@
         "bin.iya.at",
         "bin.koshaq.net",
         "bin.libreon.fr",
-        "bin.megaprojekt.net",
         "bin.mezzo.moe",
         "bin.mycozy.space",
         "bin.nixnet.services",
@@ -34,6 +33,7 @@
         "bin.outv.im",
         "bin.purplebored.pl",
         "bin.reallyaweso.me",
+        "bin.rtb.gg",
         "bin.s2s.video",
         "bin.salvatorenoschese.it",
         "bin.sasach.work",
@@ -123,7 +123,6 @@
         "paste.stratum0.org",
         "paste.sweatyangmoh.sg",
         "paste.systemli.org",
-        "paste.tchncs.com",
         "paste.tecff.de",
         "paste.tech-port.de",
         "paste.thec0de.com",
@@ -170,7 +169,6 @@
         "privatebin.sequanux.org",
         "privatebin.unige.ch",
         "privatebin.wildberries.ru",
-        "privatebin.zerotwo.ovh",
         "privatepastebin.com",
         "pvnotes.fast-elektriker.com",
         "pvnotes.sms-electro.no",
@@ -200,7 +198,6 @@
         "zb.zerosgaming.de",
         "zbin.io",
         "zerobin-legacy.dssr.ch",
-        "zerobin.mirtouf.fr",
         "zerobin.zertrin.org"
     ],
     "onion": [
@@ -213,8 +210,7 @@
         "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
         "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
         "tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion",
-        "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion",
-        "z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion"
+        "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
     ],
     "i2p": []
 }

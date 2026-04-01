@@ -24,7 +24,6 @@ bin.infra.Mee6.cloud
 bin.iya.at
 bin.koshaq.net
 bin.libreon.fr
-bin.megaprojekt.net
 bin.mezzo.moe
 bin.mycozy.space
 bin.nixnet.services
@@ -32,6 +31,7 @@ bin.nji9.de
 bin.outv.im
 bin.purplebored.pl
 bin.reallyaweso.me
+bin.rtb.gg
 bin.s2s.video
 bin.salvatorenoschese.it
 bin.sasach.work
@@ -121,7 +121,6 @@ paste.spigot.pl
 paste.stratum0.org
 paste.sweatyangmoh.sg
 paste.systemli.org
-paste.tchncs.com
 paste.tecff.de
 paste.tech-port.de
 paste.thec0de.com
@@ -168,7 +167,6 @@ privatebin.seattlematrix.org
 privatebin.sequanux.org
 privatebin.unige.ch
 privatebin.wildberries.ru
-privatebin.zerotwo.ovh
 privatepastebin.com
 pvnotes.fast-elektriker.com
 pvnotes.sms-electro.no
@@ -198,5 +196,4 @@ xkwy2018.com
 zb.zerosgaming.de
 zbin.io
 zerobin-legacy.dssr.ch
-zerobin.mirtouf.fr
 zerobin.zertrin.org

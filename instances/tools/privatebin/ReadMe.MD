@@ -27,7 +27,6 @@
 - [bin.iya.at](https://bin.iya.at)
 - [bin.koshaq.net](https://bin.koshaq.net)
 - [bin.libreon.fr](https://bin.libreon.fr)
-- [bin.megaprojekt.net](https://bin.megaprojekt.net)
 - [bin.mezzo.moe](https://bin.mezzo.moe)
 - [bin.mycozy.space](https://bin.mycozy.space)
 - [bin.nixnet.services](https://bin.nixnet.services)
@@ -35,6 +34,7 @@
 - [bin.outv.im](https://bin.outv.im)
 - [bin.purplebored.pl](https://bin.purplebored.pl)
 - [bin.reallyaweso.me](https://bin.reallyaweso.me)
+- [bin.rtb.gg](https://bin.rtb.gg)
 - [bin.s2s.video](https://bin.s2s.video)
 - [bin.salvatorenoschese.it](https://bin.salvatorenoschese.it)
 - [bin.sasach.work](https://bin.sasach.work)
@@ -124,7 +124,6 @@
 - [paste.stratum0.org](https://paste.stratum0.org)
 - [paste.sweatyangmoh.sg](https://paste.sweatyangmoh.sg)
 - [paste.systemli.org](https://paste.systemli.org)
-- [paste.tchncs.com](https://paste.tchncs.com)
 - [paste.tecff.de](https://paste.tecff.de)
 - [paste.tech-port.de](https://paste.tech-port.de)
 - [paste.thec0de.com](https://paste.thec0de.com)
@@ -171,7 +170,6 @@
 - [privatebin.sequanux.org](https://privatebin.sequanux.org)
 - [privatebin.unige.ch](https://privatebin.unige.ch)
 - [privatebin.wildberries.ru](https://privatebin.wildberries.ru)
-- [privatebin.zerotwo.ovh](https://privatebin.zerotwo.ovh)
 - [privatepastebin.com](https://privatepastebin.com)
 - [pvnotes.fast-elektriker.com](https://pvnotes.fast-elektriker.com)
 - [pvnotes.sms-electro.no](https://pvnotes.sms-electro.no)
@@ -201,7 +199,6 @@
 - [zb.zerosgaming.de](https://zb.zerosgaming.de)
 - [zbin.io](https://zbin.io)
 - [zerobin-legacy.dssr.ch](https://zerobin-legacy.dssr.ch)
-- [zerobin.mirtouf.fr](https://zerobin.mirtouf.fr)
 - [zerobin.zertrin.org](https://zerobin.zertrin.org)
 # Onion
 - [5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion](http://5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion)
@@ -214,6 +211,5 @@
 - [pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion](http://pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion)
 - [tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion](http://tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion)
 - [w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion](http://w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion)
-- [z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion](http://z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion)
 # I2P
 
