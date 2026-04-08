@@ -111,6 +111,7 @@
             "baresearch.org",
             "copp.gg",
             "etsi.me",
+            "failsearx.culturanerd.it",
             "find.xenorio.xyz",
             "grep.vim.wtf",
             "kantan.cat",
@@ -136,7 +137,6 @@
             "search.indst.eu",
             "search.inetol.net",
             "search.internetsucks.net",
-            "search.ipsys.bf",
             "search.mdosch.de",
             "search.minus27315.dev",
             "search.ononoki.org",
@@ -259,7 +259,8 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "lr.vern.cc"
+            "lr.vern.cc",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -273,10 +274,8 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "red.artemislena.eu",
             "redlib.catsarch.com",
             "redlib.cow.rip",
-            "redlib.ducks.party",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
@@ -284,7 +283,6 @@
             "redlib.r4fo.com"
         ],
         "onion": [
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
@@ -329,8 +327,10 @@
         "path": "youtube/invidious",
         "instances": [
             "inv.nadeko.net",
+            "inv.thepixora.com",
             "invidious.nerdvpn.de",
-            "yewtu.be"
+            "yewtu.be",
+            "yt.chocolatemoo53.com"
         ],
         "onion": [
             "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
@@ -733,6 +733,7 @@
         "instances": [
             "03c.de",
             "0bin.me",
+            "aaa.bb.cd",
             "amir.ch",
             "anonpaste.org",
             "b.appinn.net",
@@ -773,7 +774,7 @@
             "bin.tiekoetter.com",
             "bin.vdx.sh",
             "bonus01.hwb0307.com",
-            "cdn.inweb.systems",
+            "clay.lcann.org",
             "cles.le-filament.com",
             "code.wt.pt",
             "copypaste.aiagency.now",
@@ -788,6 +789,7 @@
             "ircwebnet.com",
             "ktbky.kaaass.net",
             "logs.notifiarr.com",
+            "lukisko.eu",
             "notas.gatooscuro.xyz",
             "notebin.de",
             "notes.dark2web.com",
@@ -827,8 +829,6 @@
             "paste.gnoppix.org",
             "paste.grammicals.com",
             "paste.gstd.eu",
-            "paste.hackliberty.org",
-            "paste.hashpwn.net",
             "paste.helkor.eu",
             "paste.hostify.cz",
             "paste.hostux.net",
@@ -850,7 +850,6 @@
             "paste.rys.pw",
             "paste.shreven.org",
             "paste.skynetcloud.site",
-            "paste.spigot.pl",
             "paste.stratum0.org",
             "paste.sweatyangmoh.sg",
             "paste.systemli.org",
@@ -876,7 +875,6 @@
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
-            "pb.raring.co",
             "photistic.org",
             "privatebin.app",
             "privatebin.ar21.de",
@@ -920,6 +918,7 @@
             "t25b.com",
             "teamware.eu",
             "textbin.quick-space.de",
+            "tomatoprivate.com",
             "tools.beardic.cn",
             "wtf.roflcopter.fr",
             "www.encrypt0r.net",

@@ -1,5 +1,6 @@
 03c.de
 0bin.me
+aaa.bb.cd
 amir.ch
 anonpaste.org
 b.appinn.net
@@ -40,7 +41,7 @@ bin.siick.fr
 bin.tiekoetter.com
 bin.vdx.sh
 bonus01.hwb0307.com
-cdn.inweb.systems
+clay.lcann.org
 cles.le-filament.com
 code.wt.pt
 copypaste.aiagency.now
@@ -55,6 +56,7 @@ hoyfamily.tech
 ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
+lukisko.eu
 notas.gatooscuro.xyz
 notebin.de
 notes.dark2web.com
@@ -94,8 +96,6 @@ paste.fitgirl-repacks.site
 paste.gnoppix.org
 paste.grammicals.com
 paste.gstd.eu
-paste.hackliberty.org
-paste.hashpwn.net
 paste.helkor.eu
 paste.hostify.cz
 paste.hostux.net
@@ -117,7 +117,6 @@ paste.redbrick.dcu.ie
 paste.rys.pw
 paste.shreven.org
 paste.skynetcloud.site
-paste.spigot.pl
 paste.stratum0.org
 paste.sweatyangmoh.sg
 paste.systemli.org
@@ -143,7 +142,6 @@ pb.fbin.in
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
-pb.raring.co
 photistic.org
 privatebin.app
 privatebin.ar21.de
@@ -187,6 +185,7 @@ snip.dssr.ch
 t25b.com
 teamware.eu
 textbin.quick-space.de
+tomatoprivate.com
 tools.beardic.cn
 wtf.roflcopter.fr
 www.encrypt0r.net
