@@ -52,6 +52,7 @@ searx.oloke.xyz
 searx.ox2.fr
 searx.party
 searx.perennialte.ch
+searx.redgarden.cv
 searx.rhscz.eu
 searx.ro
 searx.sev.monster
@@ -61,6 +62,7 @@ searx.tuxcloud.net
 searxng.canine.tools
 searxng.cups.moe
 searxng.deggo.fyi
+searxng.fishfvch.com
 searxng.shreven.org
 searxng.site
 searxng.website

@@ -162,6 +162,7 @@
             "searx.ox2.fr",
             "searx.party",
             "searx.perennialte.ch",
+            "searx.redgarden.cv",
             "searx.rhscz.eu",
             "searx.ro",
             "searx.sev.monster",
@@ -171,6 +172,7 @@
             "searxng.canine.tools",
             "searxng.cups.moe",
             "searxng.deggo.fyi",
+            "searxng.fishfvch.com",
             "searxng.shreven.org",
             "searxng.site",
             "searxng.website",
@@ -182,6 +184,7 @@
             "ieqzkvy4bf3xi4bzsfzfax42t4iuqcbqn6oah4uwrm4ip354gavsviad.onion",
             "kantanrucloofzrfn7vqlsxbhipkqv55qygn4oxogbnjpfex54bw4gad.onion",
             "ls67zxncmcqgn2vg74ckcwxgu5p3e5mf2khues3egkumhcqtbsg4kqyd.onion",
+            "privateoz3u5utrimal2edr56j3r5caakektxxgixigdkycuxigvquid.onion",
             "search.anoninetru5tflukgfaehun7q6khowgmymcff3gtk5oyesqazhmfxtyd.onion",
             "searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion",
             "searxngorpgnztkcftpz3ycdpyajd4q55y2nejw3tbszocht5zdh4lyd.onion",
@@ -259,7 +262,6 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "lr.vern.cc",
             "snoo.habedieeh.re"
         ],
         "onion": [
@@ -278,14 +280,10 @@
             "redlib.cow.rip",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
-            "redlib.privacyredirect.com",
-            "redlib.privadency.com",
-            "redlib.r4fo.com"
+            "redlib.privadency.com"
         ],
         "onion": [
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
-            "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -329,7 +327,6 @@
             "inv.nadeko.net",
             "inv.thepixora.com",
             "invidious.nerdvpn.de",
-            "yewtu.be",
             "yt.chocolatemoo53.com"
         ],
         "onion": [
@@ -733,7 +730,6 @@
         "instances": [
             "03c.de",
             "0bin.me",
-            "aaa.bb.cd",
             "amir.ch",
             "anonpaste.org",
             "b.appinn.net",
@@ -741,7 +737,6 @@
             "betterpaste.me",
             "bin.2255.me",
             "bin.68degrees.no",
-            "bin.anis.live",
             "bin.bloat.cat",
             "bin.byreqz.de",
             "bin.calitabby.net",
@@ -786,10 +781,10 @@
             "extrait.facil.services",
             "gilles.wittezaele.fr",
             "hoyfamily.tech",
-            "ircwebnet.com",
             "ktbky.kaaass.net",
             "logs.notifiarr.com",
             "lukisko.eu",
+            "me.tg",
             "notas.gatooscuro.xyz",
             "notebin.de",
             "notes.dark2web.com",
@@ -841,7 +836,6 @@
             "paste.nerdvpn.de",
             "paste.nolog.cz",
             "paste.ononoki.org",
-            "paste.ottertelecom.com",
             "paste.picasoft.net",
             "paste.plus",
             "paste.rb.dcu.ie",
@@ -871,10 +865,12 @@
             "pastequest.com",
             "pb.1337-it.net",
             "pb.atl.tools",
+            "pb.envs.net",
             "pb.fbin.in",
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
+            "pbin.nadeko.net",
             "photistic.org",
             "privatebin.app",
             "privatebin.ar21.de",
@@ -924,6 +920,8 @@
             "www.encrypt0r.net",
             "www.nervengas.com",
             "www.noteshare.net",
+            "www.tomatoprivate.com",
+            "www.zdjm.com",
             "xkwy2018.com",
             "zb.zerosgaming.de",
             "zbin.io",
@@ -939,6 +937,7 @@
             "paste.momou4yoo6k4e6bnvv5lkc6lc5fg7xuye7uqxxvmhnvbsr37bfkn7dyd.onion",
             "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
+            "pbin.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
             "tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion",
             "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
         ],

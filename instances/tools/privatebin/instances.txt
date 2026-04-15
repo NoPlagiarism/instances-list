@@ -1,6 +1,5 @@
 03c.de
 0bin.me
-aaa.bb.cd
 amir.ch
 anonpaste.org
 b.appinn.net
@@ -8,7 +7,6 @@ b.opnxng.com
 betterpaste.me
 bin.2255.me
 bin.68degrees.no
-bin.anis.live
 bin.bloat.cat
 bin.byreqz.de
 bin.calitabby.net
@@ -53,10 +51,10 @@ enjoys.rocks
 extrait.facil.services
 gilles.wittezaele.fr
 hoyfamily.tech
-ircwebnet.com
 ktbky.kaaass.net
 logs.notifiarr.com
 lukisko.eu
+me.tg
 notas.gatooscuro.xyz
 notebin.de
 notes.dark2web.com
@@ -108,7 +106,6 @@ paste.momou.ch
 paste.nerdvpn.de
 paste.nolog.cz
 paste.ononoki.org
-paste.ottertelecom.com
 paste.picasoft.net
 paste.plus
 paste.rb.dcu.ie
@@ -138,10 +135,12 @@ pastefg.hermietkreeft.site
 pastequest.com
 pb.1337-it.net
 pb.atl.tools
+pb.envs.net
 pb.fbin.in
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
+pbin.nadeko.net
 photistic.org
 privatebin.app
 privatebin.ar21.de
@@ -191,6 +190,8 @@ wtf.roflcopter.fr
 www.encrypt0r.net
 www.nervengas.com
 www.noteshare.net
+www.tomatoprivate.com
+www.zdjm.com
 xkwy2018.com
 zb.zerosgaming.de
 zbin.io
