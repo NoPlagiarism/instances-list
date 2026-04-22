@@ -276,14 +276,18 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "red.artemislena.eu",
             "redlib.catsarch.com",
             "redlib.cow.rip",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
+            "redlib.privacyredirect.com",
             "redlib.privadency.com"
         ],
         "onion": [
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -324,7 +328,9 @@
         "url": "https://github.com/iv-org/invidious#readme",
         "path": "youtube/invidious",
         "instances": [
+            "inv-ygg.nadeko.net",
             "inv.nadeko.net",
+            "inv.nadeko.ygg",
             "inv.thepixora.com",
             "invidious.nerdvpn.de",
             "yt.chocolatemoo53.com"
@@ -432,6 +438,8 @@
             "imgur.artemislena.eu",
             "r.opnxng.com",
             "rg.kuuro.net",
+            "ri.bcow.xyz",
+            "rimgo.floppa.cloud",
             "rimgo.pussthecat.org"
         ],
         "onion": [
@@ -638,7 +646,6 @@
             "ld.vern.cc",
             "libremdb-fly.fly.dev",
             "libremdb.canine.tools",
-            "libremdb.catsarch.com",
             "libremdb.darkness.services",
             "libremdb.ducks.party",
             "libremdb.frontendfriendly.xyz",
@@ -657,14 +664,12 @@
         ],
         "onion": [
             "ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-            "libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion",
             "q3hetdcyyy572xznqmsledzlbv77moycoqs6ptehpp5vsmx4dtcuqeqd.onion"
         ],
         "i2p": [
             "5j37qusybvyhecljn4hr5i4chifdlfqfkfveythzpzyfxiibt7cq.b32.i2p",
-            "qjlgasoy3nxepgzntucmcnb6pryqxakwdu7sxvqzi7spdfootryq.b32.i2p",
             "vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p"
         ]
     },
@@ -769,7 +774,6 @@
             "bin.tiekoetter.com",
             "bin.vdx.sh",
             "bonus01.hwb0307.com",
-            "clay.lcann.org",
             "cles.le-filament.com",
             "code.wt.pt",
             "copypaste.aiagency.now",
@@ -784,7 +788,6 @@
             "ktbky.kaaass.net",
             "logs.notifiarr.com",
             "lukisko.eu",
-            "me.tg",
             "notas.gatooscuro.xyz",
             "notebin.de",
             "notes.dark2web.com",
@@ -804,6 +807,7 @@
             "paste.atl.tools",
             "paste.aya.so",
             "paste.biocrafting.net",
+            "paste.blazar.observer",
             "paste.burble.com",
             "paste.canine.tools",
             "paste.chapril.org",
@@ -857,6 +861,7 @@
             "paste.tuxcloud.net",
             "paste.underworld.fr",
             "paste.unit193.net",
+            "paste.vylaris.ch",
             "paste.worf.win",
             "pastebin.24unix.net",
             "pastebin.aquilenet.fr",
@@ -909,7 +914,6 @@
             "securebin.fastm.de",
             "sendpass.ru",
             "share.cyberguerrilla.info",
-            "skypaste.ch",
             "snip.dssr.ch",
             "t25b.com",
             "teamware.eu",
@@ -938,7 +942,6 @@
             "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
             "pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion",
             "pbin.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
-            "tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion",
             "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
         ],
         "i2p": []
@@ -981,6 +984,7 @@
             "4get.silly.computer",
             "4get.sny.sh",
             "4get.sudovanilla.org",
+            "4get.swirly.architectenterprises.net",
             "4get.thebunny.zone",
             "4get.zzls.xyz",
             "search.fischbytes.de",

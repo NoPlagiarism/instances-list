@@ -24,6 +24,7 @@
 - [4get.silly.computer](https://4get.silly.computer)
 - [4get.sny.sh](https://4get.sny.sh)
 - [4get.sudovanilla.org](https://4get.sudovanilla.org)
+- [4get.swirly.architectenterprises.net](https://4get.swirly.architectenterprises.net)
 - [4get.thebunny.zone](https://4get.thebunny.zone)
 - [4get.zzls.xyz](https://4get.zzls.xyz)
 - [search.fischbytes.de](https://search.fischbytes.de)

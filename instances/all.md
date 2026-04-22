@@ -276,13 +276,17 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
+- [red.artemislena.eu](https://red.artemislena.eu)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
+- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
 ### Onion
+- [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -315,7 +319,9 @@
 ## [Invidious](https://github.com/iv-org/invidious#readme)
 
 ### Clearnet
+- [inv-ygg.nadeko.net](https://inv-ygg.nadeko.net)
 - [inv.nadeko.net](https://inv.nadeko.net)
+- [inv.nadeko.ygg](https://inv.nadeko.ygg)
 - [inv.thepixora.com](https://inv.thepixora.com)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [yt.chocolatemoo53.com](https://yt.chocolatemoo53.com)
@@ -406,6 +412,8 @@
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)
 - [r.opnxng.com](https://r.opnxng.com)
 - [rg.kuuro.net](https://rg.kuuro.net)
+- [ri.bcow.xyz](https://ri.bcow.xyz)
+- [rimgo.floppa.cloud](https://rimgo.floppa.cloud)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
 ### Onion
 - [imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -578,7 +586,6 @@
 - [ld.vern.cc](https://ld.vern.cc)
 - [libremdb-fly.fly.dev](https://libremdb-fly.fly.dev)
 - [libremdb.canine.tools](https://libremdb.canine.tools)
-- [libremdb.catsarch.com](https://libremdb.catsarch.com)
 - [libremdb.darkness.services](https://libremdb.darkness.services)
 - [libremdb.ducks.party](https://libremdb.ducks.party)
 - [libremdb.frontendfriendly.xyz](https://libremdb.frontendfriendly.xyz)
@@ -596,13 +603,11 @@
 - [lmdb.ngn.tf](https://lmdb.ngn.tf)
 ### Onion
 - [ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://ld.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
-- [libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://libremdb.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://libremdb.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://libremdb.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 - [q3hetdcyyy572xznqmsledzlbv77moycoqs6ptehpp5vsmx4dtcuqeqd.onion](http://q3hetdcyyy572xznqmsledzlbv77moycoqs6ptehpp5vsmx4dtcuqeqd.onion)
 ### I2P
 - [5j37qusybvyhecljn4hr5i4chifdlfqfkfveythzpzyfxiibt7cq.b32.i2p](http://5j37qusybvyhecljn4hr5i4chifdlfqfkfveythzpzyfxiibt7cq.b32.i2p)
-- [qjlgasoy3nxepgzntucmcnb6pryqxakwdu7sxvqzi7spdfootryq.b32.i2p](http://qjlgasoy3nxepgzntucmcnb6pryqxakwdu7sxvqzi7spdfootryq.b32.i2p)
 - [vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p](http://vernz3ubrntql4wrgyrssd6u3qzi36zrhz2agbo6vibzbs5olk2q.b32.i2p)
 
 ## [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow#readme)
@@ -699,7 +704,6 @@
 - [bin.tiekoetter.com](https://bin.tiekoetter.com)
 - [bin.vdx.sh](https://bin.vdx.sh)
 - [bonus01.hwb0307.com](https://bonus01.hwb0307.com)
-- [clay.lcann.org](https://clay.lcann.org)
 - [cles.le-filament.com](https://cles.le-filament.com)
 - [code.wt.pt](https://code.wt.pt)
 - [copypaste.aiagency.now](https://copypaste.aiagency.now)
@@ -714,7 +718,6 @@
 - [ktbky.kaaass.net](https://ktbky.kaaass.net)
 - [logs.notifiarr.com](https://logs.notifiarr.com)
 - [lukisko.eu](https://lukisko.eu)
-- [me.tg](https://me.tg)
 - [notas.gatooscuro.xyz](https://notas.gatooscuro.xyz)
 - [notebin.de](https://notebin.de)
 - [notes.dark2web.com](https://notes.dark2web.com)
@@ -734,6 +737,7 @@
 - [paste.atl.tools](https://paste.atl.tools)
 - [paste.aya.so](https://paste.aya.so)
 - [paste.biocrafting.net](https://paste.biocrafting.net)
+- [paste.blazar.observer](https://paste.blazar.observer)
 - [paste.burble.com](https://paste.burble.com)
 - [paste.canine.tools](https://paste.canine.tools)
 - [paste.chapril.org](https://paste.chapril.org)
@@ -787,6 +791,7 @@
 - [paste.tuxcloud.net](https://paste.tuxcloud.net)
 - [paste.underworld.fr](https://paste.underworld.fr)
 - [paste.unit193.net](https://paste.unit193.net)
+- [paste.vylaris.ch](https://paste.vylaris.ch)
 - [paste.worf.win](https://paste.worf.win)
 - [pastebin.24unix.net](https://pastebin.24unix.net)
 - [pastebin.aquilenet.fr](https://pastebin.aquilenet.fr)
@@ -839,7 +844,6 @@
 - [securebin.fastm.de](https://securebin.fastm.de)
 - [sendpass.ru](https://sendpass.ru)
 - [share.cyberguerrilla.info](https://share.cyberguerrilla.info)
-- [skypaste.ch](https://skypaste.ch)
 - [snip.dssr.ch](https://snip.dssr.ch)
 - [t25b.com](https://t25b.com)
 - [teamware.eu](https://teamware.eu)
@@ -867,7 +871,6 @@
 - [paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion](http://paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion)
 - [pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion](http://pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion)
 - [pbin.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://pbin.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
-- [tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion](http://tabbybinz2lsjengoeg7gtt5scibetmu73hb7ocbxtasy5lthme3lcad.onion)
 - [w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion](http://w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion)
 ### I2P
 
@@ -905,6 +908,7 @@
 - [4get.silly.computer](https://4get.silly.computer)
 - [4get.sny.sh](https://4get.sny.sh)
 - [4get.sudovanilla.org](https://4get.sudovanilla.org)
+- [4get.swirly.architectenterprises.net](https://4get.swirly.architectenterprises.net)
 - [4get.thebunny.zone](https://4get.thebunny.zone)
 - [4get.zzls.xyz](https://4get.zzls.xyz)
 - [search.fischbytes.de](https://search.fischbytes.de)
