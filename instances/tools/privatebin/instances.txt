@@ -1,6 +1,5 @@
 03c.de
 0bin.me
-amir.ch
 anonpaste.org
 b.appinn.net
 b.opnxng.com
@@ -9,7 +8,6 @@ bin.2255.me
 bin.68degrees.no
 bin.bloat.cat
 bin.byreqz.de
-bin.calitabby.net
 bin.chimuc.com
 bin.disroot.org
 bin.freedombits.org
@@ -32,7 +30,6 @@ bin.purplebored.pl
 bin.reallyaweso.me
 bin.rtb.gg
 bin.s2s.video
-bin.salvatorenoschese.it
 bin.sasach.work
 bin.sielc.com.ar
 bin.siick.fr
@@ -69,7 +66,6 @@ p.kll.li
 pad.rackforest.com
 passwords.gestionalda.com
 paste.apphoster.cc
-paste.atl.tools
 paste.aya.so
 paste.biocrafting.net
 paste.blazar.observer
@@ -134,7 +130,6 @@ pastebin.hot-chilli.net
 pastefg.hermietkreeft.site
 pastequest.com
 pb.1337-it.net
-pb.atl.tools
 pb.envs.net
 pb.fbin.in
 pb.fly.dev
@@ -183,7 +178,6 @@ snip.dssr.ch
 t25b.com
 teamware.eu
 textbin.quick-space.de
-tomatoprivate.com
 tools.beardic.cn
 wtf.roflcopter.fr
 www.encrypt0r.net
