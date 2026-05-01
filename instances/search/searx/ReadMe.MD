@@ -8,7 +8,6 @@
 - [find.xenorio.xyz](https://find.xenorio.xyz)
 - [grep.vim.wtf](https://grep.vim.wtf)
 - [kantan.cat](https://kantan.cat)
-- [o5.gg](https://o5.gg)
 - [ooglester.com](https://ooglester.com)
 - [opnxng.com](https://opnxng.com)
 - [paulgo.io](https://paulgo.io)

@@ -5,7 +5,6 @@ failsearx.culturanerd.it
 find.xenorio.xyz
 grep.vim.wtf
 kantan.cat
-o5.gg
 ooglester.com
 opnxng.com
 paulgo.io

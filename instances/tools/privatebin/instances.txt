@@ -127,7 +127,6 @@ paste.worf.win
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.hot-chilli.net
-pastefg.hermietkreeft.site
 pastequest.com
 pb.1337-it.net
 pb.envs.net
@@ -151,7 +150,6 @@ privatebin.li
 privatebin.lol
 privatebin.mbiz.io
 privatebin.net
-privatebin.oxidizer.de
 privatebin.paradox.ai
 privatebin.rausgerufen.de
 privatebin.rinuploads.org

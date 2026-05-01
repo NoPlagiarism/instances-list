@@ -11,7 +11,6 @@
 - [scribe.privacyredirect.com](https://scribe.privacyredirect.com)
 - [scribe.r4fo.com](https://scribe.r4fo.com)
 - [scribe.rawbit.ninja](https://scribe.rawbit.ninja)
-- [scribe.rip](https://scribe.rip)
 # Onion
 - [scribe.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://scribe.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://scribe.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
