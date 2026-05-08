@@ -17,7 +17,6 @@
 - [search.anoni.net](https://search.anoni.net)
 - [search.bladerunn.in](https://search.bladerunn.in)
 - [search.catboy.house](https://search.catboy.house)
-- [search.charliewhiskey.net](https://search.charliewhiskey.net)
 - [search.chocolatemoo53.com](https://search.chocolatemoo53.com)
 - [search.datenkrake.ch](https://search.datenkrake.ch)
 - [search.einfachzocken.eu](https://search.einfachzocken.eu)

@@ -40,7 +40,6 @@
             "translate.northboot.xyz"
         ],
         "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
@@ -124,7 +123,6 @@
             "search.anoni.net",
             "search.bladerunn.in",
             "search.catboy.house",
-            "search.charliewhiskey.net",
             "search.chocolatemoo53.com",
             "search.datenkrake.ch",
             "search.einfachzocken.eu",
@@ -261,9 +259,7 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [
-            "lr.vern.cc"
-        ],
+        "instances": [],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -281,14 +277,12 @@
             "redlib.cow.rip",
             "redlib.nadeko.net",
             "redlib.perennialte.ch",
-            "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "redlib.r4fo.com"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
@@ -440,7 +434,6 @@
             "r.opnxng.com",
             "rg.kuuro.net",
             "ri.bcow.xyz",
-            "rimgo.floppa.cloud",
             "rimgo.pussthecat.org"
         ],
         "onion": [
@@ -772,6 +765,7 @@
             "bin.tiekoetter.com",
             "bin.vdx.sh",
             "bonus01.hwb0307.com",
+            "clay.lcann.org",
             "cles.le-filament.com",
             "code.wt.pt",
             "copypaste.aiagency.now",
@@ -812,7 +806,6 @@
             "paste.copper.dedyn.io",
             "paste.cracktek.eu",
             "paste.craftum.pl",
-            "paste.crqch.dev",
             "paste.d-ku.de",
             "paste.dismail.de",
             "paste.dvotx.org",
@@ -863,6 +856,7 @@
             "pastebin.24unix.net",
             "pastebin.aquilenet.fr",
             "pastebin.hot-chilli.net",
+            "pasted.space",
             "pastequest.com",
             "pb.1337-it.net",
             "pb.envs.net",
@@ -887,7 +881,6 @@
             "privatebin.mbiz.io",
             "privatebin.net",
             "privatebin.paradox.ai",
-            "privatebin.rausgerufen.de",
             "privatebin.rinuploads.org",
             "privatebin.seattlematrix.org",
             "privatebin.sequanux.org",
@@ -908,6 +901,7 @@
             "securebin.fastm.de",
             "sendpass.ru",
             "share.cyberguerrilla.info",
+            "si3t.ch",
             "snip.dssr.ch",
             "t25b.com",
             "teamware.eu",
@@ -980,6 +974,7 @@
             "4get.swirly.architectenterprises.net",
             "4get.thebunny.zone",
             "4get.zzls.xyz",
+            "s.307200.xyz",
             "search.fischbytes.de",
             "search.fzorb.xyz",
             "search.mint.lgbt",

@@ -5,7 +5,6 @@
 - [r.opnxng.com](https://r.opnxng.com)
 - [rg.kuuro.net](https://rg.kuuro.net)
 - [ri.bcow.xyz](https://ri.bcow.xyz)
-- [rimgo.floppa.cloud](https://rimgo.floppa.cloud)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
 # Onion
 - [imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://imgur.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)

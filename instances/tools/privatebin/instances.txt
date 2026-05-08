@@ -36,6 +36,7 @@ bin.siick.fr
 bin.tiekoetter.com
 bin.vdx.sh
 bonus01.hwb0307.com
+clay.lcann.org
 cles.le-filament.com
 code.wt.pt
 copypaste.aiagency.now
@@ -76,7 +77,6 @@ paste.coalserver.de
 paste.copper.dedyn.io
 paste.cracktek.eu
 paste.craftum.pl
-paste.crqch.dev
 paste.d-ku.de
 paste.dismail.de
 paste.dvotx.org
@@ -127,6 +127,7 @@ paste.worf.win
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.hot-chilli.net
+pasted.space
 pastequest.com
 pb.1337-it.net
 pb.envs.net
@@ -151,7 +152,6 @@ privatebin.lol
 privatebin.mbiz.io
 privatebin.net
 privatebin.paradox.ai
-privatebin.rausgerufen.de
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org
@@ -172,6 +172,7 @@ secure.superior.nl
 securebin.fastm.de
 sendpass.ru
 share.cyberguerrilla.info
+si3t.ch
 snip.dssr.ch
 t25b.com
 teamware.eu
