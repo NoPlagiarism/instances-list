@@ -5,6 +5,7 @@
 - [mozhi.aryak.me](https://mozhi.aryak.me)
 - [mozhi.bloat.cat](https://mozhi.bloat.cat)
 - [mozhi.canine.tools](https://mozhi.canine.tools)
+- [mozhi.catsarch.com](https://mozhi.catsarch.com)
 - [mozhi.ducks.party](https://mozhi.ducks.party)
 - [mozhi.pussthecat.org](https://mozhi.pussthecat.org)
 - [mzh.dc09.xyz](https://mzh.dc09.xyz)
@@ -14,6 +15,8 @@
 # Onion
 - [3mu2almmcv7rd7wlwhmkbwqgttntgpqu3hdanutxbv2v72wzbxe5ixqd.onion](http://3mu2almmcv7rd7wlwhmkbwqgttntgpqu3hdanutxbv2v72wzbxe5ixqd.onion)
 - [42i2bzogwkph3dvoo2bm6srskf7vvabsphw7uzftymbjjlzgfluhnmid.onion](http://42i2bzogwkph3dvoo2bm6srskf7vvabsphw7uzftymbjjlzgfluhnmid.onion)
+- [mozhi.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://mozhi.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [mozhi.wsuno6lnjdcsiok5mrxvl6e2bdex7nhsqqav6ux7tkwrqiqnulejfbyd.onion](http://mozhi.wsuno6lnjdcsiok5mrxvl6e2bdex7nhsqqav6ux7tkwrqiqnulejfbyd.onion)
 # I2P
 - [74lptlnvaukcjnmqefedgna35ahkqexqzq2qq3k7utc2ep4jotcq.b32.i2p](http://74lptlnvaukcjnmqefedgna35ahkqexqzq2qq3k7utc2ep4jotcq.b32.i2p)
+- [b5jb6gilzl43u5js4d7jtcqmsk3xdjfbiowudij5yyhpm5bub3kq.b32.i2p](http://b5jb6gilzl43u5js4d7jtcqmsk3xdjfbiowudij5yyhpm5bub3kq.b32.i2p)

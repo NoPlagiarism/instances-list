@@ -2,12 +2,7 @@
 
 # Clearnet
 - [m.opnxng.com](https://m.opnxng.com)
-- [scribe.bus-hit.me](https://scribe.bus-hit.me)
-- [scribe.citizen4.eu](https://scribe.citizen4.eu)
-- [scribe.froth.zone](https://scribe.froth.zone)
-- [scribe.manasiwibi.com](https://scribe.manasiwibi.com)
 - [scribe.nixnet.services](https://scribe.nixnet.services)
-- [scribe.privacydev.net](https://scribe.privacydev.net)
 - [scribe.privacyredirect.com](https://scribe.privacyredirect.com)
 - [scribe.r4fo.com](https://scribe.r4fo.com)
 - [scribe.rawbit.ninja](https://scribe.rawbit.ninja)

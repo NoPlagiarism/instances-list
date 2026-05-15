@@ -1,5 +1,7 @@
+0.0g.gg
 03c.de
 0bin.me
+0g.gg
 anonpaste.org
 b.appinn.net
 b.opnxng.com
@@ -54,12 +56,12 @@ lukisko.eu
 notas.gatooscuro.xyz
 notebin.de
 notes.dark2web.com
-oldpb.purplebored.pl
 onetime.vits.co.uk
 opportunis.me
 ots.ip-projects.de
 ots.pfcloud.io
 p.blueridgedebate.com
+p.darklab.sh
 p.dousse.eu
 p.hessfr.fr
 p.kapsi.fi
@@ -70,7 +72,6 @@ paste.apphoster.cc
 paste.aya.so
 paste.biocrafting.net
 paste.blazar.observer
-paste.burble.com
 paste.canine.tools
 paste.chapril.org
 paste.coalserver.de
@@ -103,9 +104,7 @@ paste.nolog.cz
 paste.ononoki.org
 paste.picasoft.net
 paste.plus
-paste.rb.dcu.ie
 paste.rbn.gr
-paste.redbrick.dcu.ie
 paste.rys.pw
 paste.shreven.org
 paste.skynetcloud.site
@@ -114,7 +113,6 @@ paste.sweatyangmoh.sg
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
-paste.thec0de.com
 paste.tildeverse.org
 paste.to
 paste.trove.cz
@@ -140,7 +138,6 @@ photistic.org
 privatebin.app
 privatebin.ar21.de
 privatebin.at
-privatebin.cz
 privatebin.deblan.org
 privatebin.devol.it
 privatebin.diyarciftci.xyz
@@ -182,8 +179,6 @@ wtf.roflcopter.fr
 www.encrypt0r.net
 www.nervengas.com
 www.noteshare.net
-www.tomatoprivate.com
-www.zdjm.com
 xkwy2018.com
 zb.zerosgaming.de
 zbin.io

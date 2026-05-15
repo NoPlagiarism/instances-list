@@ -3,6 +3,7 @@
 # Clearnet
 - [4.nboeck.de](https://4.nboeck.de)
 - [4.ngn.tf](https://4.ngn.tf)
+- [4g.moonscape.nexus](https://4g.moonscape.nexus)
 - [4g.opnxng.com](https://4g.opnxng.com)
 - [4get.aishiteiru.moe](https://4get.aishiteiru.moe)
 - [4get.ca](https://4get.ca)
