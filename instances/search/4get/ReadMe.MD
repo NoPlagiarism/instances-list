@@ -21,6 +21,7 @@
 - [4get.neco.lol](https://4get.neco.lol)
 - [4get.nigga.pt](https://4get.nigga.pt)
 - [4get.plunked.party](https://4get.plunked.party)
+- [4get.privadency.com](https://4get.privadency.com)
 - [4get.sijh.net](https://4get.sijh.net)
 - [4get.silly.computer](https://4get.silly.computer)
 - [4get.sny.sh](https://4get.sny.sh)

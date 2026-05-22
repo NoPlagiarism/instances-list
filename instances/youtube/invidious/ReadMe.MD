@@ -5,7 +5,9 @@
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [inv.nadeko.ygg](https://inv.nadeko.ygg)
 - [inv.thepixora.com](https://inv.thepixora.com)
+- [invidious.f5.si](https://invidious.f5.si)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
+- [invidious.tiekoetter.com](https://invidious.tiekoetter.com)
 - [yt.chocolatemoo53.com](https://yt.chocolatemoo53.com)
 # Onion
 - [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
