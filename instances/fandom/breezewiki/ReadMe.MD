@@ -4,8 +4,6 @@
 - [antifandom.com](https://antifandom.com)
 - [breeze.hostux.net](https://breeze.hostux.net)
 - [breeze.mint.lgbt](https://breeze.mint.lgbt)
-- [breezewiki.catsarch.com](https://breezewiki.catsarch.com)
-- [breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](https://breezewiki.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion](https://breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion)
 - [breezewiki.com](https://breezewiki.com)
 - [breezewiki.hyperreal.coffee](https://breezewiki.hyperreal.coffee)
