@@ -78,7 +78,6 @@ paste.apphoster.cc
 paste.aya.so
 paste.biocrafting.net
 paste.blazar.observer
-paste.canine.tools
 paste.captain.webhop.org
 paste.chapril.org
 paste.coalserver.de
@@ -129,7 +128,6 @@ paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
 paste.tildeverse.org
-paste.to
 paste.trove.cz
 paste.tube-hosting.de
 paste.tuxcloud.net
@@ -203,7 +201,6 @@ secure.superior.nl
 securebin.fastm.de
 sendpass.ru
 share.cyberguerrilla.info
-share.it-service-commander.de
 snip.dssr.ch
 t25b.com
 teamware.eu

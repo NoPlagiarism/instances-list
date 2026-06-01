@@ -69,6 +69,7 @@
 - [searxng.shreven.org](https://searxng.shreven.org)
 - [searxng.site](https://searxng.site)
 - [searxng.website](https://searxng.website)
+- [searxng.wuemeli.com](https://searxng.wuemeli.com)
 - [seek.fyi](https://seek.fyi)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
 - [www.gruble.de](https://www.gruble.de)

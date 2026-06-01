@@ -2,6 +2,7 @@
 
 # Clearnet
 - [drop.chapril.org](https://drop.chapril.org)
+- [dropnito.online](https://dropnito.online)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
 - [send.adminforge.de](https://send.adminforge.de)
 - [send.artemislena.eu](https://send.artemislena.eu)

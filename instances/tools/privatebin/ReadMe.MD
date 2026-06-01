@@ -81,7 +81,6 @@
 - [paste.aya.so](https://paste.aya.so)
 - [paste.biocrafting.net](https://paste.biocrafting.net)
 - [paste.blazar.observer](https://paste.blazar.observer)
-- [paste.canine.tools](https://paste.canine.tools)
 - [paste.captain.webhop.org](https://paste.captain.webhop.org)
 - [paste.chapril.org](https://paste.chapril.org)
 - [paste.coalserver.de](https://paste.coalserver.de)
@@ -132,7 +131,6 @@
 - [paste.tecff.de](https://paste.tecff.de)
 - [paste.tech-port.de](https://paste.tech-port.de)
 - [paste.tildeverse.org](https://paste.tildeverse.org)
-- [paste.to](https://paste.to)
 - [paste.trove.cz](https://paste.trove.cz)
 - [paste.tube-hosting.de](https://paste.tube-hosting.de)
 - [paste.tuxcloud.net](https://paste.tuxcloud.net)
@@ -206,7 +204,6 @@
 - [securebin.fastm.de](https://securebin.fastm.de)
 - [sendpass.ru](https://sendpass.ru)
 - [share.cyberguerrilla.info](https://share.cyberguerrilla.info)
-- [share.it-service-commander.de](https://share.it-service-commander.de)
 - [snip.dssr.ch](https://snip.dssr.ch)
 - [t25b.com](https://t25b.com)
 - [teamware.eu](https://teamware.eu)
@@ -234,6 +231,5 @@
 - [paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion](http://paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion)
 - [pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion](http://pasteb7hlmmyhl6sbu5hdrweaans77iptobinc3hc4myf2vyudc6vbyd.onion)
 - [pbin.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://pbin.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
-- [w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion](http://w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion)
 # I2P
 
