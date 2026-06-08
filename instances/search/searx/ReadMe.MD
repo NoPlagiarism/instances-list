@@ -19,7 +19,6 @@
 - [search.catboy.house](https://search.catboy.house)
 - [search.chocolatemoo53.com](https://search.chocolatemoo53.com)
 - [search.ctq.ro](https://search.ctq.ro)
-- [search.datenkrake.ch](https://search.datenkrake.ch)
 - [search.einfachzocken.eu](https://search.einfachzocken.eu)
 - [search.ethibox.fr](https://search.ethibox.fr)
 - [search.femboy.ad](https://search.femboy.ad)
