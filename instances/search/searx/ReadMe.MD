@@ -27,6 +27,8 @@
 - [search.indst.eu](https://search.indst.eu)
 - [search.inetol.net](https://search.inetol.net)
 - [search.internetsucks.net](https://search.internetsucks.net)
+- [search.liuzj.net](https://search.liuzj.net)
+- [search.maliffadlan.dev](https://search.maliffadlan.dev)
 - [search.mdosch.de](https://search.mdosch.de)
 - [search.minus27315.dev](https://search.minus27315.dev)
 - [search.ononoki.org](https://search.ononoki.org)

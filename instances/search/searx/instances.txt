@@ -24,6 +24,8 @@ search.im-in.space
 search.indst.eu
 search.inetol.net
 search.internetsucks.net
+search.liuzj.net
+search.maliffadlan.dev
 search.mdosch.de
 search.minus27315.dev
 search.ononoki.org

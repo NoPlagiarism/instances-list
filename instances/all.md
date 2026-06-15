@@ -154,6 +154,8 @@
 - [search.indst.eu](https://search.indst.eu)
 - [search.inetol.net](https://search.inetol.net)
 - [search.internetsucks.net](https://search.internetsucks.net)
+- [search.liuzj.net](https://search.liuzj.net)
+- [search.maliffadlan.dev](https://search.maliffadlan.dev)
 - [search.mdosch.de](https://search.mdosch.de)
 - [search.minus27315.dev](https://search.minus27315.dev)
 - [search.ononoki.org](https://search.ononoki.org)
@@ -282,14 +284,16 @@
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
-- [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.orangenet.cc](https://redlib.orangenet.cc)
 - [redlib.perennialte.ch](https://redlib.perennialte.ch)
+- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [redlib.r4fo.com](https://redlib.r4fo.com)
 ### Onion
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
+- [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -322,11 +326,20 @@
 ## [Invidious](https://github.com/iv-org/invidious#readme)
 
 ### Clearnet
-
+- [inv-ygg.nadeko.net](https://inv-ygg.nadeko.net)
+- [inv.nadeko.net](https://inv.nadeko.net)
+- [inv.nadeko.ygg](https://inv.nadeko.ygg)
+- [inv.thepixora.com](https://inv.thepixora.com)
+- [invidious.f5.si](https://invidious.f5.si)
+- [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
+- [invidious.tiekoetter.com](https://invidious.tiekoetter.com)
+- [yt.chocolatemoo53.com](https://yt.chocolatemoo53.com)
 ### Onion
-
+- [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
+- [nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion](http://nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion)
 ### I2P
-
+- [invidious-nerdvpn.i2p](http://invidious-nerdvpn.i2p)
+- [nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p](http://nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p)
 
 ## [Hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe)
 
@@ -676,7 +689,6 @@
 - [bin.mycozy.space](https://bin.mycozy.space)
 - [bin.nixnet.services](https://bin.nixnet.services)
 - [bin.nji9.de](https://bin.nji9.de)
-- [bin.oss.zone](https://bin.oss.zone)
 - [bin.outv.im](https://bin.outv.im)
 - [bin.purplebored.pl](https://bin.purplebored.pl)
 - [bin.rtb.gg](https://bin.rtb.gg)
@@ -687,7 +699,6 @@
 - [bin.tiekoetter.com](https://bin.tiekoetter.com)
 - [bin.vdx.sh](https://bin.vdx.sh)
 - [bonus01.hwb0307.com](https://bonus01.hwb0307.com)
-- [chitchat.2ez2.com](https://chitchat.2ez2.com)
 - [cles.le-filament.com](https://cles.le-filament.com)
 - [code.wt.pt](https://code.wt.pt)
 - [copypaste.aiagency.now](https://copypaste.aiagency.now)
@@ -707,9 +718,7 @@
 - [notas.gatooscuro.xyz](https://notas.gatooscuro.xyz)
 - [note.dopek.eu](https://note.dopek.eu)
 - [notebin.de](https://notebin.de)
-- [notes.dark2web.com](https://notes.dark2web.com)
 - [onetime.vits.co.uk](https://onetime.vits.co.uk)
-- [opportunis.me](https://opportunis.me)
 - [ots.allburosolutions.be](https://ots.allburosolutions.be)
 - [ots.ip-projects.de](https://ots.ip-projects.de)
 - [ots.pfcloud.io](https://ots.pfcloud.io)
@@ -762,7 +771,6 @@
 - [paste.momou.ch](https://paste.momou.ch)
 - [paste.nerdvpn.de](https://paste.nerdvpn.de)
 - [paste.nolog.cz](https://paste.nolog.cz)
-- [paste.ononoki.org](https://paste.ononoki.org)
 - [paste.picasoft.net](https://paste.picasoft.net)
 - [paste.plus](https://paste.plus)
 - [paste.rbn.gr](https://paste.rbn.gr)
@@ -805,7 +813,6 @@
 - [privatebin-ext.dnx.lu](https://privatebin-ext.dnx.lu)
 - [privatebin.app](https://privatebin.app)
 - [privatebin.ar21.de](https://privatebin.ar21.de)
-- [privatebin.at](https://privatebin.at)
 - [privatebin.ausrik.com.au](https://privatebin.ausrik.com.au)
 - [privatebin.deblan.org](https://privatebin.deblan.org)
 - [privatebin.devol.it](https://privatebin.devol.it)
@@ -825,7 +832,6 @@
 - [privatebin.web-id.app](https://privatebin.web-id.app)
 - [privatebin.wildberries.ru](https://privatebin.wildberries.ru)
 - [privatebin.zebandt.dev](https://privatebin.zebandt.dev)
-- [privatebin.zerotwo.ovh](https://privatebin.zerotwo.ovh)
 - [privatepastebin.com](https://privatepastebin.com)
 - [pvnotes.fast-elektriker.com](https://pvnotes.fast-elektriker.com)
 - [pvnotes.sms-electro.no](https://pvnotes.sms-electro.no)

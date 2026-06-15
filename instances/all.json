@@ -137,6 +137,8 @@
             "search.indst.eu",
             "search.inetol.net",
             "search.internetsucks.net",
+            "search.liuzj.net",
+            "search.maliffadlan.dev",
             "search.mdosch.de",
             "search.minus27315.dev",
             "search.ononoki.org",
@@ -282,15 +284,17 @@
             "red.artemislena.eu",
             "redlib.catsarch.com",
             "redlib.cow.rip",
-            "redlib.nadeko.net",
             "redlib.orangenet.cc",
             "redlib.perennialte.ch",
+            "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "redlib.r4fo.com"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
+            "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -330,9 +334,24 @@
         "name": "Invidious",
         "url": "https://github.com/iv-org/invidious#readme",
         "path": "youtube/invidious",
-        "instances": [],
-        "onion": [],
-        "i2p": []
+        "instances": [
+            "inv-ygg.nadeko.net",
+            "inv.nadeko.net",
+            "inv.nadeko.ygg",
+            "inv.thepixora.com",
+            "invidious.f5.si",
+            "invidious.nerdvpn.de",
+            "invidious.tiekoetter.com",
+            "yt.chocolatemoo53.com"
+        ],
+        "onion": [
+            "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
+            "nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion"
+        ],
+        "i2p": [
+            "invidious-nerdvpn.i2p",
+            "nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p"
+        ]
     },
     "hyperpipe": {
         "name": "Hyperpipe",
@@ -740,7 +759,6 @@
             "bin.mycozy.space",
             "bin.nixnet.services",
             "bin.nji9.de",
-            "bin.oss.zone",
             "bin.outv.im",
             "bin.purplebored.pl",
             "bin.rtb.gg",
@@ -751,7 +769,6 @@
             "bin.tiekoetter.com",
             "bin.vdx.sh",
             "bonus01.hwb0307.com",
-            "chitchat.2ez2.com",
             "cles.le-filament.com",
             "code.wt.pt",
             "copypaste.aiagency.now",
@@ -771,9 +788,7 @@
             "notas.gatooscuro.xyz",
             "note.dopek.eu",
             "notebin.de",
-            "notes.dark2web.com",
             "onetime.vits.co.uk",
-            "opportunis.me",
             "ots.allburosolutions.be",
             "ots.ip-projects.de",
             "ots.pfcloud.io",
@@ -826,7 +841,6 @@
             "paste.momou.ch",
             "paste.nerdvpn.de",
             "paste.nolog.cz",
-            "paste.ononoki.org",
             "paste.picasoft.net",
             "paste.plus",
             "paste.rbn.gr",
@@ -869,7 +883,6 @@
             "privatebin-ext.dnx.lu",
             "privatebin.app",
             "privatebin.ar21.de",
-            "privatebin.at",
             "privatebin.ausrik.com.au",
             "privatebin.deblan.org",
             "privatebin.devol.it",
@@ -889,7 +902,6 @@
             "privatebin.web-id.app",
             "privatebin.wildberries.ru",
             "privatebin.zebandt.dev",
-            "privatebin.zerotwo.ovh",
             "privatepastebin.com",
             "pvnotes.fast-elektriker.com",
             "pvnotes.sms-electro.no",
