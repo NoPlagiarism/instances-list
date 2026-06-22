@@ -6,7 +6,7 @@
 - [breeze.mint.lgbt](https://breeze.mint.lgbt)
 - [breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion](https://breezewiki.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion)
 - [breezewiki.com](https://breezewiki.com)
-- [breezewiki.hyperreal.coffee](https://breezewiki.hyperreal.coffee)
+- [breezewiki.moonshadow.dev](https://breezewiki.moonshadow.dev)
 - [breezewiki.nadeko.net](https://breezewiki.nadeko.net)
 - [breezewiki.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion](https://breezewiki.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion)
 - [breezewiki.private.coffee](https://breezewiki.private.coffee)
