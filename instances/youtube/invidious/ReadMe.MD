@@ -4,7 +4,7 @@
 - [inv-ygg.nadeko.net](https://inv-ygg.nadeko.net)
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [inv.nadeko.ygg](https://inv.nadeko.ygg)
-- [inv.thepixora.com](https://inv.thepixora.com)
+- [inv.zoomerville.com](https://inv.zoomerville.com)
 - [invidious.f5.si](https://invidious.f5.si)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.tiekoetter.com](https://invidious.tiekoetter.com)

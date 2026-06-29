@@ -2,7 +2,6 @@
 
 # Clearnet
 - [0.0g.gg](https://0.0g.gg)
-- [0.jaegers.net](https://0.jaegers.net)
 - [03c.de](https://03c.de)
 - [0bin.me](https://0bin.me)
 - [0g.gg](https://0g.gg)
@@ -13,7 +12,6 @@
 - [bin.2255.me](https://bin.2255.me)
 - [bin.68degrees.no](https://bin.68degrees.no)
 - [bin.bloat.cat](https://bin.bloat.cat)
-- [bin.byreqz.de](https://bin.byreqz.de)
 - [bin.chimuc.com](https://bin.chimuc.com)
 - [bin.disroot.org](https://bin.disroot.org)
 - [bin.garbaye.fr](https://bin.garbaye.fr)
@@ -59,7 +57,6 @@
 - [logs.notifiarr.com](https://logs.notifiarr.com)
 - [lukisko.eu](https://lukisko.eu)
 - [notas.gatooscuro.xyz](https://notas.gatooscuro.xyz)
-- [note.dopek.eu](https://note.dopek.eu)
 - [notebin.de](https://notebin.de)
 - [notizen.freifunk-ba.de](https://notizen.freifunk-ba.de)
 - [onetime.vits.co.uk](https://onetime.vits.co.uk)
@@ -119,7 +116,6 @@
 - [paste.picasoft.net](https://paste.picasoft.net)
 - [paste.plus](https://paste.plus)
 - [paste.rbn.gr](https://paste.rbn.gr)
-- [paste.rys.pw](https://paste.rys.pw)
 - [paste.sev.monster](https://paste.sev.monster)
 - [paste.shreven.org](https://paste.shreven.org)
 - [paste.skynetcloud.site](https://paste.skynetcloud.site)
@@ -194,7 +190,6 @@
 - [secure.popien-webdesign.de](https://secure.popien-webdesign.de)
 - [secure.superior.nl](https://secure.superior.nl)
 - [securebin.fastm.de](https://securebin.fastm.de)
-- [sendpass.ru](https://sendpass.ru)
 - [share.cyberguerrilla.info](https://share.cyberguerrilla.info)
 - [snip.dssr.ch](https://snip.dssr.ch)
 - [t25b.com](https://t25b.com)
@@ -212,6 +207,7 @@
 - [zb.zerosgaming.de](https://zb.zerosgaming.de)
 - [zbin.io](https://zbin.io)
 - [zerobin-legacy.dssr.ch](https://zerobin-legacy.dssr.ch)
+- [zerobin.no](https://zerobin.no)
 - [zerobin.zertrin.org](https://zerobin.zertrin.org)
 # Onion
 - [5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion](http://5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion)

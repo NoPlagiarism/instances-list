@@ -47,6 +47,7 @@
 - [search.zina.dev](https://search.zina.dev)
 - [searx.ankha.ac](https://searx.ankha.ac)
 - [searx.dresden.network](https://searx.dresden.network)
+- [searx.linxx.net](https://searx.linxx.net)
 - [searx.mbuf.net](https://searx.mbuf.net)
 - [searx.mxchange.org](https://searx.mxchange.org)
 - [searx.namejeff.xyz](https://searx.namejeff.xyz)

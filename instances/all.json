@@ -157,6 +157,7 @@
             "search.zina.dev",
             "searx.ankha.ac",
             "searx.dresden.network",
+            "searx.linxx.net",
             "searx.mbuf.net",
             "searx.mxchange.org",
             "searx.namejeff.xyz",
@@ -268,9 +269,7 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [
-            "lr.vern.cc"
-        ],
+        "instances": [],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -283,9 +282,10 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "reddit.rtrace.io",
             "redlib.catsarch.com",
+            "redlib.cow.rip",
             "redlib.nadeko.net",
-            "redlib.orangenet.cc",
             "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
@@ -338,7 +338,7 @@
             "inv-ygg.nadeko.net",
             "inv.nadeko.net",
             "inv.nadeko.ygg",
-            "inv.thepixora.com",
+            "inv.zoomerville.com",
             "invidious.f5.si",
             "invidious.nerdvpn.de",
             "invidious.tiekoetter.com",
@@ -730,7 +730,6 @@
         "path": "tools/privatebin",
         "instances": [
             "0.0g.gg",
-            "0.jaegers.net",
             "03c.de",
             "0bin.me",
             "0g.gg",
@@ -741,7 +740,6 @@
             "bin.2255.me",
             "bin.68degrees.no",
             "bin.bloat.cat",
-            "bin.byreqz.de",
             "bin.chimuc.com",
             "bin.disroot.org",
             "bin.garbaye.fr",
@@ -787,7 +785,6 @@
             "logs.notifiarr.com",
             "lukisko.eu",
             "notas.gatooscuro.xyz",
-            "note.dopek.eu",
             "notebin.de",
             "notizen.freifunk-ba.de",
             "onetime.vits.co.uk",
@@ -847,7 +844,6 @@
             "paste.picasoft.net",
             "paste.plus",
             "paste.rbn.gr",
-            "paste.rys.pw",
             "paste.sev.monster",
             "paste.shreven.org",
             "paste.skynetcloud.site",
@@ -922,7 +918,6 @@
             "secure.popien-webdesign.de",
             "secure.superior.nl",
             "securebin.fastm.de",
-            "sendpass.ru",
             "share.cyberguerrilla.info",
             "snip.dssr.ch",
             "t25b.com",
@@ -940,6 +935,7 @@
             "zb.zerosgaming.de",
             "zbin.io",
             "zerobin-legacy.dssr.ch",
+            "zerobin.no",
             "zerobin.zertrin.org"
         ],
         "onion": [

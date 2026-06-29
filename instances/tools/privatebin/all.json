@@ -1,7 +1,6 @@
 {
     "instances": [
         "0.0g.gg",
-        "0.jaegers.net",
         "03c.de",
         "0bin.me",
         "0g.gg",
@@ -12,7 +11,6 @@
         "bin.2255.me",
         "bin.68degrees.no",
         "bin.bloat.cat",
-        "bin.byreqz.de",
         "bin.chimuc.com",
         "bin.disroot.org",
         "bin.garbaye.fr",
@@ -58,7 +56,6 @@
         "logs.notifiarr.com",
         "lukisko.eu",
         "notas.gatooscuro.xyz",
-        "note.dopek.eu",
         "notebin.de",
         "notizen.freifunk-ba.de",
         "onetime.vits.co.uk",
@@ -118,7 +115,6 @@
         "paste.picasoft.net",
         "paste.plus",
         "paste.rbn.gr",
-        "paste.rys.pw",
         "paste.sev.monster",
         "paste.shreven.org",
         "paste.skynetcloud.site",
@@ -193,7 +189,6 @@
         "secure.popien-webdesign.de",
         "secure.superior.nl",
         "securebin.fastm.de",
-        "sendpass.ru",
         "share.cyberguerrilla.info",
         "snip.dssr.ch",
         "t25b.com",
@@ -211,6 +206,7 @@
         "zb.zerosgaming.de",
         "zbin.io",
         "zerobin-legacy.dssr.ch",
+        "zerobin.no",
         "zerobin.zertrin.org"
     ],
     "onion": [
