@@ -111,6 +111,7 @@
         "url": "https://github.com/searxng/searxng#readme",
         "path": "search/searx",
         "instances": [
+            "auth.seddens.net",
             "baresearch.org",
             "copp.gg",
             "etsi.me",
@@ -123,7 +124,6 @@
             "paulgo.io",
             "priv.au",
             "search.2b9t.xyz",
-            "search.abohiccups.com",
             "search.anoni.net",
             "search.bladerunn.in",
             "search.catboy.house",
@@ -148,7 +148,6 @@
             "search.root.hr",
             "search.rowie.at",
             "search.sapti.me",
-            "search.seddens.net",
             "search.serpensin.com",
             "search.undertale.uk",
             "search.unredacted.org",
@@ -170,6 +169,7 @@
             "searx.rhscz.eu",
             "searx.ro",
             "searx.sev.monster",
+            "searx.thefloatinglab.world",
             "searx.tiekoetter.com",
             "searx.tsmdt.de",
             "searx.tuxcloud.net",
@@ -179,6 +179,7 @@
             "searxng.fishfvch.com",
             "searxng.gdebest.net",
             "searxng.gr",
+            "searxng.moonshadow.dev",
             "searxng.shreven.org",
             "searxng.site",
             "searxng.website",
@@ -282,7 +283,7 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "reddit.rtrace.io",
+            "red.artemislena.eu",
             "redlib.catsarch.com",
             "redlib.cow.rip",
             "redlib.nadeko.net",
@@ -292,6 +293,7 @@
             "redlib.r4fo.com"
         ],
         "onion": [
+            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"

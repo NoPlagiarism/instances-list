@@ -128,6 +128,7 @@
 ## [SearXNG](https://github.com/searxng/searxng#readme)
 
 ### Clearnet
+- [auth.seddens.net](https://auth.seddens.net)
 - [baresearch.org](https://baresearch.org)
 - [copp.gg](https://copp.gg)
 - [etsi.me](https://etsi.me)
@@ -140,7 +141,6 @@
 - [paulgo.io](https://paulgo.io)
 - [priv.au](https://priv.au)
 - [search.2b9t.xyz](https://search.2b9t.xyz)
-- [search.abohiccups.com](https://search.abohiccups.com)
 - [search.anoni.net](https://search.anoni.net)
 - [search.bladerunn.in](https://search.bladerunn.in)
 - [search.catboy.house](https://search.catboy.house)
@@ -165,7 +165,6 @@
 - [search.root.hr](https://search.root.hr)
 - [search.rowie.at](https://search.rowie.at)
 - [search.sapti.me](https://search.sapti.me)
-- [search.seddens.net](https://search.seddens.net)
 - [search.serpensin.com](https://search.serpensin.com)
 - [search.undertale.uk](https://search.undertale.uk)
 - [search.unredacted.org](https://search.unredacted.org)
@@ -187,6 +186,7 @@
 - [searx.rhscz.eu](https://searx.rhscz.eu)
 - [searx.ro](https://searx.ro)
 - [searx.sev.monster](https://searx.sev.monster)
+- [searx.thefloatinglab.world](https://searx.thefloatinglab.world)
 - [searx.tiekoetter.com](https://searx.tiekoetter.com)
 - [searx.tsmdt.de](https://searx.tsmdt.de)
 - [searx.tuxcloud.net](https://searx.tuxcloud.net)
@@ -196,6 +196,7 @@
 - [searxng.fishfvch.com](https://searxng.fishfvch.com)
 - [searxng.gdebest.net](https://searxng.gdebest.net)
 - [searxng.gr](https://searxng.gr)
+- [searxng.moonshadow.dev](https://searxng.moonshadow.dev)
 - [searxng.shreven.org](https://searxng.shreven.org)
 - [searxng.site](https://searxng.site)
 - [searxng.website](https://searxng.website)
@@ -284,7 +285,7 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
-- [reddit.rtrace.io](https://reddit.rtrace.io)
+- [red.artemislena.eu](https://red.artemislena.eu)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
@@ -293,6 +294,7 @@
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [redlib.r4fo.com](https://redlib.r4fo.com)
 ### Onion
+- [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 - [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)

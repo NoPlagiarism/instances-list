@@ -1,3 +1,4 @@
+auth.seddens.net
 baresearch.org
 copp.gg
 etsi.me
@@ -10,7 +11,6 @@ opnxng.com
 paulgo.io
 priv.au
 search.2b9t.xyz
-search.abohiccups.com
 search.anoni.net
 search.bladerunn.in
 search.catboy.house
@@ -35,7 +35,6 @@ search.rhscz.eu
 search.root.hr
 search.rowie.at
 search.sapti.me
-search.seddens.net
 search.serpensin.com
 search.undertale.uk
 search.unredacted.org
@@ -57,6 +56,7 @@ searx.redgarden.cv
 searx.rhscz.eu
 searx.ro
 searx.sev.monster
+searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tsmdt.de
 searx.tuxcloud.net
@@ -66,6 +66,7 @@ searxng.deggo.fyi
 searxng.fishfvch.com
 searxng.gdebest.net
 searxng.gr
+searxng.moonshadow.dev
 searxng.shreven.org
 searxng.site
 searxng.website
