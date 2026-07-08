@@ -98,6 +98,7 @@ paste.helkor.eu
 paste.hior.ws
 paste.hostify.cz
 paste.hostux.net
+paste.i2pd.xyz
 paste.kcastner.de
 paste.libre-service.eu
 paste.linxx.net
@@ -121,6 +122,7 @@ paste.sweatyangmoh.sg
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
+paste.theythem.page
 paste.tildeverse.org
 paste.trove.cz
 paste.tube-hosting.de
@@ -143,13 +145,13 @@ pb.greep.fr
 pb.jaska.cc
 pb.moonshadow.dev
 pbin.nadeko.net
+pbin.ru
 photistic.org
 private.cyclelab.eu
 private.keokee.com
 private.nowhere.com.au
 privatebin-ext.dnx.lu
 privatebin.app
-privatebin.ar21.de
 privatebin.ausrik.com.au
 privatebin.deblan.org
 privatebin.devol.it
@@ -190,7 +192,6 @@ securebin.fastm.de
 share.cyberguerrilla.info
 snip.dssr.ch
 t25b.com
-teamware.eu
 textbin.quick-space.de
 titok.csi.pet
 tools.beardic.cn

@@ -40,7 +40,6 @@
             "translate.northboot.xyz"
         ],
         "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
@@ -270,7 +269,10 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [],
+        "instances": [
+            "lr.vern.cc",
+            "safereddit.com"
+        ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -283,17 +285,14 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
-            "red.artemislena.eu",
             "redlib.catsarch.com",
-            "redlib.cow.rip",
             "redlib.nadeko.net",
-            "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
-            "redlib.r4fo.com"
+            "redlib.r4fo.com",
+            "safereddit.com"
         ],
         "onion": [
-            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion",
             "redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion"
@@ -831,6 +830,7 @@
             "paste.hior.ws",
             "paste.hostify.cz",
             "paste.hostux.net",
+            "paste.i2pd.xyz",
             "paste.kcastner.de",
             "paste.libre-service.eu",
             "paste.linxx.net",
@@ -854,6 +854,7 @@
             "paste.systemli.org",
             "paste.tecff.de",
             "paste.tech-port.de",
+            "paste.theythem.page",
             "paste.tildeverse.org",
             "paste.trove.cz",
             "paste.tube-hosting.de",
@@ -876,13 +877,13 @@
             "pb.jaska.cc",
             "pb.moonshadow.dev",
             "pbin.nadeko.net",
+            "pbin.ru",
             "photistic.org",
             "private.cyclelab.eu",
             "private.keokee.com",
             "private.nowhere.com.au",
             "privatebin-ext.dnx.lu",
             "privatebin.app",
-            "privatebin.ar21.de",
             "privatebin.ausrik.com.au",
             "privatebin.deblan.org",
             "privatebin.devol.it",
@@ -923,7 +924,6 @@
             "share.cyberguerrilla.info",
             "snip.dssr.ch",
             "t25b.com",
-            "teamware.eu",
             "textbin.quick-space.de",
             "titok.csi.pet",
             "tools.beardic.cn",
