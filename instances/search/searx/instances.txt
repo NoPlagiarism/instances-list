@@ -10,6 +10,8 @@ ooglester.com
 opnxng.com
 paulgo.io
 priv.au
+privacyredirect.com
+sear.lurx.net
 search.2b9t.xyz
 search.anoni.net
 search.bladerunn.in
@@ -30,7 +32,6 @@ search.mectov.my.id
 search.minus27315.dev
 search.pereira.is
 search.pi.vps.pw
-search.privacyredirect.com
 search.rhscz.eu
 search.root.hr
 search.rowie.at
@@ -59,7 +60,6 @@ searx.sev.monster
 searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tsmdt.de
-searx.tuxcloud.net
 searxng.canine.tools
 searxng.cups.moe
 searxng.deggo.fyi
@@ -69,6 +69,7 @@ searxng.gr
 searxng.moonshadow.dev
 searxng.shreven.org
 searxng.site
+searxng.tr
 searxng.website
 searxng.wuemeli.com
 seek.fyi
