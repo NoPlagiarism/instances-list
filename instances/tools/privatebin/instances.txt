@@ -97,7 +97,6 @@ paste.i2pd.xyz
 paste.kcastner.de
 paste.libre-service.eu
 paste.linxx.net
-paste.liqube.com
 paste.loryy.dev
 paste.mayhem.academy
 paste.molytov.xyz
@@ -106,7 +105,7 @@ paste.momou.ch
 paste.nerdvpn.de
 paste.nolog.cz
 paste.notadjacent.net
-paste.picasoft.net
+paste.ononoki.org
 paste.plus
 paste.rbn.gr
 paste.sev.monster
@@ -142,6 +141,7 @@ pb.moonshadow.dev
 pbin.nadeko.net
 pbin.ru
 photistic.org
+ponypaste.de
 private.cyclelab.eu
 private.keokee.com
 private.nowhere.com.au
@@ -154,7 +154,6 @@ privatebin.diyarciftci.xyz
 privatebin.eurosystem.it
 privatebin.freinetz.ch
 privatebin.kilya.net
-privatebin.kosebamse.com
 privatebin.li
 privatebin.lol
 privatebin.mbiz.io

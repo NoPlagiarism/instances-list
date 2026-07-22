@@ -1,4 +1,3 @@
-auth.seddens.net
 baresearch.org
 copp.gg
 etsi.me
@@ -18,6 +17,7 @@ search.bladerunn.in
 search.catboy.house
 search.chocolatemoo53.com
 search.ctq.ro
+search.drayko.xyz
 search.einfachzocken.eu
 search.ethibox.fr
 search.femboy.ad
@@ -26,7 +26,9 @@ search.im-in.space
 search.indst.eu
 search.inetol.net
 search.internetsucks.net
+search.jns.net.ar
 search.liuzj.net
+search.lumy.live
 search.mdosch.de
 search.mectov.my.id
 search.minus27315.dev
@@ -36,11 +38,13 @@ search.rhscz.eu
 search.root.hr
 search.rowie.at
 search.sapti.me
+search.seddens.net
 search.serpensin.com
 search.undertale.uk
 search.unredacted.org
 search.url4irl.com
 search.wdpserver.com
+search.yuri.llc
 search.zina.dev
 searx.ankha.ac
 searx.dresden.network
@@ -67,6 +71,7 @@ searxng.fishfvch.com
 searxng.gdebest.net
 searxng.gr
 searxng.moonshadow.dev
+searxng.paralaxitaentomology.org
 searxng.shreven.org
 searxng.site
 searxng.tr
