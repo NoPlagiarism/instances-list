@@ -17,7 +17,6 @@ search.bladerunn.in
 search.catboy.house
 search.chocolatemoo53.com
 search.ctq.ro
-search.drayko.xyz
 search.einfachzocken.eu
 search.ethibox.fr
 search.femboy.ad
@@ -47,6 +46,7 @@ search.wdpserver.com
 search.yuri.llc
 search.zina.dev
 searx.ankha.ac
+searx.drayko.xyz
 searx.dresden.network
 searx.linxx.net
 searx.mbuf.net
@@ -56,7 +56,6 @@ searx.oloke.xyz
 searx.ononoki.org
 searx.party
 searx.perennialte.ch
-searx.rajimayur.me
 searx.redgarden.cv
 searx.rhscz.eu
 searx.ro

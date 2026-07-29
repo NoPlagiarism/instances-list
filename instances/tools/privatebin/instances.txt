@@ -4,7 +4,6 @@
 0g.gg
 anonpaste.org
 b.appinn.net
-b.opnxng.com
 betterpaste.me
 bin.2255.me
 bin.bloat.cat
@@ -112,7 +111,6 @@ paste.sev.monster
 paste.shreven.org
 paste.skynetcloud.site
 paste.stratum0.org
-paste.sweatyangmoh.sg
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
@@ -138,6 +136,7 @@ pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
 pb.moonshadow.dev
+pb.quippini.net
 pbin.nadeko.net
 pbin.ru
 photistic.org
@@ -151,7 +150,6 @@ privatebin.ausrik.com.au
 privatebin.deblan.org
 privatebin.devol.it
 privatebin.diyarciftci.xyz
-privatebin.eurosystem.it
 privatebin.freinetz.ch
 privatebin.kilya.net
 privatebin.li
