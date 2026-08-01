@@ -51,6 +51,7 @@ notas.gatooscuro.xyz
 notebin.de
 notizen.freifunk-ba.de
 onetime.vits.co.uk
+otp.media-kontor.com
 ots.allburosolutions.be
 ots.ip-projects.de
 ots.kocsar.com
@@ -156,6 +157,7 @@ privatebin.li
 privatebin.lol
 privatebin.mbiz.io
 privatebin.net
+privatebin.oxidizer.de
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org

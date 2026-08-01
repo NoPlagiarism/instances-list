@@ -40,6 +40,7 @@
             "translate.northboot.xyz"
         ],
         "onion": [
+            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
             "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
         ],
         "i2p": [
@@ -110,6 +111,7 @@
         "url": "https://github.com/searxng/searxng#readme",
         "path": "search/searx",
         "instances": [
+            "auth.seddens.net",
             "baresearch.org",
             "copp.gg",
             "etsi.me",
@@ -149,7 +151,6 @@
             "search.root.hr",
             "search.rowie.at",
             "search.sapti.me",
-            "search.seddens.net",
             "search.serpensin.com",
             "search.undertale.uk",
             "search.unredacted.org",
@@ -277,6 +278,7 @@
         "path": "reddit/libreddit",
         "instances": [
             "lr.vern.cc",
+            "reddit.rtrace.io",
             "safereddit.com"
         ],
         "onion": [
@@ -292,11 +294,8 @@
         "path": "reddit/redlib",
         "instances": [
             "red.artemislena.eu",
-            "reddit.rtrace.io",
             "redlib.catsarch.com",
-            "redlib.cow.rip",
             "redlib.nadeko.net",
-            "redlib.perennialte.ch",
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "redlib.r4fo.com",
@@ -792,6 +791,7 @@
             "notebin.de",
             "notizen.freifunk-ba.de",
             "onetime.vits.co.uk",
+            "otp.media-kontor.com",
             "ots.allburosolutions.be",
             "ots.ip-projects.de",
             "ots.kocsar.com",
@@ -897,6 +897,7 @@
             "privatebin.lol",
             "privatebin.mbiz.io",
             "privatebin.net",
+            "privatebin.oxidizer.de",
             "privatebin.rinuploads.org",
             "privatebin.seattlematrix.org",
             "privatebin.sequanux.org",

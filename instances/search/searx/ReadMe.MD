@@ -1,6 +1,7 @@
 # [SearXNG](https://github.com/searxng/searxng#readme)
 
 # Clearnet
+- [auth.seddens.net](https://auth.seddens.net)
 - [baresearch.org](https://baresearch.org)
 - [copp.gg](https://copp.gg)
 - [etsi.me](https://etsi.me)
@@ -40,7 +41,6 @@
 - [search.root.hr](https://search.root.hr)
 - [search.rowie.at](https://search.rowie.at)
 - [search.sapti.me](https://search.sapti.me)
-- [search.seddens.net](https://search.seddens.net)
 - [search.serpensin.com](https://search.serpensin.com)
 - [search.undertale.uk](https://search.undertale.uk)
 - [search.unredacted.org](https://search.unredacted.org)

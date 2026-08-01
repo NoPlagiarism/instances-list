@@ -69,6 +69,7 @@
 - [tl.vern.cc](https://tl.vern.cc)
 - [translate.northboot.xyz](https://translate.northboot.xyz)
 ### Onion
+- [st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
 - [tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion](http://tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion)
 ### I2P
 - [verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p](http://verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p)
@@ -127,6 +128,7 @@
 ## [SearXNG](https://github.com/searxng/searxng#readme)
 
 ### Clearnet
+- [auth.seddens.net](https://auth.seddens.net)
 - [baresearch.org](https://baresearch.org)
 - [copp.gg](https://copp.gg)
 - [etsi.me](https://etsi.me)
@@ -166,7 +168,6 @@
 - [search.root.hr](https://search.root.hr)
 - [search.rowie.at](https://search.rowie.at)
 - [search.sapti.me](https://search.sapti.me)
-- [search.seddens.net](https://search.seddens.net)
 - [search.serpensin.com](https://search.serpensin.com)
 - [search.undertale.uk](https://search.undertale.uk)
 - [search.unredacted.org](https://search.unredacted.org)
@@ -281,6 +282,7 @@
 
 ### Clearnet
 - [lr.vern.cc](https://lr.vern.cc)
+- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
@@ -292,11 +294,8 @@
 
 ### Clearnet
 - [red.artemislena.eu](https://red.artemislena.eu)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
-- [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
-- [redlib.perennialte.ch](https://redlib.perennialte.ch)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [redlib.r4fo.com](https://redlib.r4fo.com)
@@ -722,6 +721,7 @@
 - [notebin.de](https://notebin.de)
 - [notizen.freifunk-ba.de](https://notizen.freifunk-ba.de)
 - [onetime.vits.co.uk](https://onetime.vits.co.uk)
+- [otp.media-kontor.com](https://otp.media-kontor.com)
 - [ots.allburosolutions.be](https://ots.allburosolutions.be)
 - [ots.ip-projects.de](https://ots.ip-projects.de)
 - [ots.kocsar.com](https://ots.kocsar.com)
@@ -827,6 +827,7 @@
 - [privatebin.lol](https://privatebin.lol)
 - [privatebin.mbiz.io](https://privatebin.mbiz.io)
 - [privatebin.net](https://privatebin.net)
+- [privatebin.oxidizer.de](https://privatebin.oxidizer.de)
 - [privatebin.rinuploads.org](https://privatebin.rinuploads.org)
 - [privatebin.seattlematrix.org](https://privatebin.seattlematrix.org)
 - [privatebin.sequanux.org](https://privatebin.sequanux.org)
