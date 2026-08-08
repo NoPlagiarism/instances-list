@@ -196,6 +196,7 @@
 - [searxng.canine.tools](https://searxng.canine.tools)
 - [searxng.cups.moe](https://searxng.cups.moe)
 - [searxng.deggo.fyi](https://searxng.deggo.fyi)
+- [searxng.eshnetwork.space](https://searxng.eshnetwork.space)
 - [searxng.fishfvch.com](https://searxng.fishfvch.com)
 - [searxng.gdebest.net](https://searxng.gdebest.net)
 - [searxng.gr](https://searxng.gr)
@@ -208,6 +209,7 @@
 - [searxng.wuemeli.com](https://searxng.wuemeli.com)
 - [seek.fyi](https://seek.fyi)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
+- [sx.h4rl3y.xyz](https://sx.h4rl3y.xyz)
 - [www.gruble.de](https://www.gruble.de)
 - [xka.cz](https://xka.cz)
 ### Onion
@@ -282,7 +284,6 @@
 
 ### Clearnet
 - [lr.vern.cc](https://lr.vern.cc)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
@@ -295,10 +296,10 @@
 ### Clearnet
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
+- [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
-- [redlib.r4fo.com](https://redlib.r4fo.com)
 - [safereddit.com](https://safereddit.com)
 ### Onion
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -695,7 +696,6 @@
 - [bin.nixnet.services](https://bin.nixnet.services)
 - [bin.nji9.de](https://bin.nji9.de)
 - [bin.outv.im](https://bin.outv.im)
-- [bin.s2s.video](https://bin.s2s.video)
 - [bin.sasach.work](https://bin.sasach.work)
 - [bin.siick.fr](https://bin.siick.fr)
 - [bin.tiekoetter.com](https://bin.tiekoetter.com)
@@ -787,7 +787,6 @@
 - [paste.tech-port.de](https://paste.tech-port.de)
 - [paste.theythem.page](https://paste.theythem.page)
 - [paste.tildeverse.org](https://paste.tildeverse.org)
-- [paste.trove.cz](https://paste.trove.cz)
 - [paste.tube-hosting.de](https://paste.tube-hosting.de)
 - [paste.tuxcloud.net](https://paste.tuxcloud.net)
 - [paste.underworld.fr](https://paste.underworld.fr)
@@ -806,7 +805,6 @@
 - [pb.fly.dev](https://pb.fly.dev)
 - [pb.greep.fr](https://pb.greep.fr)
 - [pb.jaska.cc](https://pb.jaska.cc)
-- [pb.moonshadow.dev](https://pb.moonshadow.dev)
 - [pb.quippini.net](https://pb.quippini.net)
 - [pbin.nadeko.net](https://pbin.nadeko.net)
 - [pbin.ru](https://pbin.ru)
@@ -840,10 +838,8 @@
 - [pw.bwv-net.de](https://pw.bwv-net.de)
 - [rhoen.dev](https://rhoen.dev)
 - [safepad.pagnozzi.info](https://safepad.pagnozzi.info)
-- [sebsauvage.net](https://sebsauvage.net)
 - [secret.adelphi.de](https://secret.adelphi.de)
 - [secret.finterra.ooo](https://secret.finterra.ooo)
-- [secret.ftscs.com](https://secret.ftscs.com)
 - [secret.timeweb.ru](https://secret.timeweb.ru)
 - [secrets.janjaapvandijk.nl](https://secrets.janjaapvandijk.nl)
 - [secrets.l25.cloud](https://secrets.l25.cloud)
@@ -900,7 +896,6 @@
 - [4get.aishiteiru.moe](https://4get.aishiteiru.moe)
 - [4get.ca](https://4get.ca)
 - [4get.canine.tools](https://4get.canine.tools)
-- [4get.ch](https://4get.ch)
 - [4get.dcs0.hu](https://4get.dcs0.hu)
 - [4get.dorfdsl.de](https://4get.dorfdsl.de)
 - [4get.edmateo.site](https://4get.edmateo.site)

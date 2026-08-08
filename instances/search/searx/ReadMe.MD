@@ -69,6 +69,7 @@
 - [searxng.canine.tools](https://searxng.canine.tools)
 - [searxng.cups.moe](https://searxng.cups.moe)
 - [searxng.deggo.fyi](https://searxng.deggo.fyi)
+- [searxng.eshnetwork.space](https://searxng.eshnetwork.space)
 - [searxng.fishfvch.com](https://searxng.fishfvch.com)
 - [searxng.gdebest.net](https://searxng.gdebest.net)
 - [searxng.gr](https://searxng.gr)
@@ -81,6 +82,7 @@
 - [searxng.wuemeli.com](https://searxng.wuemeli.com)
 - [seek.fyi](https://seek.fyi)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
+- [sx.h4rl3y.xyz](https://sx.h4rl3y.xyz)
 - [www.gruble.de](https://www.gruble.de)
 - [xka.cz](https://xka.cz)
 # Onion

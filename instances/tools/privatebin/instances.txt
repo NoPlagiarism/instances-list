@@ -25,7 +25,6 @@ bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
 bin.outv.im
-bin.s2s.video
 bin.sasach.work
 bin.siick.fr
 bin.tiekoetter.com
@@ -117,7 +116,6 @@ paste.tecff.de
 paste.tech-port.de
 paste.theythem.page
 paste.tildeverse.org
-paste.trove.cz
 paste.tube-hosting.de
 paste.tuxcloud.net
 paste.underworld.fr
@@ -136,7 +134,6 @@ pb.fbin.in
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
-pb.moonshadow.dev
 pb.quippini.net
 pbin.nadeko.net
 pbin.ru
@@ -170,10 +167,8 @@ pvnotes.sms-electro.no
 pw.bwv-net.de
 rhoen.dev
 safepad.pagnozzi.info
-sebsauvage.net
 secret.adelphi.de
 secret.finterra.ooo
-secret.ftscs.com
 secret.timeweb.ru
 secrets.janjaapvandijk.nl
 secrets.l25.cloud

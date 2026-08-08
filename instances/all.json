@@ -179,6 +179,7 @@
             "searxng.canine.tools",
             "searxng.cups.moe",
             "searxng.deggo.fyi",
+            "searxng.eshnetwork.space",
             "searxng.fishfvch.com",
             "searxng.gdebest.net",
             "searxng.gr",
@@ -191,6 +192,7 @@
             "searxng.wuemeli.com",
             "seek.fyi",
             "sx.catgirl.cloud",
+            "sx.h4rl3y.xyz",
             "www.gruble.de",
             "xka.cz"
         ],
@@ -278,7 +280,6 @@
         "path": "reddit/libreddit",
         "instances": [
             "lr.vern.cc",
-            "reddit.rtrace.io",
             "safereddit.com"
         ],
         "onion": [
@@ -295,10 +296,10 @@
         "instances": [
             "red.artemislena.eu",
             "redlib.catsarch.com",
+            "redlib.cow.rip",
             "redlib.nadeko.net",
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
-            "redlib.r4fo.com",
             "safereddit.com"
         ],
         "onion": [
@@ -765,7 +766,6 @@
             "bin.nixnet.services",
             "bin.nji9.de",
             "bin.outv.im",
-            "bin.s2s.video",
             "bin.sasach.work",
             "bin.siick.fr",
             "bin.tiekoetter.com",
@@ -857,7 +857,6 @@
             "paste.tech-port.de",
             "paste.theythem.page",
             "paste.tildeverse.org",
-            "paste.trove.cz",
             "paste.tube-hosting.de",
             "paste.tuxcloud.net",
             "paste.underworld.fr",
@@ -876,7 +875,6 @@
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
-            "pb.moonshadow.dev",
             "pb.quippini.net",
             "pbin.nadeko.net",
             "pbin.ru",
@@ -910,10 +908,8 @@
             "pw.bwv-net.de",
             "rhoen.dev",
             "safepad.pagnozzi.info",
-            "sebsauvage.net",
             "secret.adelphi.de",
             "secret.finterra.ooo",
-            "secret.ftscs.com",
             "secret.timeweb.ru",
             "secrets.janjaapvandijk.nl",
             "secrets.l25.cloud",
@@ -976,7 +972,6 @@
             "4get.aishiteiru.moe",
             "4get.ca",
             "4get.canine.tools",
-            "4get.ch",
             "4get.dcs0.hu",
             "4get.dorfdsl.de",
             "4get.edmateo.site",
