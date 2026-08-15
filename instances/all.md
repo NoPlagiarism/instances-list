@@ -283,7 +283,7 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
-- [lr.vern.cc](https://lr.vern.cc)
+- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [safereddit.com](https://safereddit.com)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
@@ -297,7 +297,6 @@
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
-- [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [safereddit.com](https://safereddit.com)
@@ -340,7 +339,6 @@
 - [inv-ygg.nadeko.net](https://inv-ygg.nadeko.net)
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [inv.nadeko.ygg](https://inv.nadeko.ygg)
-- [inv.zoomerville.com](https://inv.zoomerville.com)
 - [invidious.f5.si](https://invidious.f5.si)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.tiekoetter.com](https://invidious.tiekoetter.com)
@@ -619,6 +617,7 @@
 ## [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow#readme)
 
 ### Clearnet
+- [a.opnxng.com](https://a.opnxng.com)
 - [anonflow.aketawi.space](https://anonflow.aketawi.space)
 - [anonoverflow.frontendfriendly.xyz](https://anonoverflow.frontendfriendly.xyz)
 - [anonoverflow.moonshadow.dev](https://anonoverflow.moonshadow.dev)
@@ -821,7 +820,6 @@
 - [privatebin.diyarciftci.xyz](https://privatebin.diyarciftci.xyz)
 - [privatebin.freinetz.ch](https://privatebin.freinetz.ch)
 - [privatebin.kilya.net](https://privatebin.kilya.net)
-- [privatebin.li](https://privatebin.li)
 - [privatebin.lol](https://privatebin.lol)
 - [privatebin.mbiz.io](https://privatebin.mbiz.io)
 - [privatebin.net](https://privatebin.net)
@@ -838,8 +836,8 @@
 - [pw.bwv-net.de](https://pw.bwv-net.de)
 - [rhoen.dev](https://rhoen.dev)
 - [safepad.pagnozzi.info](https://safepad.pagnozzi.info)
+- [sebsauvage.net](https://sebsauvage.net)
 - [secret.adelphi.de](https://secret.adelphi.de)
-- [secret.finterra.ooo](https://secret.finterra.ooo)
 - [secret.timeweb.ru](https://secret.timeweb.ru)
 - [secrets.janjaapvandijk.nl](https://secrets.janjaapvandijk.nl)
 - [secrets.l25.cloud](https://secrets.l25.cloud)

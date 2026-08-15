@@ -279,7 +279,7 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "lr.vern.cc",
+            "reddit.rtrace.io",
             "safereddit.com"
         ],
         "onion": [
@@ -297,7 +297,6 @@
             "red.artemislena.eu",
             "redlib.catsarch.com",
             "redlib.cow.rip",
-            "redlib.nadeko.net",
             "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "safereddit.com"
@@ -349,7 +348,6 @@
             "inv-ygg.nadeko.net",
             "inv.nadeko.net",
             "inv.nadeko.ygg",
-            "inv.zoomerville.com",
             "invidious.f5.si",
             "invidious.nerdvpn.de",
             "invidious.tiekoetter.com",
@@ -684,6 +682,7 @@
         "url": "https://github.com/httpjamesm/AnonymousOverflow#readme",
         "path": "stackoverflow/anonymousoverflow",
         "instances": [
+            "a.opnxng.com",
             "anonflow.aketawi.space",
             "anonoverflow.frontendfriendly.xyz",
             "anonoverflow.moonshadow.dev",
@@ -891,7 +890,6 @@
             "privatebin.diyarciftci.xyz",
             "privatebin.freinetz.ch",
             "privatebin.kilya.net",
-            "privatebin.li",
             "privatebin.lol",
             "privatebin.mbiz.io",
             "privatebin.net",
@@ -908,8 +906,8 @@
             "pw.bwv-net.de",
             "rhoen.dev",
             "safepad.pagnozzi.info",
+            "sebsauvage.net",
             "secret.adelphi.de",
-            "secret.finterra.ooo",
             "secret.timeweb.ru",
             "secrets.janjaapvandijk.nl",
             "secrets.l25.cloud",
