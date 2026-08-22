@@ -115,7 +115,6 @@ paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
 paste.theythem.page
-paste.tildeverse.org
 paste.tube-hosting.de
 paste.tuxcloud.net
 paste.underworld.fr
@@ -134,6 +133,7 @@ pb.fbin.in
 pb.fly.dev
 pb.greep.fr
 pb.jaska.cc
+pb.lnme.cc
 pb.quippini.net
 pbin.nadeko.net
 pbin.ru
@@ -166,7 +166,6 @@ pvnotes.sms-electro.no
 pw.bwv-net.de
 rhoen.dev
 safepad.pagnozzi.info
-sebsauvage.net
 secret.adelphi.de
 secret.timeweb.ru
 secrets.janjaapvandijk.nl

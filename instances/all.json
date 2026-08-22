@@ -113,12 +113,12 @@
         "instances": [
             "auth.seddens.net",
             "baresearch.org",
-            "copp.gg",
             "etsi.me",
             "failsearx.culturanerd.it",
             "find.xenorio.xyz",
             "grep.vim.wtf",
             "kantan.cat",
+            "libresearch.space",
             "ooglester.com",
             "opnxng.com",
             "paulgo.io",
@@ -138,7 +138,6 @@
             "search.im-in.space",
             "search.indst.eu",
             "search.inetol.net",
-            "search.internetsucks.net",
             "search.jns.net.ar",
             "search.liuzj.net",
             "search.lumy.live",
@@ -148,18 +147,13 @@
             "search.pereira.is",
             "search.pi.vps.pw",
             "search.rhscz.eu",
-            "search.root.hr",
             "search.rowie.at",
-            "search.sapti.me",
             "search.serpensin.com",
             "search.undertale.uk",
             "search.unredacted.org",
-            "search.url4irl.com",
-            "search.wdpserver.com",
             "search.yuri.llc",
             "search.zina.dev",
             "searx.ankha.ac",
-            "searx.drayko.xyz",
             "searx.dresden.network",
             "searx.linxx.net",
             "searx.mbuf.net",
@@ -176,6 +170,7 @@
             "searx.thefloatinglab.world",
             "searx.tiekoetter.com",
             "searx.tsmdt.de",
+            "searxng.buffon.cloud",
             "searxng.canine.tools",
             "searxng.cups.moe",
             "searxng.deggo.fyi",
@@ -190,13 +185,13 @@
             "searxng.tr",
             "searxng.website",
             "searxng.wuemeli.com",
-            "seek.fyi",
             "sx.catgirl.cloud",
             "sx.h4rl3y.xyz",
             "www.gruble.de",
             "xka.cz"
         ],
         "onion": [
+            "b352n7tub42bhdsta3lzksshayuvp6or2jbwdsw5spme65af6tetq4id.onion",
             "ieqzkvy4bf3xi4bzsfzfax42t4iuqcbqn6oah4uwrm4ip354gavsviad.onion",
             "kantanrucloofzrfn7vqlsxbhipkqv55qygn4oxogbnjpfex54bw4gad.onion",
             "lhdp2wkdwynwfxogmhqndgzfepwu4nbzllfompppmbetrcp732rxrbqd.onion",
@@ -279,8 +274,9 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "reddit.rtrace.io",
-            "safereddit.com"
+            "lr.vern.cc",
+            "safereddit.com",
+            "snoo.habedieeh.re"
         ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
@@ -297,14 +293,12 @@
             "red.artemislena.eu",
             "redlib.catsarch.com",
             "redlib.cow.rip",
-            "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "safereddit.com"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -855,7 +849,6 @@
             "paste.tecff.de",
             "paste.tech-port.de",
             "paste.theythem.page",
-            "paste.tildeverse.org",
             "paste.tube-hosting.de",
             "paste.tuxcloud.net",
             "paste.underworld.fr",
@@ -874,6 +867,7 @@
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
+            "pb.lnme.cc",
             "pb.quippini.net",
             "pbin.nadeko.net",
             "pbin.ru",
@@ -906,7 +900,6 @@
             "pw.bwv-net.de",
             "rhoen.dev",
             "safepad.pagnozzi.info",
-            "sebsauvage.net",
             "secret.adelphi.de",
             "secret.timeweb.ru",
             "secrets.janjaapvandijk.nl",

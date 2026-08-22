@@ -1,11 +1,11 @@
 auth.seddens.net
 baresearch.org
-copp.gg
 etsi.me
 failsearx.culturanerd.it
 find.xenorio.xyz
 grep.vim.wtf
 kantan.cat
+libresearch.space
 ooglester.com
 opnxng.com
 paulgo.io
@@ -25,7 +25,6 @@ search.hbubli.cc
 search.im-in.space
 search.indst.eu
 search.inetol.net
-search.internetsucks.net
 search.jns.net.ar
 search.liuzj.net
 search.lumy.live
@@ -35,18 +34,13 @@ search.minus27315.dev
 search.pereira.is
 search.pi.vps.pw
 search.rhscz.eu
-search.root.hr
 search.rowie.at
-search.sapti.me
 search.serpensin.com
 search.undertale.uk
 search.unredacted.org
-search.url4irl.com
-search.wdpserver.com
 search.yuri.llc
 search.zina.dev
 searx.ankha.ac
-searx.drayko.xyz
 searx.dresden.network
 searx.linxx.net
 searx.mbuf.net
@@ -63,6 +57,7 @@ searx.sev.monster
 searx.thefloatinglab.world
 searx.tiekoetter.com
 searx.tsmdt.de
+searxng.buffon.cloud
 searxng.canine.tools
 searxng.cups.moe
 searxng.deggo.fyi
@@ -77,7 +72,6 @@ searxng.site
 searxng.tr
 searxng.website
 searxng.wuemeli.com
-seek.fyi
 sx.catgirl.cloud
 sx.h4rl3y.xyz
 www.gruble.de
