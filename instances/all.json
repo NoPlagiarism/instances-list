@@ -274,7 +274,6 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
-            "lr.vern.cc",
             "safereddit.com",
             "snoo.habedieeh.re"
         ],
@@ -293,12 +292,14 @@
             "red.artemislena.eu",
             "redlib.catsarch.com",
             "redlib.cow.rip",
+            "redlib.nadeko.net",
             "redlib.privadency.com",
             "safereddit.com"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion"
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -819,6 +820,7 @@
             "paste.ethernia.net",
             "paste.evolix.org",
             "paste.fitgirl-repacks.site",
+            "paste.fronnie702.com",
             "paste.gnoppix.org",
             "paste.grammicals.com",
             "paste.gstd.eu",
@@ -855,7 +857,6 @@
             "paste.unit193.net",
             "paste.unredacted.org",
             "paste.vonar.ch",
-            "paste.vylaris.ch",
             "pastebin.24unix.net",
             "pastebin.aquilenet.fr",
             "pastebin.hot-chilli.net",

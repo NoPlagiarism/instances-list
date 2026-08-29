@@ -4,10 +4,12 @@
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
+- [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [safereddit.com](https://safereddit.com)
 # Onion
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
 # I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)

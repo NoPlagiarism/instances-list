@@ -85,6 +85,7 @@ paste.encrypt.co.il
 paste.ethernia.net
 paste.evolix.org
 paste.fitgirl-repacks.site
+paste.fronnie702.com
 paste.gnoppix.org
 paste.grammicals.com
 paste.gstd.eu
@@ -121,7 +122,6 @@ paste.underworld.fr
 paste.unit193.net
 paste.unredacted.org
 paste.vonar.ch
-paste.vylaris.ch
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.hot-chilli.net

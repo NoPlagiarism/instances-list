@@ -1,7 +1,6 @@
 # [libreddit](https://github.com/libreddit/libreddit#readme)
 
 # Clearnet
-- [lr.vern.cc](https://lr.vern.cc)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 # Onion

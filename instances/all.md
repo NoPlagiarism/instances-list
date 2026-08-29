@@ -278,7 +278,6 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
-- [lr.vern.cc](https://lr.vern.cc)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
@@ -293,11 +292,13 @@
 - [red.artemislena.eu](https://red.artemislena.eu)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
+- [redlib.nadeko.net](https://redlib.nadeko.net)
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [safereddit.com](https://safereddit.com)
 ### Onion
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
+- [redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -749,6 +750,7 @@
 - [paste.ethernia.net](https://paste.ethernia.net)
 - [paste.evolix.org](https://paste.evolix.org)
 - [paste.fitgirl-repacks.site](https://paste.fitgirl-repacks.site)
+- [paste.fronnie702.com](https://paste.fronnie702.com)
 - [paste.gnoppix.org](https://paste.gnoppix.org)
 - [paste.grammicals.com](https://paste.grammicals.com)
 - [paste.gstd.eu](https://paste.gstd.eu)
@@ -785,7 +787,6 @@
 - [paste.unit193.net](https://paste.unit193.net)
 - [paste.unredacted.org](https://paste.unredacted.org)
 - [paste.vonar.ch](https://paste.vonar.ch)
-- [paste.vylaris.ch](https://paste.vylaris.ch)
 - [pastebin.24unix.net](https://pastebin.24unix.net)
 - [pastebin.aquilenet.fr](https://pastebin.aquilenet.fr)
 - [pastebin.hot-chilli.net](https://pastebin.hot-chilli.net)
