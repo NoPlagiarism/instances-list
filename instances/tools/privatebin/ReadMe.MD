@@ -192,7 +192,6 @@
 - [www.noteshare.net](https://www.noteshare.net)
 - [xkwy2018.com](https://xkwy2018.com)
 - [yhjf.gumin.cc.cd](https://yhjf.gumin.cc.cd)
-- [zb.zerosgaming.de](https://zb.zerosgaming.de)
 - [zbin.io](https://zbin.io)
 - [zerobin-legacy.dssr.ch](https://zerobin-legacy.dssr.ch)
 - [zerobin.no](https://zerobin.no)

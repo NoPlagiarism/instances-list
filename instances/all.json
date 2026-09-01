@@ -111,6 +111,7 @@
         "url": "https://github.com/searxng/searxng#readme",
         "path": "search/searx",
         "instances": [
+            "anonsearch.win",
             "auth.seddens.net",
             "baresearch.org",
             "etsi.me",
@@ -149,6 +150,7 @@
             "search.rhscz.eu",
             "search.rowie.at",
             "search.serpensin.com",
+            "search.spiralab.org",
             "search.undertale.uk",
             "search.unredacted.org",
             "search.yuri.llc",
@@ -187,6 +189,7 @@
             "searxng.wuemeli.com",
             "sx.catgirl.cloud",
             "sx.h4rl3y.xyz",
+            "sx.xo.st",
             "www.gruble.de",
             "xka.cz"
         ],
@@ -274,6 +277,7 @@
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
         "instances": [
+            "lr.vern.cc",
             "safereddit.com",
             "snoo.habedieeh.re"
         ],
@@ -293,13 +297,15 @@
             "redlib.catsarch.com",
             "redlib.cow.rip",
             "redlib.nadeko.net",
+            "redlib.privacyredirect.com",
             "redlib.privadency.com",
             "safereddit.com"
         ],
         "onion": [
             "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
-            "redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
+            "redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
+            "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
         ],
         "i2p": [
             "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
@@ -339,23 +345,9 @@
         "name": "Invidious",
         "url": "https://github.com/iv-org/invidious#readme",
         "path": "youtube/invidious",
-        "instances": [
-            "inv-ygg.nadeko.net",
-            "inv.nadeko.net",
-            "inv.nadeko.ygg",
-            "invidious.f5.si",
-            "invidious.nerdvpn.de",
-            "invidious.tiekoetter.com",
-            "yt.chocolatemoo53.com"
-        ],
-        "onion": [
-            "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
-            "nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion"
-        ],
-        "i2p": [
-            "invidious-nerdvpn.i2p",
-            "nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p"
-        ]
+        "instances": [],
+        "onion": [],
+        "i2p": []
     },
     "hyperpipe": {
         "name": "Hyperpipe",
@@ -924,7 +916,6 @@
             "www.noteshare.net",
             "xkwy2018.com",
             "yhjf.gumin.cc.cd",
-            "zb.zerosgaming.de",
             "zbin.io",
             "zerobin-legacy.dssr.ch",
             "zerobin.no",

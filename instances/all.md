@@ -128,6 +128,7 @@
 ## [SearXNG](https://github.com/searxng/searxng#readme)
 
 ### Clearnet
+- [anonsearch.win](https://anonsearch.win)
 - [auth.seddens.net](https://auth.seddens.net)
 - [baresearch.org](https://baresearch.org)
 - [etsi.me](https://etsi.me)
@@ -166,6 +167,7 @@
 - [search.rhscz.eu](https://search.rhscz.eu)
 - [search.rowie.at](https://search.rowie.at)
 - [search.serpensin.com](https://search.serpensin.com)
+- [search.spiralab.org](https://search.spiralab.org)
 - [search.undertale.uk](https://search.undertale.uk)
 - [search.unredacted.org](https://search.unredacted.org)
 - [search.yuri.llc](https://search.yuri.llc)
@@ -204,6 +206,7 @@
 - [searxng.wuemeli.com](https://searxng.wuemeli.com)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
 - [sx.h4rl3y.xyz](https://sx.h4rl3y.xyz)
+- [sx.xo.st](https://sx.xo.st)
 - [www.gruble.de](https://www.gruble.de)
 - [xka.cz](https://xka.cz)
 ### Onion
@@ -278,6 +281,7 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
+- [lr.vern.cc](https://lr.vern.cc)
 - [safereddit.com](https://safereddit.com)
 - [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
@@ -293,12 +297,14 @@
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
+- [redlib.privacyredirect.com](https://redlib.privacyredirect.com)
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [safereddit.com](https://safereddit.com)
 ### Onion
 - [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
+- [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -331,19 +337,11 @@
 ## [Invidious](https://github.com/iv-org/invidious#readme)
 
 ### Clearnet
-- [inv-ygg.nadeko.net](https://inv-ygg.nadeko.net)
-- [inv.nadeko.net](https://inv.nadeko.net)
-- [inv.nadeko.ygg](https://inv.nadeko.ygg)
-- [invidious.f5.si](https://invidious.f5.si)
-- [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
-- [invidious.tiekoetter.com](https://invidious.tiekoetter.com)
-- [yt.chocolatemoo53.com](https://yt.chocolatemoo53.com)
+
 ### Onion
-- [inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
-- [nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion](http://nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion)
+
 ### I2P
-- [invidious-nerdvpn.i2p](http://invidious-nerdvpn.i2p)
-- [nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p](http://nadekoohummkxncchcsylr3eku36ze4waq4kdrhcqupckc3pe5qq.b32.i2p)
+
 
 ## [Hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe#hyperpipe)
 
@@ -854,7 +852,6 @@
 - [www.noteshare.net](https://www.noteshare.net)
 - [xkwy2018.com](https://xkwy2018.com)
 - [yhjf.gumin.cc.cd](https://yhjf.gumin.cc.cd)
-- [zb.zerosgaming.de](https://zb.zerosgaming.de)
 - [zbin.io](https://zbin.io)
 - [zerobin-legacy.dssr.ch](https://zerobin-legacy.dssr.ch)
 - [zerobin.no](https://zerobin.no)

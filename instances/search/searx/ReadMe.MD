@@ -1,6 +1,7 @@
 # [SearXNG](https://github.com/searxng/searxng#readme)
 
 # Clearnet
+- [anonsearch.win](https://anonsearch.win)
 - [auth.seddens.net](https://auth.seddens.net)
 - [baresearch.org](https://baresearch.org)
 - [etsi.me](https://etsi.me)
@@ -39,6 +40,7 @@
 - [search.rhscz.eu](https://search.rhscz.eu)
 - [search.rowie.at](https://search.rowie.at)
 - [search.serpensin.com](https://search.serpensin.com)
+- [search.spiralab.org](https://search.spiralab.org)
 - [search.undertale.uk](https://search.undertale.uk)
 - [search.unredacted.org](https://search.unredacted.org)
 - [search.yuri.llc](https://search.yuri.llc)
@@ -77,6 +79,7 @@
 - [searxng.wuemeli.com](https://searxng.wuemeli.com)
 - [sx.catgirl.cloud](https://sx.catgirl.cloud)
 - [sx.h4rl3y.xyz](https://sx.h4rl3y.xyz)
+- [sx.xo.st](https://sx.xo.st)
 - [www.gruble.de](https://www.gruble.de)
 - [xka.cz](https://xka.cz)
 # Onion

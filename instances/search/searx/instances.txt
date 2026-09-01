@@ -1,3 +1,4 @@
+anonsearch.win
 auth.seddens.net
 baresearch.org
 etsi.me
@@ -36,6 +37,7 @@ search.pi.vps.pw
 search.rhscz.eu
 search.rowie.at
 search.serpensin.com
+search.spiralab.org
 search.undertale.uk
 search.unredacted.org
 search.yuri.llc
@@ -74,5 +76,6 @@ searxng.website
 searxng.wuemeli.com
 sx.catgirl.cloud
 sx.h4rl3y.xyz
+sx.xo.st
 www.gruble.de
 xka.cz
