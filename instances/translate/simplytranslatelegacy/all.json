@@ -8,10 +8,7 @@
         "translate.northboot.xyz"
     ],
     "onion": [
-        "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-        "tl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion"
+        "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion"
     ],
-    "i2p": [
-        "verna7avzgd4qqal7k2onjzwxcceqby2gwvya2a2frdswb7z2k4q.b32.i2p"
-    ]
+    "i2p": []
 }
