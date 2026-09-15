@@ -290,6 +290,8 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
+- [red.artemislena.eu](https://red.artemislena.eu)
+- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
@@ -297,6 +299,7 @@
 - [redlib.privadency.com](https://redlib.privadency.com)
 - [safereddit.com](https://safereddit.com)
 ### Onion
+- [red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
 - [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
@@ -798,7 +801,6 @@
 - [pb.fly.dev](https://pb.fly.dev)
 - [pb.greep.fr](https://pb.greep.fr)
 - [pb.jaska.cc](https://pb.jaska.cc)
-- [pb.lnme.cc](https://pb.lnme.cc)
 - [pb.quippini.net](https://pb.quippini.net)
 - [pbin.app.nyara.cloud](https://pbin.app.nyara.cloud)
 - [pbin.nadeko.net](https://pbin.nadeko.net)
@@ -811,7 +813,7 @@
 - [privatebin-ext.dnx.lu](https://privatebin-ext.dnx.lu)
 - [privatebin.app](https://privatebin.app)
 - [privatebin.ausrik.com.au](https://privatebin.ausrik.com.au)
-- [privatebin.deblan.org](https://privatebin.deblan.org)
+- [privatebin.cc](https://privatebin.cc)
 - [privatebin.devol.it](https://privatebin.devol.it)
 - [privatebin.diyarciftci.xyz](https://privatebin.diyarciftci.xyz)
 - [privatebin.freinetz.ch](https://privatebin.freinetz.ch)

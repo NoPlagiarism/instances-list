@@ -288,6 +288,8 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "red.artemislena.eu",
+            "reddit.rtrace.io",
             "redlib.catsarch.com",
             "redlib.cow.rip",
             "redlib.nadeko.net",
@@ -296,6 +298,7 @@
             "safereddit.com"
         ],
         "onion": [
+            "red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
             "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
             "redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
             "redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion"
@@ -864,7 +867,6 @@
             "pb.fly.dev",
             "pb.greep.fr",
             "pb.jaska.cc",
-            "pb.lnme.cc",
             "pb.quippini.net",
             "pbin.app.nyara.cloud",
             "pbin.nadeko.net",
@@ -877,7 +879,7 @@
             "privatebin-ext.dnx.lu",
             "privatebin.app",
             "privatebin.ausrik.com.au",
-            "privatebin.deblan.org",
+            "privatebin.cc",
             "privatebin.devol.it",
             "privatebin.diyarciftci.xyz",
             "privatebin.freinetz.ch",
