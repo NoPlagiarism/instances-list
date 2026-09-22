@@ -2,7 +2,6 @@
 
 # Clearnet
 - [red.artemislena.eu](https://red.artemislena.eu)
-- [reddit.rtrace.io](https://reddit.rtrace.io)
 - [redlib.catsarch.com](https://redlib.catsarch.com)
 - [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.nadeko.net](https://redlib.nadeko.net)
