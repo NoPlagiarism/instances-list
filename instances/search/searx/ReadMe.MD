@@ -17,6 +17,7 @@
 - [sear.lurx.net](https://sear.lurx.net)
 - [search.2b9t.xyz](https://search.2b9t.xyz)
 - [search.anoni.net](https://search.anoni.net)
+- [search.banke.cloud](https://search.banke.cloud)
 - [search.bladerunn.in](https://search.bladerunn.in)
 - [search.catboy.house](https://search.catboy.house)
 - [search.chocolatemoo53.com](https://search.chocolatemoo53.com)

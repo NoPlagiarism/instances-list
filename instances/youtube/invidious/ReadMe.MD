@@ -2,6 +2,7 @@
 
 # Clearnet
 - [inv-ygg.nadeko.net](https://inv-ygg.nadeko.net)
+- [inv.miningtcup.me](https://inv.miningtcup.me)
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [inv.nadeko.ygg](https://inv.nadeko.ygg)
 - [invidious.f5.si](https://invidious.f5.si)

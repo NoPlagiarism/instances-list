@@ -6,7 +6,6 @@
 anonpaste.org
 betterpaste.me
 bin.2255.me
-bin.619835.xyz
 bin.bloat.cat
 bin.chimuc.com
 bin.disroot.org
@@ -64,6 +63,7 @@ p.kll.li
 pad.rackforest.com
 passwords.gestionalda.com
 pastbin.we-cloud.de
+paste.07f.de
 paste.apphoster.cc
 paste.aya.so
 paste.biocrafting.net
@@ -101,12 +101,12 @@ paste.loryy.dev
 paste.mayhem.academy
 paste.molytov.xyz
 paste.momobako.com
-paste.momou.ch
-paste.nerdvpn.de
 paste.nolog.cz
 paste.ononoki.org
 paste.plus
+paste.rb.dcu.ie
 paste.rbn.gr
+paste.redbrick.dcu.ie
 paste.sev.monster
 paste.shreven.org
 paste.skynetcloud.site
@@ -145,14 +145,18 @@ privatebin-ext.dnx.lu
 privatebin.app
 privatebin.ausrik.com.au
 privatebin.cc
+privatebin.cyberius.es
 privatebin.devol.it
 privatebin.diyarciftci.xyz
 privatebin.freinetz.ch
+privatebin.is
 privatebin.kilya.net
 privatebin.lol
 privatebin.mbiz.io
+privatebin.nadeko.net
 privatebin.net
 privatebin.oxidizer.de
+privatebin.qualityaustria.com
 privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org
@@ -191,4 +195,5 @@ yhjf.gumin.cc.cd
 zbin.io
 zerobin-legacy.dssr.ch
 zerobin.no
+zerobin.oliverbuda.de
 zerobin.zertrin.org
