@@ -185,6 +185,7 @@
 - [share.cyberguerrilla.info](https://share.cyberguerrilla.info)
 - [snip.dssr.ch](https://snip.dssr.ch)
 - [t25b.com](https://t25b.com)
+- [tasty.rocks](https://tasty.rocks)
 - [textbin.quick-space.de](https://textbin.quick-space.de)
 - [titok.csi.pet](https://titok.csi.pet)
 - [tools.beardic.cn](https://tools.beardic.cn)

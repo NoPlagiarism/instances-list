@@ -305,6 +305,7 @@
 - [redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion](http://redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion)
 - [redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion](http://redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion)
 - [redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion](http://redlib.privacyrkwfzsfmwtfnrilikxv7xkhw2feso7stq2ajmc6wx43hgj6ad.onion)
+- [redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion](http://redlib.r4focoma7gu2zdwwcjjad47ysxt634lg73sxmdbkdozanwqslho5ohyd.onion)
 ### I2P
 - [yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p](http://yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p)
 
@@ -338,7 +339,6 @@
 
 ### Clearnet
 - [inv-ygg.nadeko.net](https://inv-ygg.nadeko.net)
-- [inv.miningtcup.me](https://inv.miningtcup.me)
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [inv.nadeko.ygg](https://inv.nadeko.ygg)
 - [invidious.f5.si](https://invidious.f5.si)
@@ -845,6 +845,7 @@
 - [share.cyberguerrilla.info](https://share.cyberguerrilla.info)
 - [snip.dssr.ch](https://snip.dssr.ch)
 - [t25b.com](https://t25b.com)
+- [tasty.rocks](https://tasty.rocks)
 - [textbin.quick-space.de](https://textbin.quick-space.de)
 - [titok.csi.pet](https://titok.csi.pet)
 - [tools.beardic.cn](https://tools.beardic.cn)
