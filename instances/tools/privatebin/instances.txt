@@ -81,7 +81,6 @@ paste.dvotx.org
 paste.eccologic.net
 paste.elenemigos.com
 paste.elyday.net
-paste.encrypt.co.il
 paste.ethernia.net
 paste.evolix.org
 paste.fitgirl-repacks.site
@@ -117,10 +116,13 @@ paste.tech-port.de
 paste.theythem.page
 paste.tube-hosting.de
 paste.tuxcloud.net
+paste.undernet.uy
 paste.underworld.fr
 paste.unit193.net
 paste.unredacted.org
+paste.utilibre.org
 paste.vonar.ch
+paste.webevolutions.ch
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.hot-chilli.net
@@ -143,7 +145,6 @@ private.nowhere.com.au
 private.rmconsulting.com
 privatebin-ext.dnx.lu
 privatebin.app
-privatebin.ausrik.com.au
 privatebin.cc
 privatebin.cyberius.es
 privatebin.devol.it
@@ -157,7 +158,6 @@ privatebin.nadeko.net
 privatebin.net
 privatebin.oxidizer.de
 privatebin.qualityaustria.com
-privatebin.rinuploads.org
 privatebin.seattlematrix.org
 privatebin.sequanux.org
 privatebin.unige.ch

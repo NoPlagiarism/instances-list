@@ -12,7 +12,6 @@ paulgo.io
 priv.au
 privacyredirect.com
 sear.lurx.net
-search.2b9t.xyz
 search.anoni.net
 search.banke.cloud
 search.bladerunn.in
@@ -26,6 +25,7 @@ search.hbubli.cc
 search.im-in.space
 search.indst.eu
 search.inetol.net
+search.jeremyh.xyz
 search.jns.net.ar
 search.liuzj.net
 search.lumy.live
@@ -43,7 +43,6 @@ search.undertale.uk
 search.unredacted.org
 search.yuri.llc
 search.zina.dev
-searx.ankha.ac
 searx.dresden.network
 searx.linxx.net
 searx.mbuf.net
@@ -65,7 +64,6 @@ searxng.canine.tools
 searxng.cups.moe
 searxng.deggo.fyi
 searxng.eshnetwork.space
-searxng.fishfvch.com
 searxng.gdebest.net
 searxng.gr
 searxng.moonshadow.dev
@@ -76,7 +74,6 @@ searxng.tr
 searxng.website
 searxng.wuemeli.com
 sx.catgirl.cloud
-sx.h4rl3y.xyz
 sx.xo.st
 www.gruble.de
 www.isci.si
