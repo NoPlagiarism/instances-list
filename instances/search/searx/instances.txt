@@ -23,7 +23,6 @@ search.ethibox.fr
 search.femboy.ad
 search.hbubli.cc
 search.im-in.space
-search.indst.eu
 search.inetol.net
 search.jeremyh.xyz
 search.jns.net.ar
@@ -44,6 +43,7 @@ search.unredacted.org
 search.yuri.llc
 search.zina.dev
 searx.dresden.network
+searx.githo.st
 searx.linxx.net
 searx.mbuf.net
 searx.mxchange.org

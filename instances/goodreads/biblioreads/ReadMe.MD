@@ -10,6 +10,7 @@
 - [biblioreads.privacyfucking.rocks](https://biblioreads.privacyfucking.rocks)
 - [biblioreads.privacyredirect.com](https://biblioreads.privacyredirect.com)
 - [biblioreads.snine.nl](https://biblioreads.snine.nl)
+- [biblioreads.utilibre.org](https://biblioreads.utilibre.org)
 - [biblioreads.vercel.app](https://biblioreads.vercel.app)
 - [bl.vern.cc](https://bl.vern.cc)
 - [br.bloat.cat](https://br.bloat.cat)

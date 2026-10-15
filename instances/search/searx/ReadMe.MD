@@ -26,7 +26,6 @@
 - [search.femboy.ad](https://search.femboy.ad)
 - [search.hbubli.cc](https://search.hbubli.cc)
 - [search.im-in.space](https://search.im-in.space)
-- [search.indst.eu](https://search.indst.eu)
 - [search.inetol.net](https://search.inetol.net)
 - [search.jeremyh.xyz](https://search.jeremyh.xyz)
 - [search.jns.net.ar](https://search.jns.net.ar)
@@ -47,6 +46,7 @@
 - [search.yuri.llc](https://search.yuri.llc)
 - [search.zina.dev](https://search.zina.dev)
 - [searx.dresden.network](https://searx.dresden.network)
+- [searx.githo.st](https://searx.githo.st)
 - [searx.linxx.net](https://searx.linxx.net)
 - [searx.mbuf.net](https://searx.mbuf.net)
 - [searx.mxchange.org](https://searx.mxchange.org)
@@ -94,6 +94,5 @@
 - [searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion](http://searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion)
 - [searxngorpgnztkcftpz3ycdpyajd4q55y2nejw3tbszocht5zdh4lyd.onion](http://searxngorpgnztkcftpz3ycdpyajd4q55y2nejw3tbszocht5zdh4lyd.onion)
 - [searxokthnxmo7ndis35jpts2tawcwvbovuy47qtavwo7oq4jgcm5gqd.onion](http://searxokthnxmo7ndis35jpts2tawcwvbovuy47qtavwo7oq4jgcm5gqd.onion)
-- [whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion](http://whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion)
 # I2P
 
