@@ -25,7 +25,6 @@ bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
 bin.outv.im
-bin.sasach.work
 bin.siick.fr
 bin.tiekoetter.com
 bin.vdx.sh
@@ -54,7 +53,7 @@ ots.allburosolutions.be
 ots.ip-projects.de
 ots.kocsar.com
 ots.pfcloud.io
-p.blueridgedebate.com
+p.bittenbyt.es
 p.darklab.sh
 p.dousse.eu
 p.hessfr.fr
@@ -63,7 +62,6 @@ p.kll.li
 pad.rackforest.com
 passwords.gestionalda.com
 pastbin.we-cloud.de
-paste.07f.de
 paste.apphoster.cc
 paste.aya.so
 paste.biocrafting.net
@@ -98,7 +96,6 @@ paste.libre-service.eu
 paste.linxx.net
 paste.loryy.dev
 paste.mayhem.academy
-paste.molytov.xyz
 paste.momobako.com
 paste.nolog.cz
 paste.ononoki.org
@@ -109,11 +106,9 @@ paste.redbrick.dcu.ie
 paste.sev.monster
 paste.shreven.org
 paste.skynetcloud.site
-paste.stratum0.org
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
-paste.theythem.page
 paste.tube-hosting.de
 paste.tuxcloud.net
 paste.undernet.uy
@@ -132,7 +127,6 @@ pb.1337-it.net
 pb.envs.net
 pb.fbin.in
 pb.fly.dev
-pb.greep.fr
 pb.jaska.cc
 pbin.app.nyara.cloud
 pbin.nadeko.net
@@ -184,13 +178,11 @@ snip.dssr.ch
 t25b.com
 tasty.rocks
 textbin.quick-space.de
-titok.csi.pet
 tools.beardic.cn
 vadian.cc
 wtf.roflcopter.fr
 www.encrypt0r.net
 www.nervengas.com
-www.noteshare.net
 xkwy2018.com
 yhjf.gumin.cc.cd
 zbin.io
