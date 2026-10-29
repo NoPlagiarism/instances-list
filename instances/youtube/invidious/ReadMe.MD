@@ -4,7 +4,6 @@
 - [inv-ygg.nadeko.net](https://inv-ygg.nadeko.net)
 - [inv.nadeko.net](https://inv.nadeko.net)
 - [inv.nadeko.ygg](https://inv.nadeko.ygg)
-- [invidious.f5.si](https://invidious.f5.si)
 - [invidious.nerdvpn.de](https://invidious.nerdvpn.de)
 - [invidious.tiekoetter.com](https://invidious.tiekoetter.com)
 - [yt.chocolatemoo53.com](https://yt.chocolatemoo53.com)

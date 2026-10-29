@@ -8,6 +8,7 @@ grep.vim.wtf
 kantan.cat
 libresearch.space
 opnxng.com
+oziway.net
 paulgo.io
 priv.au
 privacyredirect.com
@@ -25,7 +26,6 @@ search.hbubli.cc
 search.im-in.space
 search.inetol.net
 search.jeremyh.xyz
-search.jns.net.ar
 search.liuzj.net
 search.lumy.live
 search.mdosch.de
@@ -40,6 +40,7 @@ search.serpensin.com
 search.spiralab.org
 search.undertale.uk
 search.unredacted.org
+search.utilibre.org
 search.yuri.llc
 search.zina.dev
 searx.dresden.network
@@ -66,6 +67,7 @@ searxng.deggo.fyi
 searxng.eshnetwork.space
 searxng.gdebest.net
 searxng.gr
+searxng.jaydenha.uk
 searxng.moonshadow.dev
 searxng.paralaxitaentomology.org
 searxng.shreven.org
