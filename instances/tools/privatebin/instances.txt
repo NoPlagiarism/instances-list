@@ -116,7 +116,6 @@ pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.hot-chilli.net
 pastebin.kelsoncraft.net
-pasted.space
 pastequest.com
 pb.1337-it.net
 pb.envs.net
@@ -156,7 +155,6 @@ privatepastebin.com
 pvnotes.fast-elektriker.com
 pvnotes.sms-electro.no
 pw.bwv-net.de
-rhoen.dev
 safepad.pagnozzi.info
 secret.adelphi.de
 secret.timeweb.ru

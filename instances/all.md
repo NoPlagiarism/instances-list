@@ -69,7 +69,7 @@
 - [tl.vern.cc](https://tl.vern.cc)
 - [translate.northboot.xyz](https://translate.northboot.xyz)
 ### Onion
-- [st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+
 ### I2P
 
 
@@ -282,7 +282,7 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
-
+- [snoo.habedieeh.re](https://snoo.habedieeh.re)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -292,6 +292,7 @@
 ## [redlib](https://github.com/redlib-org/redlib#readme)
 
 ### Clearnet
+- [redlib.cow.rip](https://redlib.cow.rip)
 - [redlib.privadency.com](https://redlib.privadency.com)
 ### Onion
 
@@ -768,7 +769,6 @@
 - [pastebin.aquilenet.fr](https://pastebin.aquilenet.fr)
 - [pastebin.hot-chilli.net](https://pastebin.hot-chilli.net)
 - [pastebin.kelsoncraft.net](https://pastebin.kelsoncraft.net)
-- [pasted.space](https://pasted.space)
 - [pastequest.com](https://pastequest.com)
 - [pb.1337-it.net](https://pb.1337-it.net)
 - [pb.envs.net](https://pb.envs.net)
@@ -808,7 +808,6 @@
 - [pvnotes.fast-elektriker.com](https://pvnotes.fast-elektriker.com)
 - [pvnotes.sms-electro.no](https://pvnotes.sms-electro.no)
 - [pw.bwv-net.de](https://pw.bwv-net.de)
-- [rhoen.dev](https://rhoen.dev)
 - [safepad.pagnozzi.info](https://safepad.pagnozzi.info)
 - [secret.adelphi.de](https://secret.adelphi.de)
 - [secret.timeweb.ru](https://secret.timeweb.ru)

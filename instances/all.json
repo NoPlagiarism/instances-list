@@ -39,9 +39,7 @@
             "tl.vern.cc",
             "translate.northboot.xyz"
         ],
-        "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "simplytranslate": {
@@ -275,7 +273,9 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [],
+        "instances": [
+            "snoo.habedieeh.re"
+        ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -288,6 +288,7 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "redlib.cow.rip",
             "redlib.privadency.com"
         ],
         "onion": [],
@@ -828,7 +829,6 @@
             "pastebin.aquilenet.fr",
             "pastebin.hot-chilli.net",
             "pastebin.kelsoncraft.net",
-            "pasted.space",
             "pastequest.com",
             "pb.1337-it.net",
             "pb.envs.net",
@@ -868,7 +868,6 @@
             "pvnotes.fast-elektriker.com",
             "pvnotes.sms-electro.no",
             "pw.bwv-net.de",
-            "rhoen.dev",
             "safepad.pagnozzi.info",
             "secret.adelphi.de",
             "secret.timeweb.ru",
