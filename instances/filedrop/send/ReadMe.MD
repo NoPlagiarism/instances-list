@@ -4,6 +4,7 @@
 - [drop.chapril.org](https://drop.chapril.org)
 - [dropnito.online](https://dropnito.online)
 - [fileupload.ggc-project.de](https://fileupload.ggc-project.de)
+- [securasend.com](https://securasend.com)
 - [send.adminforge.de](https://send.adminforge.de)
 - [send.artemislena.eu](https://send.artemislena.eu)
 - [send.aslaets.be](https://send.aslaets.be)

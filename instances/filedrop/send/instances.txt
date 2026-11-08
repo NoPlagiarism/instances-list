@@ -1,6 +1,7 @@
 drop.chapril.org
 dropnito.online
 fileupload.ggc-project.de
+securasend.com
 send.adminforge.de
 send.artemislena.eu
 send.aslaets.be

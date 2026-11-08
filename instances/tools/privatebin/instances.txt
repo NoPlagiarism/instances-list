@@ -3,11 +3,6 @@
 0bin.ch
 0bin.me
 0g.gg
-0g.gg
-0g.gg
-0g.gg
-0g.gg
-0g.gg
 anonpaste.org
 betterpaste.me
 bin.2255.me
@@ -28,8 +23,8 @@ bin.mycozy.space
 bin.nixnet.services
 bin.nji9.de
 bin.outv.im
+bin.senofo.de
 bin.siick.fr
-bin.tiekoetter.com
 bin.vdx.sh
 bonus01.hwb0307.com
 cles.le-filament.com
@@ -60,6 +55,7 @@ p.dousse.eu
 p.hessfr.fr
 p.kapsi.fi
 pad.rackforest.com
+password.andreasprager.com
 passwords.gestionalda.com
 pastbin.we-cloud.de
 paste.apphoster.cc
@@ -75,6 +71,7 @@ paste.dvotx.org
 paste.eccologic.net
 paste.elenemigos.com
 paste.elyday.net
+paste.encrypt.co.il
 paste.ethernia.net
 paste.evolix.org
 paste.fitgirl-repacks.site
@@ -94,10 +91,6 @@ paste.nolog.cz
 paste.ononoki.org
 paste.plus
 paste.rbn.gr
-paste.rs
-paste.rs
-paste.rs
-paste.rs
 paste.shreven.org
 paste.skynetcloud.site
 paste.systemli.org
@@ -110,8 +103,6 @@ paste.unredacted.org
 paste.utilibre.org
 paste.vonar.ch
 paste.webevolutions.ch
-paste.webevolutions.ch\
-paste.webevolutions.ch\dwpa-replay-4045416
 pastebin.24unix.net
 pastebin.aquilenet.fr
 pastebin.hot-chilli.net
@@ -166,7 +157,6 @@ secure.superior.nl
 securebin.fastm.de
 share.cyberguerrilla.info
 snip.dssr.ch
-t25b.com
 tasty.rocks
 textbin.quick-space.de
 tools.beardic.cn

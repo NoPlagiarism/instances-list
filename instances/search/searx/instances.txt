@@ -11,7 +11,6 @@ opnxng.com
 oziway.net
 paulgo.io
 priv.au
-privacyredirect.com
 sear.lurx.net
 search.anoni.net
 search.banke.cloud
@@ -34,6 +33,7 @@ search.minus27315.dev
 search.mizuki.st
 search.pereira.is
 search.pi.vps.pw
+search.privacyredirect.com
 search.rhscz.eu
 search.rowie.at
 search.serpensin.com
@@ -75,6 +75,7 @@ searxng.site
 searxng.tr
 searxng.website
 searxng.wuemeli.com
+shrt.win
 sx.catgirl.cloud
 sx.xo.st
 www.gruble.de
