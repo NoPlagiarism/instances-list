@@ -39,7 +39,9 @@
             "tl.vern.cc",
             "translate.northboot.xyz"
         ],
-        "onion": [],
+        "onion": [
+            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion"
+        ],
         "i2p": []
     },
     "simplytranslate": {
@@ -287,11 +289,25 @@
         "url": "https://github.com/redlib-org/redlib#readme",
         "path": "reddit/redlib",
         "instances": [
+            "reddit.jeremyh.xyz",
+            "redlib.catsarch.com",
             "redlib.cow.rip",
-            "redlib.privadency.com"
+            "redlib.freedit.eu",
+            "redlib.hbubli.cc",
+            "redlib.nadeko.net",
+            "redlib.privadency.com",
+            "redlib.r4fo.com",
+            "redlib.thepixora.com",
+            "redlib.utilibre.org",
+            "redlib.zanity.net"
         ],
-        "onion": [],
-        "i2p": []
+        "onion": [
+            "redlib.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion",
+            "redlib.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
+        ],
+        "i2p": [
+            "yfpe4v2meqe5vusmbf7n7a4ncnstzmpiy4czolcisz4h3t7kgxna.b32.i2p"
+        ]
     },
     "wikiless": {
         "name": "WikiLess",
@@ -716,6 +732,14 @@
             "0bin.ch",
             "0bin.me",
             "0g.gg",
+            "0g.gg",
+            "0g.gg",
+            "0g.gg",
+            "0g.gg",
+            "0g.gg",
+            "0g.gg",
+            "0g.gg",
+            "0g.gg",
             "anonpaste.org",
             "betterpaste.me",
             "bin.2255.me",
@@ -728,6 +752,7 @@
             "bin.idrix.fr",
             "bin.infini.fr",
             "bin.infra.Mee6.cloud",
+            "bin.isrt.fr",
             "bin.iya.at",
             "bin.jmayr.de",
             "bin.libreon.fr",
@@ -738,6 +763,7 @@
             "bin.outv.im",
             "bin.senofo.de",
             "bin.siick.fr",
+            "bin.tiekoetter.com",
             "bin.vdx.sh",
             "bonus01.hwb0307.com",
             "cles.le-filament.com",
@@ -803,12 +829,13 @@
             "paste.nolog.cz",
             "paste.ononoki.org",
             "paste.plus",
+            "paste.probablyvpn.com",
             "paste.rbn.gr",
-            "paste.shreven.org",
             "paste.skynetcloud.site",
             "paste.systemli.org",
             "paste.tecff.de",
             "paste.tech-port.de",
+            "paste.to",
             "paste.tuxcloud.net",
             "paste.underworld.fr",
             "paste.unit193.net",
@@ -860,7 +887,6 @@
             "pvnotes.sms-electro.no",
             "pw.bwv-net.de",
             "safepad.pagnozzi.info",
-            "secret.adelphi.de",
             "secret.timeweb.ru",
             "secrets.janjaapvandijk.nl",
             "secure.4it.com.au",
@@ -889,8 +915,8 @@
             "bin.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
             "bin.outvimf2zjmkczje3as6rivncgfvqk5lmreywezwmufwdkoq5vkhmzid.onion",
             "de2xevo5scpanzxpbhqt5gnjz5y3vgbo2xvzw6c5d737t5mrx5ekttyd.onion",
-            "paste.shrevenorgd2guxvgbx2x4lfnhdfq42glj6lg5d7pehk37xrsgzthead.onion",
-            "privatebin.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion"
+            "privatebin.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
+            "w7h6bvcnikzuatbkxwncye47rbi7kppmha5ovt3ttky3xthsy2uphbad.onion"
         ],
         "i2p": []
     },

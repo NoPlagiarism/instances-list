@@ -3,6 +3,14 @@
 0bin.ch
 0bin.me
 0g.gg
+0g.gg
+0g.gg
+0g.gg
+0g.gg
+0g.gg
+0g.gg
+0g.gg
+0g.gg
 anonpaste.org
 betterpaste.me
 bin.2255.me
@@ -15,6 +23,7 @@ bin.hbubli.cc
 bin.idrix.fr
 bin.infini.fr
 bin.infra.Mee6.cloud
+bin.isrt.fr
 bin.iya.at
 bin.jmayr.de
 bin.libreon.fr
@@ -25,6 +34,7 @@ bin.nji9.de
 bin.outv.im
 bin.senofo.de
 bin.siick.fr
+bin.tiekoetter.com
 bin.vdx.sh
 bonus01.hwb0307.com
 cles.le-filament.com
@@ -90,12 +100,13 @@ paste.momobako.com
 paste.nolog.cz
 paste.ononoki.org
 paste.plus
+paste.probablyvpn.com
 paste.rbn.gr
-paste.shreven.org
 paste.skynetcloud.site
 paste.systemli.org
 paste.tecff.de
 paste.tech-port.de
+paste.to
 paste.tuxcloud.net
 paste.underworld.fr
 paste.unit193.net
@@ -147,7 +158,6 @@ pvnotes.fast-elektriker.com
 pvnotes.sms-electro.no
 pw.bwv-net.de
 safepad.pagnozzi.info
-secret.adelphi.de
 secret.timeweb.ru
 secrets.janjaapvandijk.nl
 secure.4it.com.au
