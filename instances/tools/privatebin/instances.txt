@@ -3,14 +3,6 @@
 0bin.ch
 0bin.me
 0g.gg
-0g.gg
-0g.gg
-0g.gg
-0g.gg
-0g.gg
-0g.gg
-0g.gg
-0g.gg
 anonpaste.org
 betterpaste.me
 bin.2255.me
@@ -22,7 +14,6 @@ bin.habedieeh.re
 bin.hbubli.cc
 bin.idrix.fr
 bin.infini.fr
-bin.infra.Mee6.cloud
 bin.isrt.fr
 bin.iya.at
 bin.jmayr.de
@@ -55,6 +46,7 @@ lukisko.eu
 notas.gatooscuro.xyz
 notebin.de
 notizen.freifunk-ba.de
+otp.media-kontor.com
 ots.allburosolutions.be
 ots.ip-projects.de
 ots.kocsar.com
@@ -75,7 +67,6 @@ paste.captain.webhop.org
 paste.chapril.org
 paste.coalserver.de
 paste.craftum.pl
-paste.devvi.de
 paste.dismail.de
 paste.dvotx.org
 paste.eccologic.net
@@ -92,7 +83,6 @@ paste.gstd.eu
 paste.helkor.eu
 paste.hostux.net
 paste.i2pd.xyz
-paste.libre-service.eu
 paste.linxx.net
 paste.loryy.dev
 paste.mayhem.academy

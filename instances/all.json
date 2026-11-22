@@ -39,9 +39,7 @@
             "tl.vern.cc",
             "translate.northboot.xyz"
         ],
-        "onion": [
-            "st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion"
-        ],
+        "onion": [],
         "i2p": []
     },
     "simplytranslate": {
@@ -276,7 +274,9 @@
         "name": "libreddit",
         "url": "https://github.com/libreddit/libreddit#readme",
         "path": "reddit/libreddit",
-        "instances": [],
+        "instances": [
+            "safereddit.com"
+        ],
         "onion": [
             "libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
             "lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
@@ -445,7 +445,6 @@
         "instances": [
             "imgur.artemislena.eu",
             "r.opnxng.com",
-            "rg.kuuro.net",
             "ri.bcow.xyz",
             "rimgo.pussthecat.org"
         ],
@@ -732,14 +731,6 @@
             "0bin.ch",
             "0bin.me",
             "0g.gg",
-            "0g.gg",
-            "0g.gg",
-            "0g.gg",
-            "0g.gg",
-            "0g.gg",
-            "0g.gg",
-            "0g.gg",
-            "0g.gg",
             "anonpaste.org",
             "betterpaste.me",
             "bin.2255.me",
@@ -751,7 +742,6 @@
             "bin.hbubli.cc",
             "bin.idrix.fr",
             "bin.infini.fr",
-            "bin.infra.Mee6.cloud",
             "bin.isrt.fr",
             "bin.iya.at",
             "bin.jmayr.de",
@@ -784,6 +774,7 @@
             "notas.gatooscuro.xyz",
             "notebin.de",
             "notizen.freifunk-ba.de",
+            "otp.media-kontor.com",
             "ots.allburosolutions.be",
             "ots.ip-projects.de",
             "ots.kocsar.com",
@@ -804,7 +795,6 @@
             "paste.chapril.org",
             "paste.coalserver.de",
             "paste.craftum.pl",
-            "paste.devvi.de",
             "paste.dismail.de",
             "paste.dvotx.org",
             "paste.eccologic.net",
@@ -821,7 +811,6 @@
             "paste.helkor.eu",
             "paste.hostux.net",
             "paste.i2pd.xyz",
-            "paste.libre-service.eu",
             "paste.linxx.net",
             "paste.loryy.dev",
             "paste.mayhem.academy",

@@ -3,7 +3,6 @@
 # Clearnet
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)
 - [r.opnxng.com](https://r.opnxng.com)
-- [rg.kuuro.net](https://rg.kuuro.net)
 - [ri.bcow.xyz](https://ri.bcow.xyz)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
 # Onion

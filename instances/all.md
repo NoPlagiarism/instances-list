@@ -69,7 +69,7 @@
 - [tl.vern.cc](https://tl.vern.cc)
 - [translate.northboot.xyz](https://translate.northboot.xyz)
 ### Onion
-- [st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)
+
 ### I2P
 
 
@@ -283,7 +283,7 @@
 ## [libreddit](https://github.com/libreddit/libreddit#readme)
 
 ### Clearnet
-
+- [safereddit.com](https://safereddit.com)
 ### Onion
 - [libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion](http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion)
 - [lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)
@@ -425,7 +425,6 @@
 ### Clearnet
 - [imgur.artemislena.eu](https://imgur.artemislena.eu)
 - [r.opnxng.com](https://r.opnxng.com)
-- [rg.kuuro.net](https://rg.kuuro.net)
 - [ri.bcow.xyz](https://ri.bcow.xyz)
 - [rimgo.pussthecat.org](https://rimgo.pussthecat.org)
 ### Onion
@@ -668,14 +667,6 @@
 - [0bin.ch](https://0bin.ch)
 - [0bin.me](https://0bin.me)
 - [0g.gg](https://0g.gg)
-- [0g.gg](https://0g.gg)
-- [0g.gg](https://0g.gg)
-- [0g.gg](https://0g.gg)
-- [0g.gg](https://0g.gg)
-- [0g.gg](https://0g.gg)
-- [0g.gg](https://0g.gg)
-- [0g.gg](https://0g.gg)
-- [0g.gg](https://0g.gg)
 - [anonpaste.org](https://anonpaste.org)
 - [betterpaste.me](https://betterpaste.me)
 - [bin.2255.me](https://bin.2255.me)
@@ -687,7 +678,6 @@
 - [bin.hbubli.cc](https://bin.hbubli.cc)
 - [bin.idrix.fr](https://bin.idrix.fr)
 - [bin.infini.fr](https://bin.infini.fr)
-- [bin.infra.Mee6.cloud](https://bin.infra.Mee6.cloud)
 - [bin.isrt.fr](https://bin.isrt.fr)
 - [bin.iya.at](https://bin.iya.at)
 - [bin.jmayr.de](https://bin.jmayr.de)
@@ -720,6 +710,7 @@
 - [notas.gatooscuro.xyz](https://notas.gatooscuro.xyz)
 - [notebin.de](https://notebin.de)
 - [notizen.freifunk-ba.de](https://notizen.freifunk-ba.de)
+- [otp.media-kontor.com](https://otp.media-kontor.com)
 - [ots.allburosolutions.be](https://ots.allburosolutions.be)
 - [ots.ip-projects.de](https://ots.ip-projects.de)
 - [ots.kocsar.com](https://ots.kocsar.com)
@@ -740,7 +731,6 @@
 - [paste.chapril.org](https://paste.chapril.org)
 - [paste.coalserver.de](https://paste.coalserver.de)
 - [paste.craftum.pl](https://paste.craftum.pl)
-- [paste.devvi.de](https://paste.devvi.de)
 - [paste.dismail.de](https://paste.dismail.de)
 - [paste.dvotx.org](https://paste.dvotx.org)
 - [paste.eccologic.net](https://paste.eccologic.net)
@@ -757,7 +747,6 @@
 - [paste.helkor.eu](https://paste.helkor.eu)
 - [paste.hostux.net](https://paste.hostux.net)
 - [paste.i2pd.xyz](https://paste.i2pd.xyz)
-- [paste.libre-service.eu](https://paste.libre-service.eu)
 - [paste.linxx.net](https://paste.linxx.net)
 - [paste.loryy.dev](https://paste.loryy.dev)
 - [paste.mayhem.academy](https://paste.mayhem.academy)
